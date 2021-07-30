@@ -1,0 +1,42 @@
+schalte <START:light_target> lichter <END> an
+schalte <START:light_target> licht <END> an
+<START:light_target> licht <END> anschalten
+<START:light_target> lichter <END> anschalten
+<START:light_target> licht <END> an
+<START:light_target> lichter <END> an
+schalte <START:light_target> lichter <END> ein
+schalte <START:light_target> licht <END> ein
+<START:light_target> licht <END> einschalten
+<START:light_target> lichter <END> einschalten
+mach <START:light_target> lichter <END> an
+mach <START:light_target> licht <END> an
+<START:light_target> licht <END> anmachen
+<START:light_target> lichter <END> anmachen
+schalte <START:light_target> warn blinker <END> an
+schalte die <START:light_target> warn blinker <END> an
+schalte den <START:light_target> warn blinker <END> an
+<START:light_target> warn blinker <END> anschalten
+<START:light_target> warn blinker <END> an
+den <START:light_target> warn blinker <END> anschalten
+die <START:light_target> warn blinker <END> anschalten
+schalte <START:light_target> warn blinker <END> ein
+<START:light_target> warn blinker <END> einschalten
+mach <START:light_target> warn blinker <END> an
+mach die <START:light_target> warn blinker <END> an
+mach den <START:light_target> warn blinker <END> an
+<START:light_target> warn blinker <END> anmachen
+schalte <START:light_target> lichter <END> aus
+schalte <START:light_target> licht <END> aus
+<START:light_target> licht <END> ausschalten
+<START:light_target> lichter <END> ausschalten
+<START:light_target> licht <END> aus
+<START:light_target> lichter <END> aus
+mach <START:light_target> lichter <END> aus
+mach <START:light_target> licht <END> aus
+<START:light_target> licht <END> ausmachen
+<START:light_target> lichter <END> ausmachen
+schalte <START:light_target> warn blinker <END> aus
+<START:light_target> warn blinker <END> ausschalten
+<START:light_target> warn blinker <END> aus
+mach <START:light_target> warn blinker <END> aus
+<START:light_target> warn blinker <END> ausmachen

@@ -1,0 +1,48 @@
+verbinde <START:connect_target> wlan <END>
+verbinde mit dem <START:connect_target> wlan <END>
+verbinde mit <START:connect_target> wlan <END>
+verbinde <START:connect_target> internet <END>
+verbinde mit dem <START:connect_target> internet <END>
+verbinde mit <START:connect_target> internet <END>
+mit dem <START:connect_target> wlan <END> verbinden
+mit dem <START:connect_target> internet <END> verbinden
+mit <START:connect_target> wlan <END> verbinden
+mit <START:connect_target> internet <END> verbinden
+verbindung mit dem <START:connect_target> wlan <END> erstellen
+verbindung mit <START:connect_target> wlan <END> erstellen
+verbindung mit dem <START:connect_target> wlan <END> herstellen
+verbindung mit <START:connect_target> wlan <END> herstellen
+verbindung mit dem <START:connect_target> wlan <END> aufbauen
+verbindung mit <START:connect_target> wlan <END> aufbauen
+verbindung mit dem <START:connect_target> wlan <END> einrichten
+verbindung mit <START:connect_target> wlan <END> einrichten
+verbindung mit dem <START:connect_target> internet <END> erstellen
+verbindung mit <START:connect_target> internet <END> erstellen
+verbindung mit dem <START:connect_target> internet <END> herstellen
+verbindung mit <START:connect_target> internet <END> herstellen
+verbindung mit dem <START:connect_target> internet <END> aufbauen
+verbindung mit <START:connect_target> internet <END> aufbauen
+verbindung mit dem <START:connect_target> internet <END> einrichten
+verbindung mit <START:connect_target> internet <END> einrichten
+<START:connect_target> wlan <END> verbindung herstellen
+<START:connect_target> wlan <END> verbindung aufbauen
+<START:connect_target> wlan <END> verbindung einrichten
+<START:connect_target> wlan <END> verbindung erstellen
+erstelle eine verbindung mit dem <START:connect_target> internet <END>
+erstelle eine verbindung mit dem <START:connect_target> wlan <END>
+erstelle eine <START:connect_target> internet <END> verbindung
+erstelle eine <START:connect_target> wlan <END> verbindung
+stelle eine verbindung mit dem <START:connect_target> wlan <END> her
+baue eine verbindung mit dem <START:connect_target> wlan <END> auf
+<START:connect_target> internet <END> verbindung herstellen
+<START:connect_target> internet <END> verbindung erstellen
+<START:connect_target> internet <END> verbindung einrichten
+<START:connect_target> internet <END> verbindung aufbauen
+stelle eine verbindung mit dem <START:connect_target> internet <END> her
+baue eine verbindung mit dem <START:connect_target> internet <END> auf
+scanne nach <START:connect_target> wlan <END>
+suche nach <START:connect_target> wlan <END>
+starte suche nach <START:connect_target> wlan <END>
+scanne nach <START:connect_target> internet <END> verbindung
+suche nach <START:connect_target> internet <END> verbindung
+starte suche nach <START:connect_target> internet <END> verbindung

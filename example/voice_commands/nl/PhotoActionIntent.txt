@@ -1,0 +1,8 @@
+maak een <START:photo_target> foto <END>
+maak <START:photo_target> foto <END>
+neem een <START:photo_target> foto <END>
+neem <START:photo_target> foto <END>
+<START:photo_target> foto <END> maken
+<START:photo_target> foto <END> nemen
+een <START:photo_target> foto <END> maken
+een <START:photo_target> foto <END> nemen

@@ -1,0 +1,16 @@
+allumer les lumières
+allumer la lumière
+allumer les feux de détresse
+allumer le feu de détresse
+lumière allumée
+lumières allumées
+feux de détresse allumés
+feu de détresse allumé
+éteindre les lumières
+éteindre la lumière
+éteindre les feux de détresse
+éteindre le feu de détresse
+lumière éteinte
+lumières éteintes
+feux de détresse éteints
+feu de détresse éteinte

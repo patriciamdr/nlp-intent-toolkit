@@ -1,0 +1,72 @@
+turn on <START:target> lights <END>
+turn on the <START:target> lights <END>
+turn on <START:target> light <END>
+turn on the <START:target> light <END>
+turn on <START:target> hazard lights <END>
+turn on the <START:target> hazard lights <END>
+turn on <START:target> hazard light <END>
+turn on the <START:target> hazard light <END>
+turn the <START:target> lights <END> on
+turn the <START:target> light <END> on
+turn the <START:target> hazard lights <END> on
+turn the <START:target> hazard light <END> on
+turn <START:target> lights <END> on
+turn <START:target> light <END> on
+turn <START:target> hazard lights <END> on
+turn <START:target> hazard light <END> on
+<START:target> lights <END> on
+<START:target> light <END> on
+<START:target> hazard lights <END> on
+<START:target> hazard light <END> on
+turn off <START:target> lights <END>
+turn off the <START:target> lights <END>
+turn off <START:target> light <END>
+turn off the <START:target> light <END>
+turn off <START:target> hazard lights <END>
+turn off the <START:target> hazard lights <END>
+turn off <START:target> hazard light <END>
+turn off the <START:target> hazard light <END>
+turn the <START:target> lights <END> off
+turn the <START:target> light <END> off
+turn the <START:target> hazard lights <END> off
+turn the <START:target> hazard light <END> off
+turn <START:target> lights <END> off
+turn <START:target> light <END> off
+turn <START:target> hazard lights <END> off
+turn <START:target> hazard light <END> off
+<START:target> lights <END> off
+<START:target> light <END> off
+<START:target> hazard lights <END> off
+<START:target> hazard light <END> off
+switch off <START:target> lights <END>
+switch off the <START:target> lights <END>
+switch off <START:target> light <END>
+switch off the <START:target> light <END>
+switch off <START:target> hazard lights <END>
+switch off the <START:target> hazard lights <END>
+switch off <START:target> hazard light <END>
+switch off the <START:target> hazard light <END>
+switch the <START:target> lights <END> off
+switch the <START:target> light <END> off
+switch the <START:target> hazard lights <END> off
+switch the <START:target> hazard light <END> off
+switch <START:target> lights <END> off
+switch <START:target> light <END> off
+switch <START:target> hazard lights <END> off
+switch <START:target> hazard light <END> off
+switch on <START:target> lights <END>
+switch on the <START:target> lights <END>
+switch on <START:target> light <END>
+switch on the <START:target> light <END>
+switch on <START:target> hazard lights <END>
+switch on the <START:target> hazard lights <END>
+switch on <START:target> hazard light <END>
+switch on the <START:target> hazard light <END>
+switch the <START:target> lights <END> on
+switch the <START:target> light <END> on
+switch the <START:target> hazard lights <END> on
+switch the <START:target> hazard light <END> on
+switch <START:target> lights <END> on
+switch <START:target> light <END> on
+switch <START:target> hazard lights <END> on
+switch <START:target> hazard light <END> on

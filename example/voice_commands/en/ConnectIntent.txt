@@ -1,0 +1,42 @@
+connect <START:target> wifi <END>
+connect to <START:target> wifi <END>
+establish <START:target> wifi <END> connection
+establish a <START:target> wifi <END> connection
+establish connection to <START:target> wifi <END>
+establish an connection to <START:target> wifi <END>
+set up <START:target> wifi <END> connection
+connect to <START:target> internet <END>
+connect to the <START:target> internet <END>
+establish <START:target> internet <END> connection
+establish an <START:target> internet <END> connection
+establish connection to <START:target> internet <END>
+establish an connection to <START:target> internet <END>
+establish an connection to the <START:target> internet <END>
+establish connection to the <START:target> internet <END>
+set up <START:target> internet <END> connection
+scan for <START:target> wifi <END>
+search for <START:target> wifi <END>
+start search for <START:target> wifi <END>
+start searching for <START:target> wifi <END>
+scan for <START:target> internet <END> connection
+search for <START:target> internet <END> connection
+start search for <START:target> internet <END> connection
+start searching for <START:target> internet <END> connection
+connect
+connect to
+connect to the
+establish connection
+establish a connection
+establish an connection
+establish connection to
+establish a connection to
+establish an connection to
+establish connection to the
+establish a connection to the
+establish an connection to the
+set up connection
+connect to the
+scan for connection
+search for connection
+start search for connection
+start searching for connection

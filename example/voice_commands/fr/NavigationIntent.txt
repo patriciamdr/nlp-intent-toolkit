@@ -1,0 +1,85 @@
+<START:target> camera <END>
+<START:target> media <END>
+<START:target> gallery <END>
+<START:target> seat <END>
+<START:target> drive <END>
+<START:target> settings <END>
+<START:target> calibration <END>
+<START:target> tilt <END>
+<START:target> nods <END>
+<START:target> lights <END>
+<START:target> light <END>
+<START:target> hazard lights <END>
+<START:target> hazard light <END>
+<START:target> volume <END>
+<START:target> languages <END>
+<START:target> language settings <END>
+<START:target> language <END>
+<START:target> wifi <END>
+<START:target> support <END>
+<START:target> app info <END>
+<START:target> emergency email <END>
+go to <START:target> camera <END>
+go to <START:target> media <END>
+go to <START:target> gallery <END>
+go to <START:target> seat <END>
+go to <START:target> drive <END>
+go to <START:target> settings <END>
+go to <START:target> calibration <END>
+go to <START:target> tilt <END>
+go to <START:target> nods <END>
+go to <START:target> lights <END>
+go to <START:target> light <END>
+go to <START:target> hazard lights <END>
+go to <START:target> hazard light <END>
+go to <START:target> volume <END>
+go to <START:target> language <END>
+go to <START:target> languages <END>
+go to <START:target> language settings <END>
+go to <START:target> wifi <END>
+go to <START:target> support <END>
+go to <START:target> sync <END>
+go to <START:target> app info <END>
+go to <START:target> emergency email <END>
+take me to <START:target> camera <END>
+take me to <START:target> media <END>
+take me to <START:target> gallery <END>
+take me to <START:target> seat <END>
+take me to <START:target> drive <END>
+take me to <START:target> settings <END>
+take me to <START:target> calibration <END>
+take me to <START:target> tilt <END>
+take me to <START:target> nods <END>
+take me to <START:target> lights <END>
+take me to <START:target> light <END>
+take me to <START:target> hazard lights <END>
+take me to <START:target> hazard light <END>
+take me to <START:target> volume <END>
+take me to <START:target> language <END>
+take me to <START:target> languages <END>
+take me to <START:target> language settings <END>
+take me to <START:target> wifi <END>
+take me to <START:target> support <END>
+take me to <START:target> app info <END>
+take me to <START:target> emergency email <END>
+navigate to <START:target> camera <END>
+navigate to <START:target> media <END>
+navigate to <START:target> gallery <END>
+navigate to <START:target> seat <END>
+navigate to <START:target> drive <END>
+navigate to <START:target> settings <END>
+navigate to <START:target> calibration <END>
+navigate to <START:target> tilt <END>
+navigate to <START:target> nods <END>
+navigate to <START:target> lights <END>
+navigate to <START:target> light <END>
+navigate to <START:target> hazard lights <END>
+navigate to <START:target> hazard light <END>
+navigate to <START:target> volume <END>
+navigate to <START:target> language <END>
+navigate to <START:target> languages <END>
+navigate to <START:target> language settings <END>
+navigate to <START:target> wifi <END>
+navigate to <START:target> support <END>
+navigate to <START:target> app info <END>
+navigate to <START:target> emergency email <END>

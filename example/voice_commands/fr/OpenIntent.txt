@@ -1,0 +1,21 @@
+open <START:target> camera <END>
+open <START:target> media <END>
+open <START:target> gallery <END>
+open <START:target> seat <END>
+open <START:target> drive <END>
+open <START:target> settings <END>
+open <START:target> calibration <END>
+open <START:target> tilt <END>
+open <START:target> nods <END>
+open <START:target> lights <END>
+open <START:target> light <END>
+open <START:target> hazard lights <END>
+open <START:target> hazard light <END>
+open <START:target> volume <END>
+open <START:target> language <END>
+open <START:target> languages <END>
+open <START:target> language settings <END>
+open <START:target> wifi <END>
+open <START:target> support <END>
+open <START:target> app info <END>
+open <START:target> emergency email <END>

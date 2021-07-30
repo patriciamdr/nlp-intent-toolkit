@@ -1,0 +1,24 @@
+<generators>
+    <cache>
+        <generators>
+            <window prevLength = "1" nextLength = "1">
+                <tokenclass/>
+            </window>
+            <window prevLength = "1" nextLength = "1">
+                <token/>
+            </window>
+            <window prevLength = "2" nextLength = "2">
+                <tokenclass/>
+            </window>
+            <window prevLength = "2" nextLength = "2">
+                <token/>
+            </window>
+            <token/>
+            <tokenclass/>
+            <definition/>
+						<prevmap/>
+            <bigram/>
+            <sentence begin="true" end="true"/>
+        </generators>
+    </cache>
+</generators>

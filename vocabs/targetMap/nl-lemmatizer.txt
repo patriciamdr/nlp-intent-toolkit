@@ -1,0 +1,12 @@
+knik:knikken
+kantel:kantelen
+internet:wifi
+lichten:licht
+talen:taal
+synchronisatie:synchroniseren
+update:synchroniseren
+updaten:synchroniseren
+administratie:admin
+glasses:glass
+ons:on
+gebaren:gebaar

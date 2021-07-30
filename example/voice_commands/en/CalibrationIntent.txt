@@ -1,0 +1,24 @@
+calibrate <START:target> nods <END>
+calibrate <START:target> nod <END>
+let's calibrate <START:target> nods <END>
+let's calibrate <START:target> nod <END>
+let's start <START:target> nod <END> calibration
+let's start <START:target> nods <END> calibration
+calibrate <START:target> tilt <END>
+calibrate <START:target> tilts <END>
+let's calibrate <START:target> tilt <END>
+let's calibrate <START:target> tilts <END>
+let's start <START:target> tilt <END> calibration
+let's start <START:target> tilts <END> calibration
+start <START:target> nods <END> calibration
+start <START:target> nod <END> calibration
+start <START:target> tilt <END> calibration
+start <START:target> tilts <END> calibration
+start calibration of <START:target> nods <END>
+start calibration of <START:target> nod <END>
+start calibration for <START:target> nods <END>
+start calibration for <START:target> nod <END>
+start calibration of <START:target> tilts <END>
+start calibration of <START:target> tilt <END>
+start calibration for <START:target> tilts <END>
+start calibration for <START:target> tilt <END>

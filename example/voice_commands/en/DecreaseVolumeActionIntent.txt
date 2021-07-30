@@ -1,0 +1,44 @@
+turn down the <START:target> volume <END>
+turn down <START:target> volume <END>
+turn the <START:target> volume <END> down
+turn <START:target> volume <END> down
+<START:target> volume <END> down
+decrease <START:target> volume <END>
+decrease the <START:target> volume <END>
+reduce <START:target> volume <END>
+reduce the <START:target> volume <END>
+lower <START:target> volume <END>
+<START:target> volume <END> lower
+lower the <START:target> volume <END>
+please turn down the <START:target> volume <END>
+please turn down <START:target> volume <END>
+please turn the <START:target> volume <END> down
+please turn <START:target> volume <END> down
+please <START:target> volume <END> down
+please decrease <START:target> volume <END>
+please decrease the <START:target> volume <END>
+please reduce <START:target> volume <END>
+please reduce the <START:target> volume <END>
+please lower <START:target> volume <END>
+please <START:target> volume <END> lower
+please lower the <START:target> volume <END>
+turn down the <START:target> volume <END> please
+turn down <START:target> volume <END> please
+turn the <START:target> volume <END> down please
+turn <START:target> volume <END> down please
+<START:target> volume <END> down please
+decrease <START:target> volume <END> please
+decrease the <START:target> volume <END> please
+reduce <START:target> volume <END> please
+reduce the <START:target> volume <END> please
+lower <START:target> volume <END> please
+<START:target> volume <END> lower please
+lower the <START:target> volume <END> please
+turn down
+turn down the
+decrease
+decrease the
+reduce
+reduce the
+lower
+lower the

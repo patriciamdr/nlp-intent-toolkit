@@ -1,0 +1,23 @@
+add ons:add on
+nods:nod
+nodding:nod
+pairing:pair
+gestures:gesture
+tilts:tilt
+tilting:tilt
+driving:drive
+languages:language
+lights:light
+update:sync
+updating:sync
+syncing:sync
+synchronize:sync
+synchronise:sync
+synchronization:sync
+synchronisation:sync
+synchronizing:sync
+synchronising:sync
+internet:wifi
+seating:seat
+picture:photo
+administration:admin

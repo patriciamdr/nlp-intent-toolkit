@@ -1,0 +1,95 @@
+wechsel zu <START:lang_target> deutsch <END>
+wechsel zu <START:lang_target> englisch <END>
+wechsel zu <START:lang_target> französisch <END>
+wechsel zu <START:lang_target> holländisch <END>
+wechsel zu <START:lang_target> niederländisch <END>
+schalte auf <START:lang_target> deutsch <END> um
+schalte auf <START:lang_target> englisch <END> um
+schalte auf <START:lang_target> französisch <END> um
+schalte auf <START:lang_target> holländisch <END> um
+schalte auf <START:lang_target> niederländisch <END> um
+wähle <START:lang_target> deutsch <END>
+wähle <START:lang_target> englisch <END>
+wähle <START:lang_target> französisch <END>
+wähle <START:lang_target> holländisch <END>
+wähle <START:lang_target> niederländisch <END>
+wähle <START:lang_target> deutsch <END> als sprache
+wähle <START:lang_target> englisch <END> als sprache
+wähle <START:lang_target> französisch <END> als sprache
+wähle <START:lang_target> holländisch <END> als sprache
+wähle <START:lang_target> niederländisch <END> als sprache
+wähle <START:lang_target> deutsch <END> aus
+wähle <START:lang_target> englisch <END> aus
+wähle <START:lang_target> französisch <END> aus
+wähle <START:lang_target> holländisch <END> aus
+wähle <START:lang_target> niederländisch <END> aus
+wähle <START:lang_target> deutsch <END> als sprache aus
+wähle <START:lang_target> englisch <END> als sprache aus
+wähle <START:lang_target> französisch <END> als sprache aus
+wähle <START:lang_target> holländisch <END> als sprache aus
+wähle <START:lang_target> niederländisch <END> als sprache aus
+wähle die sprache <START:lang_target> deutsch <END>
+wähle die sprache <START:lang_target> englisch <END>
+wähle die sprache <START:lang_target> französisch <END>
+wähle die sprache <START:lang_target> holländisch <END>
+wähle die sprache <START:lang_target> niederländisch <END>
+wähle die sprache <START:lang_target> deutsch <END> aus
+wähle die sprache <START:lang_target> englisch <END> aus
+wähle die sprache <START:lang_target> französisch <END> aus
+wähle die sprache <START:lang_target> holländisch <END> aus
+wähle die sprache <START:lang_target> niederländisch <END> aus
+stelle die sprache auf <START:lang_target> deutsch <END>
+stelle die sprache auf <START:lang_target> englisch <END>
+stelle die sprache auf <START:lang_target> französisch <END>
+stelle die sprache auf <START:lang_target> niederländisch <END>
+stelle die sprache auf <START:lang_target> holländisch <END>
+ändere die sprache auf <START:lang_target> deutsch <END>
+ändere die sprache auf <START:lang_target> englisch <END>
+ändere die sprache auf <START:lang_target> französisch <END>
+ändere die sprache auf <START:lang_target> niederländisch <END>
+ändere die sprache auf <START:lang_target> holländisch <END>
+ändere die sprache zu <START:lang_target> deutsch <END>
+ändere die sprache zu <START:lang_target> englisch <END>
+ändere die sprache zu <START:lang_target> französisch <END>
+ändere die sprache zu <START:lang_target> niederländisch <END>
+ändere die sprache zu <START:lang_target> holländisch <END>
+stelle die sprache auf <START:lang_target> deutsch <END> ein
+stelle die sprache auf <START:lang_target> englisch <END> ein
+stelle die sprache auf <START:lang_target> französisch <END> ein
+stelle die sprache auf <START:lang_target> niederländisch <END> ein
+stelle die sprache auf <START:lang_target> holländisch <END> ein
+bitte <START:lang_target> deutsch <END>
+bitte <START:lang_target> englisch <END>
+bitte <START:lang_target> französisch <END>
+bitte <START:lang_target> niederländisch <END>
+bitte <START:lang_target> holländisch <END>
+bitte auf <START:lang_target> deutsch <END>
+bitte auf <START:lang_target> englisch <END>
+bitte auf <START:lang_target> französisch <END>
+bitte auf <START:lang_target> niederländisch <END>
+bitte auf <START:lang_target> holländisch <END>
+auf <START:lang_target> deutsch <END> bitte
+auf <START:lang_target> englisch <END> bitte
+auf <START:lang_target> französisch <END> bitte
+auf <START:lang_target> niederländisch <END> bitte
+auf <START:lang_target> holländisch <END> bitte
+<START:lang_target> deutsch <END> bitte
+<START:lang_target> englisch <END> bitte
+<START:lang_target> französisch <END> bitte
+<START:lang_target> niederländisch <END> bitte
+<START:lang_target> holländisch <END> bitte
+setze die sprache auf <START:lang_target> deutsch <END>
+setze die sprache auf <START:lang_target> englisch <END>
+setze die sprache auf <START:lang_target> französisch <END>
+setze die sprache auf <START:lang_target> niederländisch <END>
+setze die sprache auf <START:lang_target> holländisch <END>
+wähle als sprache
+wähle als sprache aus
+wähle die sprache
+wähle die sprache aus
+stelle die sprache auf
+ändere die sprache auf
+ändere die sprache zu
+setze die sprache
+setze die sprache auf
+wechsel zur sprache

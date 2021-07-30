@@ -1,0 +1,10 @@
+make <START:photo_target> photo <END>
+make <START:photo_target> picture <END>
+take <START:photo_target> photo <END>
+take <START:photo_target> picture <END>
+make a <START:photo_target> photo <END>
+make a <START:photo_target> picture <END>
+take a <START:photo_target> photo <END>
+take a <START:photo_target> picture <END>
+<START:photo_target> photo <END> please
+<START:photo_target> picture <END> please

@@ -1,0 +1,197 @@
+<eps>
+!SIL
+[unk]
+</s>
+menu
+show
+back
+need
+write
+scan
+available
+establish
+category
+for
+please
+ok
+glass
+calibrate
+nods
+nod
+nodding
+start
+calibration
+calibration of
+of
+gesture
+gestures
+the
+navigation
+let's
+tilt
+tilting
+tilts
+driving
+drive
+change to
+change
+to
+to two
+to german
+to english
+to dutch
+to french
+german
+english
+dutch
+french
+languages
+language
+language to
+select
+set
+set up
+set to
+speak
+connect
+connect wifi
+connect to
+connect to wifi
+wifi
+wifi connection
+connection
+connection to
+connection to wifi
+wifi connections
+connections
+connections to
+connections to wifi
+search
+searching
+up
+internet
+turn
+down
+do
+choose
+position
+choose
+higher
+lower
+volume
+volume to two
+decrease
+decrease the
+reduce
+reduce the
+quieter
+make
+it
+up
+increase
+increase the
+raise
+raise the
+louder
+on
+lights
+light
+hazard light
+hazard lights
+off
+switch
+switch to
+camera
+media
+gallery
+seat
+seating
+settings
+setting
+want
+can
+support
+app
+info
+emergency
+email
+go
+go to
+go to wifi
+sync
+take
+take a
+take to
+me to
+take me to
+take me to wifi
+navigate
+navigate to
+navigate to wifi
+me
+open
+open gallery
+open wifi
+a
+an
+photo
+picture
+device
+syncing
+synchronize
+synchronise
+synchronization
+synchronisation
+update
+application
+app
+synchronizing
+synchronising
+updating
+admin
+administration
+pair
+pairing
+monitor
+existing phone
+new phone
+modes
+basic
+advanced
+drive only
+drive gesture
+only
+add
+ons
+add ons
+use
+mouse one
+mouse two
+tv
+android
+ios
+computer
+control
+contacts
+zero
+to one
+to two
+to three
+to four
+to five
+to six
+to seven
+to eight
+to nine
+to ten
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+munevo

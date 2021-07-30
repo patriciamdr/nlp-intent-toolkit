@@ -1,0 +1,72 @@
+<START:calibration_target> nicken <END> kalibrieren
+<START:calibration_target> nicken <END> kalibrieren starten
+<START:calibration_target> nicken <END> kalibrierung starten
+kalibrierung von <START:calibration_target> nicken <END> starten
+kalibriere <START:calibration_target> nicken <END>
+starte die kalibrierung von <START:calibration_target> nicken <END>
+starte kalibrierung von <START:calibration_target> nicken <END>
+starte <START:calibration_target> nicken <END> kalibrierung
+start der kalibrierung von <START:calibration_target> nicken <END>
+start kalibrierung von <START:calibration_target> nicken <END>
+start <START:calibration_target> nicken <END> kalibrierung
+<START:calibration_target> neigen <END> kalibrieren
+<START:calibration_target> neigen <END> kalibrieren starten
+<START:calibration_target> neigen <END> kalibrierung starten
+kalibrierung von <START:calibration_target> neigen <END> starten
+kalibriere <START:calibration_target> neigen <END>
+starte die kalibrierung von <START:calibration_target> neigen <END>
+starte kalibrierung von <START:calibration_target> neigen <END>
+starte <START:calibration_target> neigen <END> kalibrierung
+start der kalibrierung von <START:calibration_target> neigen <END>
+start kalibrierung von <START:calibration_target> neigen <END>
+start <START:calibration_target> neigen <END> kalibrierung
+bitte <START:calibration_target> nicken <END> kalibrieren
+kalibriere bitte <START:calibration_target> nicken <END>
+bitte kalibriere <START:calibration_target> nicken <END>
+kalibriere <START:calibration_target> nicken <END> bitte
+starte bitte die kalibrierung von <START:calibration_target> nicken <END>
+starte kalibrierung von <START:calibration_target> nicken <END>
+starte <START:calibration_target> nicken <END> kalibrierung
+start der kalibrierung von <START:calibration_target> nicken <END>
+start kalibrierung von <START:calibration_target> nicken <END>
+start <START:calibration_target> nicken <END> kalibrierung
+bitte <START:calibration_target> neigen <END> kalibrieren
+kalibriere bitte <START:calibration_target> neigen <END>
+bitte kalibriere <START:calibration_target> neigen <END>
+kalibriere <START:calibration_target> neigen <END> bitte
+starte bitte die kalibrierung von <START:calibration_target> neigen <END>
+starte kalibrierung von <START:calibration_target> neigen <END>
+starte <START:calibration_target> neigen <END> kalibrierung
+start der kalibrierung von <START:calibration_target> neigen <END>
+start kalibrierung von <START:calibration_target> neigen <END>
+start <START:calibration_target> neigen <END> kalibrierung
+<START:calibration_target> nicken <END> kalibrieren beginnen
+<START:calibration_target> nicken <END> kalibrierung beginnen
+kalibrierung von <START:calibration_target> nicken <END> beginnen
+beginne die kalibrierung von <START:calibration_target> nicken <END>
+beginne kalibrierung von <START:calibration_target> nicken <END>
+beginne <START:calibration_target> nicken <END> kalibrierung
+beginn der kalibrierung von <START:calibration_target> nicken <END>
+beginn kalibrierung von <START:calibration_target> nicken <END>
+beginn <START:calibration_target> nicken <END> kalibrierung
+<START:calibration_target> neigen <END> kalibrieren beginnen
+<START:calibration_target> neigen <END> kalibrierung beginnen
+kalibrierung von <START:calibration_target> neigen <END> beginnen
+beginne die kalibrierung von <START:calibration_target> neigen <END>
+beginne kalibrierung von <START:calibration_target> neigen <END>
+beginne <START:calibration_target> neigen <END> kalibrierung
+beginn der kalibrierung von <START:calibration_target> neigen <END>
+beginn kalibrierung von <START:calibration_target> neigen <END>
+beginn <START:calibration_target> neigen <END> kalibrierung
+beginne bitte die kalibrierung von <START:calibration_target> nicken <END>
+beginne kalibrierung von <START:calibration_target> nicken <END>
+beginne <START:calibration_target> nicken <END> kalibrierung
+beginn der kalibrierung von <START:calibration_target> nicken <END>
+beginn kalibrierung von <START:calibration_target> nicken <END>
+beginn <START:calibration_target> nicken <END> kalibrierung
+beginne bitte die kalibrierung von <START:calibration_target> neigen <END>
+beginne kalibrierung von <START:calibration_target> neigen <END>
+beginne <START:calibration_target> neigen <END> kalibrierung
+beginn der kalibrierung von <START:calibration_target> neigen <END>
+beginn kalibrierung von <START:calibration_target> neigen <END>
+beginn <START:calibration_target> neigen <END> kalibrierung

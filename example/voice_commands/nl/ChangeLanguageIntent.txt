@@ -1,0 +1,84 @@
+verander de taal naar <START:lang_target> duits <END>
+verander de taal naar <START:lang_target> engels <END>
+verander de taal naar <START:lang_target> frans <END>
+verander de taal naar <START:lang_target> nederlands <END>
+verander de taal naar het <START:lang_target> duits <END>
+verander de taal naar het <START:lang_target> engels <END>
+verander de taal naar het <START:lang_target> frans <END>
+verander de taal naar het <START:lang_target> nederlands <END>
+verander taal naar <START:lang_target> duits <END>
+verander taal naar <START:lang_target> engels <END>
+verander taal naar <START:lang_target> frans <END>
+verander taal naar <START:lang_target> nederlands <END>
+verander taal naar het <START:lang_target> duits <END>
+verander taal naar het <START:lang_target> engels <END>
+verander taal naar het <START:lang_target> frans <END>
+verander taal naar het <START:lang_target> nederlands <END>
+verander naar <START:lang_target> duits <END>
+verander naar <START:lang_target> engels <END>
+verander naar <START:lang_target> frans <END>
+verander naar <START:lang_target> nederlands <END>
+verander naar het <START:lang_target> duits <END>
+verander naar het <START:lang_target> engels <END>
+verander naar het <START:lang_target> frans <END>
+verander naar het <START:lang_target> nederlands <END>
+schakel de taal naar <START:lang_target> duits <END>
+schakel de taal naar <START:lang_target> engels <END>
+schakel de taal naar <START:lang_target> frans <END>
+schakel de taal naar <START:lang_target> nederlands <END>
+schakel de taal naar het <START:lang_target> duits <END>
+schakel de taal naar het <START:lang_target> engels <END>
+schakel de taal naar het <START:lang_target> frans <END>
+schakel de taal naar het <START:lang_target> nederlands <END>
+schakel taal naar <START:lang_target> duits <END>
+schakel taal naar <START:lang_target> engels <END>
+schakel taal naar <START:lang_target> frans <END>
+schakel taal naar <START:lang_target> nederlands <END>
+schakel taal naar het <START:lang_target> duits <END>
+schakel taal naar het <START:lang_target> engels <END>
+schakel taal naar het <START:lang_target> frans <END>
+schakel taal naar het <START:lang_target> nederlands <END>
+schakel naar <START:lang_target> duits <END>
+schakel naar <START:lang_target> engels <END>
+schakel naar <START:lang_target> frans <END>
+schakel naar <START:lang_target> nederlands <END>
+schakel naar het <START:lang_target> duits <END>
+schakel naar het <START:lang_target> engels <END>
+schakel naar het <START:lang_target> frans <END>
+schakel naar het <START:lang_target> nederlands <END>
+selecteer <START:lang_target> duits <END>
+selecteer <START:lang_target> engels <END>
+selecteer <START:lang_target> frans <END>
+selecteer <START:lang_target> nederlands <END>
+zet de taal om naar <START:lang_target> duits <END>
+zet de taal om naar <START:lang_target> engels <END>
+zet de taal om naar <START:lang_target> frans <END>
+zet de taal om naar <START:lang_target> nederlands <END>
+taal <START:lang_target> duits <END>
+taal <START:lang_target> engels <END>
+taal <START:lang_target> frans <END>
+taal <START:lang_target> nederlands <END>
+taal naar <START:lang_target> duits <END>
+taal naar <START:lang_target> engels <END>
+taal naar <START:lang_target> frans <END>
+taal naar <START:lang_target> nederlands <END>
+taal naar het <START:lang_target> duits <END>
+taal naar het <START:lang_target> engels <END>
+taal naar het <START:lang_target> frans <END>
+taal naar het <START:lang_target> nederlands <END>
+stel de taal in op het <START:lang_target> duits <END>
+stel de taal in op het <START:lang_target> engels <END>
+stel de taal in op het <START:lang_target> frans <END>
+stel de taal in op het <START:lang_target> nederlands <END>
+zet de taal op <START:lang_target> duits <END>
+zet de taal op <START:lang_target> engels <END>
+zet de taal op <START:lang_target> frans <END>
+zet de taal op <START:lang_target> nederlands <END>
+de taal instellen op <START:lang_target> duits <END>
+de taal instellen op <START:lang_target> engels <END>
+de taal instellen op <START:lang_target> frans <END>
+de taal instellen op <START:lang_target> nederlands <END>
+taal instellen op <START:lang_target> duits <END>
+taal instellen op <START:lang_target> engels <END>
+taal instellen op <START:lang_target> frans <END>
+taal instellen op <START:lang_target> nederlands <END>

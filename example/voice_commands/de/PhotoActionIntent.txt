@@ -1,0 +1,16 @@
+mach ein <START:photo_target> foto <END>
+mach ein <START:photo_target> bild <END>
+schieß ein <START:photo_target> foto <END>
+schieß ein <START:photo_target> bild <END>
+nimm ein <START:photo_target> foto <END> auf
+nimm ein <START:photo_target> bild <END> auf
+<START:photo_target> foto <END>
+<START:photo_target> bild <END>
+<START:photo_target> foto <END> bitte
+<START:photo_target> bild <END> bitte
+<START:photo_target> foto <END> aufnehmen
+<START:photo_target> foto <END> machen
+<START:photo_target> foto <END> schießen
+<START:photo_target> bild <END> aufnehmen
+<START:photo_target> bild <END> machen
+<START:photo_target> bild <END> schießen

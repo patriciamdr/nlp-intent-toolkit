@@ -1,0 +1,15 @@
+<START:decrease_target> volume <END> omlaag
+<START:decrease_target> volume <END> zachter
+<START:decrease_target> volume <END> lager
+verlaag <START:decrease_target> volume <END>
+verminder <START:decrease_target> volume <END>
+verlaag het <START:decrease_target> volume <END>
+verminder het <START:decrease_target> volume <END>
+zet het <START:decrease_target> volume <END> zachter
+zet het <START:decrease_target> volume <END> lager
+zet het <START:decrease_target> volume <END> omlaag
+<START:decrease_target> volume <END> verlagen
+<START:decrease_target> volume <END> verminderen
+het <START:decrease_target> volume <END> zachter zetten
+het <START:decrease_target> volume <END> lager zetten
+het <START:decrease_target> volume <END> omlaag zetten

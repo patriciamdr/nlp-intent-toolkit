@@ -1,0 +1,22 @@
+kalibreer <START:calibration_target> kantelen <END>
+kalibreer <START:calibration_target> knikken <END>
+kalibreer het <START:calibration_target> knikken <END>
+kalibreer het <START:calibration_target> kantelen <END>
+begin met <START:calibration_target> kantelen <END> kalibratie
+begin met <START:calibration_target> knikken <END> kalibratie
+begin met <START:calibration_target> kantel <END> kalibratie
+begin met <START:calibration_target> knik <END> kalibratie
+start <START:calibration_target> kantelen <END> kalibratie
+start <START:calibration_target> knikken <END> kalibratie
+start <START:calibration_target> kantel <END> kalibratie
+start <START:calibration_target> knik <END> kalibratie
+start <START:calibration_target> kantelen <END> kalibreren
+start <START:calibration_target> knikken <END> kalibreren
+start <START:calibration_target> kantel <END> kalibreren
+start <START:calibration_target> knik <END> kalibreren
+start de kalibratie van het <START:calibration_target> kantelen <END>
+start de kalibratie van het <START:calibration_target> knikken <END>
+<START:calibration_target> kantelen <END> kalibreren
+<START:calibration_target> knikken <END> kalibreren
+begin met het kalibreren van <START:calibration_target> knikken <END>
+begin met het kalibreren van <START:calibration_target> kantelen <END>

@@ -1,0 +1,34 @@
+erhöhe die <START:increase_target> lautstärke <END>
+dreh die <START:increase_target> lautstärke <END> auf
+dreh die <START:increase_target> lautstärke <END> hoch
+<START:increase_target> lautstärke <END> lauter
+<START:increase_target> lautstärke <END> erhöhen
+<START:increase_target> lautstärke <END> aufdrehen
+<START:increase_target> lautstärke <END> hoch drehen
+<START:increase_target> lautstärke <END> höher
+bitte erhöhe die <START:increase_target> lautstärke <END>
+bitte dreh die <START:increase_target> lautstärke <END> auf
+bitte dreh die <START:increase_target> lautstärke <END> hoch
+erhöhe bitte die <START:increase_target> lautstärke <END>
+dreh bitte die <START:increase_target> lautstärke <END> auf
+dreh bitte die <START:increase_target> lautstärke <END> hoch
+dreh die <START:increase_target> lautstärke <END> bitte auf
+dreh die <START:increase_target> lautstärke <END> bitte hoch
+erhöhe die <START:increase_target> lautstärke <END> bitte
+dreh die <START:increase_target> lautstärke <END> auf bitte
+dreh die <START:increase_target> lautstärke <END> hoch bitte
+<START:increase_target> lautstärke <END> lauter
+<START:increase_target> lautstärke <END> erhöhen
+<START:increase_target> lautstärke <END> aufdrehen
+<START:increase_target> lautstärke <END> hoch drehen
+<START:increase_target> lautstärke <END> höher
+bitte <START:increase_target> lautstärke <END> lauter
+bitte <START:increase_target> lautstärke <END> erhöhen
+bitte <START:increase_target> lautstärke <END> aufdrehen
+bitte <START:increase_target> lautstärke <END> hoch drehen
+bitte <START:increase_target> lautstärke <END> höher
+<START:increase_target> lautstärke <END> lauter bitte
+<START:increase_target> lautstärke <END> erhöhen bitte
+<START:increase_target> lautstärke <END> aufdrehen bitte
+<START:increase_target> lautstärke <END> hoch drehen bitte
+<START:increase_target> lautstärke <END> höher bitte

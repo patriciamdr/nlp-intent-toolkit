@@ -1,0 +1,33 @@
+verbindt met <START:connect_target> wifi <END>
+verbindt met <START:connect_target> internet <END>
+verbindt met <START:connect_target> wifi <END> netwerk
+verbindt <START:connect_target> wifi <END>
+verbindt <START:connect_target> wifi <END> netwerk
+verbindt <START:connect_target> internet <END>
+maak verbinding met het <START:connect_target> internet <END>
+maak verbinding met de <START:connect_target> wifi <END>
+maak een verbinding met het <START:connect_target> internet <END>
+maak een verbinding met de <START:connect_target> wifi <END>
+maak verbinding met het <START:connect_target> wifi <END> netwerk
+maak verbinding met <START:connect_target> wifi <END>
+maak een verbinding met <START:connect_target> wifi <END>
+maak een <START:connect_target> wifi <END> verbinding
+maak een <START:connect_target> internet <END> verbinding
+maak <START:connect_target> wifi <END> verbinding
+maak <START:connect_target> internet <END> verbinding
+gebruik <START:connect_target> wifi <END>
+gebruik <START:connect_target> internet <END>
+installeer <START:connect_target> wifi <END>
+installeer <START:connect_target> internet <END> verbinding
+installeer <START:connect_target> wifi <END> netwerk
+zoek naar <START:connect_target> wifi <END> verbinding
+zoek naar <START:connect_target> internet <END> verbinding
+zoek naar <START:connect_target> wifi <END> netwerk
+zoek een <START:connect_target> wifi <END> verbinding
+zoek een <START:connect_target> internet <END> verbinding
+zoek een <START:connect_target> wifi <END> netwerk
+ga op zoek naar <START:connect_target> wifi <END>
+ga op zoek naar <START:connect_target> wifi <END> verbinding
+ga op zoek naar een <START:connect_target> internet <END> verbinding
+<START:connect_target> wifi <END> verbinding instellen
+<START:connect_target> internet <END> verbinding instellen

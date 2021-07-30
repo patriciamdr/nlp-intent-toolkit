@@ -1,0 +1,128 @@
+open <START:open_target> rijden <END>
+open <START:open_target> instellingen <END>
+open <START:open_target> support <END>
+open <START:open_target> media <END>
+open <START:open_target> galerij <END>
+open <START:open_target> camera <END>
+open <START:open_target> zitting <END>
+open <START:open_target> zitting <END> positie
+open <START:open_target> zitting <END> instelling
+open <START:open_target> zitting <END> instellingen
+open <START:open_target> volume <END> instellingen
+open <START:open_target> volume <END> instelling
+open <START:open_target> talen <END>
+open <START:open_target> taal <END> instellingen
+open <START:open_target> taal <END> instelling
+open <START:open_target> talen <END> instellingen
+open <START:open_target> talen <END> instelling
+open <START:open_target> kalibratie <END>
+open <START:open_target> volume <END>
+open <START:open_target> taal <END>
+open <START:open_target> frans <END>
+open <START:open_target> nederlands <END>
+open <START:open_target> duits <END>
+open <START:open_target> engels <END>
+open <START:open_target> kantelen <END> kalibratie
+open <START:open_target> knikken <END> kalibratie
+open <START:open_target> kantel <END> kalibratie
+open <START:open_target> knik <END> kalibratie
+open <START:open_target> kantelen <END>
+open <START:open_target> knikken <END>
+open <START:open_target> app info <END>
+open <START:open_target> nood e-mail <END>
+open <START:open_target> synchroniseren <END>
+open <START:open_target> smart glass instellingen <END>
+open <START:open_target> licht <END>
+open <START:open_target> lichten <END>
+open <START:open_target> lichten <END> menu
+open <START:open_target> licht <END> menu
+open <START:open_target> alarmlichten <END>
+open <START:open_target> alarmlichten <END> menu
+open <START:open_target> wifi <END>
+open <START:open_target> admin <END>
+open <START:open_target> koppelen <END>
+open <START:open_target> monitor <END>
+open <START:open_target> nieuwe telefoon <END>
+open <START:open_target> bestaande telefoon <END>
+open <START:open_target> alleen rijden <END>
+open <START:open_target> basis <END>
+open <START:open_target> geavanceerd <END>
+open <START:open_target> besturing <END>
+open <START:open_target> contacten <END>
+open <START:open_target> add ons <END>
+open <START:open_target> rij gebaar <END>
+open <START:open_target> rij gebaren <END>
+open <START:open_target> internet <END>
+open <START:open_target> mouse een <END>
+open <START:open_target> mouse twee <END>
+open <START:open_target> tv <END>
+open <START:open_target> android <END>
+open <START:open_target> ios <END>
+open <START:open_target> computer <END>
+open <START:open_target> iarm <END>
+open <START:open_target> idevice <END>
+open <START:open_target> kinova <END>
+open de categorie <START:open_target> rijden <END>
+open de categorie <START:open_target> instellingen <END>
+open de categorie <START:open_target> support <END>
+open de categorie <START:open_target> media <END>
+open de categorie <START:open_target> galerij <END>
+open de categorie <START:open_target> camera <END>
+open de categorie <START:open_target> zitting <END>
+open de categorie <START:open_target> zitting <END> positie
+open de categorie <START:open_target> zitting <END> instelling
+open de categorie <START:open_target> zitting <END> instellingen
+open de categorie <START:open_target> volume <END> instellingen
+open de categorie <START:open_target> volume <END> instelling
+open de categorie <START:open_target> talen <END>
+open de categorie <START:open_target> taal <END> instellingen
+open de categorie <START:open_target> taal <END> instelling
+open de categorie <START:open_target> talen <END> instellingen
+open de categorie <START:open_target> talen <END> instelling
+open de categorie <START:open_target> kalibratie <END>
+open de categorie <START:open_target> volume <END>
+open de categorie <START:open_target> taal <END>
+open de categorie <START:open_target> frans <END>
+open de categorie <START:open_target> nederlands <END>
+open de categorie <START:open_target> duits <END>
+open de categorie <START:open_target> engels <END>
+open de categorie <START:open_target> kantelen <END> kalibratie
+open de categorie <START:open_target> knikken <END> kalibratie
+open de categorie <START:open_target> kantel <END> kalibratie
+open de categorie <START:open_target> knik <END> kalibratie
+open de categorie <START:open_target> kantelen <END>
+open de categorie <START:open_target> knikken <END>
+open de categorie <START:open_target> app info <END>
+open de categorie <START:open_target> nood e-mail <END>
+open de categorie <START:open_target> synchroniseren <END>
+open de categorie <START:open_target> smart glass instellingen <END>
+open de categorie <START:open_target> licht <END>
+open de categorie <START:open_target> lichten <END>
+open de categorie <START:open_target> lichten <END> menu
+open de categorie <START:open_target> licht <END> menu
+open de categorie <START:open_target> alarmlichten <END>
+open de categorie <START:open_target> alarmlichten <END> menu
+open de categorie <START:open_target> wifi <END>
+open de categorie <START:open_target> admin <END>
+open de categorie <START:open_target> koppelen <END>
+open de categorie <START:open_target> monitor <END>
+open de categorie <START:open_target> nieuwe telefoon <END>
+open de categorie <START:open_target> bestaande telefoon <END>
+open de categorie <START:open_target> alleen rijden <END>
+open de categorie <START:open_target> basis <END>
+open de categorie <START:open_target> geavanceerd <END>
+open de categorie <START:open_target> besturing <END>
+open de categorie <START:open_target> contacten <END>
+open de categorie <START:open_target> add ons <END>
+open de categorie <START:open_target> rij gebaar <END>
+open de categorie <START:open_target> rij gebaren <END>
+open de categorie <START:open_target> internet <END>
+open de categorie <START:open_target> mouse een <END>
+open de categorie <START:open_target> mouse twee <END>
+open de categorie <START:open_target> tv <END>
+open de categorie <START:open_target> android <END>
+open de categorie <START:open_target> ios <END>
+open de categorie <START:open_target> computer <END>
+open de categorie <START:open_target> iarm <END>
+open de categorie <START:open_target> idevice <END>
+open de categorie <START:open_target> kinova <END>

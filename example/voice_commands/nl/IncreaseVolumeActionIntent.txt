@@ -1,0 +1,9 @@
+<START:increase_target> volume <END> omhoog
+<START:increase_target> volume <END> harder
+zet het <START:increase_target> volume <END> harder
+zet het <START:increase_target> volume <END> omhoog
+het <START:increase_target> volume <END> harder zetten
+het <START:increase_target> volume <END> omhoog zetten
+verhoog <START:increase_target> volume <END>
+verhoog het <START:increase_target> volume <END>
+<START:increase_target> volume <END> verhogen

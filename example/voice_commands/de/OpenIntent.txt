@@ -1,0 +1,233 @@
+öffne <START:open_target> kamera <END>
+öffne <START:open_target> media <END>
+öffne <START:open_target> galerie <END>
+öffne <START:open_target> sitz <END>
+öffne <START:open_target> sitz <END> position
+öffne <START:open_target> fahren <END>
+öffne <START:open_target> einstellung <END>
+öffne <START:open_target> einstellungen <END>
+öffne <START:open_target> kalibrierung <END>
+öffne <START:open_target> neigen <END>
+öffne <START:open_target> nicken <END>
+öffne <START:open_target> neigen <END> kalibrierung
+öffne <START:open_target> nicken <END> kalibrierung
+öffne <START:open_target> lichter <END>
+öffne <START:open_target> lichter <END> menü
+öffne <START:open_target> licht <END>
+öffne <START:open_target> licht <END> menü
+öffne <START:open_target> warn blinker <END>
+öffne <START:open_target> warn blinker <END>
+öffne <START:open_target> lautstärke <END>
+öffne <START:open_target> sprache <END>
+öffne <START:open_target> sprachen <END>
+öffne <START:open_target> wlan <END>
+öffne <START:open_target> internet <END>
+öffne <START:open_target> support <END>
+öffne <START:open_target> app info <END>
+öffne <START:open_target> notfall-email <END>
+öffne <START:open_target> notfall email <END>
+öffne <START:open_target> sync <END>
+öffne <START:open_target> synchronisierung <END>
+öffne <START:open_target> synchronisation <END>
+öffne <START:open_target> synchronisieren <END>
+öffne <START:open_target> admin <END>
+öffne <START:open_target> administration <END>
+öffne <START:open_target> koppeln <END>
+öffne <START:open_target> monitor <END>
+öffne <START:open_target> vorhandenes handy <END>
+öffne <START:open_target> neues handy <END>
+öffne <START:open_target> modi <END>
+öffne <START:open_target> basic <END>
+öffne <START:open_target> fortgeschritten <END>
+öffne <START:open_target> nur fahren <END>
+öffne <START:open_target> fahrgeste <END>
+öffne <START:open_target> fahr geste <END>
+öffne <START:open_target> add ons <END>
+öffne <START:open_target> mouse eins <END>
+öffne <START:open_target> mouse eins <END> bitte
+öffne bitte <START:open_target> mouse eins <END>
+bitte öffne <START:open_target> mouse eins <END>
+öffne <START:open_target> mouse zwei <END>
+bitte öffne <START:open_target> mouse zwei <END>
+öffne bitte <START:open_target> mouse zwei <END>
+öffne <START:open_target> mouse zwei <END> bitte
+öffne <START:open_target> tv <END>
+öffne <START:open_target> fernseher <END>
+öffne <START:open_target> android <END>
+öffne <START:open_target> ios <END>
+öffne <START:open_target> iarm <END>
+öffne <START:open_target> idevice <END>
+öffne <START:open_target> computer <END>
+öffne <START:open_target> kontakte <END>
+öffne <START:open_target> kinova <END>
+<START:open_target> kamera <END> öffnen
+<START:open_target> media <END> öffnen
+<START:open_target> galerie <END> öffnen
+<START:open_target> sitz <END> öffnen
+<START:open_target> sitz <END> position öffnen
+<START:open_target> fahren <END> öffnen
+<START:open_target> einstellung <END> öffnen
+<START:open_target> einstellungen <END> öffnen
+<START:open_target> kalibrierung <END> öffnen
+<START:open_target> neigen <END> öffnen
+<START:open_target> nicken <END> öffnen
+<START:open_target> neigen <END> kalibrierung öffnen
+<START:open_target> nicken <END> kalibrierung öffnen
+<START:open_target> lichter <END> öffnen
+<START:open_target> lichter <END> menü öffnen
+<START:open_target> licht <END> öffnen
+<START:open_target> licht <END> menü öffnen
+<START:open_target> warn blinker <END> öffnen
+<START:open_target> lautstärke <END> öffnen
+<START:open_target> sprache <END> öffnen
+<START:open_target> sprachen <END> öffnen
+<START:open_target> wlan <END> öffnen
+<START:open_target> internet <END> öffnen
+<START:open_target> support <END> öffnen
+<START:open_target> app info <END> öffnen
+<START:open_target> notfall email <END> öffnen
+<START:open_target> notfall-email <END> öffnen
+<START:open_target> sync <END> öffnen
+<START:open_target> synchronisierung <END> öffnen
+<START:open_target> synchronisation <END> öffnen
+<START:open_target> synchronisieren <END> öffnen
+<START:open_target> admin <END> öffnen
+<START:open_target> administration <END> öffnen
+<START:open_target> koppeln <END> öffnen
+<START:open_target> monitor <END> öffnen
+<START:open_target> vorhandenes handy <END> öffnen
+<START:open_target> neues handy <END> öffnen
+<START:open_target> modi <END> öffnen
+<START:open_target> basic <END> öffnen
+<START:open_target> fortgeschritten <END> öffnen
+<START:open_target> nur fahren <END> öffnen
+<START:open_target> fahrgeste <END> öffnen
+<START:open_target> fahr geste <END> öffnen
+<START:open_target> add ons <END> öffnen
+<START:open_target> mouse eins <END> öffnen
+<START:open_target> mouse zwei <END> öffnen
+bitte <START:open_target> mouse eins <END> öffnen
+bitte <START:open_target> mouse zwei <END> öffnen
+<START:open_target> tv <END> öffnen
+<START:open_target> fernseher <END> öffnen
+<START:open_target> android <END> öffnen
+<START:open_target> ios <END> öffnen
+<START:open_target> iarm <END> öffnen
+<START:open_target> idevice <END> öffnen
+<START:open_target> computer <END> öffnen
+<START:open_target> kontakte <END> öffnen
+<START:open_target> kinova <END> öffnen
+öffne die <START:open_target> kamera <END>
+öffne kategorie <START:open_target> kamera <END>
+öffne kategorie <START:open_target> media <END>
+öffne kategorie <START:open_target> galerie <END>
+öffne die <START:open_target> galerie <END>
+öffne kategorie <START:open_target> fahren <END>
+öffne kategorie <START:open_target> einstellung <END>
+öffne kategorie <START:open_target> einstellungen <END>
+öffne die <START:open_target> einstellungen <END>
+öffne kategorie <START:open_target> kalibrierung <END>
+öffne kategorie <START:open_target> neigen <END>
+öffne kategorie <START:open_target> nicken <END>
+öffne kategorie <START:open_target> neigen <END> kalibrierung
+öffne kategorie <START:open_target> nicken <END> kalibrierung
+öffne kategorie <START:open_target> lichter <END>
+öffne kategorie <START:open_target> lichter <END> menü
+öffne kategorie <START:open_target> licht <END>
+öffne kategorie <START:open_target> licht <END> menü
+öffne kategorie <START:open_target> warn blinker <END>
+öffne kategorie <START:open_target> lautstärke <END>
+öffne kategorie <START:open_target> sprache <END>
+öffne kategorie <START:open_target> sprachen <END>
+öffne kategorie <START:open_target> wlan <END>
+öffne kategorie <START:open_target> internet <END>
+öffne kategorie <START:open_target> support <END>
+öffne kategorie <START:open_target> app info <END>
+öffne kategorie <START:open_target> notfall-email <END>
+öffne kategorie <START:open_target> notfall email <END>
+öffne kategorie <START:open_target> sync <END>
+öffne kategorie <START:open_target> synchronisierung <END>
+öffne kategorie <START:open_target> synchronisation <END>
+öffne kategorie <START:open_target> synchronisieren <END>
+öffne kategorie <START:open_target> admin <END>
+öffne kategorie <START:open_target> administration <END>
+öffne kategorie <START:open_target> koppeln <END>
+öffne kategorie <START:open_target> monitor <END>
+öffne kategorie <START:open_target> vorhandenes handy <END>
+öffne kategorie <START:open_target> neues handy <END>
+öffne kategorie <START:open_target> modi <END>
+öffne kategorie <START:open_target> basic <END>
+öffne den modus <START:open_target> basic <END>
+öffne kategorie <START:open_target> fortgeschritten <END>
+öffne den modus <START:open_target> fortgeschritten <END>
+öffne kategorie <START:open_target> nur fahren <END>
+öffne den modus <START:open_target> nur fahren <END>
+öffne kategorie <START:open_target> fahrgeste <END>
+öffne kategorie <START:open_target> fahr geste <END>
+öffne kategorie <START:open_target> add ons <END>
+öffne die <START:open_target> add ons <END>
+öffne kategorie <START:open_target> mouse eins <END>
+öffne kategorie <START:open_target> mouse zwei <END>
+öffne kategorie <START:open_target> tv <END>
+öffne kategorie <START:open_target> fernseher <END>
+öffne kategorie <START:open_target> android <END>
+öffne kategorie <START:open_target> ios <END>
+öffne kategorie <START:open_target> iarm <END>
+öffne kategorie <START:open_target> idevice <END>
+öffne kategorie <START:open_target> computer <END>
+öffne kategorie <START:open_target> kontakte <END>
+öffne kategorie <START:open_target> kinova <END>
+kategorie <START:open_target> kamera <END> öffnen
+kategorie <START:open_target> media <END> öffnen
+kategorie <START:open_target> galerie <END> öffnen
+kategorie <START:open_target> sitz <END> öffnen
+kategorie <START:open_target> fahren <END> öffnen
+kategorie <START:open_target> einstellung <END> öffnen
+kategorie <START:open_target> einstellungen <END> öffnen
+kategorie <START:open_target> kalibrierung <END> öffnen
+kategorie <START:open_target> neigen <END> öffnen
+kategorie <START:open_target> nicken <END> öffnen
+kategorie <START:open_target> neigen <END> kalibrierung öffnen
+kategorie <START:open_target> nicken <END> kalibrierung öffnen
+kategorie <START:open_target> lichter <END> öffnen
+kategorie <START:open_target> lichter <END> menü öffnen
+kategorie <START:open_target> licht <END> öffnen
+kategorie <START:open_target> licht <END> menü öffnen
+kategorie <START:open_target> warn blinker <END> öffnen
+kategorie <START:open_target> lautstärke <END> öffnen
+kategorie <START:open_target> sprache <END> öffnen
+kategorie <START:open_target> sprachen <END> öffnen
+kategorie <START:open_target> wlan <END> öffnen
+kategorie <START:open_target> internet <END> öffnen
+kategorie <START:open_target> support <END> öffnen
+kategorie <START:open_target> app info <END> öffnen
+kategorie <START:open_target> notfall email <END> öffnen
+kategorie <START:open_target> notfall-email <END> öffnen
+kategorie <START:open_target> sync <END> öffnen
+kategorie <START:open_target> synchronisierung <END> öffnen
+kategorie <START:open_target> synchronisation <END> öffnen
+kategorie <START:open_target> synchronisieren <END> öffnen
+kategorie <START:open_target> admin <END> öffnen
+kategorie <START:open_target> administration <END> öffnen
+kategorie <START:open_target> koppeln <END> öffnen
+kategorie <START:open_target> monitor <END> öffnen
+kategorie <START:open_target> vorhandenes handy <END> öffnen
+kategorie <START:open_target> neues handy <END> öffnen
+kategorie <START:open_target> modi <END> öffnen
+kategorie <START:open_target> basic <END> öffnen
+kategorie <START:open_target> fortgeschritten <END> öffnen
+kategorie <START:open_target> nur fahren <END> öffnen
+kategorie <START:open_target> fahrgeste <END> öffnen
+kategorie <START:open_target> fahr geste <END> öffnen
+kategorie <START:open_target> add ons <END> öffnen
+kategorie <START:open_target> mouse eins <END> öffnen
+kategorie <START:open_target> mouse zwei <END> öffnen
+kategorie <START:open_target> tv <END> öffnen
+kategorie <START:open_target> fernseher <END> öffnen
+kategorie <START:open_target> android <END> öffnen
+kategorie <START:open_target> ios <END> öffnen
+kategorie <START:open_target> iarm <END> öffnen
+kategorie <START:open_target> idevice <END> öffnen
+kategorie <START:open_target> computer <END> öffnen
+kategorie <START:open_target> kontakte <END> öffnen
+kategorie <START:open_target> kinova <END> öffnen
