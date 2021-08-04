@@ -1,2 +1,95 @@
-sync
-sync device
+synchronise application
+synchroniser application
+synchronise appareil
+synchroniser appareil
+synchronise l'application
+synchroniser l'application
+synchronise l'appareil
+synchroniser l'appareil
+commence synchronisation
+commence la synchronisation
+commence la synchronisation de l'application
+commence la synchronisation de applications
+commence la synchronisation de l'appareil
+commence la synchronisation des appareils
+commence synchronisation de l'application
+commence synchronisation des applications
+commence synchronisation de l'appareil
+commence synchronisation des appareils
+commencer synchronisation
+commencer la synchronisation
+commencer la synchronisation de l'application
+commencer la synchronisation des applications
+commencer la synchronisation de l'appareil
+commencer la synchronisation des appareils
+commencer synchronisation de l'application
+commencer synchronisation des applications
+commencer synchronisation de l'appareil
+commencer synchronisation des appareils
+actualise l'application
+actualise l'appareil
+actualiser l'application
+actualiser l'appareil
+actualise application
+actualise appareil
+actualiser application
+actualiser appareil
+mets l'appareil à jour
+mets l'application à jour
+mets appareil à jour
+mets application à jour
+commence actualisation
+commence actualisation de l'application
+commence actualisation des applications
+commence actualisation de l'appareil
+commence actualisation des appareils
+commence l'actualisation
+commence l'actualisation de l'application
+commence l'actualisation de l'appareil
+commence l'actualisation des applications
+commence l'actualisation des appareils
+commence mise à jour
+commence mise à jour de l'application
+commence mise à jour de l'appareil
+commence mise à jour des applications
+commence mise à jour des appareils
+commence la mise à jour
+commence la mise à jour de l'application
+commence la mise à jour de l'appareil
+commence la mise à jour des applications
+commence la mise à jour des appareils
+commencer l'actualisation
+commencer l'actualisation de l'application
+commencer l'actualisation de l'appareil
+commencer l'actualisation des applications
+commencer l'actualisation des appareils
+commencer actualisation
+commencer actualisation de l'application
+commencer actualisation de l'appareil
+commencer actualisation des applications
+commencer actualisation des appareils
+commencer mise à jour
+commencer mise à jour de l'application
+commencer mise à jour de l'appareil
+commencer mise à jour des applications
+commencer mise à jour des appareils
+démarrer la synchronisation
+début de la syncrhonisation
+démarrer synchronisation
+début de syncrhonisation
+démarrer la synchronisation de l'application
+démarrer la synchronisation de l'appareil
+début de la synchronisation de l'application
+début de la synchronisation de l'appareil
+démarrer la synchronisation des applications
+démarrer la synchronisation des appareils
+début de la synchronisation des applications
+début de la synchronisation des appareils
+démarrer synchronisation de l'application
+démarrer synchronisation de l'appareil
+début de synchronisation de l'application
+début de synchronisation de l'appareil
+démarrer synchronisation des applications
+démarrer synchronisation des appareils
+début de synchronisation des applications
+début de synchronisation des appareils

@@ -1,16 +1,30 @@
-allumer les lumières
-allumer la lumière
-allumer les feux de détresse
-allumer le feu de détresse
-lumière allumée
-lumières allumées
-feux de détresse allumés
-feu de détresse allumé
-éteindre les lumières
-éteindre la lumière
-éteindre les feux de détresse
-éteindre le feu de détresse
-lumière éteinte
-lumières éteintes
-feux de détresse éteints
-feu de détresse éteinte
+allume la <START:light_target> lumière <END>
+allume les <START:light_target> lumières <END>
+allume <START:light_target> lumière <END>
+allume <START:light_target> lumières <END>
+allumer la <START:light_target> lumière <END>
+allumer les <START:light_target> lumières <END>
+allumer <START:light_target> lumière <END>
+allumer <START:light_target> lumières <END>
+éteinds la <START:light_target> lumière <END>
+éteinds les <START:light_target> lumières <END>
+éteinds <START:light_target> lumière <END>
+éteinds <START:light_target> lumières <END>
+éteindre la <START:light_target> lumière <END>
+éteindre les <START:light_target> lumières <END>
+éteindre <START:light_target> lumière <END>
+éteindre <START:light_target> lumières <END>
+<START:light_target> lumières <END> allumées
+<START:light_target> lumière <END> allumée
+<START:light_target> lumière <END> éteinte
+<START:light_target> lumières <END> éteintes
+allume les <START:light_target> feux de détresse <END>
+allume <START:light_target> feux de détresse <END>
+allumer les <START:light_target> feux de détresse <END>
+allumer <START:light_target> feux de détresse <END>
+éteinds les <START:light_target> feux de détresse <END>
+éteinds <START:light_target> feux de détresse <END>
+éteindre les <START:light_target> feux de détresse <END>
+éteindre <START:light_target> feux de détresse <END>
+<START:light_target> feux de détresse <END> allumés
+<START:light_target> feux de détresse <END> éteints

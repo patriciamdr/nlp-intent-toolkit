@@ -1,0 +1,104 @@
+connecte toi au <START:connect_target> wifi <END>
+se connecter au <START:connect_target> wifi <END>
+se connecter à un réseau <START:connect_target> wifi <END>
+se connecter à un <START:connect_target> wifi <END>
+établis la connexion <START:connect_target> wifi <END>
+établir la connexion <START:connect_target> wifi <END>
+établis une connexion <START:connect_target> wifi <END>
+établir une connexion <START:connect_target> wifi <END>
+mets la <START:connect_target> wifi <END>
+cherche un réseau <START:connect_target> wifi <END>
+cherche une connexion <START:connect_target> wifi <END>
+cherche le <START:connect_target> wifi <END>
+recherche d'un réseau <START:connect_target> wifi <END>
+recherche de réseau <START:connect_target> wifi <END>
+recherche un réseau <START:connect_target> wifi <END>
+recherche du <START:connect_target> wifi <END>
+recherche le <START:connect_target> wifi <END>
+chercher un réseau <START:connect_target> wifi <END>
+chercher un <START:connect_target> wifi <END>
+chercher le <START:connect_target> wifi <END>
+rechercher un réseau <START:connect_target> wifi <END>
+rechercher le <START:connect_target> wifi <END>
+recherche d'une connexion <START:connect_target> wifi <END>
+recherche de connexion <START:connect_target> wifi <END>
+recherche une connexion <START:connect_target> wifi <END>
+recherche de la connexion <START:connect_target> wifi <END>
+rechercher une connexion <START:connect_target> wifi <END>
+rechercher la connexion <START:connect_target> wifi <END>
+chercher une connexion <START:connect_target> wifi <END>
+chercher la connexion <START:connect_target> wifi <END>
+commence la recherche d'un réseau <START:connect_target> wifi <END>
+commence la recherche d'une connexion <START:connect_target> wifi <END>
+commencer la recherche d'un réseau <START:connect_target> wifi <END>
+commencer la recherche d'une connexion <START:connect_target> wifi <END>
+démarrer la recherche d'un réseau <START:connect_target> wifi <END>
+démarrer la recherche d'une connexion <START:connect_target> wifi <END>
+débute la recherche d'un réseau <START:connect_target> wifi <END>
+débute la recherche d'une connexion <START:connect_target> wifi <END>
+débuter la recherche d'un réseau <START:connect_target> wifi <END>
+débuter la recherche d'une connexion <START:connect_target> wifi <END>
+commence la recherche d'un <START:connect_target> wifi <END>
+commencer la recherche d'un <START:connect_target> wifi <END>
+commencer à chercher le <START:connect_target> wifi <END>
+commencer à chercher un <START:connect_target> wifi <END>
+démarrer la recherche d'un <START:connect_target> wifi <END>
+débute la recherche d'un <START:connect_target> wifi <END>
+débuter la recherche d'un <START:connect_target> wifi <END>
+commence la recherche de <START:connect_target> wifi <END>
+commencer la recherche de <START:connect_target> wifi <END>
+démarrer la recherche de <START:connect_target> wifi <END>
+débute la recherche de <START:connect_target> wifi <END>
+débuter la recherche de <START:connect_target> wifi <END>
+connecte toi à <START:connect_target> l'internet <END>
+connecte toi à <START:connect_target> internet <END>
+se connecter à <START:connect_target> l'internet <END>
+se connecter à <START:connect_target> internet <END>
+se connecter à un réseau <START:connect_target> internet <END>
+établis la connexion à <START:connect_target> internet <END>
+établir la connexion à <START:connect_target> internet <END>
+établis une connexion à <START:connect_target> internet <END>
+établir une connexion à <START:connect_target> internet <END>
+établis la connexion <START:connect_target> internet <END>
+établir la connexion <START:connect_target> internet <END>
+établis une connexion <START:connect_target> internet <END>
+établir une connexion <START:connect_target> internet <END>
+cherche un réseau <START:connect_target> internet <END>
+cherche une connexion <START:connect_target> internet <END>
+recherche d'un réseau <START:connect_target> internet <END>
+recherche de réseau <START:connect_target> internet <END>
+recherche un réseau <START:connect_target> internet <END>
+recherche un <START:connect_target> internet <END>
+recherche <START:connect_target> internet <END>
+chercher un réseau <START:connect_target> internet <END>
+chercher un <START:connect_target> internet <END>
+rechercher d'un réseau <START:connect_target> internet <END>
+rechercher de réseau <START:connect_target> internet <END>
+rechercher un réseau <START:connect_target> internet <END>
+rechercher un <START:connect_target> internet <END>
+rechercher <START:connect_target> internet <END>
+recherche de <START:connect_target> l'internet <END>
+recherche <START:connect_target> d'internet <END>
+commence la recherche d'un réseau <START:connect_target> internet <END>
+commence la recherche d'une connexion <START:connect_target> internet <END>
+commencer la recherche d'un réseau <START:connect_target> internet <END>
+commencer la recherche d'une connexion <START:connect_target> internet <END>
+démarrer la recherche d'un réseau <START:connect_target> internet <END>
+démarrer la recherche d'une connexion <START:connect_target> internet <END>
+débute la recherche d'un réseau <START:connect_target> internet <END>
+débute la recherche d'une connexion <START:connect_target> internet <END>
+débuter la recherche d'un réseau <START:connect_target> internet <END>
+débuter la recherche d'une connexion <START:connect_target> internet <END>
+commence la recherche d'un <START:connect_target> internet <END>
+commence la recherche de <START:connect_target> l'internet <END>
+commencer la recherche d'un <START:connect_target> internet <END>
+commencer la recherche d <START:connect_target> l'internet <END>
+démarrer la recherche d'un <START:connect_target> internet <END>
+démarrer la recherche de <START:connect_target> l'internet <END>
+débute la recherche d'un <START:connect_target> internet <END>
+débuter la recherche d'un <START:connect_target> internet <END>
+commence la recherche de <START:connect_target> l'internet <END>
+commence la recherche <START:connect_target> d'internet <END>
+démarrer la recherche de <START:connect_target> l'internet <END>
+débute la recherche de <START:connect_target> l'internet <END>
+débuter la recherche de <START:connect_target> l'internet <END>

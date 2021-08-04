@@ -91,21 +91,19 @@ public class IntentTrainer {
         nameFinderTrainingParams.put(TrainingParameters.CUTOFF_PARAM, 0+"");
 
         // List<TokenNameFinderModel> tokenNameFinderModels = new ArrayList<TokenNameFinderModel>();
-        //
-				// for (String slot : slots) {
-				//     List<ObjectStream<NameSample>> nameStreams = new ArrayList<ObjectStream<NameSample>>();
-				//     for (File trainingFile : trainingDirectory.listFiles()) {
-				//         ObjectStream<String> lineStream = new PlainTextByLineStream(new MarkableFileInputStreamFactory(trainingFile), "UTF-8");
-				//         ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
-				//         nameStreams.add(nameSampleStream);
-				//     }
-				//     ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
-				//     ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
-        //
-				//     TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams, new TokenNameFinderFactory(
-				//             readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
-				//     ));
-				//     combinedNameSampleStream.close();
+            // for (String slot : slots) {
+            //     List<ObjectStream<NameSample>> nameStreams = new ArrayList<ObjectStream<NameSample>>();
+            //     for (File trainingFile : trainingDirectory.listFiles()) {
+            //         ObjectStream<String> lineStream = new PlainTextByLineStream(new MarkableFileInputStreamFactory(trainingFile), "UTF-8");
+            //         ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
+            //         nameStreams.add(nameSampleStream);
+            //     }
+            //     ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
+            //     ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
+            //     TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams, new TokenNameFinderFactory(
+            //             readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
+            //     ));
+            //     combinedNameSampleStream.close();
         //     tokenNameFinderModels.add(tokenNameFinderModel);
 
         Map<String, TokenNameFinderModel> tokenNameFinderModels = new HashMap<String, TokenNameFinderModel>();

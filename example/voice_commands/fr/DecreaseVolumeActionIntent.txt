@@ -1,2 +1,16 @@
-baisser le volume
-diminuer le volume
+baisse le <START:decrease_target> volume <END>
+baisse <START:decrease_target> volume <END>
+baisser le <START:decrease_target> volume <END>
+baisser <START:decrease_target> volume <END>
+diminue le <START:decrease_target> volume <END>
+diminue <START:decrease_target> volume <END>
+diminuer le <START:decrease_target> volume <END>
+diminuer <START:decrease_target> volume <END>
+réduis le <START:decrease_target> volume <END>
+réduis <START:decrease_target> volume <END>
+réduire le <START:decrease_target> volume <END>
+réduire <START:decrease_target> volume <END>
+<START:decrease_target> volume <END> plus faible
+<START:decrease_target> volume <END> plus silencieux
+faible <START:decrease_target> volume <END>
+<START:decrease_target> volume <END> silencieux

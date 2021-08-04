@@ -1,2 +1,13 @@
-augmenter le volume
-accroître le volume
+augmente le <START:increase_target> volume <END>
+augmente <START:increase_target> volume <END>
+augmenter le <START:increase_target> volume <END>
+augmenter <START:increase_target> volume <END>
+monte le <START:increase_target> volume <END>
+monte <START:increase_target> volume <END>
+monter le <START:increase_target> volume <END>
+monter <START:increase_target> volume <END>
+<START:increase_target> volume <END> plus fort
+<START:increase_target> volume <END> plus élevé
+<START:increase_target> volume <END> fort
+fort <START:increase_target> volume <END>
+<START:increase_target> volume <END> élevé

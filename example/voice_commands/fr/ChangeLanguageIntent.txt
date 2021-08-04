@@ -1,33 +1,64 @@
-changer en allemand
-changer en anglais
-changer en néerlandais
-changer en français
-changer la langue en allemande
-changer la langue en anglais
-changer la langue en néerlandais
-changer la langue en français
-changer de langue en allemande
-changer de langue en anglais
-changer de langue en néerlandais
-changer de langue en français
-changer la langue vers le allemande
-changer la langue vers le anglais
-changer la langue vers le néerlandais
-changer la langue vers le français
-choisir l'allemand
-choisir le français
-choisir le néerlandaise
-choisir l'anglais
-choisissez l'allemand
-choisissez le français
-choisissez le néerlandais
-choisissez l'anglais
-sélectionnez l'anglais
-sélectionnez l'allemand
-sélectionner anglais
-sélectionner hollandais
-sélectionner le français
-choisir la langue allemande
-choisir la langue anglaise
-choisir la langue néerlandaise
-choisir la langue française
+change la langue en <START:lang_target> allemand <END>
+change la langue en <START:lang_target> français <END>
+change la langue en <START:lang_target> néerlandaise <END>
+change la langue en <START:lang_target> anglais <END>
+changer la langue en <START:lang_target> allemand <END>
+changer la langue en <START:lang_target> français <END>
+changer la langue en <START:lang_target> néerlandaise <END>
+changer la langue en <START:lang_target> anglais <END>
+change en <START:lang_target> allemand <END>
+change en <START:lang_target> français <END>
+change en <START:lang_target> néerlandaise <END>
+change en <START:lang_target> anglais <END>
+changer en <START:lang_target> allemand <END>
+changer en <START:lang_target> français <END>
+changer en <START:lang_target> néerlandaise <END>
+changer en <START:lang_target> anglais <END>
+modifie la langue en <START:lang_target> allemand <END>
+modifie la langue en <START:lang_target> français <END>
+modifie la langue en <START:lang_target> néerlandaise <END>
+modifie la langue en <START:lang_target> anglais <END>
+modifier la langue en <START:lang_target> allemand <END>
+modifier la langue en <START:lang_target> français <END>
+modifier la langue en <START:lang_target> néerlandaise <END>
+modifier la langue en <START:lang_target> anglais <END>
+modifie en <START:lang_target> allemand <END>
+modifie en <START:lang_target> français <END>
+modifie en <START:lang_target> néerlandaise <END>
+modifie en <START:lang_target> anglais <END>
+modifier en <START:lang_target> allemand <END>
+modifier en <START:lang_target> français <END>
+modifier en <START:lang_target> néerlandaise <END>
+modifier en <START:lang_target> anglais <END>
+choisis <START:lang_target> allemand <END>
+choisis <START:lang_target> français <END>
+choisis <START:lang_target> néerlandaise <END>
+choisis <START:lang_target> anglais <END>
+choisir <START:lang_target> allemand <END>
+choisir <START:lang_target> français <END>
+choisir <START:lang_target> néerlandaise <END>
+choisir <START:lang_target> anglais <END>
+choisis la langue <START:lang_target> allemand <END>
+choisis la langue <START:lang_target> français <END>
+choisis la langue <START:lang_target> néerlandaise <END>
+choisis la langue <START:lang_target> anglais <END>
+choisir la langue <START:lang_target> allemand <END>
+choisir la langue <START:lang_target> français <END>
+choisir la langue <START:lang_target> néerlandaise <END>
+choisir la langue <START:lang_target> anglais <END>
+sélectionner <START:lang_target> allemand <END>
+sélectionner <START:lang_target> français <END>
+sélectionner <START:lang_target> néerlandaise <END>
+sélectionner <START:lang_target> anglais <END>
+sélectionne <START:lang_target> allemand <END>
+sélectionne <START:lang_target> français <END>
+sélectionne <START:lang_target> néerlandaise <END>
+sélectionne <START:lang_target> anglais <END>
+sélectionner la langue <START:lang_target> allemand <END>
+sélectionner la langue <START:lang_target> français <END>
+sélectionner la langue <START:lang_target> néerlandaise <END>
+sélectionner la langue <START:lang_target> anglais <END>
+sélectionne la langue <START:lang_target> allemand <END>
+sélectionne la langue <START:lang_target> français <END>
+sélectionne la langue <START:lang_target> néerlandaise <END>
+sélectionne la langue <START:lang_target> anglais <END>

@@ -1,4 +1,18 @@
-take a photo
-take photo
-take a picture
-take picture
+prends une <START:photo_target> photo <END>
+prendre une <START:photo_target> photo <END>
+prends une <START:photo_target> image <END>
+prendre une <START:photo_target> image <END>
+prends <START:photo_target> photo <END>
+prendre <START:photo_target> photo <END>
+prends <START:photo_target> image <END>
+prendre <START:photo_target> image <END>
+veuillez prends une <START:photo_target> photo <END>
+veuillez prendre une <START:photo_target> photo <END>
+veuillez prends une <START:photo_target> image <END>
+veuillez prendre une <START:photo_target> image <END>
+veuillez prends <START:photo_target> photo <END>
+veuillez prendre <START:photo_target> photo <END>
+veuillez prends <START:photo_target> image <END>
+veuillez prendre <START:photo_target> image <END>
+<START:photo_target> photo <END> s'il vous plaît
+<START:photo_target> image <END> s'il vous plaît

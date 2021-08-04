@@ -1,0 +1,46 @@
+calibrer <START:calibration_target> hocher <END>
+calibrer <START:calibration_target> l'inclinaison <END>
+calibrer <START:calibration_target> inclinaison <END>
+calibre <START:calibration_target> hocher <END>
+calibre <START:calibration_target> l'inclinaison <END>
+calibre <START:calibration_target> inclinaison <END>
+débute le calibrage de <START:calibration_target> hocher <END>
+débute le calibrage de <START:calibration_target> l'inclinaison <END>
+débute le calibrage de <START:calibration_target> inclinaison <END>
+commence le calibrage de <START:calibration_target> hocher <END>
+commence le calibrage de <START:calibration_target> l'inclinaison <END>
+commence le calibrage de <START:calibration_target> inclinaison <END>
+débuter le calibrage de <START:calibration_target> hocher <END>
+débuter le calibrage de <START:calibration_target> l'inclinaison <END>
+débuter le calibrage de <START:calibration_target> inclinaison <END>
+commencer le calibrage de <START:calibration_target> hocher <END>
+commencer le calibrage de <START:calibration_target> l'inclinaison <END>
+commencer le calibrage de <START:calibration_target> inclinaison <END>
+veuillez calibrer <START:calibration_target> l'inclinaison <END>
+veuillez calibre <START:calibration_target> l'inclinaison <END>
+calibrer <START:calibration_target> l'inclinaison <END> s'il vous plaît
+calibre <START:calibration_target> l'inclinaison <END> s'il vous plaît
+calibrer <START:calibration_target> inclinaison <END> s'il vous plaît
+calibre <START:calibration_target> inclinaison <END> s'il vous plaît
+veuillez calibrer <START:calibration_target> l'inclinaison <END>
+veuillez calibre <START:calibration_target> l'inclinaison <END>
+veuillez calibrer <START:calibration_target> inclinaison <END>
+veuillez calibre <START:calibration_target> inclinaison <END>
+veuillez commencer le calibrage de <START:calibration_target> l'inclinaison <END>
+veuillez commence le calibrage de <START:calibration_target> l'inclinaison <END>
+veuillez commencer le calibrage de <START:calibration_target> inclinaison <END>
+veuillez commence le calibrage de <START:calibration_target> inclinaison <END>
+démarrer le calibrage de <START:calibration_target> l'inclinaison <END>
+démarrer le calibrage de <START:calibration_target> inclinaison <END>
+début du calibrage de <START:calibration_target> l'inclinaison <END>
+début du calibrage de <START:calibration_target> inclinaison <END>
+veuillez calibrer <START:calibration_target> hocher <END>
+veuillez calibre <START:calibration_target> hocher <END>
+calibrer <START:calibration_target> hocher <END> s'il vous plaît
+calibre <START:calibration_target> hocher <END> s'il vous plaît
+veuillez calibrer <START:calibration_target> hocher <END>
+veuillez calibre <START:calibration_target> hocher <END>
+veuillez commencer le calibrage de <START:calibration_target> hocher <END>
+veuillez commence le calibrage de <START:calibration_target> hocher <END>
+démarrer le calibrage de <START:calibration_target> hocher <END>
+début du calibrage de <START:calibration_target> hocher <END>
