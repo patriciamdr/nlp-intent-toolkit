@@ -122,3 +122,4 @@ apparaat
 app
 van
 stel
+modi

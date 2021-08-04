@@ -195,3 +195,4 @@ eight
 nine
 ten
 munevo
+kinova

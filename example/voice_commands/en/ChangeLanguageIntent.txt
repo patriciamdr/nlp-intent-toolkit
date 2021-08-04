@@ -1,67 +1,67 @@
-change to <START:target> german <END>
-change to <START:target> english <END>
-change to <START:target> dutch <END>
-change to <START:target> french <END>
-change language <START:target> german <END>
-change language <START:target> english <END>
-change language <START:target> dutch <END>
-change language <START:target> french <END>
-change language to <START:target> german <END>
-change language to <START:target> english <END>
-change language to <START:target> dutch <END>
-change language to <START:target> french <END>
-select <START:target> german <END>
-select <START:target> english <END>
-select <START:target> dutch <END>
-select <START:target> french <END>
-set language <START:target> german <END>
-set language <START:target> english <END>
-set language <START:target> dutch <END>
-set language <START:target> french <END>
-set language to <START:target> german <END>
-set language to <START:target> english <END>
-set language to <START:target> dutch <END>
-set language to <START:target> french <END>
-set the language <START:target> german <END>
-set the language <START:target> english <END>
-set the language <START:target> dutch <END>
-set the language <START:target> french <END>
-set the language to <START:target> german <END>
-set the language to <START:target> english <END>
-set the language to <START:target> dutch <END>
-set the language to <START:target> french <END>
-let's speak <START:target> german <END>
-let's speak <START:target> english <END>
-let's speak <START:target> dutch <END>
-let's speak <START:target> french <END>
-choose <START:target> german <END>
-choose <START:target> english <END>
-choose <START:target> dutch <END>
-choose <START:target> french <END>
-choose language <START:target> german <END>
-choose language <START:target> english <END>
-choose language <START:target> dutch <END>
-choose language <START:target> french <END>
-switch to <START:target> german <END>
-switch to <START:target> english <END>
-switch to <START:target> dutch <END>
-switch to <START:target> french <END>
-switch language to <START:target> german <END>
-switch language to <START:target> english <END>
-switch language to <START:target> dutch <END>
-switch language to <START:target> french <END>
-please <START:target> german <END>
-please <START:target> english <END>
-please <START:target> dutch <END>
-please <START:target> french <END>
-<START:target> german <END> please
-<START:target> english <END> please
-<START:target> dutch <END> please
-<START:target> french <END> please
-select <START:target> german <END>
-select <START:target> english <END>
-select <START:target> dutch <END>
-select <START:target> french <END>
+change to <START:lang_target> german <END>
+change to <START:lang_target> english <END>
+change to <START:lang_target> dutch <END>
+change to <START:lang_target> french <END>
+change language <START:lang_target> german <END>
+change language <START:lang_target> english <END>
+change language <START:lang_target> dutch <END>
+change language <START:lang_target> french <END>
+change language to <START:lang_target> german <END>
+change language to <START:lang_target> english <END>
+change language to <START:lang_target> dutch <END>
+change language to <START:lang_target> french <END>
+select <START:lang_target> german <END>
+select <START:lang_target> english <END>
+select <START:lang_target> dutch <END>
+select <START:lang_target> french <END>
+set language <START:lang_target> german <END>
+set language <START:lang_target> english <END>
+set language <START:lang_target> dutch <END>
+set language <START:lang_target> french <END>
+set language to <START:lang_target> german <END>
+set language to <START:lang_target> english <END>
+set language to <START:lang_target> dutch <END>
+set language to <START:lang_target> french <END>
+set the language <START:lang_target> german <END>
+set the language <START:lang_target> english <END>
+set the language <START:lang_target> dutch <END>
+set the language <START:lang_target> french <END>
+set the language to <START:lang_target> german <END>
+set the language to <START:lang_target> english <END>
+set the language to <START:lang_target> dutch <END>
+set the language to <START:lang_target> french <END>
+let's speak <START:lang_target> german <END>
+let's speak <START:lang_target> english <END>
+let's speak <START:lang_target> dutch <END>
+let's speak <START:lang_target> french <END>
+choose <START:lang_target> german <END>
+choose <START:lang_target> english <END>
+choose <START:lang_target> dutch <END>
+choose <START:lang_target> french <END>
+choose language <START:lang_target> german <END>
+choose language <START:lang_target> english <END>
+choose language <START:lang_target> dutch <END>
+choose language <START:lang_target> french <END>
+switch to <START:lang_target> german <END>
+switch to <START:lang_target> english <END>
+switch to <START:lang_target> dutch <END>
+switch to <START:lang_target> french <END>
+switch language to <START:lang_target> german <END>
+switch language to <START:lang_target> english <END>
+switch language to <START:lang_target> dutch <END>
+switch language to <START:lang_target> french <END>
+please <START:lang_target> german <END>
+please <START:lang_target> english <END>
+please <START:lang_target> dutch <END>
+please <START:lang_target> french <END>
+<START:lang_target> german <END> please
+<START:lang_target> english <END> please
+<START:lang_target> dutch <END> please
+<START:lang_target> french <END> please
+select <START:lang_target> german <END>
+select <START:lang_target> english <END>
+select <START:lang_target> dutch <END>
+select <START:lang_target> french <END>
 change language
 change language to
 set language

@@ -188,3 +188,5 @@ sieben
 acht
 neun
 zehn
+munevo
+kinova
