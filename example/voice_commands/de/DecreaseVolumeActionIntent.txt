@@ -2,6 +2,7 @@ reduziere die <START:decrease_target> lautstärke <END>
 verringere die <START:decrease_target> lautstärke <END>
 dreh die <START:decrease_target> lautstärke <END> herunter
 dreh die <START:decrease_target> lautstärke <END> runter
+mach die <START:decrease_target> lautstärke <END> leiser
 <START:decrease_target> lautstärke <END> leiser
 <START:decrease_target> lautstärke <END> reduzieren
 <START:decrease_target> lautstärke <END> verringern

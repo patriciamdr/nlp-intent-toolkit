@@ -49,6 +49,7 @@ languages
 language
 language to
 select
+send
 set
 set up
 set to

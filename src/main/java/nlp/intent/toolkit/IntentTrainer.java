@@ -173,14 +173,7 @@ public class IntentTrainer {
                     NameFinderME nameFinderME = nameFinderMEs.get(doccatAndSlotsMap.get(result));
                     Span[] spans = nameFinderME.find(tokens);
                     String[] names = Span.spansToStrings(spans, tokens);
-                    // add most likely target if more than one is available
-                    if (spans.length >= 1) {
-                        double[] probs = nameFinderME.probs(spans);
-                        double maxProb = Arrays.stream(probs).boxed().max(Double::compareTo).get();
-                        int maxIndex = Arrays.asList(Arrays.stream(probs).boxed().toArray(Double[]::new)).indexOf(maxProb);
-
-                        System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
-                    }
+										System.out.print(spans[spans.length - 1].getType() + ": '" + names[names.length - 1] + "' ");
                 }
                 catch (NullPointerException e) { }
                 System.out.println("} }");

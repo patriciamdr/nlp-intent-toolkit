@@ -4,6 +4,8 @@
 </s>
 brille
 sende
+schreibe
+schreiben
 senden
 für
 zurück
