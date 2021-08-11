@@ -2,6 +2,7 @@
 !SIL
 [unk]
 </s>
+smartglass
 menu
 show
 back
@@ -162,8 +163,6 @@ advanced
 drive only
 drive gesture
 only
-add
-ons
 add ons
 use
 mouse one
@@ -171,6 +170,7 @@ mouse two
 tv
 android
 ios
+iarm
 computer
 control
 contacts
@@ -189,7 +189,6 @@ one
 two
 three
 four
-five
 six
 seven
 eight

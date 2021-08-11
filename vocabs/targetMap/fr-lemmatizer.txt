@@ -4,4 +4,5 @@ d'internet:wifi
 l'inclinaison:inclinaison
 lumières:lumière
 détresset:détresse
-
+douplage:doublage
+néerlandais:néerlandaise

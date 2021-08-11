@@ -1,3 +1,4 @@
+open <START:open_target> modi <END>
 open <START:open_target> rijden <END>
 open <START:open_target> instellingen <END>
 open <START:open_target> support <END>
@@ -67,6 +68,7 @@ open de categorie <START:open_target> instellingen <END>
 open de categorie <START:open_target> support <END>
 open de categorie <START:open_target> media <END>
 open de categorie <START:open_target> galerij <END>
+open de categorie <START:open_target> modi <END>
 open de categorie <START:open_target> camera <END>
 open de categorie <START:open_target> zitting <END>
 open de categorie <START:open_target> zitting <END> positie

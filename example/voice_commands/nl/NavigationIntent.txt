@@ -1,3 +1,4 @@
+<START:nav_target> modi <END>
 <START:nav_target> rijden <END>
 <START:nav_target> instellingen <END>
 <START:nav_target> support <END>
@@ -66,6 +67,7 @@ verander naar <START:nav_target> instellingen <END>
 verander naar <START:nav_target> support <END>
 verander naar <START:nav_target> media <END>
 verander naar <START:nav_target> galerij <END>
+verander naar <START:nav_target> modi <END>
 verander naar <START:nav_target> camera <END>
 verander naar <START:nav_target> zitting <END>
 verander naar <START:nav_target> zitting <END> positie
@@ -130,6 +132,7 @@ navigeer naar de categorie <START:nav_target> instellingen <END>
 navigeer naar de categorie <START:nav_target> support <END>
 navigeer naar de categorie <START:nav_target> media <END>
 navigeer naar de categorie <START:nav_target> galerij <END>
+navigeer naar de categorie <START:nav_target> modi <END>
 navigeer naar de categorie <START:nav_target> camera <END>
 navigeer naar de categorie <START:nav_target> zitting <END>
 navigeer naar de categorie <START:nav_target> zitting <END> positie
@@ -194,6 +197,7 @@ navigeer naar <START:nav_target> instellingen <END>
 navigeer naar <START:nav_target> support <END>
 navigeer naar <START:nav_target> media <END>
 navigeer naar <START:nav_target> galerij <END>
+navigeer naar <START:nav_target> modi <END>
 navigeer naar <START:nav_target> camera <END>
 navigeer naar <START:nav_target> zitting <END>
 navigeer naar <START:nav_target> zitting <END> positie
@@ -258,6 +262,7 @@ ga naar <START:nav_target> instellingen <END>
 ga naar <START:nav_target> support <END>
 ga naar <START:nav_target> media <END>
 ga naar <START:nav_target> galerij <END>
+ga naar <START:nav_target> modi <END>
 ga naar <START:nav_target> camera <END>
 ga naar <START:nav_target> zitting <END>
 ga naar <START:nav_target> zitting <END> positie
@@ -322,6 +327,7 @@ ga naar de categorie <START:nav_target> instellingen <END>
 ga naar de categorie <START:nav_target> support <END>
 ga naar de categorie <START:nav_target> media <END>
 ga naar de categorie <START:nav_target> galerij <END>
+ga naar de categorie <START:nav_target> modi <END>
 ga naar de categorie <START:nav_target> camera <END>
 ga naar de categorie <START:nav_target> zitting <END>
 ga naar de categorie <START:nav_target> zitting <END> positie
@@ -386,6 +392,7 @@ selecteer <START:nav_target> instellingen <END>
 selecteer <START:nav_target> support <END>
 selecteer <START:nav_target> media <END>
 selecteer <START:nav_target> galerij <END>
+selecteer <START:nav_target> modi <END>
 selecteer <START:nav_target> camera <END>
 selecteer <START:nav_target> zitting <END>
 selecteer <START:nav_target> zitting <END> positie
@@ -446,6 +453,7 @@ selecteer de categorie <START:nav_target> instellingen <END>
 selecteer de categorie <START:nav_target> support <END>
 selecteer de categorie <START:nav_target> media <END>
 selecteer de categorie <START:nav_target> galerij <END>
+selecteer de categorie <START:nav_target> modi <END>
 selecteer de categorie <START:nav_target> camera <END>
 selecteer de categorie <START:nav_target> zitting <END>
 selecteer de categorie <START:nav_target> zitting <END> positie
@@ -506,6 +514,7 @@ naar <START:nav_target> instellingen <END> navigeren
 naar <START:nav_target> support <END> navigeren
 naar <START:nav_target> media <END> navigeren
 naar <START:nav_target> galerij <END> navigeren
+naar <START:nav_target> modi <END> navigeren
 naar <START:nav_target> camera <END> navigeren
 naar <START:nav_target> zitting <END> navigeren
 naar <START:nav_target> zitting <END> positie navigeren
@@ -570,6 +579,7 @@ naar <START:nav_target> instellingen <END>
 naar <START:nav_target> support <END>
 naar <START:nav_target> media <END>
 naar <START:nav_target> galerij <END>
+naar <START:nav_target> modi <END>
 naar <START:nav_target> camera <END>
 naar <START:nav_target> zitting <END>
 naar <START:nav_target> zitting <END> positie
@@ -633,6 +643,7 @@ naar <START:nav_target> instellingen <END> gaan
 naar <START:nav_target> support <END> gaan
 naar <START:nav_target> media <END> gaan
 naar <START:nav_target> galerij <END> gaan
+naar <START:nav_target> modi <END> gaan
 naar <START:nav_target> camera <END> gaan
 naar <START:nav_target> zitting <END> gaan
 naar <START:nav_target> zitting <END> positie gaan
@@ -696,6 +707,7 @@ overschakelen naar <START:nav_target> instellingen <END>
 overschakelen naar <START:nav_target> support <END>
 overschakelen naar <START:nav_target> media <END>
 overschakelen naar <START:nav_target> galerij <END>
+overschakelen naar <START:nav_target> modi <END>
 overschakelen naar <START:nav_target> camera <END>
 overschakelen naar <START:nav_target> zitting <END>
 overschakelen naar <START:nav_target> zitting <END> positie
@@ -759,6 +771,7 @@ overschakelen naar de categorie <START:nav_target> instellingen <END>
 overschakelen naar de categorie <START:nav_target> support <END>
 overschakelen naar de categorie <START:nav_target> media <END>
 overschakelen naar de categorie <START:nav_target> galerij <END>
+overschakelen naar de categorie <START:nav_target> modi <END>
 overschakelen naar de categorie <START:nav_target> camera <END>
 overschakelen naar de categorie <START:nav_target> zitting <END>
 overschakelen naar de categorie <START:nav_target> zitting <END> positie
@@ -822,6 +835,7 @@ neem me mee naar <START:nav_target> instellingen <END>
 neem me mee naar <START:nav_target> support <END>
 neem me mee naar <START:nav_target> media <END>
 neem me mee naar <START:nav_target> galerij <END>
+neem me mee naar <START:nav_target> modi <END>
 neem me mee naar <START:nav_target> camera <END>
 neem me mee naar <START:nav_target> zitting <END>
 neem me mee naar <START:nav_target> zitting <END> positie
@@ -885,6 +899,7 @@ neem me mee naar de categorie <START:nav_target> instellingen <END>
 neem me mee naar de categorie <START:nav_target> support <END>
 neem me mee naar de categorie <START:nav_target> media <END>
 neem me mee naar de categorie <START:nav_target> galerij <END>
+neem me mee naar de categorie <START:nav_target> modi <END>
 neem me mee naar de categorie <START:nav_target> camera <END>
 neem me mee naar de categorie <START:nav_target> zitting <END>
 neem me mee naar de categorie <START:nav_target> zitting <END> positie

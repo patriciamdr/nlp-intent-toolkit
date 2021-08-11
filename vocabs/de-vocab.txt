@@ -192,3 +192,4 @@ neun
 zehn
 munevo
 kinova
+iarm

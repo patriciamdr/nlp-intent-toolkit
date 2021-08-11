@@ -1,39 +1,39 @@
-turn down the <START:volume_target> volume <END>
-turn down <START:volume_target> volume <END>
-turn the <START:volume_target> volume <END> down
-turn <START:volume_target> volume <END> down
-<START:volume_target> volume <END> down
-decrease <START:volume_target> volume <END>
-decrease the <START:volume_target> volume <END>
-reduce <START:volume_target> volume <END>
-reduce the <START:volume_target> volume <END>
-lower <START:volume_target> volume <END>
-<START:volume_target> volume <END> lower
-lower the <START:volume_target> volume <END>
-please turn down the <START:volume_target> volume <END>
-please turn down <START:volume_target> volume <END>
-please turn the <START:volume_target> volume <END> down
-please turn <START:volume_target> volume <END> down
-please <START:volume_target> volume <END> down
-please decrease <START:volume_target> volume <END>
-please decrease the <START:volume_target> volume <END>
-please reduce <START:volume_target> volume <END>
-please reduce the <START:volume_target> volume <END>
-please lower <START:volume_target> volume <END>
-please <START:volume_target> volume <END> lower
-please lower the <START:volume_target> volume <END>
-turn down the <START:volume_target> volume <END> please
-turn down <START:volume_target> volume <END> please
-turn the <START:volume_target> volume <END> down please
-turn <START:volume_target> volume <END> down please
-<START:volume_target> volume <END> down please
-decrease <START:volume_target> volume <END> please
-decrease the <START:volume_target> volume <END> please
-reduce <START:volume_target> volume <END> please
-reduce the <START:volume_target> volume <END> please
-lower <START:volume_target> volume <END> please
-<START:volume_target> volume <END> lower please
-lower the <START:volume_target> volume <END> please
+turn down the <START:decrease_target> volume <END>
+turn down <START:decrease_target> volume <END>
+turn the <START:decrease_target> volume <END> down
+turn <START:decrease_target> volume <END> down
+<START:decrease_target> volume <END> down
+decrease <START:decrease_target> volume <END>
+decrease the <START:decrease_target> volume <END>
+reduce <START:decrease_target> volume <END>
+reduce the <START:decrease_target> volume <END>
+lower <START:decrease_target> volume <END>
+<START:decrease_target> volume <END> lower
+lower the <START:decrease_target> volume <END>
+please turn down the <START:decrease_target> volume <END>
+please turn down <START:decrease_target> volume <END>
+please turn the <START:decrease_target> volume <END> down
+please turn <START:decrease_target> volume <END> down
+please <START:decrease_target> volume <END> down
+please decrease <START:decrease_target> volume <END>
+please decrease the <START:decrease_target> volume <END>
+please reduce <START:decrease_target> volume <END>
+please reduce the <START:decrease_target> volume <END>
+please lower <START:decrease_target> volume <END>
+please <START:decrease_target> volume <END> lower
+please lower the <START:decrease_target> volume <END>
+turn down the <START:decrease_target> volume <END> please
+turn down <START:decrease_target> volume <END> please
+turn the <START:decrease_target> volume <END> down please
+turn <START:decrease_target> volume <END> down please
+<START:decrease_target> volume <END> down please
+decrease <START:decrease_target> volume <END> please
+decrease the <START:decrease_target> volume <END> please
+reduce <START:decrease_target> volume <END> please
+reduce the <START:decrease_target> volume <END> please
+lower <START:decrease_target> volume <END> please
+<START:decrease_target> volume <END> lower please
+lower the <START:decrease_target> volume <END> please
 turn down
 turn down the
 decrease
