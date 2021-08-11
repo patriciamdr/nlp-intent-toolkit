@@ -138,3 +138,6 @@ volume
 vous
 wifi
 zéro
+munevo
+iarm
+kinova
