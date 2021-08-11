@@ -2,7 +2,12 @@ l'internet:wifi
 internet:wifi
 d'internet:wifi
 l'inclinaison:inclinaison
+l'email:email
+l'app:app
 lumières:lumière
 détresset:détresse
 douplage:doublage
 néerlandais:néerlandaise
+l'administration:admin
+administration:admin
+l'avancé:avancé

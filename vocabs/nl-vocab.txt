@@ -6,6 +6,7 @@ acht
 add ons
 administratie
 alarmlichten
+alarmlichten uit
 alleen rijden
 android
 app
@@ -54,8 +55,10 @@ knikken
 koppelen
 lager
 licht
+licht uit
 lichten
 maak
+maak een foto
 mail
 maken
 media

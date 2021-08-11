@@ -19,7 +19,7 @@ augmenter
 avancé
 baisse
 baisser
-base
+de base
 calibre
 caméra
 catégorie
@@ -64,13 +64,16 @@ end
 éteinte
 éteintes
 éteints
+éteins
 existant
 faible
-feux
+fais
+faire
+feux de détresse
 fort
 français
 galerie
-geste
+geste de conduite
 hocher
 huit
 image
@@ -79,6 +82,8 @@ info
 internet
 jour
 langue
+l'administration
+l'app
 l'appareil
 l'application
 la
@@ -114,7 +119,7 @@ recherche
 rechercher
 réduire
 réduis
-réglages
+réglages de verre
 réseau
 sélectionne
 sélectionner

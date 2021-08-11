@@ -16,3 +16,11 @@ veuillez prends <START:photo_target> image <END>
 veuillez prendre <START:photo_target> image <END>
 <START:photo_target> photo <END> s'il vous plaît
 <START:photo_target> image <END> s'il vous plaît
+fais une <START:photo_target> photo <END>
+faire une <START:photo_target> photo <END>
+fais une <START:photo_target> image <END>
+faire une <START:photo_target> image <END>
+fais <START:photo_target> photo <END>
+faire <START:photo_target> photo <END>
+fais <START:photo_target> image <END>
+faire <START:photo_target> image <END>

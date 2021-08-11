@@ -6,10 +6,10 @@ allumer la <START:light_target> lumière <END>
 allumer les <START:light_target> lumières <END>
 allumer <START:light_target> lumière <END>
 allumer <START:light_target> lumières <END>
-éteinds la <START:light_target> lumière <END>
-éteinds les <START:light_target> lumières <END>
-éteinds <START:light_target> lumière <END>
-éteinds <START:light_target> lumières <END>
+éteins la <START:light_target> lumière <END>
+éteins les <START:light_target> lumières <END>
+éteins <START:light_target> lumière <END>
+éteins <START:light_target> lumières <END>
 éteindre la <START:light_target> lumière <END>
 éteindre les <START:light_target> lumières <END>
 éteindre <START:light_target> lumière <END>
@@ -22,8 +22,8 @@ allume les <START:light_target> feux de détresse <END>
 allume <START:light_target> feux de détresse <END>
 allumer les <START:light_target> feux de détresse <END>
 allumer <START:light_target> feux de détresse <END>
-éteinds les <START:light_target> feux de détresse <END>
-éteinds <START:light_target> feux de détresse <END>
+éteins les <START:light_target> feux de détresse <END>
+éteins <START:light_target> feux de détresse <END>
 éteindre les <START:light_target> feux de détresse <END>
 éteindre <START:light_target> feux de détresse <END>
 <START:light_target> feux de détresse <END> allumés
