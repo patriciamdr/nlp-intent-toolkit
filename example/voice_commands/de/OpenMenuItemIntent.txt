@@ -14,6 +14,9 @@
 öffne die <START:open_target> tv power <END>
 öffne die <START:open_target> tv einstellungen <END>
 öffne den <START:open_target> tv <END>
+öffne <START:open_target> home <END>
+öffne <START:open_target> house mate <END>
+öffne <START:open_target> intercom <END>
 öffne <START:open_target> bett <END>
 öffne <START:open_target> raum licht <END>
 öffne <START:open_target> raum lichter <END>
@@ -30,6 +33,9 @@
 öffne <START:open_target> tv power <END>
 öffne <START:open_target> tv einstellungen <END>
 öffne <START:open_target> tv <END>
+<START:open_target> home <END> öffnen
+<START:open_target> house mate <END> öffnen
+<START:open_target> intercom <END> öffnen
 <START:open_target> bett <END> öffnen
 <START:open_target> raum licht <END> öffnen
 <START:open_target> raum lichter <END> öffnen
@@ -46,6 +52,9 @@
 <START:open_target> tv power <END> öffnen
 <START:open_target> tv einstellungen <END> öffnen
 <START:open_target> tv <END> öffnen
+öffne die kategorie <START:open_target> home <END>
+öffne die kategorie <START:open_target> house mate <END>
+öffne die kategorie <START:open_target> intercom <END>
 öffne die kategorie <START:open_target> fenster <END>
 öffne die kategorie <START:open_target> tür <END>
 öffne die kategorie <START:open_target> vorhang <END>
@@ -66,6 +75,9 @@
 öffne die kategorie <START:open_target> tv power <END>
 öffne die kategorie <START:open_target> tv einstellungen <END>
 öffne die kategorie <START:open_target> tv <END>
+öffne kategorie <START:open_target> home <END>
+öffne kategorie <START:open_target> house mate <END>
+öffne kategorie <START:open_target> intercom <END>
 öffne kategorie <START:open_target> fenster <END>
 öffne kategorie <START:open_target> tür <END>
 öffne kategorie <START:open_target> vorhang <END>
@@ -86,6 +98,9 @@
 öffne kategorie <START:open_target> tv power <END>
 öffne kategorie <START:open_target> tv einstellungen <END>
 öffne kategorie <START:open_target> tv <END>
+die kategorie <START:open_target> home <END> öffnen
+die kategorie <START:open_target> house mate <END> öffnen
+die kategorie <START:open_target> intercom <END> öffnen
 die kategorie <START:open_target> bett <END> öffnen
 die kategorie <START:open_target> raum licht <END> öffnen
 die kategorie <START:open_target> raum lichter <END> öffnen
@@ -106,6 +121,9 @@ die kategorie <START:open_target> fenster <END> öffnen
 die kategorie <START:open_target> tür <END> öffnen
 die kategorie <START:open_target> vorhang <END> öffnen
 die kategorie <START:open_target> vorhänge <END> öffnen
+kategorie <START:open_target> home <END> öffnen
+kategorie <START:open_target> house mate <END> öffnen
+kategorie <START:open_target> intercom <END> öffnen
 kategorie <START:open_target> bett <END> öffnen
 kategorie <START:open_target> raum licht <END> öffnen
 kategorie <START:open_target> raum lichter <END> öffnen
@@ -168,7 +186,6 @@ kategorie <START:open_target> vorhänge <END> öffnen
 öffne <START:open_target> basic <END>
 öffne <START:open_target> fortgeschritten <END>
 öffne <START:open_target> nur fahren <END>
-öffne <START:open_target> fahrgeste <END>
 öffne <START:open_target> fahr geste <END>
 öffne <START:open_target> add ons <END>
 öffne <START:open_target> mouse eins <END>
@@ -229,7 +246,6 @@ bitte öffne <START:open_target> mouse zwei <END>
 <START:open_target> basic <END> öffnen
 <START:open_target> fortgeschritten <END> öffnen
 <START:open_target> nur fahren <END> öffnen
-<START:open_target> fahrgeste <END> öffnen
 <START:open_target> fahr geste <END> öffnen
 <START:open_target> add ons <END> öffnen
 <START:open_target> mouse eins <END> öffnen
@@ -290,7 +306,6 @@ bitte <START:open_target> mouse zwei <END> öffnen
 öffne den modus <START:open_target> fortgeschritten <END>
 öffne kategorie <START:open_target> nur fahren <END>
 öffne den modus <START:open_target> nur fahren <END>
-öffne kategorie <START:open_target> fahrgeste <END>
 öffne kategorie <START:open_target> fahr geste <END>
 öffne kategorie <START:open_target> add ons <END>
 öffne die <START:open_target> add ons <END>
@@ -345,7 +360,6 @@ kategorie <START:open_target> modi <END> öffnen
 kategorie <START:open_target> basic <END> öffnen
 kategorie <START:open_target> fortgeschritten <END> öffnen
 kategorie <START:open_target> nur fahren <END> öffnen
-kategorie <START:open_target> fahrgeste <END> öffnen
 kategorie <START:open_target> fahr geste <END> öffnen
 kategorie <START:open_target> add ons <END> öffnen
 kategorie <START:open_target> mouse eins <END> öffnen

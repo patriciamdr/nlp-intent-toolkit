@@ -1,0 +1,48 @@
+doe de <START:control_target> lichten <END> aan
+doe de <START:control_target> lichten <END> uit
+doe het <START:control_target> licht <END> aan
+doe het <START:control_target> licht <END> uit
+doe de <START:control_target> alarmlichten <END> aan
+doe de <START:control_target> alarmlichten <END> uit
+zet de <START:control_target> lichten <END> aan
+zet de <START:control_target> lichten <END> uit
+zet het <START:control_target> licht <END> aan
+zet het <START:control_target> licht <END> uit
+zet de <START:control_target> alarmlichten <END> aan
+zet de <START:control_target> alarmlichten <END> uit
+doe <START:control_target> lichten <END> aan
+doe <START:control_target> lichten <END> uit
+doe <START:control_target> licht <END> aan
+doe <START:control_target> licht <END> uit
+doe <START:control_target> alarmlichten <END> aan
+doe <START:control_target> alarmlichten <END> uit
+zet <START:control_target> lichten <END> aan
+zet <START:control_target> lichten <END> uit
+zet <START:control_target> licht <END> aan
+zet <START:control_target> licht <END> uit
+zet <START:control_target> alarmlichten <END> aan
+zet <START:control_target> alarmlichten <END> uit
+schakel de <START:control_target> lichten <END> in
+schakel de <START:control_target> lichten <END> uit
+schakel het <START:control_target> licht <END> in
+schakel het <START:control_target> licht <END> uit
+schakel de <START:control_target> alarmlichten <END> in
+schakel de <START:control_target> alarmlichten <END> uit
+schakel <START:control_target> lichten <END> in
+schakel <START:control_target> lichten <END> uit
+schakel <START:control_target> licht <END> in
+schakel <START:control_target> licht <END> uit
+schakel <START:control_target> alarmlichten <END> in
+schakel <START:control_target> alarmlichten <END> uit
+<START:control_target> licht <END> aan
+<START:control_target> licht <END> uit
+<START:control_target> lichten <END> aan
+<START:control_target> lichten <END> uit
+<START:control_target> alarmlichten <END> aan
+<START:control_target> alarmlichten <END> uit
+<START:control_target> licht <END> inschakelen
+<START:control_target> licht <END> uitschakelen
+<START:control_target> lichten <END> inschakelen
+<START:control_target> lichten <END> uitschakelen
+<START:control_target> alarmlichten <END> inschakelen
+<START:control_target> alarmlichten <END> uitschakelen

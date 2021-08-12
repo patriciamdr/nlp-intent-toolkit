@@ -1,0 +1,30 @@
+allume la <START:control_target> lumière <END>
+allume les <START:control_target> lumières <END>
+allume <START:control_target> lumière <END>
+allume <START:control_target> lumières <END>
+allumer la <START:control_target> lumière <END>
+allumer les <START:control_target> lumières <END>
+allumer <START:control_target> lumière <END>
+allumer <START:control_target> lumières <END>
+éteins la <START:control_target> lumière <END>
+éteins les <START:control_target> lumières <END>
+éteins <START:control_target> lumière <END>
+éteins <START:control_target> lumières <END>
+éteindre la <START:control_target> lumière <END>
+éteindre les <START:control_target> lumières <END>
+éteindre <START:control_target> lumière <END>
+éteindre <START:control_target> lumières <END>
+<START:control_target> lumières <END> allumées
+<START:control_target> lumière <END> allumée
+<START:control_target> lumière <END> éteinte
+<START:control_target> lumières <END> éteintes
+allume les <START:control_target> feux de détresse <END>
+allume <START:control_target> feux de détresse <END>
+allumer les <START:control_target> feux de détresse <END>
+allumer <START:control_target> feux de détresse <END>
+éteins les <START:control_target> feux de détresse <END>
+éteins <START:control_target> feux de détresse <END>
+éteindre les <START:control_target> feux de détresse <END>
+éteindre <START:control_target> feux de détresse <END>
+<START:control_target> feux de détresse <END> allumés
+<START:control_target> feux de détresse <END> éteints

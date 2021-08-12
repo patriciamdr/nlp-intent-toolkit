@@ -116,23 +116,29 @@ public class IntentTrainer {
 
             List<ObjectStream<NameSample>> nameStreams = new ArrayList<ObjectStream<NameSample>>();
             for (String trainingFile : trainingFiles) {
+                File file = new File(trainingDirectory + "/" + trainingFile + ".txt");
+                if (!file.exists()) {
+                    continue;
+                }
                 ObjectStream<String> lineStream = new PlainTextByLineStream(
-                    new MarkableFileInputStreamFactory(new File(trainingDirectory + "/" + trainingFile + ".txt")), "UTF-8");
+                    new MarkableFileInputStreamFactory(file), "UTF-8");
                 ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
                 nameStreams.add(nameSampleStream);
             }
-            ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
-            ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
+            if (nameStreams.size() > 0) {
+                ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
+                ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
 
-            TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams,
-                new TokenNameFinderFactory(readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
-            ));
-            combinedNameSampleStream.close();
+                TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams,
+                        new TokenNameFinderFactory(readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
+                        ));
+                combinedNameSampleStream.close();
 
-            tokenNameFinderModels.put(slot, tokenNameFinderModel);
+                tokenNameFinderModels.put(slot, tokenNameFinderModel);
 
-            modelOut = new BufferedOutputStream(new FileOutputStream("./models/namefinders/models-" + lang + "/" + slot + ".bin"));
-            tokenNameFinderModel.serialize(modelOut);
+                modelOut = new BufferedOutputStream(new FileOutputStream("./models/namefinders/models-" + lang + "/" + slot + ".bin"));
+                tokenNameFinderModel.serialize(modelOut);
+            }
         }
 
         DocumentCategorizerME categorizer = new DocumentCategorizerME(doccatModel);

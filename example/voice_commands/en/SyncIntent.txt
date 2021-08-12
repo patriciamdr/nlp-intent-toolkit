@@ -67,17 +67,17 @@ start synchronisation
 start synchronisation now
 do synchronisation
 do synchronisation now
-sychronizing
-sychronizing app
-sychronizing glass
-sychronizing device
-app sychronizing
-glass sychronizing
-device sychronizing
-start sychronizing
-start sychronizing now
-do sychronizing
-do sychronizing now
+synchronizing
+synchronizing app
+synchronizing glass
+synchronizing device
+app synchronizing
+glass synchronizing
+device synchronizing
+start synchronizing
+start synchronizing now
+do synchronizing
+do synchronizing now
 synchronising
 synchronising app
 synchronising glass
@@ -142,11 +142,11 @@ synchronisation the glass
 synchronisation the device
 start the synchronisation
 do the synchronisation
-sychronizing the app
-sychronizing the glass
-sychronizing the device
-start the sychronizing
-do the sychronizing
+synchronizing the app
+synchronizing the glass
+synchronizing the device
+start the synchronizing
+do the synchronizing
 synchronising the app
 synchronising the glass
 synchronising the device

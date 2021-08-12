@@ -36,3 +36,4 @@ nächsten:nächstes
 nächstem:nächstes
 vorhänge:vorhang
 betts:bett
+heizung:heater

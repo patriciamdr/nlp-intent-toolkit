@@ -30,7 +30,7 @@ der <START:nav_target> tv <END>
 <START:nav_target> heizung <END>
 <START:nav_target> ventilator <END>
 <START:nav_target> home <END>
-<START:nav_target> housemate <END>
+<START:nav_target> house mate <END>
 <START:nav_target> tür <END>
 <START:nav_target> alarm <END>
 <START:nav_target> intercom <END>
@@ -53,7 +53,7 @@ zu <START:nav_target> heater <END>
 zu <START:nav_target> heizung <END>
 zu <START:nav_target> ventilator <END>
 zu <START:nav_target> home <END>
-zu <START:nav_target> housemate <END>
+zu <START:nav_target> house mate <END>
 zu <START:nav_target> tür <END>
 zu <START:nav_target> alarm <END>
 zu <START:nav_target> intercom <END>
@@ -98,7 +98,7 @@ gehe zu <START:nav_target> heater <END>
 gehe zu <START:nav_target> heizung <END>
 gehe zu <START:nav_target> ventilator <END>
 gehe zu <START:nav_target> home <END>
-gehe zu <START:nav_target> housemate <END>
+gehe zu <START:nav_target> house mate <END>
 gehe zu <START:nav_target> tür <END>
 gehe zu <START:nav_target> alarm <END>
 gehe zu <START:nav_target> intercom <END>
@@ -143,7 +143,7 @@ navigiere zu <START:nav_target> heater <END>
 navigiere zu <START:nav_target> heizung <END>
 navigiere zu <START:nav_target> ventilator <END>
 navigiere zu <START:nav_target> home <END>
-navigiere zu <START:nav_target> housemate <END>
+navigiere zu <START:nav_target> house mate <END>
 navigiere zu <START:nav_target> tür <END>
 navigiere zu <START:nav_target> alarm <END>
 navigiere zu <START:nav_target> intercom <END>
@@ -188,7 +188,7 @@ bring mich zu <START:nav_target> heater <END>
 bring mich zu <START:nav_target> heizung <END>
 bring mich zu <START:nav_target> ventilator <END>
 bring mich zu <START:nav_target> home <END>
-bring mich zu <START:nav_target> housemate <END>
+bring mich zu <START:nav_target> house mate <END>
 bring mich zu <START:nav_target> tür <END>
 bring mich zu <START:nav_target> alarm <END>
 bring mich zu <START:nav_target> intercom <END>
@@ -233,7 +233,7 @@ zeige <START:nav_target> heater <END>
 zeige <START:nav_target> heizung <END>
 zeige <START:nav_target> ventilator <END>
 zeige <START:nav_target> home <END>
-zeige <START:nav_target> housemate <END>
+zeige <START:nav_target> house mate <END>
 zeige <START:nav_target> tür <END>
 zeige <START:nav_target> alarm <END>
 zeige <START:nav_target> intercom <END>
@@ -276,7 +276,7 @@ wähle <START:nav_target> heater <END>
 wähle <START:nav_target> heizung <END>
 wähle <START:nav_target> ventilator <END>
 wähle <START:nav_target> home <END>
-wähle <START:nav_target> housemate <END>
+wähle <START:nav_target> house mate <END>
 wähle <START:nav_target> tür <END>
 wähle <START:nav_target> alarm <END>
 wähle <START:nav_target> intercom <END>
@@ -319,7 +319,7 @@ wechsel zu <START:nav_target> heater <END>
 wechsel zu <START:nav_target> heizung <END>
 wechsel zu <START:nav_target> ventilator <END>
 wechsel zu <START:nav_target> home <END>
-wechsel zu <START:nav_target> housemate <END>
+wechsel zu <START:nav_target> house mate <END>
 wechsel zu <START:nav_target> tür <END>
 wechsel zu <START:nav_target> alarm <END>
 wechsel zu <START:nav_target> intercom <END>
@@ -384,7 +384,7 @@ zu der kategorie <START:nav_target> heater <END>
 zu der kategorie <START:nav_target> heizung <END>
 zu der kategorie <START:nav_target> ventilator <END>
 zu der kategorie <START:nav_target> home <END>
-zu der kategorie <START:nav_target> housemate <END>
+zu der kategorie <START:nav_target> house mate <END>
 zu der kategorie <START:nav_target> tür <END>
 zu der kategorie <START:nav_target> alarm <END>
 zu der kategorie <START:nav_target> intercom <END>
@@ -408,7 +408,7 @@ gehe zu der kategorie <START:nav_target> heater <END>
 gehe zu der kategorie <START:nav_target> heizung <END>
 gehe zu der kategorie <START:nav_target> ventilator <END>
 gehe zu der kategorie <START:nav_target> home <END>
-gehe zu der kategorie <START:nav_target> housemate <END>
+gehe zu der kategorie <START:nav_target> house mate <END>
 gehe zu der kategorie <START:nav_target> tür <END>
 gehe zu der kategorie <START:nav_target> alarm <END>
 gehe zu der kategorie <START:nav_target> intercom <END>
@@ -432,7 +432,7 @@ navigiere zu der kategorie <START:nav_target> heater <END>
 navigiere zu der kategorie <START:nav_target> heizung <END>
 navigiere zu der kategorie <START:nav_target> ventilator <END>
 navigiere zu der kategorie <START:nav_target> home <END>
-navigiere zu der kategorie <START:nav_target> housemate <END>
+navigiere zu der kategorie <START:nav_target> house mate <END>
 navigiere zu der kategorie <START:nav_target> tür <END>
 navigiere zu der kategorie <START:nav_target> alarm <END>
 navigiere zu der kategorie <START:nav_target> intercom <END>
@@ -456,7 +456,7 @@ bring mich zu der kategorie <START:nav_target> heater <END>
 bring mich zu der kategorie <START:nav_target> heizung <END>
 bring mich zu der kategorie <START:nav_target> ventilator <END>
 bring mich zu der kategorie <START:nav_target> home <END>
-bring mich zu der kategorie <START:nav_target> housemate <END>
+bring mich zu der kategorie <START:nav_target> house mate <END>
 bring mich zu der kategorie <START:nav_target> tür <END>
 bring mich zu der kategorie <START:nav_target> alarm <END>
 bring mich zu der kategorie <START:nav_target> intercom <END>
@@ -480,7 +480,7 @@ zeige die kategorie <START:nav_target> heater <END>
 zeige die kategorie <START:nav_target> heizung <END>
 zeige die kategorie <START:nav_target> ventilator <END>
 zeige die kategorie <START:nav_target> home <END>
-zeige die kategorie <START:nav_target> housemate <END>
+zeige die kategorie <START:nav_target> house mate <END>
 zeige die kategorie <START:nav_target> tür <END>
 zeige die kategorie <START:nav_target> alarm <END>
 zeige die kategorie <START:nav_target> intercom <END>
@@ -503,7 +503,7 @@ wähle die kategorie <START:nav_target> heater <END>
 wähle die kategorie <START:nav_target> heizung <END>
 wähle die kategorie <START:nav_target> ventilator <END>
 wähle die kategorie <START:nav_target> home <END>
-wähle die kategorie <START:nav_target> housemate <END>
+wähle die kategorie <START:nav_target> house mate <END>
 wähle die kategorie <START:nav_target> tür <END>
 wähle die kategorie <START:nav_target> alarm <END>
 wähle die kategorie <START:nav_target> intercom <END>
@@ -526,7 +526,7 @@ wechsel zu der kategorie <START:nav_target> heater <END>
 wechsel zu der kategorie <START:nav_target> heizung <END>
 wechsel zu der kategorie <START:nav_target> ventilator <END>
 wechsel zu der kategorie <START:nav_target> home <END>
-wechsel zu der kategorie <START:nav_target> housemate <END>
+wechsel zu der kategorie <START:nav_target> house mate <END>
 wechsel zu der kategorie <START:nav_target> tür <END>
 wechsel zu der kategorie <START:nav_target> alarm <END>
 wechsel zu der kategorie <START:nav_target> intercom <END>
@@ -633,9 +633,9 @@ zur <START:nav_target> app info <END>
 zur <START:nav_target> notfall email <END>
 <START:nav_target> admin <END>
 zum <START:nav_target> admin <END>
-<START:nav_target> admininistration <END>
-die <START:nav_target> admininistration <END>
-zur <START:nav_target> admininistration <END>
+<START:nav_target> administration <END>
+die <START:nav_target> administration <END>
+zur <START:nav_target> administration <END>
 <START:nav_target> koppeln <END>
 zum <START:nav_target> koppeln <END>
 <START:nav_target> monitor <END>
@@ -840,7 +840,7 @@ zu <START:nav_target> app info <END>
 zu <START:nav_target> notfall-email <END>
 zu <START:nav_target> notfall email <END>
 zu <START:nav_target> admin <END>
-zu <START:nav_target> admininistration <END>
+zu <START:nav_target> administration <END>
 zu <START:nav_target> koppeln <END>
 zu <START:nav_target> monitor <END>
 zu <START:nav_target> vorhandenes handy <END>
@@ -897,9 +897,9 @@ gehe zu <START:nav_target> licht <END> menü
 gehe zu kategorie <START:nav_target> licht <END>
 gehe zu kategorie <START:nav_target> licht <END> menü
 gehe zu <START:nav_target> warn blinker <END>
-gehe zu <START:nav_target> warnblinklichter <END>
-gehe zu kategorie <START:nav_target> warnblinklichter <END>
-gehe zu den <START:nav_target> warnblinklichtern <END>
+gehe zu <START:nav_target> warn blinklichter <END>
+gehe zu kategorie <START:nav_target> warn blinklichter <END>
+gehe zu den <START:nav_target> warn blinklichter <END>
 gehe zu <START:nav_target> lautstärke <END>
 gehe zu kategorie <START:nav_target> lautstärke <END>
 gehe zu <START:nav_target> sprache <END>

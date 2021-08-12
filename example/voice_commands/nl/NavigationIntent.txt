@@ -83,10 +83,6 @@ verander naar <START:nav_target> talen <END> instelling
 verander naar <START:nav_target> kalibratie <END>
 verander naar <START:nav_target> volume <END>
 verander naar <START:nav_target> taal <END>
-verander naar <START:nav_target> frans <END>
-verander naar <START:nav_target> nederlands <END>
-verander naar <START:nav_target> duits <END>
-verander naar <START:nav_target> engels <END>
 verander naar <START:nav_target> kantelen <END> kalibratie
 verander naar <START:nav_target> knikken <END> kalibratie
 verander naar <START:nav_target> kantel <END> kalibratie
