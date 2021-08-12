@@ -3272,171 +3272,171 @@ die musik fortfahren
 die musik fortsetzen
 mit musik fortfahren
 mit der musik fortfahren
-setze musik null
-setze musik eins
-setze musik zwei
-setze musik drei
-setze musik vier
-setze musik fünf
-setze musik sechs
-setze musik sieben
-setze musik acht
-setze musik neun
-setze musik zehn
-setze die musik null
-setze die musik eins
-setze die musik zwei
-setze die musik drei
-setze die musik vier
-setze die musik fünf
-setze die musik sechs
-setze die musik sieben
-setze die musik acht
-setze die musik neun
-setze die musik zehn
-musik null
-musik eins
-musik zwei
-musik drei
-musik vier
-musik fünf
-musik sechs
-musik sieben
-musik acht
-musik neun
-musik zehn
-ändere musik null
-ändere musik eins
-ändere musik zwei
-ändere musik drei
-ändere musik vier
-ändere musik fünf
-ändere musik sechs
-ändere musik sieben
-ändere musik acht
-ändere musik neun
-ändere musik zehn
-ändere die musik null
-ändere die musik eins
-ändere die musik zwei
-ändere die musik drei
-ändere die musik vier
-ändere die musik fünf
-ändere die musik sechs
-ändere die musik sieben
-ändere die musik acht
-ändere die musik neun
-ändere die musik zehn
-bitte setze musik null
-bitte setze musik eins
-bitte setze musik zwei
-bitte setze musik drei
-bitte setze musik vier
-bitte setze musik fünf
-bitte setze musik sechs
-bitte setze musik sieben
-bitte setze musik acht
-bitte setze musik neun
-bitte setze musik zehn
-bitte setze die musik null
-bitte setze die musik eins
-bitte setze die musik zwei
-bitte setze die musik drei
-bitte setze die musik vier
-bitte setze die musik fünf
-bitte setze die musik sechs
-bitte setze die musik sieben
-bitte setze die musik acht
-bitte setze die musik neun
-bitte setze die musik zehn
-bitte musik null
-bitte musik eins
-bitte musik zwei
-bitte musik drei
-bitte musik vier
-bitte musik fünf
-bitte musik sechs
-bitte musik sieben
-bitte musik acht
-bitte musik neun
-bitte musik zehn
-bitte ändere musik null
-bitte ändere musik eins
-bitte ändere musik zwei
-bitte ändere musik drei
-bitte ändere musik vier
-bitte ändere musik fünf
-bitte ändere musik sechs
-bitte ändere musik sieben
-bitte ändere musik acht
-bitte ändere musik neun
-bitte ändere musik zehn
-bitte ändere die musik null
-bitte ändere die musik eins
-bitte ändere die musik zwei
-bitte ändere die musik drei
-bitte ändere die musik vier
-bitte ändere die musik fünf
-bitte ändere die musik sechs
-bitte ändere die musik sieben
-bitte ändere die musik acht
-bitte ändere die musik neun
-bitte ändere die musik zehn
-setze musik null bitte
-setze musik eins bitte
-setze musik zwei bitte
-setze musik drei bitte
-setze musik vier bitte
-setze musik fünf bitte
-setze musik sechs bitte
-setze musik sieben bitte
-setze musik acht bitte
-setze musik neun bitte
-setze musik zehn bitte
-setze die musik null bitte
-setze die musik eins bitte
-setze die musik zwei bitte
-setze die musik drei bitte
-setze die musik vier bitte
-setze die musik fünf bitte
-setze die musik sechs bitte
-setze die musik sieben bitte
-setze die musik acht bitte
-setze die musik neun bitte
-setze die musik zehn bitte
-musik null bitte
-musik eins bitte
-musik zwei bitte
-musik drei bitte
-musik vier bitte
-musik fünf bitte
-musik sechs bitte
-musik sieben bitte
-musik acht bitte
-musik neun bitte
-musik zehn bitte
-ändere musik null bitte
-ändere musik eins bitte
-ändere musik zwei bitte
-ändere musik drei bitte
-ändere musik vier bitte
-ändere musik fünf bitte
-ändere musik sechs bitte
-ändere musik sieben bitte
-ändere musik acht bitte
-ändere musik neun bitte
-ändere musik zehn bitte
-ändere die musik null bitte
-ändere die musik eins bitte
-ändere die musik zwei bitte
-ändere die musik drei bitte
-ändere die musik vier bitte
-ändere die musik fünf bitte
-ändere die musik sechs bitte
-ändere die musik sieben bitte
-ändere die musik acht bitte
-ändere die musik neun bitte
-ändere die musik zehn bitte
+setze musik auf null
+setze musik auf eins
+setze musik auf zwei
+setze musik auf drei
+setze musik auf vier
+setze musik auf fünf
+setze musik auf sechs
+setze musik auf sieben
+setze musik auf acht
+setze musik auf neun
+setze musik auf zehn
+setze die musik auf null
+setze die musik auf eins
+setze die musik auf zwei
+setze die musik auf drei
+setze die musik auf vier
+setze die musik auf fünf
+setze die musik auf sechs
+setze die musik auf sieben
+setze die musik auf acht
+setze die musik auf neun
+setze die musik auf zehn
+musik auf null
+musik auf eins
+musik auf zwei
+musik auf drei
+musik auf vier
+musik auf fünf
+musik auf sechs
+musik auf sieben
+musik auf acht
+musik auf neun
+musik auf zehn
+ändere musik auf null
+ändere musik auf eins
+ändere musik auf zwei
+ändere musik auf drei
+ändere musik auf vier
+ändere musik auf fünf
+ändere musik auf sechs
+ändere musik auf sieben
+ändere musik auf acht
+ändere musik auf neun
+ändere musik auf zehn
+ändere die musik auf null
+ändere die musik auf eins
+ändere die musik auf zwei
+ändere die musik auf drei
+ändere die musik auf vier
+ändere die musik auf fünf
+ändere die musik auf sechs
+ändere die musik auf sieben
+ändere die musik auf acht
+ändere die musik auf neun
+ändere die musik auf zehn
+bitte setze musik auf null
+bitte setze musik auf eins
+bitte setze musik auf zwei
+bitte setze musik auf drei
+bitte setze musik auf vier
+bitte setze musik auf fünf
+bitte setze musik auf sechs
+bitte setze musik auf sieben
+bitte setze musik auf acht
+bitte setze musik auf neun
+bitte setze musik auf zehn
+bitte setze die musik auf null
+bitte setze die musik auf eins
+bitte setze die musik auf zwei
+bitte setze die musik auf drei
+bitte setze die musik auf vier
+bitte setze die musik auf fünf
+bitte setze die musik auf sechs
+bitte setze die musik auf sieben
+bitte setze die musik auf acht
+bitte setze die musik auf neun
+bitte setze die musik auf zehn
+bitte musik auf null
+bitte musik auf eins
+bitte musik auf zwei
+bitte musik auf drei
+bitte musik auf vier
+bitte musik auf fünf
+bitte musik auf sechs
+bitte musik auf sieben
+bitte musik auf acht
+bitte musik auf neun
+bitte musik auf zehn
+bitte ändere musik auf null
+bitte ändere musik auf eins
+bitte ändere musik auf zwei
+bitte ändere musik auf drei
+bitte ändere musik auf vier
+bitte ändere musik auf fünf
+bitte ändere musik auf sechs
+bitte ändere musik auf sieben
+bitte ändere musik auf acht
+bitte ändere musik auf neun
+bitte ändere musik auf zehn
+bitte ändere die musik auf null
+bitte ändere die musik auf eins
+bitte ändere die musik auf zwei
+bitte ändere die musik auf drei
+bitte ändere die musik auf vier
+bitte ändere die musik auf fünf
+bitte ändere die musik auf sechs
+bitte ändere die musik auf sieben
+bitte ändere die musik auf acht
+bitte ändere die musik auf neun
+bitte ändere die musik auf zehn
+setze musik auf null bitte
+setze musik auf eins bitte
+setze musik auf zwei bitte
+setze musik auf drei bitte
+setze musik auf vier bitte
+setze musik auf fünf bitte
+setze musik auf sechs bitte
+setze musik auf sieben bitte
+setze musik auf acht bitte
+setze musik auf neun bitte
+setze musik auf zehn bitte
+setze die musik auf null bitte
+setze die musik auf eins bitte
+setze die musik auf zwei bitte
+setze die musik auf drei bitte
+setze die musik auf vier bitte
+setze die musik auf fünf bitte
+setze die musik auf sechs bitte
+setze die musik auf sieben bitte
+setze die musik auf acht bitte
+setze die musik auf neun bitte
+setze die musik auf zehn bitte
+musik auf null bitte
+musik auf eins bitte
+musik auf zwei bitte
+musik auf drei bitte
+musik auf vier bitte
+musik auf fünf bitte
+musik auf sechs bitte
+musik auf sieben bitte
+musik auf acht bitte
+musik auf neun bitte
+musik auf zehn bitte
+ändere musik auf null bitte
+ändere musik auf eins bitte
+ändere musik auf zwei bitte
+ändere musik auf drei bitte
+ändere musik auf vier bitte
+ändere musik auf fünf bitte
+ändere musik auf sechs bitte
+ändere musik auf sieben bitte
+ändere musik auf acht bitte
+ändere musik auf neun bitte
+ändere musik auf zehn bitte
+ändere die musik auf null bitte
+ändere die musik auf eins bitte
+ändere die musik auf zwei bitte
+ändere die musik auf drei bitte
+ändere die musik auf vier bitte
+ändere die musik auf fünf bitte
+ändere die musik auf sechs bitte
+ändere die musik auf sieben bitte
+ändere die musik auf acht bitte
+ändere die musik auf neun bitte
+ändere die musik auf zehn bitte
 setze die musik
 setze die musik auf
 musik auf
@@ -3447,28 +3447,39 @@ setze die musik auf
 musik auf
 ändere die musik
 ändere die musik auf
-setze musik lautstärke null
-setze musik lautstärke eins
-setze musik lautstärke zwei
-setze musik lautstärke drei
-setze musik lautstärke vier
-setze musik lautstärke fünf
-setze musik lautstärke sechs
-setze musik lautstärke sieben
-setze musik lautstärke acht
-setze musik lautstärke neun
-setze musik lautstärke zehn
-setze die musik lautstärke null
-setze die musik lautstärke eins
-setze die musik lautstärke zwei
-setze die musik lautstärke drei
-setze die musik lautstärke vier
-setze die musik lautstärke fünf
-setze die musik lautstärke sechs
-setze die musik lautstärke sieben
-setze die musik lautstärke acht
-setze die musik lautstärke neun
-setze die musik lautstärke zehn
+setze musik lautstärke auf null
+setze musik lautstärke auf eins
+setze musik lautstärke auf zwei
+setze musik lautstärke auf drei
+setze musik lautstärke auf vier
+setze musik lautstärke auf fünf
+setze musik lautstärke auf sechs
+setze musik lautstärke auf sieben
+setze musik lautstärke auf acht
+setze musik lautstärke auf neun
+setze musik lautstärke auf zehn
+setze die musik lautstärke auf null
+setze die musik lautstärke auf eins
+setze die musik lautstärke auf zwei
+setze die musik lautstärke auf drei
+setze die musik lautstärke auf vier
+setze die musik lautstärke auf fünf
+setze die musik lautstärke auf sechs
+setze die musik lautstärke auf sieben
+setze die musik lautstärke auf acht
+setze die musik lautstärke auf neun
+setze die musik lautstärke auf zehn
+musik lautstärke auf null
+musik lautstärke auf eins
+musik lautstärke auf zwei
+musik lautstärke auf drei
+musik lautstärke auf vier
+musik lautstärke auf fünf
+musik lautstärke auf sechs
+musik lautstärke auf sieben
+musik lautstärke auf acht
+musik lautstärke auf neun
+musik lautstärke auf zehn
 musik lautstärke null
 musik lautstärke eins
 musik lautstärke zwei
@@ -3480,138 +3491,138 @@ musik lautstärke sieben
 musik lautstärke acht
 musik lautstärke neun
 musik lautstärke zehn
-ändere musik lautstärke null
-ändere musik lautstärke eins
-ändere musik lautstärke zwei
-ändere musik lautstärke drei
-ändere musik lautstärke vier
-ändere musik lautstärke fünf
-ändere musik lautstärke sechs
-ändere musik lautstärke sieben
-ändere musik lautstärke acht
-ändere musik lautstärke neun
-ändere musik lautstärke zehn
-ändere die musik lautstärke null
-ändere die musik lautstärke eins
-ändere die musik lautstärke zwei
-ändere die musik lautstärke drei
-ändere die musik lautstärke vier
-ändere die musik lautstärke fünf
-ändere die musik lautstärke sechs
-ändere die musik lautstärke sieben
-ändere die musik lautstärke acht
-ändere die musik lautstärke neun
-ändere die musik lautstärke zehn
-bitte setze musik lautstärke null
-bitte setze musik lautstärke eins
-bitte setze musik lautstärke zwei
-bitte setze musik lautstärke drei
-bitte setze musik lautstärke vier
-bitte setze musik lautstärke fünf
-bitte setze musik lautstärke sechs
-bitte setze musik lautstärke sieben
-bitte setze musik lautstärke acht
-bitte setze musik lautstärke neun
-bitte setze musik lautstärke zehn
-bitte setze die musik lautstärke null
-bitte setze die musik lautstärke eins
-bitte setze die musik lautstärke zwei
-bitte setze die musik lautstärke drei
-bitte setze die musik lautstärke vier
-bitte setze die musik lautstärke fünf
-bitte setze die musik lautstärke sechs
-bitte setze die musik lautstärke sieben
-bitte setze die musik lautstärke acht
-bitte setze die musik lautstärke neun
-bitte setze die musik lautstärke zehn
-bitte musik lautstärke null
-bitte musik lautstärke eins
-bitte musik lautstärke zwei
-bitte musik lautstärke drei
-bitte musik lautstärke vier
-bitte musik lautstärke fünf
-bitte musik lautstärke sechs
-bitte musik lautstärke sieben
-bitte musik lautstärke acht
-bitte musik lautstärke neun
-bitte musik lautstärke zehn
-bitte ändere musik lautstärke null
-bitte ändere musik lautstärke eins
-bitte ändere musik lautstärke zwei
-bitte ändere musik lautstärke drei
-bitte ändere musik lautstärke vier
-bitte ändere musik lautstärke fünf
-bitte ändere musik lautstärke sechs
-bitte ändere musik lautstärke sieben
-bitte ändere musik lautstärke acht
-bitte ändere musik lautstärke neun
-bitte ändere musik lautstärke zehn
-bitte ändere die musik lautstärke null
-bitte ändere die musik lautstärke eins
-bitte ändere die musik lautstärke zwei
-bitte ändere die musik lautstärke drei
-bitte ändere die musik lautstärke vier
-bitte ändere die musik lautstärke fünf
-bitte ändere die musik lautstärke sechs
-bitte ändere die musik lautstärke sieben
-bitte ändere die musik lautstärke acht
-bitte ändere die musik lautstärke neun
-bitte ändere die musik lautstärke zehn
-setze musik lautstärke null bitte
-setze musik lautstärke eins bitte
-setze musik lautstärke zwei bitte
-setze musik lautstärke drei bitte
-setze musik lautstärke vier bitte
-setze musik lautstärke fünf bitte
-setze musik lautstärke sechs bitte
-setze musik lautstärke sieben bitte
-setze musik lautstärke acht bitte
-setze musik lautstärke neun bitte
-setze musik lautstärke zehn bitte
-setze die musik lautstärke null bitte
-setze die musik lautstärke eins bitte
-setze die musik lautstärke zwei bitte
-setze die musik lautstärke drei bitte
-setze die musik lautstärke vier bitte
-setze die musik lautstärke fünf bitte
-setze die musik lautstärke sechs bitte
-setze die musik lautstärke sieben bitte
-setze die musik lautstärke acht bitte
-setze die musik lautstärke neun bitte
-setze die musik lautstärke zehn bitte
-musik lautstärke null bitte
-musik lautstärke eins bitte
-musik lautstärke zwei bitte
-musik lautstärke drei bitte
-musik lautstärke vier bitte
-musik lautstärke fünf bitte
-musik lautstärke sechs bitte
-musik lautstärke sieben bitte
-musik lautstärke acht bitte
-musik lautstärke neun bitte
-musik lautstärke zehn bitte
-ändere musik lautstärke null bitte
-ändere musik lautstärke eins bitte
-ändere musik lautstärke zwei bitte
-ändere musik lautstärke drei bitte
-ändere musik lautstärke vier bitte
-ändere musik lautstärke fünf bitte
-ändere musik lautstärke sechs bitte
-ändere musik lautstärke sieben bitte
-ändere musik lautstärke acht bitte
-ändere musik lautstärke neun bitte
-ändere musik lautstärke zehn bitte
-ändere die musik lautstärke null bitte
-ändere die musik lautstärke eins bitte
-ändere die musik lautstärke zwei bitte
-ändere die musik lautstärke drei bitte
-ändere die musik lautstärke vier bitte
-ändere die musik lautstärke fünf bitte
-ändere die musik lautstärke sechs bitte
-ändere die musik lautstärke sieben bitte
-ändere die musik lautstärke acht bitte
-ändere die musik lautstärke neun bitte
-ändere die musik lautstärke zehn bitte
+ändere musik lautstärke auf null
+ändere musik lautstärke auf eins
+ändere musik lautstärke auf zwei
+ändere musik lautstärke auf drei
+ändere musik lautstärke auf vier
+ändere musik lautstärke auf fünf
+ändere musik lautstärke auf sechs
+ändere musik lautstärke auf sieben
+ändere musik lautstärke auf acht
+ändere musik lautstärke auf neun
+ändere musik lautstärke auf zehn
+ändere die musik lautstärke auf null
+ändere die musik lautstärke auf eins
+ändere die musik lautstärke auf zwei
+ändere die musik lautstärke auf drei
+ändere die musik lautstärke auf vier
+ändere die musik lautstärke auf fünf
+ändere die musik lautstärke auf sechs
+ändere die musik lautstärke auf sieben
+ändere die musik lautstärke auf acht
+ändere die musik lautstärke auf neun
+ändere die musik lautstärke auf zehn
+bitte setze musik lautstärke auf null
+bitte setze musik lautstärke auf eins
+bitte setze musik lautstärke auf zwei
+bitte setze musik lautstärke auf drei
+bitte setze musik lautstärke auf vier
+bitte setze musik lautstärke auf fünf
+bitte setze musik lautstärke auf sechs
+bitte setze musik lautstärke auf sieben
+bitte setze musik lautstärke auf acht
+bitte setze musik lautstärke auf neun
+bitte setze musik lautstärke auf zehn
+bitte setze die musik lautstärke auf null
+bitte setze die musik lautstärke auf eins
+bitte setze die musik lautstärke auf zwei
+bitte setze die musik lautstärke auf drei
+bitte setze die musik lautstärke auf vier
+bitte setze die musik lautstärke auf fünf
+bitte setze die musik lautstärke auf sechs
+bitte setze die musik lautstärke auf sieben
+bitte setze die musik lautstärke auf acht
+bitte setze die musik lautstärke auf neun
+bitte setze die musik lautstärke auf zehn
+bitte musik lautstärke auf null
+bitte musik lautstärke auf eins
+bitte musik lautstärke auf zwei
+bitte musik lautstärke auf drei
+bitte musik lautstärke auf vier
+bitte musik lautstärke auf fünf
+bitte musik lautstärke auf sechs
+bitte musik lautstärke auf sieben
+bitte musik lautstärke auf acht
+bitte musik lautstärke auf neun
+bitte musik lautstärke auf zehn
+bitte ändere musik lautstärke auf null
+bitte ändere musik lautstärke auf eins
+bitte ändere musik lautstärke auf zwei
+bitte ändere musik lautstärke auf drei
+bitte ändere musik lautstärke auf vier
+bitte ändere musik lautstärke auf fünf
+bitte ändere musik lautstärke auf sechs
+bitte ändere musik lautstärke auf sieben
+bitte ändere musik lautstärke auf acht
+bitte ändere musik lautstärke auf neun
+bitte ändere musik lautstärke auf zehn
+bitte ändere die musik lautstärke auf null
+bitte ändere die musik lautstärke auf eins
+bitte ändere die musik lautstärke auf zwei
+bitte ändere die musik lautstärke auf drei
+bitte ändere die musik lautstärke auf vier
+bitte ändere die musik lautstärke auf fünf
+bitte ändere die musik lautstärke auf sechs
+bitte ändere die musik lautstärke auf sieben
+bitte ändere die musik lautstärke auf acht
+bitte ändere die musik lautstärke auf neun
+bitte ändere die musik lautstärke auf zehn
+setze musik lautstärke auf null bitte
+setze musik lautstärke auf eins bitte
+setze musik lautstärke auf zwei bitte
+setze musik lautstärke auf drei bitte
+setze musik lautstärke auf vier bitte
+setze musik lautstärke auf fünf bitte
+setze musik lautstärke auf sechs bitte
+setze musik lautstärke auf sieben bitte
+setze musik lautstärke auf acht bitte
+setze musik lautstärke auf neun bitte
+setze musik lautstärke auf zehn bitte
+setze die musik lautstärke auf null bitte
+setze die musik lautstärke auf eins bitte
+setze die musik lautstärke auf zwei bitte
+setze die musik lautstärke auf drei bitte
+setze die musik lautstärke auf vier bitte
+setze die musik lautstärke auf fünf bitte
+setze die musik lautstärke auf sechs bitte
+setze die musik lautstärke auf sieben bitte
+setze die musik lautstärke auf acht bitte
+setze die musik lautstärke auf neun bitte
+setze die musik lautstärke auf zehn bitte
+musik lautstärke auf null bitte
+musik lautstärke auf eins bitte
+musik lautstärke auf zwei bitte
+musik lautstärke auf drei bitte
+musik lautstärke auf vier bitte
+musik lautstärke auf fünf bitte
+musik lautstärke auf sechs bitte
+musik lautstärke auf sieben bitte
+musik lautstärke auf acht bitte
+musik lautstärke auf neun bitte
+musik lautstärke auf zehn bitte
+ändere musik lautstärke auf null bitte
+ändere musik lautstärke auf eins bitte
+ändere musik lautstärke auf zwei bitte
+ändere musik lautstärke auf drei bitte
+ändere musik lautstärke auf vier bitte
+ändere musik lautstärke auf fünf bitte
+ändere musik lautstärke auf sechs bitte
+ändere musik lautstärke auf sieben bitte
+ändere musik lautstärke auf acht bitte
+ändere musik lautstärke auf neun bitte
+ändere musik lautstärke auf zehn bitte
+ändere die musik lautstärke auf null bitte
+ändere die musik lautstärke auf eins bitte
+ändere die musik lautstärke auf zwei bitte
+ändere die musik lautstärke auf drei bitte
+ändere die musik lautstärke auf vier bitte
+ändere die musik lautstärke auf fünf bitte
+ändere die musik lautstärke auf sechs bitte
+ändere die musik lautstärke auf sieben bitte
+ändere die musik lautstärke auf acht bitte
+ändere die musik lautstärke auf neun bitte
+ändere die musik lautstärke auf zehn bitte
 setze die musik lautstärke
 setze die musik lautstärke auf
 musik lautstärke auf
@@ -3622,28 +3633,28 @@ setze die musik lautstärke auf
 musik lautstärke auf
 ändere die musik lautstärke
 ändere die musik lautstärke auf
-setze lautstärke der musik null
-setze lautstärke der musik eins
-setze lautstärke der musik zwei
-setze lautstärke der musik drei
-setze lautstärke der musik vier
-setze lautstärke der musik fünf
-setze lautstärke der musik sechs
-setze lautstärke der musik sieben
-setze lautstärke der musik acht
-setze lautstärke der musik neun
-setze lautstärke der musik zehn
-setze die lautstärke der musik null
-setze die lautstärke der musik eins
-setze die lautstärke der musik zwei
-setze die lautstärke der musik drei
-setze die lautstärke der musik vier
-setze die lautstärke der musik fünf
-setze die lautstärke der musik sechs
-setze die lautstärke der musik sieben
-setze die lautstärke der musik acht
-setze die lautstärke der musik neun
-setze die lautstärke der musik zehn
+setze lautstärke der musik auf null
+setze lautstärke der musik auf eins
+setze lautstärke der musik auf zwei
+setze lautstärke der musik auf drei
+setze lautstärke der musik auf vier
+setze lautstärke der musik auf fünf
+setze lautstärke der musik auf sechs
+setze lautstärke der musik auf sieben
+setze lautstärke der musik auf acht
+setze lautstärke der musik auf neun
+setze lautstärke der musik auf zehn
+setze die lautstärke der musik auf null
+setze die lautstärke der musik auf eins
+setze die lautstärke der musik auf zwei
+setze die lautstärke der musik auf drei
+setze die lautstärke der musik auf vier
+setze die lautstärke der musik auf fünf
+setze die lautstärke der musik auf sechs
+setze die lautstärke der musik auf sieben
+setze die lautstärke der musik auf acht
+setze die lautstärke der musik auf neun
+setze die lautstärke der musik auf zehn
 lautstärke der musik null
 lautstärke der musik eins
 lautstärke der musik zwei
@@ -3655,138 +3666,149 @@ lautstärke der musik sieben
 lautstärke der musik acht
 lautstärke der musik neun
 lautstärke der musik zehn
-ändere lautstärke der musik null
-ändere lautstärke der musik eins
-ändere lautstärke der musik zwei
-ändere lautstärke der musik drei
-ändere lautstärke der musik vier
-ändere lautstärke der musik fünf
-ändere lautstärke der musik sechs
-ändere lautstärke der musik sieben
-ändere lautstärke der musik acht
-ändere lautstärke der musik neun
-ändere lautstärke der musik zehn
-ändere die lautstärke der musik null
-ändere die lautstärke der musik eins
-ändere die lautstärke der musik zwei
-ändere die lautstärke der musik drei
-ändere die lautstärke der musik vier
-ändere die lautstärke der musik fünf
-ändere die lautstärke der musik sechs
-ändere die lautstärke der musik sieben
-ändere die lautstärke der musik acht
-ändere die lautstärke der musik neun
-ändere die lautstärke der musik zehn
-bitte setze lautstärke der musik null
-bitte setze lautstärke der musik eins
-bitte setze lautstärke der musik zwei
-bitte setze lautstärke der musik drei
-bitte setze lautstärke der musik vier
-bitte setze lautstärke der musik fünf
-bitte setze lautstärke der musik sechs
-bitte setze lautstärke der musik sieben
-bitte setze lautstärke der musik acht
-bitte setze lautstärke der musik neun
-bitte setze lautstärke der musik zehn
-bitte setze die lautstärke der musik null
-bitte setze die lautstärke der musik eins
-bitte setze die lautstärke der musik zwei
-bitte setze die lautstärke der musik drei
-bitte setze die lautstärke der musik vier
-bitte setze die lautstärke der musik fünf
-bitte setze die lautstärke der musik sechs
-bitte setze die lautstärke der musik sieben
-bitte setze die lautstärke der musik acht
-bitte setze die lautstärke der musik neun
-bitte setze die lautstärke der musik zehn
-bitte lautstärke der musik null
-bitte lautstärke der musik eins
-bitte lautstärke der musik zwei
-bitte lautstärke der musik drei
-bitte lautstärke der musik vier
-bitte lautstärke der musik fünf
-bitte lautstärke der musik sechs
-bitte lautstärke der musik sieben
-bitte lautstärke der musik acht
-bitte lautstärke der musik neun
-bitte lautstärke der musik zehn
-bitte ändere lautstärke der musik null
-bitte ändere lautstärke der musik eins
-bitte ändere lautstärke der musik zwei
-bitte ändere lautstärke der musik drei
-bitte ändere lautstärke der musik vier
-bitte ändere lautstärke der musik fünf
-bitte ändere lautstärke der musik sechs
-bitte ändere lautstärke der musik sieben
-bitte ändere lautstärke der musik acht
-bitte ändere lautstärke der musik neun
-bitte ändere lautstärke der musik zehn
-bitte ändere die lautstärke der musik null
-bitte ändere die lautstärke der musik eins
-bitte ändere die lautstärke der musik zwei
-bitte ändere die lautstärke der musik drei
-bitte ändere die lautstärke der musik vier
-bitte ändere die lautstärke der musik fünf
-bitte ändere die lautstärke der musik sechs
-bitte ändere die lautstärke der musik sieben
-bitte ändere die lautstärke der musik acht
-bitte ändere die lautstärke der musik neun
-bitte ändere die lautstärke der musik zehn
-setze lautstärke der musik null bitte
-setze lautstärke der musik eins bitte
-setze lautstärke der musik zwei bitte
-setze lautstärke der musik drei bitte
-setze lautstärke der musik vier bitte
-setze lautstärke der musik fünf bitte
-setze lautstärke der musik sechs bitte
-setze lautstärke der musik sieben bitte
-setze lautstärke der musik acht bitte
-setze lautstärke der musik neun bitte
-setze lautstärke der musik zehn bitte
-setze die lautstärke der musik null bitte
-setze die lautstärke der musik eins bitte
-setze die lautstärke der musik zwei bitte
-setze die lautstärke der musik drei bitte
-setze die lautstärke der musik vier bitte
-setze die lautstärke der musik fünf bitte
-setze die lautstärke der musik sechs bitte
-setze die lautstärke der musik sieben bitte
-setze die lautstärke der musik acht bitte
-setze die lautstärke der musik neun bitte
-setze die lautstärke der musik zehn bitte
-lautstärke der musik null bitte
-lautstärke der musik eins bitte
-lautstärke der musik zwei bitte
-lautstärke der musik drei bitte
-lautstärke der musik vier bitte
-lautstärke der musik fünf bitte
-lautstärke der musik sechs bitte
-lautstärke der musik sieben bitte
-lautstärke der musik acht bitte
-lautstärke der musik neun bitte
-lautstärke der musik zehn bitte
-ändere lautstärke der musik null bitte
-ändere lautstärke der musik eins bitte
-ändere lautstärke der musik zwei bitte
-ändere lautstärke der musik drei bitte
-ändere lautstärke der musik vier bitte
-ändere lautstärke der musik fünf bitte
-ändere lautstärke der musik sechs bitte
-ändere lautstärke der musik sieben bitte
-ändere lautstärke der musik acht bitte
-ändere lautstärke der musik neun bitte
-ändere lautstärke der musik zehn bitte
-ändere die lautstärke der musik null bitte
-ändere die lautstärke der musik eins bitte
-ändere die lautstärke der musik zwei bitte
-ändere die lautstärke der musik drei bitte
-ändere die lautstärke der musik vier bitte
-ändere die lautstärke der musik fünf bitte
-ändere die lautstärke der musik sechs bitte
-ändere die lautstärke der musik sieben bitte
-ändere die lautstärke der musik acht bitte
-ändere die lautstärke der musik neun bitte
-ändere die lautstärke der musik zehn bitte
+lautstärke der musik auf null
+lautstärke der musik auf eins
+lautstärke der musik auf zwei
+lautstärke der musik auf drei
+lautstärke der musik auf vier
+lautstärke der musik auf fünf
+lautstärke der musik auf sechs
+lautstärke der musik auf sieben
+lautstärke der musik auf acht
+lautstärke der musik auf neun
+lautstärke der musik auf zehn
+ändere lautstärke der musik auf null
+ändere lautstärke der musik auf eins
+ändere lautstärke der musik auf zwei
+ändere lautstärke der musik auf drei
+ändere lautstärke der musik auf vier
+ändere lautstärke der musik auf fünf
+ändere lautstärke der musik auf sechs
+ändere lautstärke der musik auf sieben
+ändere lautstärke der musik auf acht
+ändere lautstärke der musik auf neun
+ändere lautstärke der musik auf zehn
+ändere die lautstärke der musik auf null
+ändere die lautstärke der musik auf eins
+ändere die lautstärke der musik auf zwei
+ändere die lautstärke der musik auf drei
+ändere die lautstärke der musik auf vier
+ändere die lautstärke der musik auf fünf
+ändere die lautstärke der musik auf sechs
+ändere die lautstärke der musik auf sieben
+ändere die lautstärke der musik auf acht
+ändere die lautstärke der musik auf neun
+ändere die lautstärke der musik auf zehn
+bitte setze lautstärke der musik auf null
+bitte setze lautstärke der musik auf eins
+bitte setze lautstärke der musik auf zwei
+bitte setze lautstärke der musik auf drei
+bitte setze lautstärke der musik auf vier
+bitte setze lautstärke der musik auf fünf
+bitte setze lautstärke der musik auf sechs
+bitte setze lautstärke der musik auf sieben
+bitte setze lautstärke der musik auf acht
+bitte setze lautstärke der musik auf neun
+bitte setze lautstärke der musik auf zehn
+bitte setze die lautstärke der musik auf null
+bitte setze die lautstärke der musik auf eins
+bitte setze die lautstärke der musik auf zwei
+bitte setze die lautstärke der musik auf drei
+bitte setze die lautstärke der musik auf vier
+bitte setze die lautstärke der musik auf fünf
+bitte setze die lautstärke der musik auf sechs
+bitte setze die lautstärke der musik auf sieben
+bitte setze die lautstärke der musik auf acht
+bitte setze die lautstärke der musik auf neun
+bitte setze die lautstärke der musik auf zehn
+bitte lautstärke der musik auf null
+bitte lautstärke der musik auf eins
+bitte lautstärke der musik auf zwei
+bitte lautstärke der musik auf drei
+bitte lautstärke der musik auf vier
+bitte lautstärke der musik auf fünf
+bitte lautstärke der musik auf sechs
+bitte lautstärke der musik auf sieben
+bitte lautstärke der musik auf acht
+bitte lautstärke der musik auf neun
+bitte lautstärke der musik auf zehn
+bitte ändere lautstärke der musik auf null
+bitte ändere lautstärke der musik auf eins
+bitte ändere lautstärke der musik auf zwei
+bitte ändere lautstärke der musik auf drei
+bitte ändere lautstärke der musik auf vier
+bitte ändere lautstärke der musik auf fünf
+bitte ändere lautstärke der musik auf sechs
+bitte ändere lautstärke der musik auf sieben
+bitte ändere lautstärke der musik auf acht
+bitte ändere lautstärke der musik auf neun
+bitte ändere lautstärke der musik auf zehn
+bitte ändere die lautstärke der musik auf null
+bitte ändere die lautstärke der musik auf eins
+bitte ändere die lautstärke der musik auf zwei
+bitte ändere die lautstärke der musik auf drei
+bitte ändere die lautstärke der musik auf vier
+bitte ändere die lautstärke der musik auf fünf
+bitte ändere die lautstärke der musik auf sechs
+bitte ändere die lautstärke der musik auf sieben
+bitte ändere die lautstärke der musik auf acht
+bitte ändere die lautstärke der musik auf neun
+bitte ändere die lautstärke der musik auf zehn
+setze lautstärke der musik auf null bitte
+setze lautstärke der musik auf eins bitte
+setze lautstärke der musik auf zwei bitte
+setze lautstärke der musik auf drei bitte
+setze lautstärke der musik auf vier bitte
+setze lautstärke der musik auf fünf bitte
+setze lautstärke der musik auf sechs bitte
+setze lautstärke der musik auf sieben bitte
+setze lautstärke der musik auf acht bitte
+setze lautstärke der musik auf neun bitte
+setze lautstärke der musik auf zehn bitte
+setze die lautstärke der musik auf null bitte
+setze die lautstärke der musik auf eins bitte
+setze die lautstärke der musik auf zwei bitte
+setze die lautstärke der musik auf drei bitte
+setze die lautstärke der musik auf vier bitte
+setze die lautstärke der musik auf fünf bitte
+setze die lautstärke der musik auf sechs bitte
+setze die lautstärke der musik auf sieben bitte
+setze die lautstärke der musik auf acht bitte
+setze die lautstärke der musik auf neun bitte
+setze die lautstärke der musik auf zehn bitte
+lautstärke der musik auf null bitte
+lautstärke der musik auf eins bitte
+lautstärke der musik auf zwei bitte
+lautstärke der musik auf drei bitte
+lautstärke der musik auf vier bitte
+lautstärke der musik auf fünf bitte
+lautstärke der musik auf sechs bitte
+lautstärke der musik auf sieben bitte
+lautstärke der musik auf acht bitte
+lautstärke der musik auf neun bitte
+lautstärke der musik auf zehn bitte
+ändere lautstärke der musik auf null bitte
+ändere lautstärke der musik auf eins bitte
+ändere lautstärke der musik auf zwei bitte
+ändere lautstärke der musik auf drei bitte
+ändere lautstärke der musik auf vier bitte
+ändere lautstärke der musik auf fünf bitte
+ändere lautstärke der musik auf sechs bitte
+ändere lautstärke der musik auf sieben bitte
+ändere lautstärke der musik auf acht bitte
+ändere lautstärke der musik auf neun bitte
+ändere lautstärke der musik auf zehn bitte
+ändere die lautstärke der musik auf null bitte
+ändere die lautstärke der musik auf eins bitte
+ändere die lautstärke der musik auf zwei bitte
+ändere die lautstärke der musik auf drei bitte
+ändere die lautstärke der musik auf vier bitte
+ändere die lautstärke der musik auf fünf bitte
+ändere die lautstärke der musik auf sechs bitte
+ändere die lautstärke der musik auf sieben bitte
+ändere die lautstärke der musik auf acht bitte
+ändere die lautstärke der musik auf neun bitte
+ändere die lautstärke der musik auf zehn bitte
 setze die lautstärke der musik
 setze die lautstärke der musik auf
 lautstärke der musik auf
@@ -3797,171 +3819,171 @@ setze die lautstärke der musik auf
 lautstärke der musik auf
 ändere die lautstärke der musik
 ändere die lautstärke der musik auf
-setze tv null
-setze tv eins
-setze tv zwei
-setze tv drei
-setze tv vier
-setze tv fünf
-setze tv sechs
-setze tv sieben
-setze tv acht
-setze tv neun
-setze tv zehn
-setze den tv null
-setze den tv eins
-setze den tv zwei
-setze den tv drei
-setze den tv vier
-setze den tv fünf
-setze den tv sechs
-setze den tv sieben
-setze den tv acht
-setze den tv neun
-setze den tv zehn
-tv null
-tv eins
-tv zwei
-tv drei
-tv vier
-tv fünf
-tv sechs
-tv sieben
-tv acht
-tv neun
-tv zehn
-ändere tv null
-ändere tv eins
-ändere tv zwei
-ändere tv drei
-ändere tv vier
-ändere tv fünf
-ändere tv sechs
-ändere tv sieben
-ändere tv acht
-ändere tv neun
-ändere tv zehn
-ändere den tv null
-ändere den tv eins
-ändere den tv zwei
-ändere den tv drei
-ändere den tv vier
-ändere den tv fünf
-ändere den tv sechs
-ändere den tv sieben
-ändere den tv acht
-ändere den tv neun
-ändere den tv zehn
-bitte setze tv null
-bitte setze tv eins
-bitte setze tv zwei
-bitte setze tv drei
-bitte setze tv vier
-bitte setze tv fünf
-bitte setze tv sechs
-bitte setze tv sieben
-bitte setze tv acht
-bitte setze tv neun
-bitte setze tv zehn
-bitte setze den tv null
-bitte setze den tv eins
-bitte setze den tv zwei
-bitte setze den tv drei
-bitte setze den tv vier
-bitte setze den tv fünf
-bitte setze den tv sechs
-bitte setze den tv sieben
-bitte setze den tv acht
-bitte setze den tv neun
-bitte setze den tv zehn
-bitte tv null
-bitte tv eins
-bitte tv zwei
-bitte tv drei
-bitte tv vier
-bitte tv fünf
-bitte tv sechs
-bitte tv sieben
-bitte tv acht
-bitte tv neun
-bitte tv zehn
-bitte ändere tv null
-bitte ändere tv eins
-bitte ändere tv zwei
-bitte ändere tv drei
-bitte ändere tv vier
-bitte ändere tv fünf
-bitte ändere tv sechs
-bitte ändere tv sieben
-bitte ändere tv acht
-bitte ändere tv neun
-bitte ändere tv zehn
-bitte ändere den tv null
-bitte ändere den tv eins
-bitte ändere den tv zwei
-bitte ändere den tv drei
-bitte ändere den tv vier
-bitte ändere den tv fünf
-bitte ändere den tv sechs
-bitte ändere den tv sieben
-bitte ändere den tv acht
-bitte ändere den tv neun
-bitte ändere den tv zehn
-setze tv null bitte
-setze tv eins bitte
-setze tv zwei bitte
-setze tv drei bitte
-setze tv vier bitte
-setze tv fünf bitte
-setze tv sechs bitte
-setze tv sieben bitte
-setze tv acht bitte
-setze tv neun bitte
-setze tv zehn bitte
-setze den tv null bitte
-setze den tv eins bitte
-setze den tv zwei bitte
-setze den tv drei bitte
-setze den tv vier bitte
-setze den tv fünf bitte
-setze den tv sechs bitte
-setze den tv sieben bitte
-setze den tv acht bitte
-setze den tv neun bitte
-setze den tv zehn bitte
-tv null bitte
-tv eins bitte
-tv zwei bitte
-tv drei bitte
-tv vier bitte
-tv fünf bitte
-tv sechs bitte
-tv sieben bitte
-tv acht bitte
-tv neun bitte
-tv zehn bitte
-ändere tv null bitte
-ändere tv eins bitte
-ändere tv zwei bitte
-ändere tv drei bitte
-ändere tv vier bitte
-ändere tv fünf bitte
-ändere tv sechs bitte
-ändere tv sieben bitte
-ändere tv acht bitte
-ändere tv neun bitte
-ändere tv zehn bitte
-ändere den tv null bitte
-ändere den tv eins bitte
-ändere den tv zwei bitte
-ändere den tv drei bitte
-ändere den tv vier bitte
-ändere den tv fünf bitte
-ändere den tv sechs bitte
-ändere den tv sieben bitte
-ändere den tv acht bitte
-ändere den tv neun bitte
-ändere den tv zehn bitte
+setze tv auf null
+setze tv auf eins
+setze tv auf zwei
+setze tv auf drei
+setze tv auf vier
+setze tv auf fünf
+setze tv auf sechs
+setze tv auf sieben
+setze tv auf acht
+setze tv auf neun
+setze tv auf zehn
+setze den tv auf null
+setze den tv auf eins
+setze den tv auf zwei
+setze den tv auf drei
+setze den tv auf vier
+setze den tv auf fünf
+setze den tv auf sechs
+setze den tv auf sieben
+setze den tv auf acht
+setze den tv auf neun
+setze den tv auf zehn
+tv auf null
+tv auf eins
+tv auf zwei
+tv auf drei
+tv auf vier
+tv auf fünf
+tv auf sechs
+tv auf sieben
+tv auf acht
+tv auf neun
+tv auf zehn
+ändere tv auf null
+ändere tv auf eins
+ändere tv auf zwei
+ändere tv auf drei
+ändere tv auf vier
+ändere tv auf fünf
+ändere tv auf sechs
+ändere tv auf sieben
+ändere tv auf acht
+ändere tv auf neun
+ändere tv auf zehn
+ändere den tv auf null
+ändere den tv auf eins
+ändere den tv auf zwei
+ändere den tv auf drei
+ändere den tv auf vier
+ändere den tv auf fünf
+ändere den tv auf sechs
+ändere den tv auf sieben
+ändere den tv auf acht
+ändere den tv auf neun
+ändere den tv auf zehn
+bitte setze tv auf null
+bitte setze tv auf eins
+bitte setze tv auf zwei
+bitte setze tv auf drei
+bitte setze tv auf vier
+bitte setze tv auf fünf
+bitte setze tv auf sechs
+bitte setze tv auf sieben
+bitte setze tv auf acht
+bitte setze tv auf neun
+bitte setze tv auf zehn
+bitte setze den tv auf null
+bitte setze den tv auf eins
+bitte setze den tv auf zwei
+bitte setze den tv auf drei
+bitte setze den tv auf vier
+bitte setze den tv auf fünf
+bitte setze den tv auf sechs
+bitte setze den tv auf sieben
+bitte setze den tv auf acht
+bitte setze den tv auf neun
+bitte setze den tv auf zehn
+bitte tv auf null
+bitte tv auf eins
+bitte tv auf zwei
+bitte tv auf drei
+bitte tv auf vier
+bitte tv auf fünf
+bitte tv auf sechs
+bitte tv auf sieben
+bitte tv auf acht
+bitte tv auf neun
+bitte tv auf zehn
+bitte ändere tv auf null
+bitte ändere tv auf eins
+bitte ändere tv auf zwei
+bitte ändere tv auf drei
+bitte ändere tv auf vier
+bitte ändere tv auf fünf
+bitte ändere tv auf sechs
+bitte ändere tv auf sieben
+bitte ändere tv auf acht
+bitte ändere tv auf neun
+bitte ändere tv auf zehn
+bitte ändere den tv auf null
+bitte ändere den tv auf eins
+bitte ändere den tv auf zwei
+bitte ändere den tv auf drei
+bitte ändere den tv auf vier
+bitte ändere den tv auf fünf
+bitte ändere den tv auf sechs
+bitte ändere den tv auf sieben
+bitte ändere den tv auf acht
+bitte ändere den tv auf neun
+bitte ändere den tv auf zehn
+setze tv auf null bitte
+setze tv auf eins bitte
+setze tv auf zwei bitte
+setze tv auf drei bitte
+setze tv auf vier bitte
+setze tv auf fünf bitte
+setze tv auf sechs bitte
+setze tv auf sieben bitte
+setze tv auf acht bitte
+setze tv auf neun bitte
+setze tv auf zehn bitte
+setze den tv auf null bitte
+setze den tv auf eins bitte
+setze den tv auf zwei bitte
+setze den tv auf drei bitte
+setze den tv auf vier bitte
+setze den tv auf fünf bitte
+setze den tv auf sechs bitte
+setze den tv auf sieben bitte
+setze den tv auf acht bitte
+setze den tv auf neun bitte
+setze den tv auf zehn bitte
+tv auf null bitte
+tv auf eins bitte
+tv auf zwei bitte
+tv auf drei bitte
+tv auf vier bitte
+tv auf fünf bitte
+tv auf sechs bitte
+tv auf sieben bitte
+tv auf acht bitte
+tv auf neun bitte
+tv auf zehn bitte
+ändere tv auf null bitte
+ändere tv auf eins bitte
+ändere tv auf zwei bitte
+ändere tv auf drei bitte
+ändere tv auf vier bitte
+ändere tv auf fünf bitte
+ändere tv auf sechs bitte
+ändere tv auf sieben bitte
+ändere tv auf acht bitte
+ändere tv auf neun bitte
+ändere tv auf zehn bitte
+ändere den tv auf null bitte
+ändere den tv auf eins bitte
+ändere den tv auf zwei bitte
+ändere den tv auf drei bitte
+ändere den tv auf vier bitte
+ändere den tv auf fünf bitte
+ändere den tv auf sechs bitte
+ändere den tv auf sieben bitte
+ändere den tv auf acht bitte
+ändere den tv auf neun bitte
+ändere den tv auf zehn bitte
 setze den tv
 setze den tv auf
 tv auf
@@ -3972,28 +3994,39 @@ setze den tv auf
 tv auf
 ändere den tv
 ändere den tv auf
-setze tv lautstärke null
-setze tv lautstärke eins
-setze tv lautstärke zwei
-setze tv lautstärke drei
-setze tv lautstärke vier
-setze tv lautstärke fünf
-setze tv lautstärke sechs
-setze tv lautstärke sieben
-setze tv lautstärke acht
-setze tv lautstärke neun
-setze tv lautstärke zehn
-setze die tv lautstärke null
-setze die tv lautstärke eins
-setze die tv lautstärke zwei
-setze die tv lautstärke drei
-setze die tv lautstärke vier
-setze die tv lautstärke fünf
-setze die tv lautstärke sechs
-setze die tv lautstärke sieben
-setze die tv lautstärke acht
-setze die tv lautstärke neun
-setze die tv lautstärke zehn
+setze tv lautstärke auf null
+setze tv lautstärke auf eins
+setze tv lautstärke auf zwei
+setze tv lautstärke auf drei
+setze tv lautstärke auf vier
+setze tv lautstärke auf fünf
+setze tv lautstärke auf sechs
+setze tv lautstärke auf sieben
+setze tv lautstärke auf acht
+setze tv lautstärke auf neun
+setze tv lautstärke auf zehn
+setze die tv lautstärke auf null
+setze die tv lautstärke auf eins
+setze die tv lautstärke auf zwei
+setze die tv lautstärke auf drei
+setze die tv lautstärke auf vier
+setze die tv lautstärke auf fünf
+setze die tv lautstärke auf sechs
+setze die tv lautstärke auf sieben
+setze die tv lautstärke auf acht
+setze die tv lautstärke auf neun
+setze die tv lautstärke auf zehn
+tv lautstärke auf null
+tv lautstärke auf eins
+tv lautstärke auf zwei
+tv lautstärke auf drei
+tv lautstärke auf vier
+tv lautstärke auf fünf
+tv lautstärke auf sechs
+tv lautstärke auf sieben
+tv lautstärke auf acht
+tv lautstärke auf neun
+tv lautstärke auf zehn
 tv lautstärke null
 tv lautstärke eins
 tv lautstärke zwei
@@ -4005,138 +4038,138 @@ tv lautstärke sieben
 tv lautstärke acht
 tv lautstärke neun
 tv lautstärke zehn
-ändere tv lautstärke null
-ändere tv lautstärke eins
-ändere tv lautstärke zwei
-ändere tv lautstärke drei
-ändere tv lautstärke vier
-ändere tv lautstärke fünf
-ändere tv lautstärke sechs
-ändere tv lautstärke sieben
-ändere tv lautstärke acht
-ändere tv lautstärke neun
-ändere tv lautstärke zehn
-ändere die tv lautstärke null
-ändere die tv lautstärke eins
-ändere die tv lautstärke zwei
-ändere die tv lautstärke drei
-ändere die tv lautstärke vier
-ändere die tv lautstärke fünf
-ändere die tv lautstärke sechs
-ändere die tv lautstärke sieben
-ändere die tv lautstärke acht
-ändere die tv lautstärke neun
-ändere die tv lautstärke zehn
-bitte setze tv lautstärke null
-bitte setze tv lautstärke eins
-bitte setze tv lautstärke zwei
-bitte setze tv lautstärke drei
-bitte setze tv lautstärke vier
-bitte setze tv lautstärke fünf
-bitte setze tv lautstärke sechs
-bitte setze tv lautstärke sieben
-bitte setze tv lautstärke acht
-bitte setze tv lautstärke neun
-bitte setze tv lautstärke zehn
-bitte setze die tv lautstärke null
-bitte setze die tv lautstärke eins
-bitte setze die tv lautstärke zwei
-bitte setze die tv lautstärke drei
-bitte setze die tv lautstärke vier
-bitte setze die tv lautstärke fünf
-bitte setze die tv lautstärke sechs
-bitte setze die tv lautstärke sieben
-bitte setze die tv lautstärke acht
-bitte setze die tv lautstärke neun
-bitte setze die tv lautstärke zehn
-bitte tv lautstärke null
-bitte tv lautstärke eins
-bitte tv lautstärke zwei
-bitte tv lautstärke drei
-bitte tv lautstärke vier
-bitte tv lautstärke fünf
-bitte tv lautstärke sechs
-bitte tv lautstärke sieben
-bitte tv lautstärke acht
-bitte tv lautstärke neun
-bitte tv lautstärke zehn
-bitte ändere tv lautstärke null
-bitte ändere tv lautstärke eins
-bitte ändere tv lautstärke zwei
-bitte ändere tv lautstärke drei
-bitte ändere tv lautstärke vier
-bitte ändere tv lautstärke fünf
-bitte ändere tv lautstärke sechs
-bitte ändere tv lautstärke sieben
-bitte ändere tv lautstärke acht
-bitte ändere tv lautstärke neun
-bitte ändere tv lautstärke zehn
-bitte ändere die tv lautstärke null
-bitte ändere die tv lautstärke eins
-bitte ändere die tv lautstärke zwei
-bitte ändere die tv lautstärke drei
-bitte ändere die tv lautstärke vier
-bitte ändere die tv lautstärke fünf
-bitte ändere die tv lautstärke sechs
-bitte ändere die tv lautstärke sieben
-bitte ändere die tv lautstärke acht
-bitte ändere die tv lautstärke neun
-bitte ändere die tv lautstärke zehn
-setze tv lautstärke null bitte
-setze tv lautstärke eins bitte
-setze tv lautstärke zwei bitte
-setze tv lautstärke drei bitte
-setze tv lautstärke vier bitte
-setze tv lautstärke fünf bitte
-setze tv lautstärke sechs bitte
-setze tv lautstärke sieben bitte
-setze tv lautstärke acht bitte
-setze tv lautstärke neun bitte
-setze tv lautstärke zehn bitte
-setze die tv lautstärke null bitte
-setze die tv lautstärke eins bitte
-setze die tv lautstärke zwei bitte
-setze die tv lautstärke drei bitte
-setze die tv lautstärke vier bitte
-setze die tv lautstärke fünf bitte
-setze die tv lautstärke sechs bitte
-setze die tv lautstärke sieben bitte
-setze die tv lautstärke acht bitte
-setze die tv lautstärke neun bitte
-setze die tv lautstärke zehn bitte
-tv lautstärke null bitte
-tv lautstärke eins bitte
-tv lautstärke zwei bitte
-tv lautstärke drei bitte
-tv lautstärke vier bitte
-tv lautstärke fünf bitte
-tv lautstärke sechs bitte
-tv lautstärke sieben bitte
-tv lautstärke acht bitte
-tv lautstärke neun bitte
-tv lautstärke zehn bitte
-ändere tv lautstärke null bitte
-ändere tv lautstärke eins bitte
-ändere tv lautstärke zwei bitte
-ändere tv lautstärke drei bitte
-ändere tv lautstärke vier bitte
-ändere tv lautstärke fünf bitte
-ändere tv lautstärke sechs bitte
-ändere tv lautstärke sieben bitte
-ändere tv lautstärke acht bitte
-ändere tv lautstärke neun bitte
-ändere tv lautstärke zehn bitte
-ändere die tv lautstärke null bitte
-ändere die tv lautstärke eins bitte
-ändere die tv lautstärke zwei bitte
-ändere die tv lautstärke drei bitte
-ändere die tv lautstärke vier bitte
-ändere die tv lautstärke fünf bitte
-ändere die tv lautstärke sechs bitte
-ändere die tv lautstärke sieben bitte
-ändere die tv lautstärke acht bitte
-ändere die tv lautstärke neun bitte
-ändere die tv lautstärke zehn bitte
+ändere tv lautstärke auf null
+ändere tv lautstärke auf eins
+ändere tv lautstärke auf zwei
+ändere tv lautstärke auf drei
+ändere tv lautstärke auf vier
+ändere tv lautstärke auf fünf
+ändere tv lautstärke auf sechs
+ändere tv lautstärke auf sieben
+ändere tv lautstärke auf acht
+ändere tv lautstärke auf neun
+ändere tv lautstärke auf zehn
+ändere die tv lautstärke auf null
+ändere die tv lautstärke auf eins
+ändere die tv lautstärke auf zwei
+ändere die tv lautstärke auf drei
+ändere die tv lautstärke auf vier
+ändere die tv lautstärke auf fünf
+ändere die tv lautstärke auf sechs
+ändere die tv lautstärke auf sieben
+ändere die tv lautstärke auf acht
+ändere die tv lautstärke auf neun
+ändere die tv lautstärke auf zehn
+bitte setze tv lautstärke auf null
+bitte setze tv lautstärke auf eins
+bitte setze tv lautstärke auf zwei
+bitte setze tv lautstärke auf drei
+bitte setze tv lautstärke auf vier
+bitte setze tv lautstärke auf fünf
+bitte setze tv lautstärke auf sechs
+bitte setze tv lautstärke auf sieben
+bitte setze tv lautstärke auf acht
+bitte setze tv lautstärke auf neun
+bitte setze tv lautstärke auf zehn
+bitte setze die tv lautstärke auf null
+bitte setze die tv lautstärke auf eins
+bitte setze die tv lautstärke auf zwei
+bitte setze die tv lautstärke auf drei
+bitte setze die tv lautstärke auf vier
+bitte setze die tv lautstärke auf fünf
+bitte setze die tv lautstärke auf sechs
+bitte setze die tv lautstärke auf sieben
+bitte setze die tv lautstärke auf acht
+bitte setze die tv lautstärke auf neun
+bitte setze die tv lautstärke auf zehn
+bitte tv lautstärke auf null
+bitte tv lautstärke auf eins
+bitte tv lautstärke auf zwei
+bitte tv lautstärke auf drei
+bitte tv lautstärke auf vier
+bitte tv lautstärke auf fünf
+bitte tv lautstärke auf sechs
+bitte tv lautstärke auf sieben
+bitte tv lautstärke auf acht
+bitte tv lautstärke auf neun
+bitte tv lautstärke auf zehn
+bitte ändere tv lautstärke auf null
+bitte ändere tv lautstärke auf eins
+bitte ändere tv lautstärke auf zwei
+bitte ändere tv lautstärke auf drei
+bitte ändere tv lautstärke auf vier
+bitte ändere tv lautstärke auf fünf
+bitte ändere tv lautstärke auf sechs
+bitte ändere tv lautstärke auf sieben
+bitte ändere tv lautstärke auf acht
+bitte ändere tv lautstärke auf neun
+bitte ändere tv lautstärke auf zehn
+bitte ändere die tv lautstärke auf null
+bitte ändere die tv lautstärke auf eins
+bitte ändere die tv lautstärke auf zwei
+bitte ändere die tv lautstärke auf drei
+bitte ändere die tv lautstärke auf vier
+bitte ändere die tv lautstärke auf fünf
+bitte ändere die tv lautstärke auf sechs
+bitte ändere die tv lautstärke auf sieben
+bitte ändere die tv lautstärke auf acht
+bitte ändere die tv lautstärke auf neun
+bitte ändere die tv lautstärke auf zehn
+setze tv lautstärke auf null bitte
+setze tv lautstärke auf eins bitte
+setze tv lautstärke auf zwei bitte
+setze tv lautstärke auf drei bitte
+setze tv lautstärke auf vier bitte
+setze tv lautstärke auf fünf bitte
+setze tv lautstärke auf sechs bitte
+setze tv lautstärke auf sieben bitte
+setze tv lautstärke auf acht bitte
+setze tv lautstärke auf neun bitte
+setze tv lautstärke auf zehn bitte
+setze die tv lautstärke auf null bitte
+setze die tv lautstärke auf eins bitte
+setze die tv lautstärke auf zwei bitte
+setze die tv lautstärke auf drei bitte
+setze die tv lautstärke auf vier bitte
+setze die tv lautstärke auf fünf bitte
+setze die tv lautstärke auf sechs bitte
+setze die tv lautstärke auf sieben bitte
+setze die tv lautstärke auf acht bitte
+setze die tv lautstärke auf neun bitte
+setze die tv lautstärke auf zehn bitte
+tv lautstärke auf null bitte
+tv lautstärke auf eins bitte
+tv lautstärke auf zwei bitte
+tv lautstärke auf drei bitte
+tv lautstärke auf vier bitte
+tv lautstärke auf fünf bitte
+tv lautstärke auf sechs bitte
+tv lautstärke auf sieben bitte
+tv lautstärke auf acht bitte
+tv lautstärke auf neun bitte
+tv lautstärke auf zehn bitte
+ändere tv lautstärke auf null bitte
+ändere tv lautstärke auf eins bitte
+ändere tv lautstärke auf zwei bitte
+ändere tv lautstärke auf drei bitte
+ändere tv lautstärke auf vier bitte
+ändere tv lautstärke auf fünf bitte
+ändere tv lautstärke auf sechs bitte
+ändere tv lautstärke auf sieben bitte
+ändere tv lautstärke auf acht bitte
+ändere tv lautstärke auf neun bitte
+ändere tv lautstärke auf zehn bitte
+ändere die tv lautstärke auf null bitte
+ändere die tv lautstärke auf eins bitte
+ändere die tv lautstärke auf zwei bitte
+ändere die tv lautstärke auf drei bitte
+ändere die tv lautstärke auf vier bitte
+ändere die tv lautstärke auf fünf bitte
+ändere die tv lautstärke auf sechs bitte
+ändere die tv lautstärke auf sieben bitte
+ändere die tv lautstärke auf acht bitte
+ändere die tv lautstärke auf neun bitte
+ändere die tv lautstärke auf zehn bitte
 setze die tv lautstärke
 setze die tv lautstärke auf
 tv lautstärke auf
@@ -4147,171 +4180,171 @@ setze die tv lautstärke auf
 tv lautstärke auf
 ändere die tv lautstärke
 ändere die tv lautstärke auf
-setze lautstärke des tv null
-setze lautstärke des tv eins
-setze lautstärke des tv zwei
-setze lautstärke des tv drei
-setze lautstärke des tv vier
-setze lautstärke des tv fünf
-setze lautstärke des tv sechs
-setze lautstärke des tv sieben
-setze lautstärke des tv acht
-setze lautstärke des tv neun
-setze lautstärke des tv zehn
-setze die lautstärke des tv null
-setze die lautstärke des tv eins
-setze die lautstärke des tv zwei
-setze die lautstärke des tv drei
-setze die lautstärke des tv vier
-setze die lautstärke des tv fünf
-setze die lautstärke des tv sechs
-setze die lautstärke des tv sieben
-setze die lautstärke des tv acht
-setze die lautstärke des tv neun
-setze die lautstärke des tv zehn
-lautstärke des tv null
-lautstärke des tv eins
-lautstärke des tv zwei
-lautstärke des tv drei
-lautstärke des tv vier
-lautstärke des tv fünf
-lautstärke des tv sechs
-lautstärke des tv sieben
-lautstärke des tv acht
-lautstärke des tv neun
-lautstärke des tv zehn
-ändere lautstärke des tv null
-ändere lautstärke des tv eins
-ändere lautstärke des tv zwei
-ändere lautstärke des tv drei
-ändere lautstärke des tv vier
-ändere lautstärke des tv fünf
-ändere lautstärke des tv sechs
-ändere lautstärke des tv sieben
-ändere lautstärke des tv acht
-ändere lautstärke des tv neun
-ändere lautstärke des tv zehn
-ändere die lautstärke des tv null
-ändere die lautstärke des tv eins
-ändere die lautstärke des tv zwei
-ändere die lautstärke des tv drei
-ändere die lautstärke des tv vier
-ändere die lautstärke des tv fünf
-ändere die lautstärke des tv sechs
-ändere die lautstärke des tv sieben
-ändere die lautstärke des tv acht
-ändere die lautstärke des tv neun
-ändere die lautstärke des tv zehn
-bitte setze lautstärke des tv null
-bitte setze lautstärke des tv eins
-bitte setze lautstärke des tv zwei
-bitte setze lautstärke des tv drei
-bitte setze lautstärke des tv vier
-bitte setze lautstärke des tv fünf
-bitte setze lautstärke des tv sechs
-bitte setze lautstärke des tv sieben
-bitte setze lautstärke des tv acht
-bitte setze lautstärke des tv neun
-bitte setze lautstärke des tv zehn
-bitte setze die lautstärke des tv null
-bitte setze die lautstärke des tv eins
-bitte setze die lautstärke des tv zwei
-bitte setze die lautstärke des tv drei
-bitte setze die lautstärke des tv vier
-bitte setze die lautstärke des tv fünf
-bitte setze die lautstärke des tv sechs
-bitte setze die lautstärke des tv sieben
-bitte setze die lautstärke des tv acht
-bitte setze die lautstärke des tv neun
-bitte setze die lautstärke des tv zehn
-bitte lautstärke des tv null
-bitte lautstärke des tv eins
-bitte lautstärke des tv zwei
-bitte lautstärke des tv drei
-bitte lautstärke des tv vier
-bitte lautstärke des tv fünf
-bitte lautstärke des tv sechs
-bitte lautstärke des tv sieben
-bitte lautstärke des tv acht
-bitte lautstärke des tv neun
-bitte lautstärke des tv zehn
-bitte ändere lautstärke des tv null
-bitte ändere lautstärke des tv eins
-bitte ändere lautstärke des tv zwei
-bitte ändere lautstärke des tv drei
-bitte ändere lautstärke des tv vier
-bitte ändere lautstärke des tv fünf
-bitte ändere lautstärke des tv sechs
-bitte ändere lautstärke des tv sieben
-bitte ändere lautstärke des tv acht
-bitte ändere lautstärke des tv neun
-bitte ändere lautstärke des tv zehn
-bitte ändere die lautstärke des tv null
-bitte ändere die lautstärke des tv eins
-bitte ändere die lautstärke des tv zwei
-bitte ändere die lautstärke des tv drei
-bitte ändere die lautstärke des tv vier
-bitte ändere die lautstärke des tv fünf
-bitte ändere die lautstärke des tv sechs
-bitte ändere die lautstärke des tv sieben
-bitte ändere die lautstärke des tv acht
-bitte ändere die lautstärke des tv neun
-bitte ändere die lautstärke des tv zehn
-setze lautstärke des tv null bitte
-setze lautstärke des tv eins bitte
-setze lautstärke des tv zwei bitte
-setze lautstärke des tv drei bitte
-setze lautstärke des tv vier bitte
-setze lautstärke des tv fünf bitte
-setze lautstärke des tv sechs bitte
-setze lautstärke des tv sieben bitte
-setze lautstärke des tv acht bitte
-setze lautstärke des tv neun bitte
-setze lautstärke des tv zehn bitte
-setze die lautstärke des tv null bitte
-setze die lautstärke des tv eins bitte
-setze die lautstärke des tv zwei bitte
-setze die lautstärke des tv drei bitte
-setze die lautstärke des tv vier bitte
-setze die lautstärke des tv fünf bitte
-setze die lautstärke des tv sechs bitte
-setze die lautstärke des tv sieben bitte
-setze die lautstärke des tv acht bitte
-setze die lautstärke des tv neun bitte
-setze die lautstärke des tv zehn bitte
-lautstärke des tv null bitte
-lautstärke des tv eins bitte
-lautstärke des tv zwei bitte
-lautstärke des tv drei bitte
-lautstärke des tv vier bitte
-lautstärke des tv fünf bitte
-lautstärke des tv sechs bitte
-lautstärke des tv sieben bitte
-lautstärke des tv acht bitte
-lautstärke des tv neun bitte
-lautstärke des tv zehn bitte
-ändere lautstärke des tv null bitte
-ändere lautstärke des tv eins bitte
-ändere lautstärke des tv zwei bitte
-ändere lautstärke des tv drei bitte
-ändere lautstärke des tv vier bitte
-ändere lautstärke des tv fünf bitte
-ändere lautstärke des tv sechs bitte
-ändere lautstärke des tv sieben bitte
-ändere lautstärke des tv acht bitte
-ändere lautstärke des tv neun bitte
-ändere lautstärke des tv zehn bitte
-ändere die lautstärke des tv null bitte
-ändere die lautstärke des tv eins bitte
-ändere die lautstärke des tv zwei bitte
-ändere die lautstärke des tv drei bitte
-ändere die lautstärke des tv vier bitte
-ändere die lautstärke des tv fünf bitte
-ändere die lautstärke des tv sechs bitte
-ändere die lautstärke des tv sieben bitte
-ändere die lautstärke des tv acht bitte
-ändere die lautstärke des tv neun bitte
-ändere die lautstärke des tv zehn bitte
+setze lautstärke des tv auf null
+setze lautstärke des tv auf eins
+setze lautstärke des tv auf zwei
+setze lautstärke des tv auf drei
+setze lautstärke des tv auf vier
+setze lautstärke des tv auf fünf
+setze lautstärke des tv auf sechs
+setze lautstärke des tv auf sieben
+setze lautstärke des tv auf acht
+setze lautstärke des tv auf neun
+setze lautstärke des tv auf zehn
+setze die lautstärke des tv auf null
+setze die lautstärke des tv auf eins
+setze die lautstärke des tv auf zwei
+setze die lautstärke des tv auf drei
+setze die lautstärke des tv auf vier
+setze die lautstärke des tv auf fünf
+setze die lautstärke des tv auf sechs
+setze die lautstärke des tv auf sieben
+setze die lautstärke des tv auf acht
+setze die lautstärke des tv auf neun
+setze die lautstärke des tv auf zehn
+lautstärke des tv auf null
+lautstärke des tv auf eins
+lautstärke des tv auf zwei
+lautstärke des tv auf drei
+lautstärke des tv auf vier
+lautstärke des tv auf fünf
+lautstärke des tv auf sechs
+lautstärke des tv auf sieben
+lautstärke des tv auf acht
+lautstärke des tv auf neun
+lautstärke des tv auf zehn
+ändere lautstärke des tv auf null
+ändere lautstärke des tv auf eins
+ändere lautstärke des tv auf zwei
+ändere lautstärke des tv auf drei
+ändere lautstärke des tv auf vier
+ändere lautstärke des tv auf fünf
+ändere lautstärke des tv auf sechs
+ändere lautstärke des tv auf sieben
+ändere lautstärke des tv auf acht
+ändere lautstärke des tv auf neun
+ändere lautstärke des tv auf zehn
+ändere die lautstärke des tv auf null
+ändere die lautstärke des tv auf eins
+ändere die lautstärke des tv auf zwei
+ändere die lautstärke des tv auf drei
+ändere die lautstärke des tv auf vier
+ändere die lautstärke des tv auf fünf
+ändere die lautstärke des tv auf sechs
+ändere die lautstärke des tv auf sieben
+ändere die lautstärke des tv auf acht
+ändere die lautstärke des tv auf neun
+ändere die lautstärke des tv auf zehn
+bitte setze lautstärke des tv auf null
+bitte setze lautstärke des tv auf eins
+bitte setze lautstärke des tv auf zwei
+bitte setze lautstärke des tv auf drei
+bitte setze lautstärke des tv auf vier
+bitte setze lautstärke des tv auf fünf
+bitte setze lautstärke des tv auf sechs
+bitte setze lautstärke des tv auf sieben
+bitte setze lautstärke des tv auf acht
+bitte setze lautstärke des tv auf neun
+bitte setze lautstärke des tv auf zehn
+bitte setze die lautstärke des tv auf null
+bitte setze die lautstärke des tv auf eins
+bitte setze die lautstärke des tv auf zwei
+bitte setze die lautstärke des tv auf drei
+bitte setze die lautstärke des tv auf vier
+bitte setze die lautstärke des tv auf fünf
+bitte setze die lautstärke des tv auf sechs
+bitte setze die lautstärke des tv auf sieben
+bitte setze die lautstärke des tv auf acht
+bitte setze die lautstärke des tv auf neun
+bitte setze die lautstärke des tv auf zehn
+bitte lautstärke des tv auf null
+bitte lautstärke des tv auf eins
+bitte lautstärke des tv auf zwei
+bitte lautstärke des tv auf drei
+bitte lautstärke des tv auf vier
+bitte lautstärke des tv auf fünf
+bitte lautstärke des tv auf sechs
+bitte lautstärke des tv auf sieben
+bitte lautstärke des tv auf acht
+bitte lautstärke des tv auf neun
+bitte lautstärke des tv auf zehn
+bitte ändere lautstärke des tv auf null
+bitte ändere lautstärke des tv auf eins
+bitte ändere lautstärke des tv auf zwei
+bitte ändere lautstärke des tv auf drei
+bitte ändere lautstärke des tv auf vier
+bitte ändere lautstärke des tv auf fünf
+bitte ändere lautstärke des tv auf sechs
+bitte ändere lautstärke des tv auf sieben
+bitte ändere lautstärke des tv auf acht
+bitte ändere lautstärke des tv auf neun
+bitte ändere lautstärke des tv auf zehn
+bitte ändere die lautstärke des tv auf null
+bitte ändere die lautstärke des tv auf eins
+bitte ändere die lautstärke des tv auf zwei
+bitte ändere die lautstärke des tv auf drei
+bitte ändere die lautstärke des tv auf vier
+bitte ändere die lautstärke des tv auf fünf
+bitte ändere die lautstärke des tv auf sechs
+bitte ändere die lautstärke des tv auf sieben
+bitte ändere die lautstärke des tv auf acht
+bitte ändere die lautstärke des tv auf neun
+bitte ändere die lautstärke des tv auf zehn
+setze lautstärke des tv auf null bitte
+setze lautstärke des tv auf eins bitte
+setze lautstärke des tv auf zwei bitte
+setze lautstärke des tv auf drei bitte
+setze lautstärke des tv auf vier bitte
+setze lautstärke des tv auf fünf bitte
+setze lautstärke des tv auf sechs bitte
+setze lautstärke des tv auf sieben bitte
+setze lautstärke des tv auf acht bitte
+setze lautstärke des tv auf neun bitte
+setze lautstärke des tv auf zehn bitte
+setze die lautstärke des tv auf null bitte
+setze die lautstärke des tv auf eins bitte
+setze die lautstärke des tv auf zwei bitte
+setze die lautstärke des tv auf drei bitte
+setze die lautstärke des tv auf vier bitte
+setze die lautstärke des tv auf fünf bitte
+setze die lautstärke des tv auf sechs bitte
+setze die lautstärke des tv auf sieben bitte
+setze die lautstärke des tv auf acht bitte
+setze die lautstärke des tv auf neun bitte
+setze die lautstärke des tv auf zehn bitte
+lautstärke des tv auf null bitte
+lautstärke des tv auf eins bitte
+lautstärke des tv auf zwei bitte
+lautstärke des tv auf drei bitte
+lautstärke des tv auf vier bitte
+lautstärke des tv auf fünf bitte
+lautstärke des tv auf sechs bitte
+lautstärke des tv auf sieben bitte
+lautstärke des tv auf acht bitte
+lautstärke des tv auf neun bitte
+lautstärke des tv auf zehn bitte
+ändere lautstärke des tv auf null bitte
+ändere lautstärke des tv auf eins bitte
+ändere lautstärke des tv auf zwei bitte
+ändere lautstärke des tv auf drei bitte
+ändere lautstärke des tv auf vier bitte
+ändere lautstärke des tv auf fünf bitte
+ändere lautstärke des tv auf sechs bitte
+ändere lautstärke des tv auf sieben bitte
+ändere lautstärke des tv auf acht bitte
+ändere lautstärke des tv auf neun bitte
+ändere lautstärke des tv auf zehn bitte
+ändere die lautstärke des tv auf null bitte
+ändere die lautstärke des tv auf eins bitte
+ändere die lautstärke des tv auf zwei bitte
+ändere die lautstärke des tv auf drei bitte
+ändere die lautstärke des tv auf vier bitte
+ändere die lautstärke des tv auf fünf bitte
+ändere die lautstärke des tv auf sechs bitte
+ändere die lautstärke des tv auf sieben bitte
+ändere die lautstärke des tv auf acht bitte
+ändere die lautstärke des tv auf neun bitte
+ändere die lautstärke des tv auf zehn bitte
 setze die lautstärke des tv
 setze die lautstärke des tv auf
 lautstärke des tv auf
@@ -4322,171 +4355,171 @@ setze die lautstärke des tv auf
 lautstärke des tv auf
 ändere die lautstärke des tv
 ändere die lautstärke des tv auf
-setze fernseher null
-setze fernseher eins
-setze fernseher zwei
-setze fernseher drei
-setze fernseher vier
-setze fernseher fünf
-setze fernseher sechs
-setze fernseher sieben
-setze fernseher acht
-setze fernseher neun
-setze fernseher zehn
-setze den fernseher null
-setze den fernseher eins
-setze den fernseher zwei
-setze den fernseher drei
-setze den fernseher vier
-setze den fernseher fünf
-setze den fernseher sechs
-setze den fernseher sieben
-setze den fernseher acht
-setze den fernseher neun
-setze den fernseher zehn
-fernseher null
-fernseher eins
-fernseher zwei
-fernseher drei
-fernseher vier
-fernseher fünf
-fernseher sechs
-fernseher sieben
-fernseher acht
-fernseher neun
-fernseher zehn
-ändere fernseher null
-ändere fernseher eins
-ändere fernseher zwei
-ändere fernseher drei
-ändere fernseher vier
-ändere fernseher fünf
-ändere fernseher sechs
-ändere fernseher sieben
-ändere fernseher acht
-ändere fernseher neun
-ändere fernseher zehn
-ändere den fernseher null
-ändere den fernseher eins
-ändere den fernseher zwei
-ändere den fernseher drei
-ändere den fernseher vier
-ändere den fernseher fünf
-ändere den fernseher sechs
-ändere den fernseher sieben
-ändere den fernseher acht
-ändere den fernseher neun
-ändere den fernseher zehn
-bitte setze fernseher null
-bitte setze fernseher eins
-bitte setze fernseher zwei
-bitte setze fernseher drei
-bitte setze fernseher vier
-bitte setze fernseher fünf
-bitte setze fernseher sechs
-bitte setze fernseher sieben
-bitte setze fernseher acht
-bitte setze fernseher neun
-bitte setze fernseher zehn
-bitte setze den fernseher null
-bitte setze den fernseher eins
-bitte setze den fernseher zwei
-bitte setze den fernseher drei
-bitte setze den fernseher vier
-bitte setze den fernseher fünf
-bitte setze den fernseher sechs
-bitte setze den fernseher sieben
-bitte setze den fernseher acht
-bitte setze den fernseher neun
-bitte setze den fernseher zehn
-bitte fernseher null
-bitte fernseher eins
-bitte fernseher zwei
-bitte fernseher drei
-bitte fernseher vier
-bitte fernseher fünf
-bitte fernseher sechs
-bitte fernseher sieben
-bitte fernseher acht
-bitte fernseher neun
-bitte fernseher zehn
-bitte ändere fernseher null
-bitte ändere fernseher eins
-bitte ändere fernseher zwei
-bitte ändere fernseher drei
-bitte ändere fernseher vier
-bitte ändere fernseher fünf
-bitte ändere fernseher sechs
-bitte ändere fernseher sieben
-bitte ändere fernseher acht
-bitte ändere fernseher neun
-bitte ändere fernseher zehn
-bitte ändere den fernseher null
-bitte ändere den fernseher eins
-bitte ändere den fernseher zwei
-bitte ändere den fernseher drei
-bitte ändere den fernseher vier
-bitte ändere den fernseher fünf
-bitte ändere den fernseher sechs
-bitte ändere den fernseher sieben
-bitte ändere den fernseher acht
-bitte ändere den fernseher neun
-bitte ändere den fernseher zehn
-setze fernseher null bitte
-setze fernseher eins bitte
-setze fernseher zwei bitte
-setze fernseher drei bitte
-setze fernseher vier bitte
-setze fernseher fünf bitte
-setze fernseher sechs bitte
-setze fernseher sieben bitte
-setze fernseher acht bitte
-setze fernseher neun bitte
-setze fernseher zehn bitte
-setze den fernseher null bitte
-setze den fernseher eins bitte
-setze den fernseher zwei bitte
-setze den fernseher drei bitte
-setze den fernseher vier bitte
-setze den fernseher fünf bitte
-setze den fernseher sechs bitte
-setze den fernseher sieben bitte
-setze den fernseher acht bitte
-setze den fernseher neun bitte
-setze den fernseher zehn bitte
-fernseher null bitte
-fernseher eins bitte
-fernseher zwei bitte
-fernseher drei bitte
-fernseher vier bitte
-fernseher fünf bitte
-fernseher sechs bitte
-fernseher sieben bitte
-fernseher acht bitte
-fernseher neun bitte
-fernseher zehn bitte
-ändere fernseher null bitte
-ändere fernseher eins bitte
-ändere fernseher zwei bitte
-ändere fernseher drei bitte
-ändere fernseher vier bitte
-ändere fernseher fünf bitte
-ändere fernseher sechs bitte
-ändere fernseher sieben bitte
-ändere fernseher acht bitte
-ändere fernseher neun bitte
-ändere fernseher zehn bitte
-ändere den fernseher null bitte
-ändere den fernseher eins bitte
-ändere den fernseher zwei bitte
-ändere den fernseher drei bitte
-ändere den fernseher vier bitte
-ändere den fernseher fünf bitte
-ändere den fernseher sechs bitte
-ändere den fernseher sieben bitte
-ändere den fernseher acht bitte
-ändere den fernseher neun bitte
-ändere den fernseher zehn bitte
+setze fernseher auf null
+setze fernseher auf eins
+setze fernseher auf zwei
+setze fernseher auf drei
+setze fernseher auf vier
+setze fernseher auf fünf
+setze fernseher auf sechs
+setze fernseher auf sieben
+setze fernseher auf acht
+setze fernseher auf neun
+setze fernseher auf zehn
+setze den fernseher auf null
+setze den fernseher auf eins
+setze den fernseher auf zwei
+setze den fernseher auf drei
+setze den fernseher auf vier
+setze den fernseher auf fünf
+setze den fernseher auf sechs
+setze den fernseher auf sieben
+setze den fernseher auf acht
+setze den fernseher auf neun
+setze den fernseher auf zehn
+fernseher auf null
+fernseher auf eins
+fernseher auf zwei
+fernseher auf drei
+fernseher auf vier
+fernseher auf fünf
+fernseher auf sechs
+fernseher auf sieben
+fernseher auf acht
+fernseher auf neun
+fernseher auf zehn
+ändere fernseher auf null
+ändere fernseher auf eins
+ändere fernseher auf zwei
+ändere fernseher auf drei
+ändere fernseher auf vier
+ändere fernseher auf fünf
+ändere fernseher auf sechs
+ändere fernseher auf sieben
+ändere fernseher auf acht
+ändere fernseher auf neun
+ändere fernseher auf zehn
+ändere den fernseher auf null
+ändere den fernseher auf eins
+ändere den fernseher auf zwei
+ändere den fernseher auf drei
+ändere den fernseher auf vier
+ändere den fernseher auf fünf
+ändere den fernseher auf sechs
+ändere den fernseher auf sieben
+ändere den fernseher auf acht
+ändere den fernseher auf neun
+ändere den fernseher auf zehn
+bitte setze fernseher auf null
+bitte setze fernseher auf eins
+bitte setze fernseher auf zwei
+bitte setze fernseher auf drei
+bitte setze fernseher auf vier
+bitte setze fernseher auf fünf
+bitte setze fernseher auf sechs
+bitte setze fernseher auf sieben
+bitte setze fernseher auf acht
+bitte setze fernseher auf neun
+bitte setze fernseher auf zehn
+bitte setze den fernseher auf null
+bitte setze den fernseher auf eins
+bitte setze den fernseher auf zwei
+bitte setze den fernseher auf drei
+bitte setze den fernseher auf vier
+bitte setze den fernseher auf fünf
+bitte setze den fernseher auf sechs
+bitte setze den fernseher auf sieben
+bitte setze den fernseher auf acht
+bitte setze den fernseher auf neun
+bitte setze den fernseher auf zehn
+bitte fernseher auf null
+bitte fernseher auf eins
+bitte fernseher auf zwei
+bitte fernseher auf drei
+bitte fernseher auf vier
+bitte fernseher auf fünf
+bitte fernseher auf sechs
+bitte fernseher auf sieben
+bitte fernseher auf acht
+bitte fernseher auf neun
+bitte fernseher auf zehn
+bitte ändere fernseher auf null
+bitte ändere fernseher auf eins
+bitte ändere fernseher auf zwei
+bitte ändere fernseher auf drei
+bitte ändere fernseher auf vier
+bitte ändere fernseher auf fünf
+bitte ändere fernseher auf sechs
+bitte ändere fernseher auf sieben
+bitte ändere fernseher auf acht
+bitte ändere fernseher auf neun
+bitte ändere fernseher auf zehn
+bitte ändere den fernseher auf null
+bitte ändere den fernseher auf eins
+bitte ändere den fernseher auf zwei
+bitte ändere den fernseher auf drei
+bitte ändere den fernseher auf vier
+bitte ändere den fernseher auf fünf
+bitte ändere den fernseher auf sechs
+bitte ändere den fernseher auf sieben
+bitte ändere den fernseher auf acht
+bitte ändere den fernseher auf neun
+bitte ändere den fernseher auf zehn
+setze fernseher auf null bitte
+setze fernseher auf eins bitte
+setze fernseher auf zwei bitte
+setze fernseher auf drei bitte
+setze fernseher auf vier bitte
+setze fernseher auf fünf bitte
+setze fernseher auf sechs bitte
+setze fernseher auf sieben bitte
+setze fernseher auf acht bitte
+setze fernseher auf neun bitte
+setze fernseher auf zehn bitte
+setze den fernseher auf null bitte
+setze den fernseher auf eins bitte
+setze den fernseher auf zwei bitte
+setze den fernseher auf drei bitte
+setze den fernseher auf vier bitte
+setze den fernseher auf fünf bitte
+setze den fernseher auf sechs bitte
+setze den fernseher auf sieben bitte
+setze den fernseher auf acht bitte
+setze den fernseher auf neun bitte
+setze den fernseher auf zehn bitte
+fernseher auf null bitte
+fernseher auf eins bitte
+fernseher auf zwei bitte
+fernseher auf drei bitte
+fernseher auf vier bitte
+fernseher auf fünf bitte
+fernseher auf sechs bitte
+fernseher auf sieben bitte
+fernseher auf acht bitte
+fernseher auf neun bitte
+fernseher auf zehn bitte
+ändere fernseher auf null bitte
+ändere fernseher auf eins bitte
+ändere fernseher auf zwei bitte
+ändere fernseher auf drei bitte
+ändere fernseher auf vier bitte
+ändere fernseher auf fünf bitte
+ändere fernseher auf sechs bitte
+ändere fernseher auf sieben bitte
+ändere fernseher auf acht bitte
+ändere fernseher auf neun bitte
+ändere fernseher auf zehn bitte
+ändere den fernseher auf null bitte
+ändere den fernseher auf eins bitte
+ändere den fernseher auf zwei bitte
+ändere den fernseher auf drei bitte
+ändere den fernseher auf vier bitte
+ändere den fernseher auf fünf bitte
+ändere den fernseher auf sechs bitte
+ändere den fernseher auf sieben bitte
+ändere den fernseher auf acht bitte
+ändere den fernseher auf neun bitte
+ändere den fernseher auf zehn bitte
 setze den fernseher
 setze den fernseher auf
 fernseher auf
@@ -4497,28 +4530,39 @@ setze den fernseher auf
 fernseher auf
 ändere den fernseher
 ändere den fernseher auf
-setze fernseher lautstärke null
-setze fernseher lautstärke eins
-setze fernseher lautstärke zwei
-setze fernseher lautstärke drei
-setze fernseher lautstärke vier
-setze fernseher lautstärke fünf
-setze fernseher lautstärke sechs
-setze fernseher lautstärke sieben
-setze fernseher lautstärke acht
-setze fernseher lautstärke neun
-setze fernseher lautstärke zehn
-setze die fernseher lautstärke null
-setze die fernseher lautstärke eins
-setze die fernseher lautstärke zwei
-setze die fernseher lautstärke drei
-setze die fernseher lautstärke vier
-setze die fernseher lautstärke fünf
-setze die fernseher lautstärke sechs
-setze die fernseher lautstärke sieben
-setze die fernseher lautstärke acht
-setze die fernseher lautstärke neun
-setze die fernseher lautstärke zehn
+setze fernseher lautstärke auf null
+setze fernseher lautstärke auf eins
+setze fernseher lautstärke auf zwei
+setze fernseher lautstärke auf drei
+setze fernseher lautstärke auf vier
+setze fernseher lautstärke auf fünf
+setze fernseher lautstärke auf sechs
+setze fernseher lautstärke auf sieben
+setze fernseher lautstärke auf acht
+setze fernseher lautstärke auf neun
+setze fernseher lautstärke auf zehn
+setze die fernseher lautstärke auf null
+setze die fernseher lautstärke auf eins
+setze die fernseher lautstärke auf zwei
+setze die fernseher lautstärke auf drei
+setze die fernseher lautstärke auf vier
+setze die fernseher lautstärke auf fünf
+setze die fernseher lautstärke auf sechs
+setze die fernseher lautstärke auf sieben
+setze die fernseher lautstärke auf acht
+setze die fernseher lautstärke auf neun
+setze die fernseher lautstärke auf zehn
+fernseher lautstärke auf null
+fernseher lautstärke auf eins
+fernseher lautstärke auf zwei
+fernseher lautstärke auf drei
+fernseher lautstärke auf vier
+fernseher lautstärke auf fünf
+fernseher lautstärke auf sechs
+fernseher lautstärke auf sieben
+fernseher lautstärke auf acht
+fernseher lautstärke auf neun
+fernseher lautstärke auf zehn
 fernseher lautstärke null
 fernseher lautstärke eins
 fernseher lautstärke zwei
@@ -4530,138 +4574,138 @@ fernseher lautstärke sieben
 fernseher lautstärke acht
 fernseher lautstärke neun
 fernseher lautstärke zehn
-ändere fernseher lautstärke null
-ändere fernseher lautstärke eins
-ändere fernseher lautstärke zwei
-ändere fernseher lautstärke drei
-ändere fernseher lautstärke vier
-ändere fernseher lautstärke fünf
-ändere fernseher lautstärke sechs
-ändere fernseher lautstärke sieben
-ändere fernseher lautstärke acht
-ändere fernseher lautstärke neun
-ändere fernseher lautstärke zehn
-ändere die fernseher lautstärke null
-ändere die fernseher lautstärke eins
-ändere die fernseher lautstärke zwei
-ändere die fernseher lautstärke drei
-ändere die fernseher lautstärke vier
-ändere die fernseher lautstärke fünf
-ändere die fernseher lautstärke sechs
-ändere die fernseher lautstärke sieben
-ändere die fernseher lautstärke acht
-ändere die fernseher lautstärke neun
-ändere die fernseher lautstärke zehn
-bitte setze fernseher lautstärke null
-bitte setze fernseher lautstärke eins
-bitte setze fernseher lautstärke zwei
-bitte setze fernseher lautstärke drei
-bitte setze fernseher lautstärke vier
-bitte setze fernseher lautstärke fünf
-bitte setze fernseher lautstärke sechs
-bitte setze fernseher lautstärke sieben
-bitte setze fernseher lautstärke acht
-bitte setze fernseher lautstärke neun
-bitte setze fernseher lautstärke zehn
-bitte setze die fernseher lautstärke null
-bitte setze die fernseher lautstärke eins
-bitte setze die fernseher lautstärke zwei
-bitte setze die fernseher lautstärke drei
-bitte setze die fernseher lautstärke vier
-bitte setze die fernseher lautstärke fünf
-bitte setze die fernseher lautstärke sechs
-bitte setze die fernseher lautstärke sieben
-bitte setze die fernseher lautstärke acht
-bitte setze die fernseher lautstärke neun
-bitte setze die fernseher lautstärke zehn
-bitte fernseher lautstärke null
-bitte fernseher lautstärke eins
-bitte fernseher lautstärke zwei
-bitte fernseher lautstärke drei
-bitte fernseher lautstärke vier
-bitte fernseher lautstärke fünf
-bitte fernseher lautstärke sechs
-bitte fernseher lautstärke sieben
-bitte fernseher lautstärke acht
-bitte fernseher lautstärke neun
-bitte fernseher lautstärke zehn
-bitte ändere fernseher lautstärke null
-bitte ändere fernseher lautstärke eins
-bitte ändere fernseher lautstärke zwei
-bitte ändere fernseher lautstärke drei
-bitte ändere fernseher lautstärke vier
-bitte ändere fernseher lautstärke fünf
-bitte ändere fernseher lautstärke sechs
-bitte ändere fernseher lautstärke sieben
-bitte ändere fernseher lautstärke acht
-bitte ändere fernseher lautstärke neun
-bitte ändere fernseher lautstärke zehn
-bitte ändere die fernseher lautstärke null
-bitte ändere die fernseher lautstärke eins
-bitte ändere die fernseher lautstärke zwei
-bitte ändere die fernseher lautstärke drei
-bitte ändere die fernseher lautstärke vier
-bitte ändere die fernseher lautstärke fünf
-bitte ändere die fernseher lautstärke sechs
-bitte ändere die fernseher lautstärke sieben
-bitte ändere die fernseher lautstärke acht
-bitte ändere die fernseher lautstärke neun
-bitte ändere die fernseher lautstärke zehn
-setze fernseher lautstärke null bitte
-setze fernseher lautstärke eins bitte
-setze fernseher lautstärke zwei bitte
-setze fernseher lautstärke drei bitte
-setze fernseher lautstärke vier bitte
-setze fernseher lautstärke fünf bitte
-setze fernseher lautstärke sechs bitte
-setze fernseher lautstärke sieben bitte
-setze fernseher lautstärke acht bitte
-setze fernseher lautstärke neun bitte
-setze fernseher lautstärke zehn bitte
-setze die fernseher lautstärke null bitte
-setze die fernseher lautstärke eins bitte
-setze die fernseher lautstärke zwei bitte
-setze die fernseher lautstärke drei bitte
-setze die fernseher lautstärke vier bitte
-setze die fernseher lautstärke fünf bitte
-setze die fernseher lautstärke sechs bitte
-setze die fernseher lautstärke sieben bitte
-setze die fernseher lautstärke acht bitte
-setze die fernseher lautstärke neun bitte
-setze die fernseher lautstärke zehn bitte
-fernseher lautstärke null bitte
-fernseher lautstärke eins bitte
-fernseher lautstärke zwei bitte
-fernseher lautstärke drei bitte
-fernseher lautstärke vier bitte
-fernseher lautstärke fünf bitte
-fernseher lautstärke sechs bitte
-fernseher lautstärke sieben bitte
-fernseher lautstärke acht bitte
-fernseher lautstärke neun bitte
-fernseher lautstärke zehn bitte
-ändere fernseher lautstärke null bitte
-ändere fernseher lautstärke eins bitte
-ändere fernseher lautstärke zwei bitte
-ändere fernseher lautstärke drei bitte
-ändere fernseher lautstärke vier bitte
-ändere fernseher lautstärke fünf bitte
-ändere fernseher lautstärke sechs bitte
-ändere fernseher lautstärke sieben bitte
-ändere fernseher lautstärke acht bitte
-ändere fernseher lautstärke neun bitte
-ändere fernseher lautstärke zehn bitte
-ändere die fernseher lautstärke null bitte
-ändere die fernseher lautstärke eins bitte
-ändere die fernseher lautstärke zwei bitte
-ändere die fernseher lautstärke drei bitte
-ändere die fernseher lautstärke vier bitte
-ändere die fernseher lautstärke fünf bitte
-ändere die fernseher lautstärke sechs bitte
-ändere die fernseher lautstärke sieben bitte
-ändere die fernseher lautstärke acht bitte
-ändere die fernseher lautstärke neun bitte
-ändere die fernseher lautstärke zehn bitte
+ändere fernseher lautstärke auf null
+ändere fernseher lautstärke auf eins
+ändere fernseher lautstärke auf zwei
+ändere fernseher lautstärke auf drei
+ändere fernseher lautstärke auf vier
+ändere fernseher lautstärke auf fünf
+ändere fernseher lautstärke auf sechs
+ändere fernseher lautstärke auf sieben
+ändere fernseher lautstärke auf acht
+ändere fernseher lautstärke auf neun
+ändere fernseher lautstärke auf zehn
+ändere die fernseher lautstärke auf null
+ändere die fernseher lautstärke auf eins
+ändere die fernseher lautstärke auf zwei
+ändere die fernseher lautstärke auf drei
+ändere die fernseher lautstärke auf vier
+ändere die fernseher lautstärke auf fünf
+ändere die fernseher lautstärke auf sechs
+ändere die fernseher lautstärke auf sieben
+ändere die fernseher lautstärke auf acht
+ändere die fernseher lautstärke auf neun
+ändere die fernseher lautstärke auf zehn
+bitte setze fernseher lautstärke auf null
+bitte setze fernseher lautstärke auf eins
+bitte setze fernseher lautstärke auf zwei
+bitte setze fernseher lautstärke auf drei
+bitte setze fernseher lautstärke auf vier
+bitte setze fernseher lautstärke auf fünf
+bitte setze fernseher lautstärke auf sechs
+bitte setze fernseher lautstärke auf sieben
+bitte setze fernseher lautstärke auf acht
+bitte setze fernseher lautstärke auf neun
+bitte setze fernseher lautstärke auf zehn
+bitte setze die fernseher lautstärke auf null
+bitte setze die fernseher lautstärke auf eins
+bitte setze die fernseher lautstärke auf zwei
+bitte setze die fernseher lautstärke auf drei
+bitte setze die fernseher lautstärke auf vier
+bitte setze die fernseher lautstärke auf fünf
+bitte setze die fernseher lautstärke auf sechs
+bitte setze die fernseher lautstärke auf sieben
+bitte setze die fernseher lautstärke auf acht
+bitte setze die fernseher lautstärke auf neun
+bitte setze die fernseher lautstärke auf zehn
+bitte fernseher lautstärke auf null
+bitte fernseher lautstärke auf eins
+bitte fernseher lautstärke auf zwei
+bitte fernseher lautstärke auf drei
+bitte fernseher lautstärke auf vier
+bitte fernseher lautstärke auf fünf
+bitte fernseher lautstärke auf sechs
+bitte fernseher lautstärke auf sieben
+bitte fernseher lautstärke auf acht
+bitte fernseher lautstärke auf neun
+bitte fernseher lautstärke auf zehn
+bitte ändere fernseher lautstärke auf null
+bitte ändere fernseher lautstärke auf eins
+bitte ändere fernseher lautstärke auf zwei
+bitte ändere fernseher lautstärke auf drei
+bitte ändere fernseher lautstärke auf vier
+bitte ändere fernseher lautstärke auf fünf
+bitte ändere fernseher lautstärke auf sechs
+bitte ändere fernseher lautstärke auf sieben
+bitte ändere fernseher lautstärke auf acht
+bitte ändere fernseher lautstärke auf neun
+bitte ändere fernseher lautstärke auf zehn
+bitte ändere die fernseher lautstärke auf null
+bitte ändere die fernseher lautstärke auf eins
+bitte ändere die fernseher lautstärke auf zwei
+bitte ändere die fernseher lautstärke auf drei
+bitte ändere die fernseher lautstärke auf vier
+bitte ändere die fernseher lautstärke auf fünf
+bitte ändere die fernseher lautstärke auf sechs
+bitte ändere die fernseher lautstärke auf sieben
+bitte ändere die fernseher lautstärke auf acht
+bitte ändere die fernseher lautstärke auf neun
+bitte ändere die fernseher lautstärke auf zehn
+setze fernseher lautstärke auf null bitte
+setze fernseher lautstärke auf eins bitte
+setze fernseher lautstärke auf zwei bitte
+setze fernseher lautstärke auf drei bitte
+setze fernseher lautstärke auf vier bitte
+setze fernseher lautstärke auf fünf bitte
+setze fernseher lautstärke auf sechs bitte
+setze fernseher lautstärke auf sieben bitte
+setze fernseher lautstärke auf acht bitte
+setze fernseher lautstärke auf neun bitte
+setze fernseher lautstärke auf zehn bitte
+setze die fernseher lautstärke auf null bitte
+setze die fernseher lautstärke auf eins bitte
+setze die fernseher lautstärke auf zwei bitte
+setze die fernseher lautstärke auf drei bitte
+setze die fernseher lautstärke auf vier bitte
+setze die fernseher lautstärke auf fünf bitte
+setze die fernseher lautstärke auf sechs bitte
+setze die fernseher lautstärke auf sieben bitte
+setze die fernseher lautstärke auf acht bitte
+setze die fernseher lautstärke auf neun bitte
+setze die fernseher lautstärke auf zehn bitte
+fernseher lautstärke auf null bitte
+fernseher lautstärke auf eins bitte
+fernseher lautstärke auf zwei bitte
+fernseher lautstärke auf drei bitte
+fernseher lautstärke auf vier bitte
+fernseher lautstärke auf fünf bitte
+fernseher lautstärke auf sechs bitte
+fernseher lautstärke auf sieben bitte
+fernseher lautstärke auf acht bitte
+fernseher lautstärke auf neun bitte
+fernseher lautstärke auf zehn bitte
+ändere fernseher lautstärke auf null bitte
+ändere fernseher lautstärke auf eins bitte
+ändere fernseher lautstärke auf zwei bitte
+ändere fernseher lautstärke auf drei bitte
+ändere fernseher lautstärke auf vier bitte
+ändere fernseher lautstärke auf fünf bitte
+ändere fernseher lautstärke auf sechs bitte
+ändere fernseher lautstärke auf sieben bitte
+ändere fernseher lautstärke auf acht bitte
+ändere fernseher lautstärke auf neun bitte
+ändere fernseher lautstärke auf zehn bitte
+ändere die fernseher lautstärke auf null bitte
+ändere die fernseher lautstärke auf eins bitte
+ändere die fernseher lautstärke auf zwei bitte
+ändere die fernseher lautstärke auf drei bitte
+ändere die fernseher lautstärke auf vier bitte
+ändere die fernseher lautstärke auf fünf bitte
+ändere die fernseher lautstärke auf sechs bitte
+ändere die fernseher lautstärke auf sieben bitte
+ändere die fernseher lautstärke auf acht bitte
+ändere die fernseher lautstärke auf neun bitte
+ändere die fernseher lautstärke auf zehn bitte
 setze die fernseher lautstärke
 setze die fernseher lautstärke auf
 fernseher lautstärke auf
@@ -4672,28 +4716,28 @@ setze die fernseher lautstärke auf
 fernseher lautstärke auf
 ändere die fernseher lautstärke
 ändere die fernseher lautstärke auf
-setze lautstärke des fernsehers null
-setze lautstärke des fernsehers eins
-setze lautstärke des fernsehers zwei
-setze lautstärke des fernsehers drei
-setze lautstärke des fernsehers vier
-setze lautstärke des fernsehers fünf
-setze lautstärke des fernsehers sechs
-setze lautstärke des fernsehers sieben
-setze lautstärke des fernsehers acht
-setze lautstärke des fernsehers neun
-setze lautstärke des fernsehers zehn
-setze die lautstärke des fernsehers null
-setze die lautstärke des fernsehers eins
-setze die lautstärke des fernsehers zwei
-setze die lautstärke des fernsehers drei
-setze die lautstärke des fernsehers vier
-setze die lautstärke des fernsehers fünf
-setze die lautstärke des fernsehers sechs
-setze die lautstärke des fernsehers sieben
-setze die lautstärke des fernsehers acht
-setze die lautstärke des fernsehers neun
-setze die lautstärke des fernsehers zehn
+setze lautstärke des fernsehers auf null
+setze lautstärke des fernsehers auf eins
+setze lautstärke des fernsehers auf zwei
+setze lautstärke des fernsehers auf drei
+setze lautstärke des fernsehers auf vier
+setze lautstärke des fernsehers auf fünf
+setze lautstärke des fernsehers auf sechs
+setze lautstärke des fernsehers auf sieben
+setze lautstärke des fernsehers auf acht
+setze lautstärke des fernsehers auf neun
+setze lautstärke des fernsehers auf zehn
+setze die lautstärke des fernsehers auf null
+setze die lautstärke des fernsehers auf eins
+setze die lautstärke des fernsehers auf zwei
+setze die lautstärke des fernsehers auf drei
+setze die lautstärke des fernsehers auf vier
+setze die lautstärke des fernsehers auf fünf
+setze die lautstärke des fernsehers auf sechs
+setze die lautstärke des fernsehers auf sieben
+setze die lautstärke des fernsehers auf acht
+setze die lautstärke des fernsehers auf neun
+setze die lautstärke des fernsehers auf zehn
 lautstärke des fernsehers null
 lautstärke des fernsehers eins
 lautstärke des fernsehers zwei
@@ -4705,138 +4749,149 @@ lautstärke des fernsehers sieben
 lautstärke des fernsehers acht
 lautstärke des fernsehers neun
 lautstärke des fernsehers zehn
-ändere lautstärke des fernsehers null
-ändere lautstärke des fernsehers eins
-ändere lautstärke des fernsehers zwei
-ändere lautstärke des fernsehers drei
-ändere lautstärke des fernsehers vier
-ändere lautstärke des fernsehers fünf
-ändere lautstärke des fernsehers sechs
-ändere lautstärke des fernsehers sieben
-ändere lautstärke des fernsehers acht
-ändere lautstärke des fernsehers neun
-ändere lautstärke des fernsehers zehn
-ändere die lautstärke des fernsehers null
-ändere die lautstärke des fernsehers eins
-ändere die lautstärke des fernsehers zwei
-ändere die lautstärke des fernsehers drei
-ändere die lautstärke des fernsehers vier
-ändere die lautstärke des fernsehers fünf
-ändere die lautstärke des fernsehers sechs
-ändere die lautstärke des fernsehers sieben
-ändere die lautstärke des fernsehers acht
-ändere die lautstärke des fernsehers neun
-ändere die lautstärke des fernsehers zehn
-bitte setze lautstärke des fernsehers null
-bitte setze lautstärke des fernsehers eins
-bitte setze lautstärke des fernsehers zwei
-bitte setze lautstärke des fernsehers drei
-bitte setze lautstärke des fernsehers vier
-bitte setze lautstärke des fernsehers fünf
-bitte setze lautstärke des fernsehers sechs
-bitte setze lautstärke des fernsehers sieben
-bitte setze lautstärke des fernsehers acht
-bitte setze lautstärke des fernsehers neun
-bitte setze lautstärke des fernsehers zehn
-bitte setze die lautstärke des fernsehers null
-bitte setze die lautstärke des fernsehers eins
-bitte setze die lautstärke des fernsehers zwei
-bitte setze die lautstärke des fernsehers drei
-bitte setze die lautstärke des fernsehers vier
-bitte setze die lautstärke des fernsehers fünf
-bitte setze die lautstärke des fernsehers sechs
-bitte setze die lautstärke des fernsehers sieben
-bitte setze die lautstärke des fernsehers acht
-bitte setze die lautstärke des fernsehers neun
-bitte setze die lautstärke des fernsehers zehn
-bitte lautstärke des fernsehers null
-bitte lautstärke des fernsehers eins
-bitte lautstärke des fernsehers zwei
-bitte lautstärke des fernsehers drei
-bitte lautstärke des fernsehers vier
-bitte lautstärke des fernsehers fünf
-bitte lautstärke des fernsehers sechs
-bitte lautstärke des fernsehers sieben
-bitte lautstärke des fernsehers acht
-bitte lautstärke des fernsehers neun
-bitte lautstärke des fernsehers zehn
-bitte ändere lautstärke des fernsehers null
-bitte ändere lautstärke des fernsehers eins
-bitte ändere lautstärke des fernsehers zwei
-bitte ändere lautstärke des fernsehers drei
-bitte ändere lautstärke des fernsehers vier
-bitte ändere lautstärke des fernsehers fünf
-bitte ändere lautstärke des fernsehers sechs
-bitte ändere lautstärke des fernsehers sieben
-bitte ändere lautstärke des fernsehers acht
-bitte ändere lautstärke des fernsehers neun
-bitte ändere lautstärke des fernsehers zehn
-bitte ändere die lautstärke des fernsehers null
-bitte ändere die lautstärke des fernsehers eins
-bitte ändere die lautstärke des fernsehers zwei
-bitte ändere die lautstärke des fernsehers drei
-bitte ändere die lautstärke des fernsehers vier
-bitte ändere die lautstärke des fernsehers fünf
-bitte ändere die lautstärke des fernsehers sechs
-bitte ändere die lautstärke des fernsehers sieben
-bitte ändere die lautstärke des fernsehers acht
-bitte ändere die lautstärke des fernsehers neun
-bitte ändere die lautstärke des fernsehers zehn
-setze lautstärke des fernsehers null bitte
-setze lautstärke des fernsehers eins bitte
-setze lautstärke des fernsehers zwei bitte
-setze lautstärke des fernsehers drei bitte
-setze lautstärke des fernsehers vier bitte
-setze lautstärke des fernsehers fünf bitte
-setze lautstärke des fernsehers sechs bitte
-setze lautstärke des fernsehers sieben bitte
-setze lautstärke des fernsehers acht bitte
-setze lautstärke des fernsehers neun bitte
-setze lautstärke des fernsehers zehn bitte
-setze die lautstärke des fernsehers null bitte
-setze die lautstärke des fernsehers eins bitte
-setze die lautstärke des fernsehers zwei bitte
-setze die lautstärke des fernsehers drei bitte
-setze die lautstärke des fernsehers vier bitte
-setze die lautstärke des fernsehers fünf bitte
-setze die lautstärke des fernsehers sechs bitte
-setze die lautstärke des fernsehers sieben bitte
-setze die lautstärke des fernsehers acht bitte
-setze die lautstärke des fernsehers neun bitte
-setze die lautstärke des fernsehers zehn bitte
-lautstärke des fernsehers null bitte
-lautstärke des fernsehers eins bitte
-lautstärke des fernsehers zwei bitte
-lautstärke des fernsehers drei bitte
-lautstärke des fernsehers vier bitte
-lautstärke des fernsehers fünf bitte
-lautstärke des fernsehers sechs bitte
-lautstärke des fernsehers sieben bitte
-lautstärke des fernsehers acht bitte
-lautstärke des fernsehers neun bitte
-lautstärke des fernsehers zehn bitte
-ändere lautstärke des fernsehers null bitte
-ändere lautstärke des fernsehers eins bitte
-ändere lautstärke des fernsehers zwei bitte
-ändere lautstärke des fernsehers drei bitte
-ändere lautstärke des fernsehers vier bitte
-ändere lautstärke des fernsehers fünf bitte
-ändere lautstärke des fernsehers sechs bitte
-ändere lautstärke des fernsehers sieben bitte
-ändere lautstärke des fernsehers acht bitte
-ändere lautstärke des fernsehers neun bitte
-ändere lautstärke des fernsehers zehn bitte
-ändere die lautstärke des fernsehers null bitte
-ändere die lautstärke des fernsehers eins bitte
-ändere die lautstärke des fernsehers zwei bitte
-ändere die lautstärke des fernsehers drei bitte
-ändere die lautstärke des fernsehers vier bitte
-ändere die lautstärke des fernsehers fünf bitte
-ändere die lautstärke des fernsehers sechs bitte
-ändere die lautstärke des fernsehers sieben bitte
-ändere die lautstärke des fernsehers acht bitte
-ändere die lautstärke des fernsehers neun bitte
-ändere die lautstärke des fernsehers zehn bitte
+lautstärke des fernsehers auf null
+lautstärke des fernsehers auf eins
+lautstärke des fernsehers auf zwei
+lautstärke des fernsehers auf drei
+lautstärke des fernsehers auf vier
+lautstärke des fernsehers auf fünf
+lautstärke des fernsehers auf sechs
+lautstärke des fernsehers auf sieben
+lautstärke des fernsehers auf acht
+lautstärke des fernsehers auf neun
+lautstärke des fernsehers auf zehn
+ändere lautstärke des fernsehers auf null
+ändere lautstärke des fernsehers auf eins
+ändere lautstärke des fernsehers auf zwei
+ändere lautstärke des fernsehers auf drei
+ändere lautstärke des fernsehers auf vier
+ändere lautstärke des fernsehers auf fünf
+ändere lautstärke des fernsehers auf sechs
+ändere lautstärke des fernsehers auf sieben
+ändere lautstärke des fernsehers auf acht
+ändere lautstärke des fernsehers auf neun
+ändere lautstärke des fernsehers auf zehn
+ändere die lautstärke des fernsehers auf null
+ändere die lautstärke des fernsehers auf eins
+ändere die lautstärke des fernsehers auf zwei
+ändere die lautstärke des fernsehers auf drei
+ändere die lautstärke des fernsehers auf vier
+ändere die lautstärke des fernsehers auf fünf
+ändere die lautstärke des fernsehers auf sechs
+ändere die lautstärke des fernsehers auf sieben
+ändere die lautstärke des fernsehers auf acht
+ändere die lautstärke des fernsehers auf neun
+ändere die lautstärke des fernsehers auf zehn
+bitte setze lautstärke des fernsehers auf null
+bitte setze lautstärke des fernsehers auf eins
+bitte setze lautstärke des fernsehers auf zwei
+bitte setze lautstärke des fernsehers auf drei
+bitte setze lautstärke des fernsehers auf vier
+bitte setze lautstärke des fernsehers auf fünf
+bitte setze lautstärke des fernsehers auf sechs
+bitte setze lautstärke des fernsehers auf sieben
+bitte setze lautstärke des fernsehers auf acht
+bitte setze lautstärke des fernsehers auf neun
+bitte setze lautstärke des fernsehers auf zehn
+bitte setze die lautstärke des fernsehers auf null
+bitte setze die lautstärke des fernsehers auf eins
+bitte setze die lautstärke des fernsehers auf zwei
+bitte setze die lautstärke des fernsehers auf drei
+bitte setze die lautstärke des fernsehers auf vier
+bitte setze die lautstärke des fernsehers auf fünf
+bitte setze die lautstärke des fernsehers auf sechs
+bitte setze die lautstärke des fernsehers auf sieben
+bitte setze die lautstärke des fernsehers auf acht
+bitte setze die lautstärke des fernsehers auf neun
+bitte setze die lautstärke des fernsehers auf zehn
+bitte lautstärke des fernsehers auf null
+bitte lautstärke des fernsehers auf eins
+bitte lautstärke des fernsehers auf zwei
+bitte lautstärke des fernsehers auf drei
+bitte lautstärke des fernsehers auf vier
+bitte lautstärke des fernsehers auf fünf
+bitte lautstärke des fernsehers auf sechs
+bitte lautstärke des fernsehers auf sieben
+bitte lautstärke des fernsehers auf acht
+bitte lautstärke des fernsehers auf neun
+bitte lautstärke des fernsehers auf zehn
+bitte ändere lautstärke des fernsehers auf null
+bitte ändere lautstärke des fernsehers auf eins
+bitte ändere lautstärke des fernsehers auf zwei
+bitte ändere lautstärke des fernsehers auf drei
+bitte ändere lautstärke des fernsehers auf vier
+bitte ändere lautstärke des fernsehers auf fünf
+bitte ändere lautstärke des fernsehers auf sechs
+bitte ändere lautstärke des fernsehers auf sieben
+bitte ändere lautstärke des fernsehers auf acht
+bitte ändere lautstärke des fernsehers auf neun
+bitte ändere lautstärke des fernsehers auf zehn
+bitte ändere die lautstärke des fernsehers auf null
+bitte ändere die lautstärke des fernsehers auf eins
+bitte ändere die lautstärke des fernsehers auf zwei
+bitte ändere die lautstärke des fernsehers auf drei
+bitte ändere die lautstärke des fernsehers auf vier
+bitte ändere die lautstärke des fernsehers auf fünf
+bitte ändere die lautstärke des fernsehers auf sechs
+bitte ändere die lautstärke des fernsehers auf sieben
+bitte ändere die lautstärke des fernsehers auf acht
+bitte ändere die lautstärke des fernsehers auf neun
+bitte ändere die lautstärke des fernsehers auf zehn
+setze lautstärke des fernsehers auf null bitte
+setze lautstärke des fernsehers auf eins bitte
+setze lautstärke des fernsehers auf zwei bitte
+setze lautstärke des fernsehers auf drei bitte
+setze lautstärke des fernsehers auf vier bitte
+setze lautstärke des fernsehers auf fünf bitte
+setze lautstärke des fernsehers auf sechs bitte
+setze lautstärke des fernsehers auf sieben bitte
+setze lautstärke des fernsehers auf acht bitte
+setze lautstärke des fernsehers auf neun bitte
+setze lautstärke des fernsehers auf zehn bitte
+setze die lautstärke des fernsehers auf null bitte
+setze die lautstärke des fernsehers auf eins bitte
+setze die lautstärke des fernsehers auf zwei bitte
+setze die lautstärke des fernsehers auf drei bitte
+setze die lautstärke des fernsehers auf vier bitte
+setze die lautstärke des fernsehers auf fünf bitte
+setze die lautstärke des fernsehers auf sechs bitte
+setze die lautstärke des fernsehers auf sieben bitte
+setze die lautstärke des fernsehers auf acht bitte
+setze die lautstärke des fernsehers auf neun bitte
+setze die lautstärke des fernsehers auf zehn bitte
+lautstärke des fernsehers auf null bitte
+lautstärke des fernsehers auf eins bitte
+lautstärke des fernsehers auf zwei bitte
+lautstärke des fernsehers auf drei bitte
+lautstärke des fernsehers auf vier bitte
+lautstärke des fernsehers auf fünf bitte
+lautstärke des fernsehers auf sechs bitte
+lautstärke des fernsehers auf sieben bitte
+lautstärke des fernsehers auf acht bitte
+lautstärke des fernsehers auf neun bitte
+lautstärke des fernsehers auf zehn bitte
+ändere lautstärke des fernsehers auf null bitte
+ändere lautstärke des fernsehers auf eins bitte
+ändere lautstärke des fernsehers auf zwei bitte
+ändere lautstärke des fernsehers auf drei bitte
+ändere lautstärke des fernsehers auf vier bitte
+ändere lautstärke des fernsehers auf fünf bitte
+ändere lautstärke des fernsehers auf sechs bitte
+ändere lautstärke des fernsehers auf sieben bitte
+ändere lautstärke des fernsehers auf acht bitte
+ändere lautstärke des fernsehers auf neun bitte
+ändere lautstärke des fernsehers auf zehn bitte
+ändere die lautstärke des fernsehers auf null bitte
+ändere die lautstärke des fernsehers auf eins bitte
+ändere die lautstärke des fernsehers auf zwei bitte
+ändere die lautstärke des fernsehers auf drei bitte
+ändere die lautstärke des fernsehers auf vier bitte
+ändere die lautstärke des fernsehers auf fünf bitte
+ändere die lautstärke des fernsehers auf sechs bitte
+ändere die lautstärke des fernsehers auf sieben bitte
+ändere die lautstärke des fernsehers auf acht bitte
+ändere die lautstärke des fernsehers auf neun bitte
+ändere die lautstärke des fernsehers auf zehn bitte
 setze die lautstärke des fernsehers
 setze die lautstärke des fernsehers auf
 lautstärke des fernsehers auf
@@ -4847,28 +4902,39 @@ setze die lautstärke des fernsehers auf
 lautstärke des fernsehers auf
 ändere die lautstärke des fernsehers
 ändere die lautstärke des fernsehers auf
-setze lautstärke null
-setze lautstärke eins
-setze lautstärke zwei
-setze lautstärke drei
-setze lautstärke vier
-setze lautstärke fünf
-setze lautstärke sechs
-setze lautstärke sieben
-setze lautstärke acht
-setze lautstärke neun
-setze lautstärke zehn
-setze die lautstärke null
-setze die lautstärke eins
-setze die lautstärke zwei
-setze die lautstärke drei
-setze die lautstärke vier
-setze die lautstärke fünf
-setze die lautstärke sechs
-setze die lautstärke sieben
-setze die lautstärke acht
-setze die lautstärke neun
-setze die lautstärke zehn
+setze lautstärke auf null
+setze lautstärke auf eins
+setze lautstärke auf zwei
+setze lautstärke auf drei
+setze lautstärke auf vier
+setze lautstärke auf fünf
+setze lautstärke auf sechs
+setze lautstärke auf sieben
+setze lautstärke auf acht
+setze lautstärke auf neun
+setze lautstärke auf zehn
+setze die lautstärke auf null
+setze die lautstärke auf eins
+setze die lautstärke auf zwei
+setze die lautstärke auf drei
+setze die lautstärke auf vier
+setze die lautstärke auf fünf
+setze die lautstärke auf sechs
+setze die lautstärke auf sieben
+setze die lautstärke auf acht
+setze die lautstärke auf neun
+setze die lautstärke auf zehn
+lautstärke auf null
+lautstärke auf eins
+lautstärke auf zwei
+lautstärke auf drei
+lautstärke auf vier
+lautstärke auf fünf
+lautstärke auf sechs
+lautstärke auf sieben
+lautstärke auf acht
+lautstärke auf neun
+lautstärke auf zehn
 lautstärke null
 lautstärke eins
 lautstärke zwei
@@ -4880,138 +4946,138 @@ lautstärke sieben
 lautstärke acht
 lautstärke neun
 lautstärke zehn
-ändere lautstärke null
-ändere lautstärke eins
-ändere lautstärke zwei
-ändere lautstärke drei
-ändere lautstärke vier
-ändere lautstärke fünf
-ändere lautstärke sechs
-ändere lautstärke sieben
-ändere lautstärke acht
-ändere lautstärke neun
-ändere lautstärke zehn
-ändere die lautstärke null
-ändere die lautstärke eins
-ändere die lautstärke zwei
-ändere die lautstärke drei
-ändere die lautstärke vier
-ändere die lautstärke fünf
-ändere die lautstärke sechs
-ändere die lautstärke sieben
-ändere die lautstärke acht
-ändere die lautstärke neun
-ändere die lautstärke zehn
-bitte setze lautstärke null
-bitte setze lautstärke eins
-bitte setze lautstärke zwei
-bitte setze lautstärke drei
-bitte setze lautstärke vier
-bitte setze lautstärke fünf
-bitte setze lautstärke sechs
-bitte setze lautstärke sieben
-bitte setze lautstärke acht
-bitte setze lautstärke neun
-bitte setze lautstärke zehn
-bitte setze die lautstärke null
-bitte setze die lautstärke eins
-bitte setze die lautstärke zwei
-bitte setze die lautstärke drei
-bitte setze die lautstärke vier
-bitte setze die lautstärke fünf
-bitte setze die lautstärke sechs
-bitte setze die lautstärke sieben
-bitte setze die lautstärke acht
-bitte setze die lautstärke neun
-bitte setze die lautstärke zehn
-bitte lautstärke null
-bitte lautstärke eins
-bitte lautstärke zwei
-bitte lautstärke drei
-bitte lautstärke vier
-bitte lautstärke fünf
-bitte lautstärke sechs
-bitte lautstärke sieben
-bitte lautstärke acht
-bitte lautstärke neun
-bitte lautstärke zehn
-bitte ändere lautstärke null
-bitte ändere lautstärke eins
-bitte ändere lautstärke zwei
-bitte ändere lautstärke drei
-bitte ändere lautstärke vier
-bitte ändere lautstärke fünf
-bitte ändere lautstärke sechs
-bitte ändere lautstärke sieben
-bitte ändere lautstärke acht
-bitte ändere lautstärke neun
-bitte ändere lautstärke zehn
-bitte ändere die lautstärke null
-bitte ändere die lautstärke eins
-bitte ändere die lautstärke zwei
-bitte ändere die lautstärke drei
-bitte ändere die lautstärke vier
-bitte ändere die lautstärke fünf
-bitte ändere die lautstärke sechs
-bitte ändere die lautstärke sieben
-bitte ändere die lautstärke acht
-bitte ändere die lautstärke neun
-bitte ändere die lautstärke zehn
-setze lautstärke null bitte
-setze lautstärke eins bitte
-setze lautstärke zwei bitte
-setze lautstärke drei bitte
-setze lautstärke vier bitte
-setze lautstärke fünf bitte
-setze lautstärke sechs bitte
-setze lautstärke sieben bitte
-setze lautstärke acht bitte
-setze lautstärke neun bitte
-setze lautstärke zehn bitte
-setze die lautstärke null bitte
-setze die lautstärke eins bitte
-setze die lautstärke zwei bitte
-setze die lautstärke drei bitte
-setze die lautstärke vier bitte
-setze die lautstärke fünf bitte
-setze die lautstärke sechs bitte
-setze die lautstärke sieben bitte
-setze die lautstärke acht bitte
-setze die lautstärke neun bitte
-setze die lautstärke zehn bitte
-lautstärke null bitte
-lautstärke eins bitte
-lautstärke zwei bitte
-lautstärke drei bitte
-lautstärke vier bitte
-lautstärke fünf bitte
-lautstärke sechs bitte
-lautstärke sieben bitte
-lautstärke acht bitte
-lautstärke neun bitte
-lautstärke zehn bitte
-ändere lautstärke null bitte
-ändere lautstärke eins bitte
-ändere lautstärke zwei bitte
-ändere lautstärke drei bitte
-ändere lautstärke vier bitte
-ändere lautstärke fünf bitte
-ändere lautstärke sechs bitte
-ändere lautstärke sieben bitte
-ändere lautstärke acht bitte
-ändere lautstärke neun bitte
-ändere lautstärke zehn bitte
-ändere die lautstärke null bitte
-ändere die lautstärke eins bitte
-ändere die lautstärke zwei bitte
-ändere die lautstärke drei bitte
-ändere die lautstärke vier bitte
-ändere die lautstärke fünf bitte
-ändere die lautstärke sechs bitte
-ändere die lautstärke sieben bitte
-ändere die lautstärke acht bitte
-ändere die lautstärke neun bitte
-ändere die lautstärke zehn bitte
+ändere lautstärke auf null
+ändere lautstärke auf eins
+ändere lautstärke auf zwei
+ändere lautstärke auf drei
+ändere lautstärke auf vier
+ändere lautstärke auf fünf
+ändere lautstärke auf sechs
+ändere lautstärke auf sieben
+ändere lautstärke auf acht
+ändere lautstärke auf neun
+ändere lautstärke auf zehn
+ändere die lautstärke auf null
+ändere die lautstärke auf eins
+ändere die lautstärke auf zwei
+ändere die lautstärke auf drei
+ändere die lautstärke auf vier
+ändere die lautstärke auf fünf
+ändere die lautstärke auf sechs
+ändere die lautstärke auf sieben
+ändere die lautstärke auf acht
+ändere die lautstärke auf neun
+ändere die lautstärke auf zehn
+bitte setze lautstärke auf null
+bitte setze lautstärke auf eins
+bitte setze lautstärke auf zwei
+bitte setze lautstärke auf drei
+bitte setze lautstärke auf vier
+bitte setze lautstärke auf fünf
+bitte setze lautstärke auf sechs
+bitte setze lautstärke auf sieben
+bitte setze lautstärke auf acht
+bitte setze lautstärke auf neun
+bitte setze lautstärke auf zehn
+bitte setze die lautstärke auf null
+bitte setze die lautstärke auf eins
+bitte setze die lautstärke auf zwei
+bitte setze die lautstärke auf drei
+bitte setze die lautstärke auf vier
+bitte setze die lautstärke auf fünf
+bitte setze die lautstärke auf sechs
+bitte setze die lautstärke auf sieben
+bitte setze die lautstärke auf acht
+bitte setze die lautstärke auf neun
+bitte setze die lautstärke auf zehn
+bitte lautstärke auf null
+bitte lautstärke auf eins
+bitte lautstärke auf zwei
+bitte lautstärke auf drei
+bitte lautstärke auf vier
+bitte lautstärke auf fünf
+bitte lautstärke auf sechs
+bitte lautstärke auf sieben
+bitte lautstärke auf acht
+bitte lautstärke auf neun
+bitte lautstärke auf zehn
+bitte ändere lautstärke auf null
+bitte ändere lautstärke auf eins
+bitte ändere lautstärke auf zwei
+bitte ändere lautstärke auf drei
+bitte ändere lautstärke auf vier
+bitte ändere lautstärke auf fünf
+bitte ändere lautstärke auf sechs
+bitte ändere lautstärke auf sieben
+bitte ändere lautstärke auf acht
+bitte ändere lautstärke auf neun
+bitte ändere lautstärke auf zehn
+bitte ändere die lautstärke auf null
+bitte ändere die lautstärke auf eins
+bitte ändere die lautstärke auf zwei
+bitte ändere die lautstärke auf drei
+bitte ändere die lautstärke auf vier
+bitte ändere die lautstärke auf fünf
+bitte ändere die lautstärke auf sechs
+bitte ändere die lautstärke auf sieben
+bitte ändere die lautstärke auf acht
+bitte ändere die lautstärke auf neun
+bitte ändere die lautstärke auf zehn
+setze lautstärke auf null bitte
+setze lautstärke auf eins bitte
+setze lautstärke auf zwei bitte
+setze lautstärke auf drei bitte
+setze lautstärke auf vier bitte
+setze lautstärke auf fünf bitte
+setze lautstärke auf sechs bitte
+setze lautstärke auf sieben bitte
+setze lautstärke auf acht bitte
+setze lautstärke auf neun bitte
+setze lautstärke auf zehn bitte
+setze die lautstärke auf null bitte
+setze die lautstärke auf eins bitte
+setze die lautstärke auf zwei bitte
+setze die lautstärke auf drei bitte
+setze die lautstärke auf vier bitte
+setze die lautstärke auf fünf bitte
+setze die lautstärke auf sechs bitte
+setze die lautstärke auf sieben bitte
+setze die lautstärke auf acht bitte
+setze die lautstärke auf neun bitte
+setze die lautstärke auf zehn bitte
+lautstärke auf null bitte
+lautstärke auf eins bitte
+lautstärke auf zwei bitte
+lautstärke auf drei bitte
+lautstärke auf vier bitte
+lautstärke auf fünf bitte
+lautstärke auf sechs bitte
+lautstärke auf sieben bitte
+lautstärke auf acht bitte
+lautstärke auf neun bitte
+lautstärke auf zehn bitte
+ändere lautstärke auf null bitte
+ändere lautstärke auf eins bitte
+ändere lautstärke auf zwei bitte
+ändere lautstärke auf drei bitte
+ändere lautstärke auf vier bitte
+ändere lautstärke auf fünf bitte
+ändere lautstärke auf sechs bitte
+ändere lautstärke auf sieben bitte
+ändere lautstärke auf acht bitte
+ändere lautstärke auf neun bitte
+ändere lautstärke auf zehn bitte
+ändere die lautstärke auf null bitte
+ändere die lautstärke auf eins bitte
+ändere die lautstärke auf zwei bitte
+ändere die lautstärke auf drei bitte
+ändere die lautstärke auf vier bitte
+ändere die lautstärke auf fünf bitte
+ändere die lautstärke auf sechs bitte
+ändere die lautstärke auf sieben bitte
+ändere die lautstärke auf acht bitte
+ändere die lautstärke auf neun bitte
+ändere die lautstärke auf zehn bitte
 setze die lautstärke
 setze die lautstärke auf
 lautstärke auf

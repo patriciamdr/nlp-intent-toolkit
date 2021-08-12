@@ -2448,50 +2448,61 @@ switch the music on
 switch music on
 start off the music
 start off music
-change music volume zero
-change music volume one
-change music volume two
-change music volume three
-change music volume four
-change music volume five
-change music volume six
-change music volume seven
-change music volume eight
-change music volume nine
-change music volume ten
-change the music volume zero
-change the music volume one
-change the music volume two
-change the music volume three
-change the music volume four
-change the music volume five
-change the music volume six
-change the music volume seven
-change the music volume eight
-change the music volume nine
-change the music volume ten
-set music volume zero
-set music volume one
-set music volume two
-set music volume three
-set music volume four
-set music volume five
-set music volume six
-set music volume seven
-set music volume eight
-set music volume nine
-set music volume ten
-set the music volume zero
-set the music volume one
-set the music volume two
-set the music volume three
-set the music volume four
-set the music volume five
-set the music volume six
-set the music volume seven
-set the music volume eight
-set the music volume nine
-set the music volume ten
+change music volume to zero
+change music volume to one
+change music volume to two
+change music volume to three
+change music volume to four
+change music volume to five
+change music volume to six
+change music volume to seven
+change music volume to eight
+change music volume to nine
+change music volume to ten
+change the music volume to zero
+change the music volume to one
+change the music volume to two
+change the music volume to three
+change the music volume to four
+change the music volume to five
+change the music volume to six
+change the music volume to seven
+change the music volume to eight
+change the music volume to nine
+change the music volume to ten
+set music volume to zero
+set music volume to one
+set music volume to two
+set music volume to three
+set music volume to four
+set music volume to five
+set music volume to six
+set music volume to seven
+set music volume to eight
+set music volume to nine
+set music volume to ten
+set the music volume to zero
+set the music volume to one
+set the music volume to two
+set the music volume to three
+set the music volume to four
+set the music volume to five
+set the music volume to six
+set the music volume to seven
+set the music volume to eight
+set the music volume to nine
+set the music volume to ten
+music volume to zero
+music volume to one
+music volume to two
+music volume to three
+music volume to four
+music volume to five
+music volume to six
+music volume to seven
+music volume to eight
+music volume to nine
+music volume to ten
 music volume zero
 music volume one
 music volume two
@@ -2512,50 +2523,50 @@ change the music volume
 change music volume to
 change the music volume to
 music volume to
-change volume of the music zero
-change volume of the music one
-change volume of the music two
-change volume of the music three
-change volume of the music four
-change volume of the music five
-change volume of the music six
-change volume of the music seven
-change volume of the music eight
-change volume of the music nine
-change volume of the music ten
-change the volume of the music zero
-change the volume of the music one
-change the volume of the music two
-change the volume of the music three
-change the volume of the music four
-change the volume of the music five
-change the volume of the music six
-change the volume of the music seven
-change the volume of the music eight
-change the volume of the music nine
-change the volume of the music ten
-set volume of the music zero
-set volume of the music one
-set volume of the music two
-set volume of the music three
-set volume of the music four
-set volume of the music five
-set volume of the music six
-set volume of the music seven
-set volume of the music eight
-set volume of the music nine
-set volume of the music ten
-set the volume of the music zero
-set the volume of the music one
-set the volume of the music two
-set the volume of the music three
-set the volume of the music four
-set the volume of the music five
-set the volume of the music six
-set the volume of the music seven
-set the volume of the music eight
-set the volume of the music nine
-set the volume of the music ten
+change volume of the music to zero
+change volume of the music to one
+change volume of the music to two
+change volume of the music to three
+change volume of the music to four
+change volume of the music to five
+change volume of the music to six
+change volume of the music to seven
+change volume of the music to eight
+change volume of the music to nine
+change volume of the music to ten
+change the volume of the music to zero
+change the volume of the music to one
+change the volume of the music to two
+change the volume of the music to three
+change the volume of the music to four
+change the volume of the music to five
+change the volume of the music to six
+change the volume of the music to seven
+change the volume of the music to eight
+change the volume of the music to nine
+change the volume of the music to ten
+set volume of the music to zero
+set volume of the music to one
+set volume of the music to two
+set volume of the music to three
+set volume of the music to four
+set volume of the music to five
+set volume of the music to six
+set volume of the music to seven
+set volume of the music to eight
+set volume of the music to nine
+set volume of the music to ten
+set the volume of the music to zero
+set the volume of the music to one
+set the volume of the music to two
+set the volume of the music to three
+set the volume of the music to four
+set the volume of the music to five
+set the volume of the music to six
+set the volume of the music to seven
+set the volume of the music to eight
+set the volume of the music to nine
+set the volume of the music to ten
 volume of the music zero
 volume of the music one
 volume of the music two
@@ -2567,6 +2578,17 @@ volume of the music seven
 volume of the music eight
 volume of the music nine
 volume of the music ten
+volume of the music to zero
+volume of the music to one
+volume of the music to two
+volume of the music to three
+volume of the music to four
+volume of the music to five
+volume of the music to six
+volume of the music to seven
+volume of the music to eight
+volume of the music to nine
+volume of the music to ten
 set volume of the music
 set the volume of the music
 set volume of the music to
@@ -2576,50 +2598,61 @@ change the volume of the music
 change volume of the music to
 change the volume of the music to
 volume of the music to
-change volume of music zero
-change volume of music one
-change volume of music two
-change volume of music three
-change volume of music four
-change volume of music five
-change volume of music six
-change volume of music seven
-change volume of music eight
-change volume of music nine
-change volume of music ten
-change the volume of music zero
-change the volume of music one
-change the volume of music two
-change the volume of music three
-change the volume of music four
-change the volume of music five
-change the volume of music six
-change the volume of music seven
-change the volume of music eight
-change the volume of music nine
-change the volume of music ten
-set volume of music zero
-set volume of music one
-set volume of music two
-set volume of music three
-set volume of music four
-set volume of music five
-set volume of music six
-set volume of music seven
-set volume of music eight
-set volume of music nine
-set volume of music ten
-set the volume of music zero
-set the volume of music one
-set the volume of music two
-set the volume of music three
-set the volume of music four
-set the volume of music five
-set the volume of music six
-set the volume of music seven
-set the volume of music eight
-set the volume of music nine
-set the volume of music ten
+change volume of music to zero
+change volume of music to one
+change volume of music to two
+change volume of music to three
+change volume of music to four
+change volume of music to five
+change volume of music to six
+change volume of music to seven
+change volume of music to eight
+change volume of music to nine
+change volume of music to ten
+change the volume of music to zero
+change the volume of music to one
+change the volume of music to two
+change the volume of music to three
+change the volume of music to four
+change the volume of music to five
+change the volume of music to six
+change the volume of music to seven
+change the volume of music to eight
+change the volume of music to nine
+change the volume of music to ten
+set volume of music to zero
+set volume of music to one
+set volume of music to two
+set volume of music to three
+set volume of music to four
+set volume of music to five
+set volume of music to six
+set volume of music to seven
+set volume of music to eight
+set volume of music to nine
+set volume of music to ten
+set the volume of music to zero
+set the volume of music to one
+set the volume of music to two
+set the volume of music to three
+set the volume of music to four
+set the volume of music to five
+set the volume of music to six
+set the volume of music to seven
+set the volume of music to eight
+set the volume of music to nine
+set the volume of music to ten
+volume of music to zero
+volume of music to one
+volume of music to two
+volume of music to three
+volume of music to four
+volume of music to five
+volume of music to six
+volume of music to seven
+volume of music to eight
+volume of music to nine
+volume of music to ten
 volume of music zero
 volume of music one
 volume of music two
@@ -2640,50 +2673,50 @@ change the volume of music
 change volume of music to
 change the volume of music to
 volume of music to
-change tv volume zero
-change tv volume one
-change tv volume two
-change tv volume three
-change tv volume four
-change tv volume five
-change tv volume six
-change tv volume seven
-change tv volume eight
-change tv volume nine
-change tv volume ten
-change the tv volume zero
-change the tv volume one
-change the tv volume two
-change the tv volume three
-change the tv volume four
-change the tv volume five
-change the tv volume six
-change the tv volume seven
-change the tv volume eight
-change the tv volume nine
-change the tv volume ten
-set tv volume zero
-set tv volume one
-set tv volume two
-set tv volume three
-set tv volume four
-set tv volume five
-set tv volume six
-set tv volume seven
-set tv volume eight
-set tv volume nine
-set tv volume ten
-set the tv volume zero
-set the tv volume one
-set the tv volume two
-set the tv volume three
-set the tv volume four
-set the tv volume five
-set the tv volume six
-set the tv volume seven
-set the tv volume eight
-set the tv volume nine
-set the tv volume ten
+change tv volume to zero
+change tv volume to one
+change tv volume to two
+change tv volume to three
+change tv volume to four
+change tv volume to five
+change tv volume to six
+change tv volume to seven
+change tv volume to eight
+change tv volume to nine
+change tv volume to ten
+change the tv volume to zero
+change the tv volume to one
+change the tv volume to two
+change the tv volume to three
+change the tv volume to four
+change the tv volume to five
+change the tv volume to six
+change the tv volume to seven
+change the tv volume to eight
+change the tv volume to nine
+change the tv volume to ten
+set tv volume to zero
+set tv volume to one
+set tv volume to two
+set tv volume to three
+set tv volume to four
+set tv volume to five
+set tv volume to six
+set tv volume to seven
+set tv volume to eight
+set tv volume to nine
+set tv volume to ten
+set the tv volume to zero
+set the tv volume to one
+set the tv volume to two
+set the tv volume to three
+set the tv volume to four
+set the tv volume to five
+set the tv volume to six
+set the tv volume to seven
+set the tv volume to eight
+set the tv volume to nine
+set the tv volume to ten
 tv volume zero
 tv volume one
 tv volume two
@@ -2695,6 +2728,17 @@ tv volume seven
 tv volume eight
 tv volume nine
 tv volume ten
+tv volume to zero
+tv volume to one
+tv volume to two
+tv volume to three
+tv volume to four
+tv volume to five
+tv volume to six
+tv volume to seven
+tv volume to eight
+tv volume to nine
+tv volume to ten
 set tv volume
 set the tv volume
 set tv volume to
@@ -2704,50 +2748,50 @@ change the tv volume
 change tv volume to
 change the tv volume to
 tv volume to
-change volume of the tv zero
-change volume of the tv one
-change volume of the tv two
-change volume of the tv three
-change volume of the tv four
-change volume of the tv five
-change volume of the tv six
-change volume of the tv seven
-change volume of the tv eight
-change volume of the tv nine
-change volume of the tv ten
-change the volume of the tv zero
-change the volume of the tv one
-change the volume of the tv two
-change the volume of the tv three
-change the volume of the tv four
-change the volume of the tv five
-change the volume of the tv six
-change the volume of the tv seven
-change the volume of the tv eight
-change the volume of the tv nine
-change the volume of the tv ten
-set volume of the tv zero
-set volume of the tv one
-set volume of the tv two
-set volume of the tv three
-set volume of the tv four
-set volume of the tv five
-set volume of the tv six
-set volume of the tv seven
-set volume of the tv eight
-set volume of the tv nine
-set volume of the tv ten
-set the volume of the tv zero
-set the volume of the tv one
-set the volume of the tv two
-set the volume of the tv three
-set the volume of the tv four
-set the volume of the tv five
-set the volume of the tv six
-set the volume of the tv seven
-set the volume of the tv eight
-set the volume of the tv nine
-set the volume of the tv ten
+change volume of the tv to zero
+change volume of the tv to one
+change volume of the tv to two
+change volume of the tv to three
+change volume of the tv to four
+change volume of the tv to five
+change volume of the tv to six
+change volume of the tv to seven
+change volume of the tv to eight
+change volume of the tv to nine
+change volume of the tv to ten
+change the volume of the tv to zero
+change the volume of the tv to one
+change the volume of the tv to two
+change the volume of the tv to three
+change the volume of the tv to four
+change the volume of the tv to five
+change the volume of the tv to six
+change the volume of the tv to seven
+change the volume of the tv to eight
+change the volume of the tv to nine
+change the volume of the tv to ten
+set volume of the tv to zero
+set volume of the tv to one
+set volume of the tv to two
+set volume of the tv to three
+set volume of the tv to four
+set volume of the tv to five
+set volume of the tv to six
+set volume of the tv to seven
+set volume of the tv to eight
+set volume of the tv to nine
+set volume of the tv to ten
+set the volume of the tv to zero
+set the volume of the tv to one
+set the volume of the tv to two
+set the volume of the tv to three
+set the volume of the tv to four
+set the volume of the tv to five
+set the volume of the tv to six
+set the volume of the tv to seven
+set the volume of the tv to eight
+set the volume of the tv to nine
+set the volume of the tv to ten
 volume of the tv zero
 volume of the tv one
 volume of the tv two
@@ -2759,6 +2803,17 @@ volume of the tv seven
 volume of the tv eight
 volume of the tv nine
 volume of the tv ten
+volume of the tv to zero
+volume of the tv to one
+volume of the tv to two
+volume of the tv to three
+volume of the tv to four
+volume of the tv to five
+volume of the tv to six
+volume of the tv to seven
+volume of the tv to eight
+volume of the tv to nine
+volume of the tv to ten
 set volume of the tv
 set the volume of the tv
 set volume of the tv to
@@ -2768,50 +2823,50 @@ change the volume of the tv
 change volume of the tv to
 change the volume of the tv to
 volume of the tv to
-change volume of tv zero
-change volume of tv one
-change volume of tv two
-change volume of tv three
-change volume of tv four
-change volume of tv five
-change volume of tv six
-change volume of tv seven
-change volume of tv eight
-change volume of tv nine
-change volume of tv ten
-change the volume of tv zero
-change the volume of tv one
-change the volume of tv two
-change the volume of tv three
-change the volume of tv four
-change the volume of tv five
-change the volume of tv six
-change the volume of tv seven
-change the volume of tv eight
-change the volume of tv nine
-change the volume of tv ten
-set volume of tv zero
-set volume of tv one
-set volume of tv two
-set volume of tv three
-set volume of tv four
-set volume of tv five
-set volume of tv six
-set volume of tv seven
-set volume of tv eight
-set volume of tv nine
-set volume of tv ten
-set the volume of tv zero
-set the volume of tv one
-set the volume of tv two
-set the volume of tv three
-set the volume of tv four
-set the volume of tv five
-set the volume of tv six
-set the volume of tv seven
-set the volume of tv eight
-set the volume of tv nine
-set the volume of tv ten
+change volume of tv to zero
+change volume of tv to one
+change volume of tv to two
+change volume of tv to three
+change volume of tv to four
+change volume of tv to five
+change volume of tv to six
+change volume of tv to seven
+change volume of tv to eight
+change volume of tv to nine
+change volume of tv to ten
+change the volume of tv to three
+change the volume of tv to zero
+change the volume of tv to one
+change the volume of tv to two
+change the volume of tv to four
+change the volume of tv to five
+change the volume of tv to six
+change the volume of tv to seven
+change the volume of tv to eight
+change the volume of tv to nine
+change the volume of tv to ten
+set volume of tv to zero
+set volume of tv to one
+set volume of tv to two
+set volume of tv to three
+set volume of tv to four
+set volume of tv to five
+set volume of tv to six
+set volume of tv to seven
+set volume of tv to eight
+set volume of tv to nine
+set volume of tv to ten
+set the volume of tv to zero
+set the volume of tv to one
+set the volume of tv to two
+set the volume of tv to three
+set the volume of tv to four
+set the volume of tv to five
+set the volume of tv to six
+set the volume of tv to seven
+set the volume of tv to eight
+set the volume of tv to nine
+set the volume of tv to ten
 volume of tv zero
 volume of tv one
 volume of tv two
@@ -2823,6 +2878,17 @@ volume of tv seven
 volume of tv eight
 volume of tv nine
 volume of tv ten
+volume of tv to zero
+volume of tv to one
+volume of tv to two
+volume of tv to three
+volume of tv to four
+volume of tv to five
+volume of tv to six
+volume of tv to seven
+volume of tv to eight
+volume of tv to nine
+volume of tv to ten
 set volume of tv
 set the volume of tv
 set volume of tv to
@@ -2832,50 +2898,50 @@ change the volume of tv
 change volume of tv to
 change the volume of tv to
 volume of tv to
-change volume zero
-change volume one
-change volume two
-change volume three
-change volume four
-change volume five
-change volume six
-change volume seven
-change volume eight
-change volume nine
-change volume ten
-change the volume zero
-change the volume one
-change the volume two
-change the volume three
-change the volume four
-change the volume five
-change the volume six
-change the volume seven
-change the volume eight
-change the volume nine
-change the volume ten
-set volume zero
-set volume one
-set volume two
-set volume three
-set volume four
-set volume five
-set volume six
-set volume seven
-set volume eight
-set volume nine
-set volume ten
-set the volume zero
-set the volume one
-set the volume two
-set the volume three
-set the volume four
-set the volume five
-set the volume six
-set the volume seven
-set the volume eight
-set the volume nine
-set the volume ten
+change volume to zero
+change volume to one
+change volume to two
+change volume to three
+change volume to four
+change volume to five
+change volume to six
+change volume to seven
+change volume to eight
+change volume to nine
+change volume to ten
+change the volume to zero
+change the volume to one
+change the volume to two
+change the volume to three
+change the volume to four
+change the volume to five
+change the volume to six
+change the volume to seven
+change the volume to eight
+change the volume to nine
+change the volume to ten
+set volume to zero
+set volume to one
+set volume to two
+set volume to three
+set volume to four
+set volume to five
+set volume to six
+set volume to seven
+set volume to eight
+set volume to nine
+set volume to ten
+set the volume to zero
+set the volume to one
+set the volume to two
+set the volume to three
+set the volume to four
+set the volume to five
+set the volume to six
+set the volume to seven
+set the volume to eight
+set the volume to nine
+set the volume to ten
 volume zero
 volume one
 volume two
@@ -2887,6 +2953,17 @@ volume seven
 volume eight
 volume nine
 volume ten
+volume to zero
+volume to one
+volume to two
+volume to three
+volume to four
+volume to five
+volume to six
+volume to seven
+volume to eight
+volume to nine
+volume to ten
 set volume
 set the volume
 set volume to
