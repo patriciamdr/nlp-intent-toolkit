@@ -1,0 +1,34 @@
+spiele die <START:play_music_target> musik <END> ab
+spiele die <START:play_music_target> musik <END>
+starte die <START:play_music_target> musik <END>
+schalte die <START:play_music_target> musik <END> ein
+schalte die <START:play_music_target> musik <END> an
+fange an die <START:play_music_target> musik <END> abzuspielen
+mach die <START:play_music_target> musik <END> an
+fahre mit der <START:play_music_target> musik <END> fort
+spiele <START:play_music_target> musik <END> ab
+spiele <START:play_music_target> musik <END>
+starte <START:play_music_target> musik <END>
+schalte <START:play_music_target> musik <END> ein
+schalte <START:play_music_target> musik <END> an
+fange an <START:play_music_target> musik <END> abzuspielen
+mach <START:play_music_target> musik <END> an
+fahre mit <START:play_music_target> musik <END> fort
+<START:play_music_target> musik <END> spielen
+<START:play_music_target> musik <END> abspielen
+<START:play_music_target> musik <END> starten
+<START:play_music_target> musik <END> einschalten
+<START:play_music_target> musik <END> anschalten
+<START:play_music_target> musik <END> anmachen
+<START:play_music_target> musik <END> fortfahren
+<START:play_music_target> musik <END> fortsetzen
+die <START:play_music_target> musik <END> spielen
+die <START:play_music_target> musik <END> abspielen
+die <START:play_music_target> musik <END> starten
+die <START:play_music_target> musik <END> einschalten
+die <START:play_music_target> musik <END> anschalten
+die <START:play_music_target> musik <END> anmachen
+die <START:play_music_target> musik <END> fortfahren
+die <START:play_music_target> musik <END> fortsetzen
+mit <START:play_music_target> musik <END> fortfahren
+mit der <START:play_music_target> musik <END> fortfahren

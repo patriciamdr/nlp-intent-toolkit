@@ -1,3 +1,543 @@
+das <START:nav_target> fenster <END>
+der <START:nav_target> vorhang <END>
+die <START:nav_target> vorhänge <END>
+das <START:nav_target> bett <END>
+das <START:nav_target> raum licht <END>
+die <START:nav_target> raum lichter <END>
+die <START:nav_target> tisch lampe <END>
+die <START:nav_target> bett lampe <END>
+der <START:nav_target> heater <END>
+die <START:nav_target> heizung <END>
+der <START:nav_target> ventilator <END>
+die <START:nav_target> tür <END>
+der <START:nav_target> alarm <END>
+die <START:nav_target> musik <END>
+die <START:nav_target> musik quelle <END>
+die <START:nav_target> musik kontrolle <END>
+die <START:nav_target> tv steuerung <END>
+die <START:nav_target> tv power <END>
+die <START:nav_target> tv einstellungen <END>
+der <START:nav_target> tv <END>
+<START:nav_target> fenster <END>
+<START:nav_target> vorhang <END>
+<START:nav_target> vorhänge <END>
+<START:nav_target> bett <END>
+<START:nav_target> raum licht <END>
+<START:nav_target> raum lichter <END>
+<START:nav_target> tisch lampe <END>
+<START:nav_target> bett lampe <END>
+<START:nav_target> heater <END>
+<START:nav_target> heizung <END>
+<START:nav_target> ventilator <END>
+<START:nav_target> home <END>
+<START:nav_target> housemate <END>
+<START:nav_target> tür <END>
+<START:nav_target> alarm <END>
+<START:nav_target> intercom <END>
+<START:nav_target> musik <END>
+<START:nav_target> musik quelle <END>
+<START:nav_target> musik kontrolle <END>
+<START:nav_target> tv steuerung <END>
+<START:nav_target> tv power <END>
+<START:nav_target> tv einstellungen <END>
+<START:nav_target> tv <END>
+zu <START:nav_target> fenster <END>
+zu <START:nav_target> vorhang <END>
+zu <START:nav_target> vorhänge <END>
+zu <START:nav_target> bett <END>
+zu <START:nav_target> raum licht <END>
+zu <START:nav_target> raum lichter <END>
+zu <START:nav_target> tisch lampe <END>
+zu <START:nav_target> bett lampe <END>
+zu <START:nav_target> heater <END>
+zu <START:nav_target> heizung <END>
+zu <START:nav_target> ventilator <END>
+zu <START:nav_target> home <END>
+zu <START:nav_target> housemate <END>
+zu <START:nav_target> tür <END>
+zu <START:nav_target> alarm <END>
+zu <START:nav_target> intercom <END>
+zu <START:nav_target> musik <END>
+zu <START:nav_target> musik quelle <END>
+zu <START:nav_target> musik kontrolle <END>
+zu <START:nav_target> tv steuerung <END>
+zu <START:nav_target> tv power <END>
+zu <START:nav_target> tv einstellung <END>
+zu <START:nav_target> tv einstellungen <END>
+zu <START:nav_target> tv <END>
+zum <START:nav_target> fenster <END>
+zum <START:nav_target> vorhang <END>
+zu den <START:nav_target> vorhängen <END>
+zum <START:nav_target> bett <END>
+zum <START:nav_target> raum licht <END>
+zu den <START:nav_target> raum lichtern <END>
+zur <START:nav_target> tisch lampe <END>
+zur <START:nav_target> bett lampe <END>
+zum <START:nav_target> heater <END>
+zur <START:nav_target> heizung <END>
+zum <START:nav_target> ventilator <END>
+zur <START:nav_target> tür <END>
+zum <START:nav_target> alarm <END>
+zur <START:nav_target> musik <END>
+zur <START:nav_target> musik quelle <END>
+zur <START:nav_target> musik kontrolle <END>
+zur <START:nav_target> tv steuerung <END>
+zur <START:nav_target> tv power <END>
+zur <START:nav_target> tv einstellung <END>
+zu den <START:nav_target> tv einstellungen <END>
+zum <START:nav_target> tv <END>
+gehe zu <START:nav_target> fenster <END>
+gehe zu <START:nav_target> vorhang <END>
+gehe zu <START:nav_target> vorhänge <END>
+gehe zu <START:nav_target> bett <END>
+gehe zu <START:nav_target> raum licht <END>
+gehe zu <START:nav_target> raum lichter <END>
+gehe zu <START:nav_target> tisch lampe <END>
+gehe zu <START:nav_target> bett lampe <END>
+gehe zu <START:nav_target> heater <END>
+gehe zu <START:nav_target> heizung <END>
+gehe zu <START:nav_target> ventilator <END>
+gehe zu <START:nav_target> home <END>
+gehe zu <START:nav_target> housemate <END>
+gehe zu <START:nav_target> tür <END>
+gehe zu <START:nav_target> alarm <END>
+gehe zu <START:nav_target> intercom <END>
+gehe zu <START:nav_target> musik <END>
+gehe zu <START:nav_target> musik quelle <END>
+gehe zu <START:nav_target> musik kontrolle <END>
+gehe zu <START:nav_target> tv steuerung <END>
+gehe zu <START:nav_target> tv power <END>
+gehe zu <START:nav_target> tv einstellung <END>
+gehe zu <START:nav_target> tv einstellungen <END>
+gehe zu <START:nav_target> tv <END>
+gehe zum <START:nav_target> fenster <END>
+gehe zum <START:nav_target> vorhang <END>
+gehe zu den <START:nav_target> vorhängen <END>
+gehe zum <START:nav_target> bett <END>
+gehe zum <START:nav_target> raum licht <END>
+gehe zu den <START:nav_target> raum lichtern <END>
+gehe zur <START:nav_target> tisch lampe <END>
+gehe zur <START:nav_target> bett lampe <END>
+gehe zum <START:nav_target> heater <END>
+gehe zur <START:nav_target> heizung <END>
+gehe zum <START:nav_target> ventilator <END>
+gehe zur <START:nav_target> tür <END>
+gehe zum <START:nav_target> alarm <END>
+gehe zur <START:nav_target> musik <END>
+gehe zur <START:nav_target> musik quelle <END>
+gehe zur <START:nav_target> musik kontrolle <END>
+gehe zur <START:nav_target> tv steuerung <END>
+gehe zur <START:nav_target> tv power <END>
+gehe zur <START:nav_target> tv einstellung <END>
+gehe zu den <START:nav_target> tv einstellungen <END>
+gehe zum <START:nav_target> tv <END>
+navigiere zu <START:nav_target> fenster <END>
+navigiere zu <START:nav_target> vorhang <END>
+navigiere zu <START:nav_target> vorhänge <END>
+navigiere zu <START:nav_target> bett <END>
+navigiere zu <START:nav_target> raum licht <END>
+navigiere zu <START:nav_target> raum lichter <END>
+navigiere zu <START:nav_target> tisch lampe <END>
+navigiere zu <START:nav_target> bett lampe <END>
+navigiere zu <START:nav_target> heater <END>
+navigiere zu <START:nav_target> heizung <END>
+navigiere zu <START:nav_target> ventilator <END>
+navigiere zu <START:nav_target> home <END>
+navigiere zu <START:nav_target> housemate <END>
+navigiere zu <START:nav_target> tür <END>
+navigiere zu <START:nav_target> alarm <END>
+navigiere zu <START:nav_target> intercom <END>
+navigiere zu <START:nav_target> musik <END>
+navigiere zu <START:nav_target> musik quelle <END>
+navigiere zu <START:nav_target> musik kontrolle <END>
+navigiere zu <START:nav_target> tv steuerung <END>
+navigiere zu <START:nav_target> tv power <END>
+navigiere zu <START:nav_target> tv einstellung <END>
+navigiere zu <START:nav_target> tv einstellungen <END>
+navigiere zu <START:nav_target> tv <END>
+navigiere zum <START:nav_target> fenster <END>
+navigiere zum <START:nav_target> vorhang <END>
+navigiere zu den <START:nav_target> vorhängen <END>
+navigiere zum <START:nav_target> bett <END>
+navigiere zum <START:nav_target> raum licht <END>
+navigiere zu den <START:nav_target> raum lichtern <END>
+navigiere zur <START:nav_target> tisch lampe <END>
+navigiere zur <START:nav_target> bett lampe <END>
+navigiere zum <START:nav_target> heater <END>
+navigiere zur <START:nav_target> heizung <END>
+navigiere zum <START:nav_target> ventilator <END>
+navigiere zur <START:nav_target> tür <END>
+navigiere zum <START:nav_target> alarm <END>
+navigiere zur <START:nav_target> musik <END>
+navigiere zur <START:nav_target> musik quelle <END>
+navigiere zur <START:nav_target> musik kontrolle <END>
+navigiere zur <START:nav_target> tv steuerung <END>
+navigiere zur <START:nav_target> tv power <END>
+navigiere zur <START:nav_target> tv einstellung <END>
+navigiere zu den <START:nav_target> tv einstellungen <END>
+navigiere zum <START:nav_target> tv <END>
+bring mich zu <START:nav_target> fenster <END>
+bring mich zu <START:nav_target> vorhang <END>
+bring mich zu <START:nav_target> vorhänge <END>
+bring mich zu <START:nav_target> bett <END>
+bring mich zu <START:nav_target> raum licht <END>
+bring mich zu <START:nav_target> raum lichter <END>
+bring mich zu <START:nav_target> tisch lampe <END>
+bring mich zu <START:nav_target> bett lampe <END>
+bring mich zu <START:nav_target> heater <END>
+bring mich zu <START:nav_target> heizung <END>
+bring mich zu <START:nav_target> ventilator <END>
+bring mich zu <START:nav_target> home <END>
+bring mich zu <START:nav_target> housemate <END>
+bring mich zu <START:nav_target> tür <END>
+bring mich zu <START:nav_target> alarm <END>
+bring mich zu <START:nav_target> intercom <END>
+bring mich zu <START:nav_target> musik <END>
+bring mich zu <START:nav_target> musik quelle <END>
+bring mich zu <START:nav_target> musik kontrolle <END>
+bring mich zu <START:nav_target> tv steuerung <END>
+bring mich zu <START:nav_target> tv power <END>
+bring mich zu <START:nav_target> tv einstellung <END>
+bring mich zu <START:nav_target> tv einstellungen <END>
+bring mich zu <START:nav_target> tv <END>
+bring mich zum <START:nav_target> fenster <END>
+bring mich zum <START:nav_target> vorhang <END>
+bring mich zu den <START:nav_target> vorhängen <END>
+bring mich zum <START:nav_target> bett <END>
+bring mich zum <START:nav_target> raum licht <END>
+bring mich zu den <START:nav_target> raum lichtern <END>
+bring mich zur <START:nav_target> tisch lampe <END>
+bring mich zur <START:nav_target> bett lampe <END>
+bring mich zum <START:nav_target> heater <END>
+bring mich zur <START:nav_target> heizung <END>
+bring mich zum <START:nav_target> ventilator <END>
+bring mich zur <START:nav_target> tür <END>
+bring mich zum <START:nav_target> alarm <END>
+bring mich zur <START:nav_target> musik <END>
+bring mich zur <START:nav_target> musik quelle <END>
+bring mich zur <START:nav_target> musik kontrolle <END>
+bring mich zur <START:nav_target> tv steuerung <END>
+bring mich zur <START:nav_target> tv power <END>
+bring mich zur <START:nav_target> tv einstellung <END>
+bring mich zu den <START:nav_target> tv einstellungen <END>
+bring mich zum <START:nav_target> tv <END>
+zeige <START:nav_target> fenster <END>
+zeige <START:nav_target> vorhang <END>
+zeige <START:nav_target> vorhänge <END>
+zeige <START:nav_target> bett <END>
+zeige <START:nav_target> raum licht <END>
+zeige <START:nav_target> raum lichter <END>
+zeige <START:nav_target> tisch lampe <END>
+zeige <START:nav_target> bett lampe <END>
+zeige <START:nav_target> heater <END>
+zeige <START:nav_target> heizung <END>
+zeige <START:nav_target> ventilator <END>
+zeige <START:nav_target> home <END>
+zeige <START:nav_target> housemate <END>
+zeige <START:nav_target> tür <END>
+zeige <START:nav_target> alarm <END>
+zeige <START:nav_target> intercom <END>
+zeige <START:nav_target> musik <END>
+zeige <START:nav_target> musik quelle <END>
+zeige <START:nav_target> musik kontrolle <END>
+zeige <START:nav_target> tv steuerung <END>
+zeige <START:nav_target> tv power <END>
+zeige <START:nav_target> tv einstellungen <END>
+zeige <START:nav_target> tv <END>
+zeige das <START:nav_target> fenster <END>
+zeige den <START:nav_target> vorhang <END>
+zeige die <START:nav_target> vorhänge <END>
+zeige das <START:nav_target> bett <END>
+zeige das <START:nav_target> raum licht <END>
+zeige die <START:nav_target> raum lichter <END>
+zeige die <START:nav_target> tisch lampe <END>
+zeige die <START:nav_target> bett lampe <END>
+zeige den <START:nav_target> heater <END>
+zeige die <START:nav_target> heizung <END>
+zeige der <START:nav_target> ventilator <END>
+zeige die <START:nav_target> tür <END>
+zeige den <START:nav_target> alarm <END>
+zeige die <START:nav_target> musik <END>
+zeige die <START:nav_target> musik quelle <END>
+zeige die <START:nav_target> musik kontrolle <END>
+zeige die <START:nav_target> tv steuerung <END>
+zeige die <START:nav_target> tv power <END>
+zeige die <START:nav_target> tv einstellungen <END>
+zeige den <START:nav_target> tv <END>
+wähle <START:nav_target> fenster <END>
+wähle <START:nav_target> vorhang <END>
+wähle <START:nav_target> vorhänge <END>
+wähle <START:nav_target> bett <END>
+wähle <START:nav_target> raum licht <END>
+wähle <START:nav_target> raum lichter <END>
+wähle <START:nav_target> tisch lampe <END>
+wähle <START:nav_target> bett lampe <END>
+wähle <START:nav_target> heater <END>
+wähle <START:nav_target> heizung <END>
+wähle <START:nav_target> ventilator <END>
+wähle <START:nav_target> home <END>
+wähle <START:nav_target> housemate <END>
+wähle <START:nav_target> tür <END>
+wähle <START:nav_target> alarm <END>
+wähle <START:nav_target> intercom <END>
+wähle <START:nav_target> musik <END>
+wähle <START:nav_target> musik quelle <END>
+wähle <START:nav_target> musik kontrolle <END>
+wähle <START:nav_target> tv steuerung <END>
+wähle <START:nav_target> tv power <END>
+wähle <START:nav_target> tv einstellungen <END>
+wähle <START:nav_target> tv <END>
+wähle das <START:nav_target> fenster <END>
+wähle den <START:nav_target> vorhang <END>
+wähle die <START:nav_target> vorhänge <END>
+wähle das <START:nav_target> bett <END>
+wähle das <START:nav_target> raum licht <END>
+wähle die <START:nav_target> raum lichter <END>
+wähle die <START:nav_target> tisch lampe <END>
+wähle die <START:nav_target> bett lampe <END>
+wähle den <START:nav_target> heater <END>
+wähle die <START:nav_target> heizung <END>
+wähle der <START:nav_target> ventilator <END>
+wähle die <START:nav_target> tür <END>
+wähle den <START:nav_target> alarm <END>
+wähle die <START:nav_target> musik <END>
+wähle die <START:nav_target> musik quelle <END>
+wähle die <START:nav_target> musik kontrolle <END>
+wähle die <START:nav_target> tv steuerung <END>
+wähle die <START:nav_target> tv power <END>
+wähle die <START:nav_target> tv einstellungen <END>
+wähle den <START:nav_target> tv <END>
+wechsel zu <START:nav_target> fenster <END>
+wechsel zu <START:nav_target> vorhang <END>
+wechsel zu <START:nav_target> vorhänge <END>
+wechsel zu <START:nav_target> bett <END>
+wechsel zu <START:nav_target> raum licht <END>
+wechsel zu <START:nav_target> raum lichter <END>
+wechsel zu <START:nav_target> tisch lampe <END>
+wechsel zu <START:nav_target> bett lampe <END>
+wechsel zu <START:nav_target> heater <END>
+wechsel zu <START:nav_target> heizung <END>
+wechsel zu <START:nav_target> ventilator <END>
+wechsel zu <START:nav_target> home <END>
+wechsel zu <START:nav_target> housemate <END>
+wechsel zu <START:nav_target> tür <END>
+wechsel zu <START:nav_target> alarm <END>
+wechsel zu <START:nav_target> intercom <END>
+wechsel zu <START:nav_target> musik <END>
+wechsel zu <START:nav_target> musik quelle <END>
+wechsel zu <START:nav_target> musik kontrolle <END>
+wechsel zu <START:nav_target> tv steuerung <END>
+wechsel zu <START:nav_target> tv power <END>
+wechsel zu <START:nav_target> tv einstellung <END>
+wechsel zu <START:nav_target> tv einstellungen <END>
+wechsel zu <START:nav_target> tv <END>
+wechsel zum <START:nav_target> fenster <END>
+wechsel zum <START:nav_target> vorhang <END>
+wechsel zu den <START:nav_target> vorhängen <END>
+wechsel zum <START:nav_target> bett <END>
+wechsel zum <START:nav_target> raum licht <END>
+wechsel zu den <START:nav_target> raum lichtern <END>
+wechsel zur <START:nav_target> tisch lampe <END>
+wechsel zur <START:nav_target> bett lampe <END>
+wechsel zum <START:nav_target> heater <END>
+wechsel zur <START:nav_target> heizung <END>
+wechsel zum <START:nav_target> ventilator <END>
+wechsel zur <START:nav_target> tür <END>
+wechsel zum <START:nav_target> alarm <END>
+wechsel zur <START:nav_target> musik <END>
+wechsel zur <START:nav_target> musik quelle <END>
+wechsel zur <START:nav_target> musik kontrolle <END>
+wechsel zur <START:nav_target> tv steuerung <END>
+wechsel zur <START:nav_target> tv power <END>
+wechsel zur <START:nav_target> tv einstellung <END>
+wechsel zu den <START:nav_target> tv einstellungen <END>
+wechsel zum <START:nav_target> tv <END>
+die kategorie <START:nav_target> fenster <END>
+die kategorie <START:nav_target> vorhang <END>
+die kategorie <START:nav_target> vorhänge <END>
+die kategorie <START:nav_target> bett <END>
+die kategorie <START:nav_target> raum licht <END>
+die kategorie <START:nav_target> raum lichter <END>
+die kategorie <START:nav_target> tisch lampe <END>
+die kategorie <START:nav_target> bett lampe <END>
+die kategorie <START:nav_target> heater <END>
+die kategorie <START:nav_target> heizung <END>
+die kategorie <START:nav_target> ventilator <END>
+die kategorie <START:nav_target> tür <END>
+die kategorie <START:nav_target> alarm <END>
+die kategorie <START:nav_target> musik <END>
+die kategorie <START:nav_target> musik quelle <END>
+die kategorie <START:nav_target> musik kontrolle <END>
+die kategorie <START:nav_target> tv steuerung <END>
+die kategorie <START:nav_target> tv power <END>
+die kategorie <START:nav_target> tv einstellungen <END>
+die kategorie <START:nav_target> tv <END>
+zu der kategorie <START:nav_target> fenster <END>
+zu der kategorie <START:nav_target> vorhang <END>
+zu der kategorie <START:nav_target> vorhänge <END>
+zu der kategorie <START:nav_target> bett <END>
+zu der kategorie <START:nav_target> raum licht <END>
+zu der kategorie <START:nav_target> raum lichter <END>
+zu der kategorie <START:nav_target> tisch lampe <END>
+zu der kategorie <START:nav_target> bett lampe <END>
+zu der kategorie <START:nav_target> heater <END>
+zu der kategorie <START:nav_target> heizung <END>
+zu der kategorie <START:nav_target> ventilator <END>
+zu der kategorie <START:nav_target> home <END>
+zu der kategorie <START:nav_target> housemate <END>
+zu der kategorie <START:nav_target> tür <END>
+zu der kategorie <START:nav_target> alarm <END>
+zu der kategorie <START:nav_target> intercom <END>
+zu der kategorie <START:nav_target> musik <END>
+zu der kategorie <START:nav_target> musik quelle <END>
+zu der kategorie <START:nav_target> musik kontrolle <END>
+zu der kategorie <START:nav_target> tv steuerung <END>
+zu der kategorie <START:nav_target> tv power <END>
+zu der kategorie <START:nav_target> tv einstellung <END>
+zu der kategorie <START:nav_target> tv einstellungen <END>
+zu der kategorie <START:nav_target> tv <END>
+gehe zu der kategorie <START:nav_target> fenster <END>
+gehe zu der kategorie <START:nav_target> vorhang <END>
+gehe zu der kategorie <START:nav_target> vorhänge <END>
+gehe zu der kategorie <START:nav_target> bett <END>
+gehe zu der kategorie <START:nav_target> raum licht <END>
+gehe zu der kategorie <START:nav_target> raum lichter <END>
+gehe zu der kategorie <START:nav_target> tisch lampe <END>
+gehe zu der kategorie <START:nav_target> bett lampe <END>
+gehe zu der kategorie <START:nav_target> heater <END>
+gehe zu der kategorie <START:nav_target> heizung <END>
+gehe zu der kategorie <START:nav_target> ventilator <END>
+gehe zu der kategorie <START:nav_target> home <END>
+gehe zu der kategorie <START:nav_target> housemate <END>
+gehe zu der kategorie <START:nav_target> tür <END>
+gehe zu der kategorie <START:nav_target> alarm <END>
+gehe zu der kategorie <START:nav_target> intercom <END>
+gehe zu der kategorie <START:nav_target> musik <END>
+gehe zu der kategorie <START:nav_target> musik quelle <END>
+gehe zu der kategorie <START:nav_target> musik kontrolle <END>
+gehe zu der kategorie <START:nav_target> tv steuerung <END>
+gehe zu der kategorie <START:nav_target> tv power <END>
+gehe zu der kategorie <START:nav_target> tv einstellung <END>
+gehe zu der kategorie <START:nav_target> tv einstellungen <END>
+gehe zu der kategorie <START:nav_target> tv <END>
+navigiere zu der kategorie <START:nav_target> fenster <END>
+navigiere zu der kategorie <START:nav_target> vorhang <END>
+navigiere zu der kategorie <START:nav_target> vorhänge <END>
+navigiere zu der kategorie <START:nav_target> bett <END>
+navigiere zu der kategorie <START:nav_target> raum licht <END>
+navigiere zu der kategorie <START:nav_target> raum lichter <END>
+navigiere zu der kategorie <START:nav_target> tisch lampe <END>
+navigiere zu der kategorie <START:nav_target> bett lampe <END>
+navigiere zu der kategorie <START:nav_target> heater <END>
+navigiere zu der kategorie <START:nav_target> heizung <END>
+navigiere zu der kategorie <START:nav_target> ventilator <END>
+navigiere zu der kategorie <START:nav_target> home <END>
+navigiere zu der kategorie <START:nav_target> housemate <END>
+navigiere zu der kategorie <START:nav_target> tür <END>
+navigiere zu der kategorie <START:nav_target> alarm <END>
+navigiere zu der kategorie <START:nav_target> intercom <END>
+navigiere zu der kategorie <START:nav_target> musik <END>
+navigiere zu der kategorie <START:nav_target> musik quelle <END>
+navigiere zu der kategorie <START:nav_target> musik kontrolle <END>
+navigiere zu der kategorie <START:nav_target> tv steuerung <END>
+navigiere zu der kategorie <START:nav_target> tv power <END>
+navigiere zu der kategorie <START:nav_target> tv einstellung <END>
+navigiere zu der kategorie <START:nav_target> tv einstellungen <END>
+navigiere zu der kategorie <START:nav_target> tv <END>
+bring mich zu der kategorie <START:nav_target> fenster <END>
+bring mich zu der kategorie <START:nav_target> vorhang <END>
+bring mich zu der kategorie <START:nav_target> vorhänge <END>
+bring mich zu der kategorie <START:nav_target> bett <END>
+bring mich zu der kategorie <START:nav_target> raum licht <END>
+bring mich zu der kategorie <START:nav_target> raum lichter <END>
+bring mich zu der kategorie <START:nav_target> tisch lampe <END>
+bring mich zu der kategorie <START:nav_target> bett lampe <END>
+bring mich zu der kategorie <START:nav_target> heater <END>
+bring mich zu der kategorie <START:nav_target> heizung <END>
+bring mich zu der kategorie <START:nav_target> ventilator <END>
+bring mich zu der kategorie <START:nav_target> home <END>
+bring mich zu der kategorie <START:nav_target> housemate <END>
+bring mich zu der kategorie <START:nav_target> tür <END>
+bring mich zu der kategorie <START:nav_target> alarm <END>
+bring mich zu der kategorie <START:nav_target> intercom <END>
+bring mich zu der kategorie <START:nav_target> musik <END>
+bring mich zu der kategorie <START:nav_target> musik quelle <END>
+bring mich zu der kategorie <START:nav_target> musik kontrolle <END>
+bring mich zu der kategorie <START:nav_target> tv steuerung <END>
+bring mich zu der kategorie <START:nav_target> tv power <END>
+bring mich zu der kategorie <START:nav_target> tv einstellung <END>
+bring mich zu der kategorie <START:nav_target> tv einstellungen <END>
+bring mich zu der kategorie <START:nav_target> tv <END>
+zeige die kategorie <START:nav_target> fenster <END>
+zeige die kategorie <START:nav_target> vorhang <END>
+zeige die kategorie <START:nav_target> vorhänge <END>
+zeige die kategorie <START:nav_target> bett <END>
+zeige die kategorie <START:nav_target> raum licht <END>
+zeige die kategorie <START:nav_target> raum lichter <END>
+zeige die kategorie <START:nav_target> tisch lampe <END>
+zeige die kategorie <START:nav_target> bett lampe <END>
+zeige die kategorie <START:nav_target> heater <END>
+zeige die kategorie <START:nav_target> heizung <END>
+zeige die kategorie <START:nav_target> ventilator <END>
+zeige die kategorie <START:nav_target> home <END>
+zeige die kategorie <START:nav_target> housemate <END>
+zeige die kategorie <START:nav_target> tür <END>
+zeige die kategorie <START:nav_target> alarm <END>
+zeige die kategorie <START:nav_target> intercom <END>
+zeige die kategorie <START:nav_target> musik <END>
+zeige die kategorie <START:nav_target> musik quelle <END>
+zeige die kategorie <START:nav_target> musik kontrolle <END>
+zeige die kategorie <START:nav_target> tv steuerung <END>
+zeige die kategorie <START:nav_target> tv power <END>
+zeige die kategorie <START:nav_target> tv einstellungen <END>
+zeige die kategorie <START:nav_target> tv <END>
+wähle die kategorie <START:nav_target> fenster <END>
+wähle die kategorie <START:nav_target> vorhang <END>
+wähle die kategorie <START:nav_target> vorhänge <END>
+wähle die kategorie <START:nav_target> bett <END>
+wähle die kategorie <START:nav_target> raum licht <END>
+wähle die kategorie <START:nav_target> raum lichter <END>
+wähle die kategorie <START:nav_target> tisch lampe <END>
+wähle die kategorie <START:nav_target> bett lampe <END>
+wähle die kategorie <START:nav_target> heater <END>
+wähle die kategorie <START:nav_target> heizung <END>
+wähle die kategorie <START:nav_target> ventilator <END>
+wähle die kategorie <START:nav_target> home <END>
+wähle die kategorie <START:nav_target> housemate <END>
+wähle die kategorie <START:nav_target> tür <END>
+wähle die kategorie <START:nav_target> alarm <END>
+wähle die kategorie <START:nav_target> intercom <END>
+wähle die kategorie <START:nav_target> musik <END>
+wähle die kategorie <START:nav_target> musik quelle <END>
+wähle die kategorie <START:nav_target> musik kontrolle <END>
+wähle die kategorie <START:nav_target> tv steuerung <END>
+wähle die kategorie <START:nav_target> tv power <END>
+wähle die kategorie <START:nav_target> tv einstellungen <END>
+wähle die kategorie <START:nav_target> tv <END>
+wechsel zu der kategorie <START:nav_target> fenster <END>
+wechsel zu der kategorie <START:nav_target> vorhang <END>
+wechsel zu der kategorie <START:nav_target> vorhänge <END>
+wechsel zu der kategorie <START:nav_target> bett <END>
+wechsel zu der kategorie <START:nav_target> raum licht <END>
+wechsel zu der kategorie <START:nav_target> raum lichter <END>
+wechsel zu der kategorie <START:nav_target> tisch lampe <END>
+wechsel zu der kategorie <START:nav_target> bett lampe <END>
+wechsel zu der kategorie <START:nav_target> heater <END>
+wechsel zu der kategorie <START:nav_target> heizung <END>
+wechsel zu der kategorie <START:nav_target> ventilator <END>
+wechsel zu der kategorie <START:nav_target> home <END>
+wechsel zu der kategorie <START:nav_target> housemate <END>
+wechsel zu der kategorie <START:nav_target> tür <END>
+wechsel zu der kategorie <START:nav_target> alarm <END>
+wechsel zu der kategorie <START:nav_target> intercom <END>
+wechsel zu der kategorie <START:nav_target> musik <END>
+wechsel zu der kategorie <START:nav_target> musik quelle <END>
+wechsel zu der kategorie <START:nav_target> musik kontrolle <END>
+wechsel zu der kategorie <START:nav_target> tv steuerung <END>
+wechsel zu der kategorie <START:nav_target> tv power <END>
+wechsel zu der kategorie <START:nav_target> tv einstellung <END>
+wechsel zu der kategorie <START:nav_target> tv einstellungen <END>
+wechsel zu der kategorie <START:nav_target> tv <END>
 <START:nav_target> kamera <END>
 die <START:nav_target> kamera <END>
 zur <START:nav_target> kamera <END>

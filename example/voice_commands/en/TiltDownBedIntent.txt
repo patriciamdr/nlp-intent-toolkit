@@ -1,0 +1,76 @@
+tilt the <START:tilt_down_target> bed <END> down
+tilt <START:tilt_down_target> bed <END> down
+tilt down the <START:tilt_down_target> bed <END>
+tilt down <START:tilt_down_target> bed <END>
+<START:tilt_down_target> bed <END> down tilt
+<START:tilt_down_target> bed <END> tilt down
+level the <START:tilt_down_target> bed <END> down
+level <START:tilt_down_target> bed <END> down
+level down the <START:tilt_down_target> bed <END>
+level down <START:tilt_down_target> bed <END>
+<START:tilt_down_target> bed <END> down level
+<START:tilt_down_target> bed <END> level down
+decrease <START:tilt_down_target> bed <END>
+decrease the <START:tilt_down_target> bed <END>
+decrease <START:tilt_down_target> bed <END> tilt
+decrease <START:tilt_down_target> bed <END> level
+decrease <START:tilt_down_target> bed <END> height
+decrease <START:tilt_down_target> bed <END> incline
+decrease <START:tilt_down_target> bed <END> angle
+decrease the <START:tilt_down_target> bed <END> tilt
+decrease the <START:tilt_down_target> bed <END> level
+decrease the <START:tilt_down_target> bed <END> height
+decrease the <START:tilt_down_target> bed <END> incline
+decrease the <START:tilt_down_target> bed <END> angle
+decrease tilt of <START:tilt_down_target> bed <END>
+decrease level of <START:tilt_down_target> bed <END>
+decrease height of <START:tilt_down_target> bed <END>
+decrease angle of <START:tilt_down_target> bed <END>
+decrease incline of <START:tilt_down_target> bed <END>
+decrease tilt of the <START:tilt_down_target> bed <END>
+decrease level of the <START:tilt_down_target> bed <END>
+decrease height of the <START:tilt_down_target> bed <END>
+decrease angle of the <START:tilt_down_target> bed <END>
+decrease incline of the <START:tilt_down_target> bed <END>
+reduce <START:tilt_down_target> bed <END> tilt
+reduce <START:tilt_down_target> bed <END> level
+reduce <START:tilt_down_target> bed <END> height
+reduce <START:tilt_down_target> bed <END> incline
+reduce <START:tilt_down_target> bed <END> angle
+reduce the <START:tilt_down_target> bed <END> tilt
+reduce the <START:tilt_down_target> bed <END> level
+reduce the <START:tilt_down_target> bed <END> height
+reduce the <START:tilt_down_target> bed <END> incline
+reduce the <START:tilt_down_target> bed <END> angle
+reduce tilt of <START:tilt_down_target> bed <END>
+reduce level of <START:tilt_down_target> bed <END>
+reduce height of <START:tilt_down_target> bed <END>
+reduce angle of <START:tilt_down_target> bed <END>
+reduce incline of <START:tilt_down_target> bed <END>
+reduce tilt of the <START:tilt_down_target> bed <END>
+reduce level of the <START:tilt_down_target> bed <END>
+reduce height of the <START:tilt_down_target> bed <END>
+reduce angle of the <START:tilt_down_target> bed <END>
+reduce incline of the <START:tilt_down_target> bed <END>
+lower <START:tilt_down_target> bed <END>
+lower the <START:tilt_down_target> bed <END>
+lower <START:tilt_down_target> bed <END> tilt
+lower <START:tilt_down_target> bed <END> level
+lower <START:tilt_down_target> bed <END> height
+lower <START:tilt_down_target> bed <END> incline
+lower <START:tilt_down_target> bed <END> angle
+lower the <START:tilt_down_target> bed <END> tilt
+lower the <START:tilt_down_target> bed <END> level
+lower the <START:tilt_down_target> bed <END> height
+lower the <START:tilt_down_target> bed <END> incline
+lower the <START:tilt_down_target> bed <END> angle
+lower tilt of <START:tilt_down_target> bed <END>
+lower level of <START:tilt_down_target> bed <END>
+lower height of <START:tilt_down_target> bed <END>
+lower angle of <START:tilt_down_target> bed <END>
+lower incline of <START:tilt_down_target> bed <END>
+lower tilt of the <START:tilt_down_target> bed <END>
+lower level of the <START:tilt_down_target> bed <END>
+lower height of the <START:tilt_down_target> bed <END>
+lower angle of the <START:tilt_down_target> bed <END>
+lower incline of the <START:tilt_down_target> bed <END>

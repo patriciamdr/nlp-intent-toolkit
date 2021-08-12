@@ -1,3 +1,131 @@
+öffne das <START:open_target> bett <END>
+öffne das <START:open_target> raum licht <END>
+öffne die <START:open_target> raum lichter <END>
+öffne die <START:open_target> tisch lampe <END>
+öffne die <START:open_target> bett lampe <END>
+öffne den <START:open_target> heater <END>
+öffne die <START:open_target> heizung <END>
+öffne den <START:open_target> ventilator <END>
+öffne den <START:open_target> alarm <END>
+öffne die <START:open_target> musik <END>
+öffne die <START:open_target> musik quelle <END>
+öffne die <START:open_target> musik kontrolle <END>
+öffne die <START:open_target> tv steuerung <END>
+öffne die <START:open_target> tv power <END>
+öffne die <START:open_target> tv einstellungen <END>
+öffne den <START:open_target> tv <END>
+öffne <START:open_target> bett <END>
+öffne <START:open_target> raum licht <END>
+öffne <START:open_target> raum lichter <END>
+öffne <START:open_target> tisch lampe <END>
+öffne <START:open_target> bett lampe <END>
+öffne <START:open_target> heater <END>
+öffne <START:open_target> heizung <END>
+öffne <START:open_target> ventilator <END>
+öffne <START:open_target> alarm <END>
+öffne <START:open_target> musik <END>
+öffne <START:open_target> musik quelle <END>
+öffne <START:open_target> musik kontrolle <END>
+öffne <START:open_target> tv steuerung <END>
+öffne <START:open_target> tv power <END>
+öffne <START:open_target> tv einstellungen <END>
+öffne <START:open_target> tv <END>
+<START:open_target> bett <END> öffnen
+<START:open_target> raum licht <END> öffnen
+<START:open_target> raum lichter <END> öffnen
+<START:open_target> tisch lampe <END> öffnen
+<START:open_target> bett lampe <END> öffnen
+<START:open_target> heater <END> öffnen
+<START:open_target> heizung <END> öffnen
+<START:open_target> ventilator <END> öffnen
+<START:open_target> alarm <END> öffnen
+<START:open_target> musik <END> öffnen
+<START:open_target> musik quelle <END> öffnen
+<START:open_target> musik kontrolle <END> öffnen
+<START:open_target> tv steuerung <END> öffnen
+<START:open_target> tv power <END> öffnen
+<START:open_target> tv einstellungen <END> öffnen
+<START:open_target> tv <END> öffnen
+öffne die kategorie <START:open_target> fenster <END>
+öffne die kategorie <START:open_target> tür <END>
+öffne die kategorie <START:open_target> vorhang <END>
+öffne die kategorie <START:open_target> vorhänge <END>
+öffne die kategorie <START:open_target> bett <END>
+öffne die kategorie <START:open_target> raum licht <END>
+öffne die kategorie <START:open_target> raum lichter <END>
+öffne die kategorie <START:open_target> tisch lampe <END>
+öffne die kategorie <START:open_target> bett lampe <END>
+öffne die kategorie <START:open_target> heater <END>
+öffne die kategorie <START:open_target> heizung <END>
+öffne die kategorie <START:open_target> ventilator <END>
+öffne die kategorie <START:open_target> alarm <END>
+öffne die kategorie <START:open_target> musik <END>
+öffne die kategorie <START:open_target> musik quelle <END>
+öffne die kategorie <START:open_target> musik kontrolle <END>
+öffne die kategorie <START:open_target> tv steuerung <END>
+öffne die kategorie <START:open_target> tv power <END>
+öffne die kategorie <START:open_target> tv einstellungen <END>
+öffne die kategorie <START:open_target> tv <END>
+öffne kategorie <START:open_target> fenster <END>
+öffne kategorie <START:open_target> tür <END>
+öffne kategorie <START:open_target> vorhang <END>
+öffne kategorie <START:open_target> vorhänge <END>
+öffne kategorie <START:open_target> bett <END>
+öffne kategorie <START:open_target> raum licht <END>
+öffne kategorie <START:open_target> raum lichter <END>
+öffne kategorie <START:open_target> tisch lampe <END>
+öffne kategorie <START:open_target> bett lampe <END>
+öffne kategorie <START:open_target> heater <END>
+öffne kategorie <START:open_target> heizung <END>
+öffne kategorie <START:open_target> ventilator <END>
+öffne kategorie <START:open_target> alarm <END>
+öffne kategorie <START:open_target> musik <END>
+öffne kategorie <START:open_target> musik quelle <END>
+öffne kategorie <START:open_target> musik kontrolle <END>
+öffne kategorie <START:open_target> tv steuerung <END>
+öffne kategorie <START:open_target> tv power <END>
+öffne kategorie <START:open_target> tv einstellungen <END>
+öffne kategorie <START:open_target> tv <END>
+die kategorie <START:open_target> bett <END> öffnen
+die kategorie <START:open_target> raum licht <END> öffnen
+die kategorie <START:open_target> raum lichter <END> öffnen
+die kategorie <START:open_target> tisch lampe <END> öffnen
+die kategorie <START:open_target> bett lampe <END> öffnen
+die kategorie <START:open_target> heater <END> öffnen
+die kategorie <START:open_target> heizung <END> öffnen
+die kategorie <START:open_target> ventilator <END> öffnen
+die kategorie <START:open_target> alarm <END> öffnen
+die kategorie <START:open_target> musik <END> öffnen
+die kategorie <START:open_target> musik quelle <END> öffnen
+die kategorie <START:open_target> musik kontrolle <END> öffnen
+die kategorie <START:open_target> tv steuerung <END> öffnen
+die kategorie <START:open_target> tv power <END> öffnen
+die kategorie <START:open_target> tv einstellungen <END> öffnen
+die kategorie <START:open_target> tv <END> öffnen
+die kategorie <START:open_target> fenster <END> öffnen
+die kategorie <START:open_target> tür <END> öffnen
+die kategorie <START:open_target> vorhang <END> öffnen
+die kategorie <START:open_target> vorhänge <END> öffnen
+kategorie <START:open_target> bett <END> öffnen
+kategorie <START:open_target> raum licht <END> öffnen
+kategorie <START:open_target> raum lichter <END> öffnen
+kategorie <START:open_target> tisch lampe <END> öffnen
+kategorie <START:open_target> bett lampe <END> öffnen
+kategorie <START:open_target> heater <END> öffnen
+kategorie <START:open_target> heizung <END> öffnen
+kategorie <START:open_target> ventilator <END> öffnen
+kategorie <START:open_target> alarm <END> öffnen
+kategorie <START:open_target> musik <END> öffnen
+kategorie <START:open_target> musik quelle <END> öffnen
+kategorie <START:open_target> musik kontrolle <END> öffnen
+kategorie <START:open_target> tv steuerung <END> öffnen
+kategorie <START:open_target> tv power <END> öffnen
+kategorie <START:open_target> tv einstellungen <END> öffnen
+kategorie <START:open_target> tv <END> öffnen
+kategorie <START:open_target> fenster <END> öffnen
+kategorie <START:open_target> tür <END> öffnen
+kategorie <START:open_target> vorhang <END> öffnen
+kategorie <START:open_target> vorhänge <END> öffnen
 öffne <START:open_target> kamera <END>
 öffne <START:open_target> media <END>
 öffne <START:open_target> galerie <END>

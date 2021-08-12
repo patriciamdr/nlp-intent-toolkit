@@ -1,0 +1,55 @@
+schließ das <START:close_action_target> fenster <END>
+schließ die <START:close_action_target> fenster <END>
+schließ <START:close_action_target> fenster <END>
+schließe das <START:close_action_target> fenster <END>
+schließe die <START:close_action_target> fenster <END>
+schließe <START:close_action_target> fenster <END>
+<START:close_action_target> fenster <END> schließen
+das <START:close_action_target> fenster <END> schließen
+die <START:close_action_target> fenster <END> schließen
+mach das <START:close_action_target> fenster <END> zu
+mach <START:close_action_target> fenster <END> zu
+mach die <START:close_action_target> fenster <END> zu
+mach <START:close_action_target> fenster <END> zu
+<START:close_action_target> fenster <END> zu
+<START:close_action_target> fenster <END> zumachen
+das <START:close_action_target> fenster <END> zu
+das <START:close_action_target> fenster <END> zumachen
+die <START:close_action_target> fenster <END> zu
+die <START:close_action_target> fenster <END> zumachen
+schließ den <START:close_action_target> vorhang <END>
+schließ <START:close_action_target> vorhang <END>
+schließ die <START:close_action_target> vorhänge <END>
+schließ <START:close_action_target> vorhänge <END>
+schließe den <START:close_action_target> vorhang <END>
+schließe <START:close_action_target> vorhang <END>
+schließe die <START:close_action_target> vorhänge <END>
+schließe <START:close_action_target> vorhänge <END>
+<START:close_action_target> vorhang <END> schließen
+den <START:close_action_target> vorhang <END> schließen
+<START:close_action_target> vorhänge <END> schließen
+die <START:close_action_target> vorhänge <END> schließen
+mach den <START:close_action_target> vorhang <END> zu
+mach <START:close_action_target> vorhang <END> zu
+mach die <START:close_action_target> vorhänge <END> zu
+mach <START:close_action_target> vorhänge <END> zu
+<START:close_action_target> vorhang <END> zu
+<START:close_action_target> vorhang <END> zumachen
+<START:close_action_target> vorhänge <END> zu
+<START:close_action_target> vorhänge <END> zumachen
+den <START:close_action_target> vorhang <END> zu
+den <START:close_action_target> vorhang <END> zumachen
+die <START:close_action_target> vorhänge <END> zu
+die <START:close_action_target> vorhänge <END> zumachen
+schließ die <START:close_action_target> tür <END>
+schließ <START:close_action_target> tür <END>
+schließe die <START:close_action_target> tür <END>
+schließe <START:close_action_target> tür <END>
+<START:close_action_target> tür <END> schließen
+die <START:close_action_target> tür <END> schließen
+mach die <START:close_action_target> tür <END> zu
+mach <START:close_action_target> tür <END> zu
+<START:close_action_target> tür <END> zu
+<START:close_action_target> tür <END> zumachen
+die <START:close_action_target> tür <END> zu
+die <START:close_action_target> tür <END> zumachen

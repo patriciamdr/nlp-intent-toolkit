@@ -1,0 +1,114 @@
+<START:channel_target> nächster <END> kanal
+der <START:channel_target> nächste <END> kanal
+zum <START:channel_target> nächsten <END> kanal
+zum <START:channel_target> nächsten <END> kanal wechseln
+zum <START:channel_target> nächsten <END> kanal schalten
+zum <START:channel_target> nächsten <END> kanal gehen
+wähle den <START:channel_target> nächsten <END> kanal
+wähle <START:channel_target> nächsten <END> kanal
+weiter mit <START:channel_target> nächstem <END> kanal
+weiter zum <START:channel_target> nächsten <END> kanal
+gehe zum <START:channel_target> nächsten <END> kanal
+gehe weiter zum <START:channel_target> nächsten <END> kanal
+fahre mit dem <START:channel_target> nächsten <END> kanal fort
+wechsel zu <START:channel_target> nächster <END> kanal
+wechsel zum <START:channel_target> nächsten <END> kanal
+schalte zum <START:channel_target> nächsten <END> kanal
+schalte auf den <START:channel_target> nächsten <END> kanal
+zeige <START:channel_target> nächsten <END> kanal
+zeige den <START:channel_target> nächsten <END> kanal
+<START:channel_target> nächster <END> sender
+der <START:channel_target> nächste <END> sender
+zum <START:channel_target> nächsten <END> sender
+zum <START:channel_target> nächsten <END> sender wechseln
+zum <START:channel_target> nächsten <END> sender schalten
+zum <START:channel_target> nächsten <END> sender gehen
+wähle den <START:channel_target> nächsten <END> sender
+wähle <START:channel_target> nächsten <END> sender
+weiter mit <START:channel_target> nächstem <END> sender
+weiter zum <START:channel_target> nächsten <END> sender
+gehe zum <START:channel_target> nächsten <END> sender
+gehe weiter zum <START:channel_target> nächsten <END> sender
+fahre mit dem <START:channel_target> nächsten <END> sender fort
+wechsel zu <START:channel_target> nächster <END> sender
+wechsel zum <START:channel_target> nächsten <END> sender
+schalte zum <START:channel_target> nächsten <END> sender
+schalte auf den <START:channel_target> nächsten <END> sender
+zeige <START:channel_target> nächsten <END> sender
+zeige den <START:channel_target> nächsten <END> sender
+<START:channel_target> nächstes <END> programm
+das <START:channel_target> nächst <END> programm
+zum <START:channel_target> nächsten <END> programm
+zum <START:channel_target> nächsten <END> programm wechseln
+zum <START:channel_target> nächsten <END> programm schalten
+zum <START:channel_target> nächsten <END> programm gehen
+wähle das <START:channel_target> nächste <END> programm
+wähle <START:channel_target> nächstes <END> programm
+weiter mit <START:channel_target> nächstem <END> programm
+weiter zum <START:channel_target> nächsten <END> programm
+gehe zum <START:channel_target> nächsten <END> programm
+gehe weiter zum <START:channel_target> nächsten <END> programm
+fahre mit dem <START:channel_target> nächsten <END> programm fort
+wechsel zu <START:channel_target> nächstes <END> programm
+wechsel zum <START:channel_target> nächsten <END> programm
+schalte zum <START:channel_target> nächsten <END> programm
+schalte auf das <START:channel_target> nächste <END> programm
+zeige <START:channel_target> nächstes <END> programm
+zeige das <START:channel_target> nächste <END> programm
+<START:channel_target> vorheriger <END> kanal
+der <START:channel_target> vorherige <END> kanal
+zum <START:channel_target> vorherigen <END> kanal
+zum <START:channel_target> vorherigen <END> kanal wechseln
+zum <START:channel_target> vorherigen <END> kanal schalten
+zum <START:channel_target> vorherigen <END> kanal gehen
+wähle den <START:channel_target> vorherigen <END> kanal
+wähle <START:channel_target> vorherigen <END> kanal
+weiter mit <START:channel_target> vorherigem <END> kanal
+zurück zum <START:channel_target> vorherigen <END> kanal
+gehe zum <START:channel_target> vorherigen <END> kanal
+gehe zurück zum <START:channel_target> vorherigen <END> kanal
+fahre mit dem <START:channel_target> vorherigen <END> kanal fort
+wechsel zu <START:channel_target> vorheriger <END> kanal
+wechsel zum <START:channel_target> vorherigen <END> kanal
+schalte zum <START:channel_target> vorherigen <END> kanal
+schalte auf den <START:channel_target> vorherigen <END> kanal
+zeige <START:channel_target> vorherigen <END> kanal
+zeige den <START:channel_target> vorherigen <END> kanal
+<START:channel_target> vorheriger <END> sender
+der <START:channel_target> vorherige <END> sender
+zum <START:channel_target> vorherigen <END> sender
+zum <START:channel_target> vorherigen <END> sender wechseln
+zum <START:channel_target> vorherigen <END> sender schalten
+zum <START:channel_target> vorherigen <END> sender gehen
+wähle den <START:channel_target> vorherigen <END> sender
+wähle <START:channel_target> vorherigen <END> sender
+weiter mit <START:channel_target> vorherigem <END> sender
+zurück zum <START:channel_target> vorherigen <END> sender
+gehe zum <START:channel_target> vorherigen <END> sender
+gehe zurück zum <START:channel_target> vorherigen <END> sender
+fahre mit dem <START:channel_target> vorherigen <END> sender fort
+wechsel zu <START:channel_target> vorheriger <END> sender
+wechsel zum <START:channel_target> vorherigen <END> sender
+schalte zum <START:channel_target> vorherigen <END> sender
+schalte auf den <START:channel_target> vorherigen <END> sender
+zeige <START:channel_target> vorherigen <END> sender
+zeige den <START:channel_target> vorherigen <END> sender
+<START:channel_target> vorheriges <END> programm
+das <START:channel_target> vorherig <END> programm
+zum <START:channel_target> vorherigen <END> programm
+zum <START:channel_target> vorherigen <END> programm wechseln
+zum <START:channel_target> vorherigen <END> programm schalten
+zum <START:channel_target> vorherigen <END> programm gehen
+wähle das <START:channel_target> vorherige <END> programm
+wähle <START:channel_target> vorheriges <END> programm
+weiter mit <START:channel_target> vorherigem <END> programm
+zurück zum <START:channel_target> vorherigen <END> programm
+gehe zum <START:channel_target> vorherigen <END> programm
+gehe zurück zum <START:channel_target> vorherigen <END> programm
+fahre mit dem <START:channel_target> vorherigen <END> programm fort
+wechsel zu <START:channel_target> vorheriges <END> programm
+wechsel zum <START:channel_target> vorherigen <END> programm
+schalte zum <START:channel_target> vorherigen <END> programm
+schalte auf das <START:channel_target> vorherige <END> programm
+zeige <START:channel_target> vorheriges <END> programm
+zeige das <START:channel_target> vorherige <END> programm

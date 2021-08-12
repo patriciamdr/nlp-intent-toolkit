@@ -1,0 +1,126 @@
+kippe das <START:tilt_down_target> bett <END> nach unten
+klappe das <START:tilt_down_target> bett <END> nach unten
+kippe das <START:tilt_down_target> bett <END> herunter
+klappe das <START:tilt_down_target> bett <END> herunter
+kippe <START:tilt_down_target> bett <END> nach unten
+klappe <START:tilt_down_target> bett <END> nach unten
+kippe <START:tilt_down_target> bett <END> herunter
+klappe <START:tilt_down_target> bett <END> herunter
+mach <START:tilt_down_target> bett <END> niedriger
+mach das <START:tilt_down_target> bett <END> niedriger
+mach das <START:tilt_down_target> bett <END> flacher
+mach <START:tilt_down_target> bett <END> flacher
+senke <START:tilt_down_target> bett <END>
+senke das <START:tilt_down_target> bett <END>
+senke die <START:tilt_down_target> bett <END> neigung
+senke die <START:tilt_down_target> bett <END> höhe
+senke den <START:tilt_down_target> bett <END> winkel
+senke die <START:tilt_down_target> bett <END> steigung
+senke den <START:tilt_down_target> bett <END> neigungswinkel
+senke die neigung des <START:tilt_down_target> betts <END>
+senke die höhe des <START:tilt_down_target> betts <END>
+senke den winkel des <START:tilt_down_target> betts <END>
+senke die steigung des <START:tilt_down_target> betts <END>
+senke den neigungswinkel des <START:tilt_down_target> betts <END>
+senke <START:tilt_down_target> bett <END> neigung
+senke <START:tilt_down_target> bett <END> höhe
+senke <START:tilt_down_target> bett <END> winkel
+senke <START:tilt_down_target> bett <END> steigung
+senke <START:tilt_down_target> bett <END> neigungswinkel
+reduziere die <START:tilt_down_target> bett <END> neigung
+reduziere die <START:tilt_down_target> bett <END> höhe
+reduziere den <START:tilt_down_target> bett <END> winkel
+reduziere die <START:tilt_down_target> bett <END> steigung
+reduziere den <START:tilt_down_target> bett <END> neigungswinkel
+reduziere die neigung des <START:tilt_down_target> betts <END>
+reduziere die höhe des <START:tilt_down_target> betts <END>
+reduziere den winkel des <START:tilt_down_target> betts <END>
+reduziere die steigung des <START:tilt_down_target> betts <END>
+reduziere den neigungswinkel des <START:tilt_down_target> betts <END>
+reduziere <START:tilt_down_target> bett <END> neigung
+reduziere <START:tilt_down_target> bett <END> höhe
+reduziere <START:tilt_down_target> bett <END> winkel
+reduziere <START:tilt_down_target> bett <END> steigung
+reduziere <START:tilt_down_target> bett <END> neigungswinkel
+verringere die <START:tilt_down_target> bett <END> neigung
+verringere die <START:tilt_down_target> bett <END> höhe
+verringere den <START:tilt_down_target> bett <END> winkel
+verringere die <START:tilt_down_target> bett <END> steigung
+verringere den <START:tilt_down_target> bett <END> neigungswinkel
+verringere die neigung des <START:tilt_down_target> betts <END>
+verringere die höhe des <START:tilt_down_target> betts <END>
+verringere den winkel des <START:tilt_down_target> betts <END>
+verringere die steigung des <START:tilt_down_target> betts <END>
+verringere den neigungswinkel des <START:tilt_down_target> betts <END>
+verringere <START:tilt_down_target> bett <END> neigung
+verringere <START:tilt_down_target> bett <END> höhe
+verringere <START:tilt_down_target> bett <END> winkel
+verringere <START:tilt_down_target> bett <END> steigung
+verringere <START:tilt_down_target> bett <END> neigungswinkel
+lass <START:tilt_down_target> bett <END> herunter
+lass das <START:tilt_down_target> bett <END> herunter
+lass <START:tilt_down_target> bett <END> herab
+lass das <START:tilt_down_target> bett <END> herab
+das <START:tilt_down_target> bett <END> nach unten kippen
+das <START:tilt_down_target> bett <END> nach unten klappen
+das <START:tilt_down_target> bett <END> nach herunter kippen
+das <START:tilt_down_target> bett <END> nach herunter klappen
+das <START:tilt_down_target> bett <END> niedriger machen
+das <START:tilt_down_target> bett <END> flacher machen
+das <START:tilt_down_target> bett <END> senken
+<START:tilt_down_target> bett <END> nach unten kippen
+<START:tilt_down_target> bett <END> nach unten klappen
+<START:tilt_down_target> bett <END> nach herunter kippen
+<START:tilt_down_target> bett <END> nach herunter klappen
+<START:tilt_down_target> bett <END> niedriger machen
+<START:tilt_down_target> bett <END> flacher machen
+<START:tilt_down_target> bett <END> senken
+die <START:tilt_down_target> bett <END> neigung senken
+die <START:tilt_down_target> bett <END> höhe senken
+den <START:tilt_down_target> bett <END> winkel senken
+die <START:tilt_down_target> bett <END> steigung senken
+den <START:tilt_down_target> bett <END> neigungswinkel senken
+die neigung des <START:tilt_down_target> betts <END> senken
+die höhe des <START:tilt_down_target> betts <END> senken
+den winkel des <START:tilt_down_target> betts <END> senken
+die steigung des <START:tilt_down_target> betts <END> senken
+den neigungswinkel des <START:tilt_down_target> betts <END> senken
+<START:tilt_down_target> bett <END> neigung senken
+<START:tilt_down_target> bett <END> höhe senken
+<START:tilt_down_target> bett <END> winkel senken
+<START:tilt_down_target> bett <END> steigung senken
+<START:tilt_down_target> bett <END> neigungswinkel senken
+die <START:tilt_down_target> bett <END> neigung reduzieren
+die <START:tilt_down_target> bett <END> höhe reduzieren
+den <START:tilt_down_target> bett <END> winkel reduzieren
+die <START:tilt_down_target> bett <END> steigung reduzieren
+den <START:tilt_down_target> bett <END> neigungswinkel reduzieren
+die neigung des <START:tilt_down_target> betts <END> reduzieren
+die höhe des <START:tilt_down_target> betts <END> reduzieren
+den winkel des <START:tilt_down_target> betts <END> reduzieren
+die steigung des <START:tilt_down_target> betts <END> reduzieren
+den neigungswinkel des <START:tilt_down_target> betts <END> reduzieren
+<START:tilt_down_target> bett <END> neigung reduzieren
+<START:tilt_down_target> bett <END> höhe reduzieren
+<START:tilt_down_target> bett <END> winkel reduzieren
+<START:tilt_down_target> bett <END> steigung reduzieren
+<START:tilt_down_target> bett <END> neigungswinkel reduzieren
+die <START:tilt_down_target> bett <END> neigung verringern
+die <START:tilt_down_target> bett <END> höhe verringern
+den <START:tilt_down_target> bett <END> winkel verringern
+die <START:tilt_down_target> bett <END> steigung verringern
+den <START:tilt_down_target> bett <END> neigungswinkel verringern
+die neigung des <START:tilt_down_target> betts <END> verringern
+die höhe des <START:tilt_down_target> betts <END> verringern
+den winkel des <START:tilt_down_target> betts <END> verringern
+die steigung des <START:tilt_down_target> betts <END> verringern
+den neigungswinkel des <START:tilt_down_target> betts <END> verringern
+<START:tilt_down_target> bett <END> neigung verringern
+<START:tilt_down_target> bett <END> höhe verringern
+<START:tilt_down_target> bett <END> winkel verringern
+<START:tilt_down_target> bett <END> steigung verringern
+<START:tilt_down_target> bett <END> neigungswinkel verringern
+<START:tilt_down_target> bett <END> herunter lassen
+das <START:tilt_down_target> bett <END> herunter lassen
+<START:tilt_down_target> bett <END> herab lassen
+das <START:tilt_down_target> bett <END> herab lassen

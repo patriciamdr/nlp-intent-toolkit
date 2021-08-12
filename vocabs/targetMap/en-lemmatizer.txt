@@ -21,3 +21,9 @@ internet:wifi
 seating:seat
 picture:photo
 administration:admin
+curtains:curtain
+radiator:heater
+lamps:lamp
+sources:source
+setting:settings
+previously:previous

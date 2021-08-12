@@ -40,18 +40,37 @@ public class IntentTrainer {
         return buffer;
     }
 
+    public static boolean contains(final String[] array, final String v) {
+        for (final String e : array)
+            if (e == v || v != null && v.equals(e))
+                return true;
+
+        return false;
+    }
+
+    public static String getKeyByValue(Map<String, String[]> map, String value) {
+        for (Map.Entry<String, String[]> entry : map.entrySet()) {
+            if (contains(entry.getValue(), value)) {
+                return entry.getKey();
+            }
+        }
+    return null;
+    }
+
     public static void main(String[] args) throws Exception {
 
         File trainingDirectory = new File(args[0]);
         String lang = trainingDirectory.getPath().substring(trainingDirectory.getPath().lastIndexOf('/') + 1);
-        // String[] slots = new String[0];
-		Map<String, String> doccatAndSlotsMap = new HashMap<String, String>();
+		Map<String, String[]> slotsAndDoccatsMap = new HashMap<String, String[]>();
+
         if (args.length > 1) {
             // slots = args[1].split(",");
-            for(String keyValue : args[1].split(",")) {
+            for(int i=1; i < args.length; i++){
+                String keyValue = args[i];
                 String[] pairs = keyValue.split("=", 2);
-                doccatAndSlotsMap.put(pairs[0], pairs[1]);
+                slotsAndDoccatsMap.put(pairs[0], pairs[1].split(","));
             }
+            System.out.println(slotsAndDoccatsMap);
         }
 
         if (!trainingDirectory.isDirectory()) {
@@ -90,41 +109,31 @@ public class IntentTrainer {
         nameFinderTrainingParams.put(TrainingParameters.ITERATIONS_PARAM, 100+"");
         nameFinderTrainingParams.put(TrainingParameters.CUTOFF_PARAM, 0+"");
 
-        // List<TokenNameFinderModel> tokenNameFinderModels = new ArrayList<TokenNameFinderModel>();
-            // for (String slot : slots) {
-            //     List<ObjectStream<NameSample>> nameStreams = new ArrayList<ObjectStream<NameSample>>();
-            //     for (File trainingFile : trainingDirectory.listFiles()) {
-            //         ObjectStream<String> lineStream = new PlainTextByLineStream(new MarkableFileInputStreamFactory(trainingFile), "UTF-8");
-            //         ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
-            //         nameStreams.add(nameSampleStream);
-            //     }
-            //     ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
-            //     ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
-            //     TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams, new TokenNameFinderFactory(
-            //             readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
-            //     ));
-            //     combinedNameSampleStream.close();
-        //     tokenNameFinderModels.add(tokenNameFinderModel);
-
         Map<String, TokenNameFinderModel> tokenNameFinderModels = new HashMap<String, TokenNameFinderModel>();
 
-        for (Map.Entry<String, String> entry : doccatAndSlotsMap.entrySet()) {
-            String trainingFile = entry.getKey();
-            String slot = entry.getValue();
-            ObjectStream<String> lineStream = new PlainTextByLineStream(new MarkableFileInputStreamFactory(
-                            new File(trainingDirectory + "/" + trainingFile + ".txt")), "UTF-8");
-            ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
+        for (String slot : slotsAndDoccatsMap.keySet()) {
+            String[] trainingFiles = slotsAndDoccatsMap.get(slot);
 
-            TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, nameSampleStream, nameFinderTrainingParams, new TokenNameFinderFactory(
-                            readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
+            List<ObjectStream<NameSample>> nameStreams = new ArrayList<ObjectStream<NameSample>>();
+            for (String trainingFile : trainingFiles) {
+                ObjectStream<String> lineStream = new PlainTextByLineStream(
+                    new MarkableFileInputStreamFactory(new File(trainingDirectory + "/" + trainingFile + ".txt")), "UTF-8");
+                ObjectStream<NameSample> nameSampleStream = new NameSampleDataStream(lineStream);
+                nameStreams.add(nameSampleStream);
+            }
+            ObjectStream<NameSample>[] n = new NameSampleDataStream[nameStreams.size()];
+            ObjectStream<NameSample> combinedNameSampleStream = ObjectStreamUtils.createObjectStream(nameStreams.toArray(n));
+
+            TokenNameFinderModel tokenNameFinderModel = NameFinderME.train(lang, slot, combinedNameSampleStream, nameFinderTrainingParams,
+                new TokenNameFinderFactory(readFile("/home/patricia/dev/nlp-intent-toolkit/features.xml"), Collections.emptyMap(), new BioCodec()
             ));
-            nameSampleStream.close();
+            combinedNameSampleStream.close();
+
             tokenNameFinderModels.put(slot, tokenNameFinderModel);
 
             modelOut = new BufferedOutputStream(new FileOutputStream("./models/namefinders/models-" + lang + "/" + slot + ".bin"));
             tokenNameFinderModel.serialize(modelOut);
         }
-
 
         DocumentCategorizerME categorizer = new DocumentCategorizerME(doccatModel);
 
@@ -132,11 +141,6 @@ public class IntentTrainer {
         for (Map.Entry<String, TokenNameFinderModel> entry : tokenNameFinderModels.entrySet()) {
                 nameFinderMEs.put(entry.getKey(), new NameFinderME(entry.getValue()));
         }
-
-        // NameFinderME[] nameFinderMEs = new NameFinderME[tokenNameFinderModels.size()];
-        // for (int i = 0; i < tokenNameFinderModels.size(); i++) {
-        //   nameFinderMEs[i] = new NameFinderME(tokenNameFinderModels.get(i));
-        // }
 
         System.out.println("Training complete. Ready.");
         System.out.print(">");
@@ -146,22 +150,6 @@ public class IntentTrainer {
         TokenizerModel model = new TokenizerModel(modelIn);
         Tokenizer tokenizer = new TokenizerME(model);
 
-        // while ((s = System.console().readLine()) != null) {
-        //   double[] outcome = categorizer.categorize(tokenizer.tokenize(s));
-        //   System.out.print("{ action: '" + categorizer.getBestCategory(outcome) + "', args: { ");
-        //   String[] tokens = tokenizer.tokenize(s);
-        //   for (NameFinderME nameFinderME : nameFinderMEs) {
-        //     Span[] spans = nameFinderME.find(tokens);
-        //     String[] names = Span.spansToStrings(spans, tokens);
-        //     for (int i = 0; i < spans.length; i++) {
-        //       if(i > 0) { System.out.print(", "); }
-        //       System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
-        //     }
-        //   }
-        //   System.out.println("} }");
-        //   System.out.print(">");
-        // }
-
         while ((s = System.console().readLine()) != null) {
             String[] tokens = tokenizer.tokenize(s);
             Map<String, Double> scoreMap = categorizer.scoreMap(tokens);
@@ -170,7 +158,7 @@ public class IntentTrainer {
                 System.out.print("{ action: '" + result  + "', args: { ");
 
                 try {
-                    NameFinderME nameFinderME = nameFinderMEs.get(doccatAndSlotsMap.get(result));
+                    NameFinderME nameFinderME = nameFinderMEs.get(getKeyByValue(slotsAndDoccatsMap, result));
                     Span[] spans = nameFinderME.find(tokens);
                     String[] names = Span.spansToStrings(spans, tokens);
 										System.out.print(spans[spans.length - 1].getType() + ": '" + names[names.length - 1] + "' ");
@@ -183,7 +171,7 @@ public class IntentTrainer {
                 System.out.print("{ action: '" + result  + "', args: { ");
 
                 try {
-                    NameFinderME nameFinderME = nameFinderMEs.get(doccatAndSlotsMap.get(result));
+                    NameFinderME nameFinderME = nameFinderMEs.get(getKeyByValue(slotsAndDoccatsMap, result));
                     Span[] spans = nameFinderME.find(tokens);
                     String[] names = Span.spansToStrings(spans, tokens);
                     // add most likely target if more than one is available

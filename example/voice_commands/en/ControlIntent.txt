@@ -1,0 +1,270 @@
+turn the <START:control_target> room light <END> on
+turn the <START:control_target> room lights <END> on
+turn <START:control_target> room light <END> on
+turn <START:control_target> room lights <END> on
+turn on the <START:control_target> room light <END>
+turn on the <START:control_target> room lights <END>
+turn on <START:control_target> room light <END>
+turn on <START:control_target> room lights <END>
+<START:control_target> room light <END> on
+<START:control_target> room lights <END> on
+switch on <START:control_target> room light <END>
+switch on <START:control_target> room lights <END>
+switch on the <START:control_target> room light <END>
+switch on the <START:control_target> room lights <END>
+switch the <START:control_target> room light <END> on
+switch the <START:control_target> room lights <END> on
+switch <START:control_target> room light <END> on
+switch <START:control_target> room lights <END> on
+turn the <START:control_target> room light <END> off
+turn the <START:control_target> room lights <END> off
+turn <START:control_target> room light <END> off
+turn <START:control_target> room lights <END> off
+turn off the <START:control_target> room light <END>
+turn off the <START:control_target> room lights <END>
+turn off <START:control_target> room light <END>
+turn off <START:control_target> room lights <END>
+<START:control_target> room light <END> off
+<START:control_target> room lights <END> off
+switch off <START:control_target> room light <END>
+switch off <START:control_target> room lights <END>
+switch off the <START:control_target> room light <END>
+switch off the <START:control_target> room lights <END>
+switch the <START:control_target> room light <END> off
+switch the <START:control_target> room lights <END> off
+switch <START:control_target> room light <END> off
+switch <START:control_target> room lights <END> off
+turn the <START:control_target> table lamp <END> on
+turn the <START:control_target> table lamps <END> on
+turn <START:control_target> table lamp <END> on
+turn <START:control_target> table lamps <END> on
+turn on the <START:control_target> table lamp <END>
+turn on the <START:control_target> table lamps <END>
+turn on <START:control_target> table lamp <END>
+turn on <START:control_target> table lamps <END>
+<START:control_target> table lamp <END> on
+<START:control_target> table lamps <END> on
+switch on <START:control_target> table lamp <END>
+switch on <START:control_target> table lamps <END>
+switch on the <START:control_target> table lamp <END>
+switch on the <START:control_target> table lamps <END>
+switch the <START:control_target> table lamp <END> on
+switch the <START:control_target> table lamps <END> on
+switch <START:control_target> table lamp <END> on
+switch <START:control_target> table lamps <END> on
+turn the <START:control_target> table lamp <END> off
+turn the <START:control_target> table lamps <END> off
+turn <START:control_target> table lamp <END> off
+turn <START:control_target> table lamps <END> off
+turn off the <START:control_target> table lamp <END>
+turn off the <START:control_target> table lamps <END>
+turn off <START:control_target> table lamp <END>
+turn off <START:control_target> table lamps <END>
+<START:control_target> table lamp <END> off
+<START:control_target> table lamps <END> off
+switch off <START:control_target> table lamp <END>
+switch off <START:control_target> table lamps <END>
+switch off the <START:control_target> table lamp <END>
+switch off the <START:control_target> table lamps <END>
+switch the <START:control_target> table lamp <END> off
+switch the <START:control_target> table lamps <END> off
+switch <START:control_target> table lamp <END> off
+switch <START:control_target> table lamps <END> off
+turn the <START:control_target> bed lamp <END> on
+turn the <START:control_target> bed lamps <END> on
+turn <START:control_target> bed lamp <END> on
+turn <START:control_target> bed lamps <END> on
+turn on the <START:control_target> bed lamp <END>
+turn on the <START:control_target> bed lamps <END>
+turn on <START:control_target> bed lamp <END>
+turn on <START:control_target> bed lamps <END>
+<START:control_target> bed lamp <END> on
+<START:control_target> bed lamps <END> on
+switch on <START:control_target> bed lamp <END>
+switch on <START:control_target> bed lamps <END>
+switch on the <START:control_target> bed lamp <END>
+switch on the <START:control_target> bed lamps <END>
+switch the <START:control_target> bed lamp <END> on
+switch the <START:control_target> bed lamps <END> on
+switch <START:control_target> bed lamp <END> on
+switch <START:control_target> bed lamps <END> on
+turn the <START:control_target> bed lamp <END> off
+turn the <START:control_target> bed lamps <END> off
+turn <START:control_target> bed lamp <END> off
+turn <START:control_target> bed lamps <END> off
+turn off the <START:control_target> bed lamp <END>
+turn off the <START:control_target> bed lamps <END>
+turn off <START:control_target> bed lamp <END>
+turn off <START:control_target> bed lamps <END>
+<START:control_target> bed lamp <END> off
+<START:control_target> bed lamps <END> off
+switch off <START:control_target> bed lamp <END>
+switch off <START:control_target> bed lamps <END>
+switch off the <START:control_target> bed lamp <END>
+switch off the <START:control_target> bed lamps <END>
+switch the <START:control_target> bed lamp <END> off
+switch the <START:control_target> bed lamps <END> off
+switch <START:control_target> bed lamp <END> off
+switch <START:control_target> bed lamps <END> off
+turn the <START:control_target> heater <END> on
+turn <START:control_target> heater <END> on
+turn on the <START:control_target> heater <END>
+turn on <START:control_target> heater <END>
+<START:control_target> heater <END> on
+switch on <START:control_target> heater <END>
+switch on the <START:control_target> heater <END>
+switch the <START:control_target> heater <END> on
+switch <START:control_target> heater <END> on
+turn the <START:control_target> heater <END> off
+turn <START:control_target> heater <END> off
+turn off the <START:control_target> heater <END>
+turn off <START:control_target> heater <END>
+<START:control_target> heater <END> off
+switch off <START:control_target> heater <END>
+switch off the <START:control_target> heater <END>
+switch the <START:control_target> heater <END> off
+switch <START:control_target> heater <END> off
+turn the <START:control_target> radiator <END> on
+turn <START:control_target> radiator <END> on
+turn on the <START:control_target> radiator <END>
+turn on <START:control_target> radiator <END>
+<START:control_target> radiator <END> on
+switch on <START:control_target> radiator <END>
+switch on the <START:control_target> radiator <END>
+switch the <START:control_target> radiator <END> on
+switch <START:control_target> radiator <END> on
+turn the <START:control_target> radiator <END> off
+turn <START:control_target> radiator <END> off
+turn off the <START:control_target> radiator <END>
+turn off <START:control_target> radiator <END>
+<START:control_target> radiator <END> off
+switch off <START:control_target> radiator <END>
+switch off the <START:control_target> radiator <END>
+switch the <START:control_target> radiator <END> off
+switch <START:control_target> radiator <END> off
+turn the <START:control_target> fan <END> on
+turn <START:control_target> fan <END> on
+turn on the <START:control_target> fan <END>
+turn on <START:control_target> fan <END>
+<START:control_target> fan <END> on
+switch on <START:control_target> fan <END>
+switch on the <START:control_target> fan <END>
+switch the <START:control_target> fan <END> on
+switch <START:control_target> fan <END> on
+turn the <START:control_target> fan <END> off
+turn <START:control_target> fan <END> off
+turn off the <START:control_target> fan <END>
+turn off <START:control_target> fan <END>
+<START:control_target> fan <END> off
+switch off <START:control_target> fan <END>
+switch off the <START:control_target> fan <END>
+switch the <START:control_target> fan <END> off
+switch <START:control_target> fan <END> off
+turn the <START:control_target> alarm <END> on
+turn <START:control_target> alarm <END> on
+turn on the <START:control_target> alarm <END>
+turn on <START:control_target> alarm <END>
+<START:control_target> alarm <END> on
+switch on <START:control_target> alarm <END>
+switch on the <START:control_target> alarm <END>
+switch the <START:control_target> alarm <END> on
+switch <START:control_target> alarm <END> on
+turn the <START:control_target> alarm <END> off
+turn <START:control_target> alarm <END> off
+turn off the <START:control_target> alarm <END>
+turn off <START:control_target> alarm <END>
+<START:control_target> alarm <END> off
+switch off <START:control_target> alarm <END>
+switch off the <START:control_target> alarm <END>
+switch the <START:control_target> alarm <END> off
+switch <START:control_target> alarm <END> off
+turn the <START:control_target> tv <END> on
+turn <START:control_target> tv <END> on
+turn on the <START:control_target> tv <END>
+turn on <START:control_target> tv <END>
+<START:control_target> tv <END> on
+switch on <START:control_target> tv <END>
+switch on the <START:control_target> tv <END>
+switch the <START:control_target> tv <END> on
+switch <START:control_target> tv <END> on
+turn the <START:control_target> tv <END> off
+turn <START:control_target> tv <END> off
+turn off the <START:control_target> tv <END>
+turn off <START:control_target> tv <END>
+<START:control_target> tv <END> off
+switch off <START:control_target> tv <END>
+switch off the <START:control_target> tv <END>
+switch the <START:control_target> tv <END> off
+switch <START:control_target> tv <END> off
+turn on <START:control_target> lights <END>
+turn on the <START:control_target> lights <END>
+turn on <START:control_target> light <END>
+turn on the <START:control_target> light <END>
+turn on <START:control_target> hazard lights <END>
+turn on the <START:control_target> hazard lights <END>
+turn on <START:control_target> hazard light <END>
+turn on the <START:control_target> hazard light <END>
+turn the <START:control_target> lights <END> on
+turn the <START:control_target> light <END> on
+turn the <START:control_target> hazard lights <END> on
+turn the <START:control_target> hazard light <END> on
+turn <START:control_target> lights <END> on
+turn <START:control_target> light <END> on
+turn <START:control_target> hazard lights <END> on
+turn <START:control_target> hazard light <END> on
+<START:control_target> lights <END> on
+<START:control_target> light <END> on
+<START:control_target> hazard lights <END> on
+<START:control_target> hazard light <END> on
+turn off <START:control_target> lights <END>
+turn off the <START:control_target> lights <END>
+turn off <START:control_target> light <END>
+turn off the <START:control_target> light <END>
+turn off <START:control_target> hazard lights <END>
+turn off the <START:control_target> hazard lights <END>
+turn off <START:control_target> hazard light <END>
+turn off the <START:control_target> hazard light <END>
+turn the <START:control_target> lights <END> off
+turn the <START:control_target> light <END> off
+turn the <START:control_target> hazard lights <END> off
+turn the <START:control_target> hazard light <END> off
+turn <START:control_target> lights <END> off
+turn <START:control_target> light <END> off
+turn <START:control_target> hazard lights <END> off
+turn <START:control_target> hazard light <END> off
+<START:control_target> lights <END> off
+<START:control_target> light <END> off
+<START:control_target> hazard lights <END> off
+<START:control_target> hazard light <END> off
+switch off <START:control_target> lights <END>
+switch off the <START:control_target> lights <END>
+switch off <START:control_target> light <END>
+switch off the <START:control_target> light <END>
+switch off <START:control_target> hazard lights <END>
+switch off the <START:control_target> hazard lights <END>
+switch off <START:control_target> hazard light <END>
+switch off the <START:control_target> hazard light <END>
+switch the <START:control_target> lights <END> off
+switch the <START:control_target> light <END> off
+switch the <START:control_target> hazard lights <END> off
+switch the <START:control_target> hazard light <END> off
+switch <START:control_target> lights <END> off
+switch <START:control_target> light <END> off
+switch <START:control_target> hazard lights <END> off
+switch <START:control_target> hazard light <END> off
+switch on <START:control_target> lights <END>
+switch on the <START:control_target> lights <END>
+switch on <START:control_target> light <END>
+switch on the <START:control_target> light <END>
+switch on <START:control_target> hazard lights <END>
+switch on the <START:control_target> hazard lights <END>
+switch on <START:control_target> hazard light <END>
+switch on the <START:control_target> hazard light <END>
+switch the <START:control_target> lights <END> on
+switch the <START:control_target> light <END> on
+switch the <START:control_target> hazard lights <END> on
+switch the <START:control_target> hazard light <END> on
+switch <START:control_target> lights <END> on
+switch <START:control_target> light <END> on
+switch <START:control_target> hazard lights <END> on
+switch <START:control_target> hazard light <END> on

@@ -1,0 +1,26 @@
+play <START:play_music_target> music <END>
+play the <START:play_music_target> music <END>
+begin <START:play_music_target> music <END>
+begin the <START:play_music_target> music <END>
+begin playing <START:play_music_target> music <END>
+begin playing the <START:play_music_target> music <END>
+start the <START:play_music_target> music <END>
+start <START:play_music_target> music <END>
+start playing the <START:play_music_target> music <END>
+start playing <START:play_music_target> music <END>
+continue playing the <START:play_music_target> music <END>
+continue playing <START:play_music_target> music <END>
+continue <START:play_music_target> music <END>
+continue the <START:play_music_target> music <END>
+turn the <START:play_music_target> music <END> on
+turn <START:play_music_target> music <END> on
+turn on <START:play_music_target> music <END>
+turn on the <START:play_music_target> music <END>
+<START:play_music_target> music <END> on
+the <START:play_music_target> music <END> on
+switch on the <START:play_music_target> music <END>
+switch on <START:play_music_target> music <END>
+switch the <START:play_music_target> music <END> on
+switch <START:play_music_target> music <END> on
+start off the <START:play_music_target> music <END>
+start off <START:play_music_target> music <END>

@@ -1,0 +1,44 @@
+öffne das <START:open_action_target> fenster <END>
+öffne die <START:open_action_target> fenster <END>
+öffne <START:open_action_target> fenster <END>
+<START:open_action_target> fenster <END> öffnen
+das <START:open_action_target> fenster <END> öffnen
+die <START:open_action_target> fenster <END> öffnen
+mach das <START:open_action_target> fenster <END> auf
+mach die <START:open_action_target> fenster <END> auf
+mach <START:open_action_target> fenster <END> auf
+<START:open_action_target> fenster <END> auf
+<START:open_action_target> fenster <END> aufmachen
+das <START:open_action_target> fenster <END> auf
+das <START:open_action_target> fenster <END> aufmachen
+die <START:open_action_target> fenster <END> auf
+die <START:open_action_target> fenster <END> aufmachen
+öffne den <START:open_action_target> vorhang <END>
+öffne die <START:open_action_target> vorhänge <END>
+öffne <START:open_action_target> vorhang <END>
+<START:open_action_target> vorhang <END> öffnen
+den <START:open_action_target> vorhang <END> öffnen
+<START:open_action_target> vorhänge <END> öffnen
+die <START:open_action_target> vorhänge <END> öffnen
+mach den <START:open_action_target> vorhang <END> auf
+mach <START:open_action_target> vorhang <END> auf
+mach die <START:open_action_target> vorhänge <END> auf
+mach <START:open_action_target> vorhänge <END> auf
+<START:open_action_target> vorhang <END> auf
+<START:open_action_target> vorhang <END> aufmachen
+<START:open_action_target> vorhänge <END> auf
+<START:open_action_target> vorhänge <END> aufmachen
+den <START:open_action_target> vorhang <END> auf
+den <START:open_action_target> vorhang <END> aufmachen
+die <START:open_action_target> vorhänge <END> auf
+die <START:open_action_target> vorhänge <END> aufmachen
+öffne die <START:open_action_target> tür <END>
+öffne <START:open_action_target> tür <END>
+<START:open_action_target> tür <END> öffnen
+die <START:open_action_target> tür <END> öffnen
+mach die <START:open_action_target> tür <END> auf
+mach <START:open_action_target> tür <END> auf
+<START:open_action_target> tür <END> auf
+<START:open_action_target> tür <END> aufmachen
+die <START:open_action_target> tür <END> auf
+die <START:open_action_target> tür <END> aufmachen

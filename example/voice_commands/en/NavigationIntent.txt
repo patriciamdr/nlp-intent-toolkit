@@ -1,3 +1,403 @@
+go to <START:nav_target> window <END>
+go to <START:nav_target> curtain <END>
+go to <START:nav_target> curtains <END>
+go to <START:nav_target> bed <END>
+go to <START:nav_target> room light <END>
+go to <START:nav_target> room lights <END>
+go to <START:nav_target> table lamp <END>
+go to <START:nav_target> table lamps <END>
+go to <START:nav_target> bed lamps <END>
+go to <START:nav_target> bed lamp <END>
+go to <START:nav_target> heater <END>
+go to <START:nav_target> fan <END>
+go to <START:nav_target> home <END>
+go to <START:nav_target> housemate <END>
+go to <START:nav_target> door <END>
+go to <START:nav_target> alarm <END>
+go to <START:nav_target> intercom <END>
+go to <START:nav_target> music <END>
+go to <START:nav_target> music source <END>
+go to <START:nav_target> music sources <END>
+go to <START:nav_target> music control <END>
+go to <START:nav_target> tv control <END>
+go to <START:nav_target> tv power <END>
+go to <START:nav_target> tv settings <END>
+go to <START:nav_target> tv <END>
+go to category <START:nav_target> window <END>
+go to category <START:nav_target> curtain <END>
+go to category <START:nav_target> curtains <END>
+go to category <START:nav_target> bed <END>
+go to category <START:nav_target> room light <END>
+go to category <START:nav_target> room lights <END>
+go to category <START:nav_target> table lamps <END>
+go to category <START:nav_target> bed lamps <END>
+go to category <START:nav_target> table lamp <END>
+go to category <START:nav_target> bed lamp <END>
+go to category <START:nav_target> heater <END>
+go to category <START:nav_target> fan <END>
+go to category <START:nav_target> home <END>
+go to category <START:nav_target> housemate <END>
+go to category <START:nav_target> door <END>
+go to category <START:nav_target> alarm <END>
+go to category <START:nav_target> intercom <END>
+go to category <START:nav_target> music <END>
+go to category <START:nav_target> music source <END>
+go to category <START:nav_target> music sources <END>
+go to category <START:nav_target> music control <END>
+go to category <START:nav_target> tv control <END>
+go to category <START:nav_target> tv power <END>
+go to category <START:nav_target> tv settings <END>
+go to category <START:nav_target> tv <END>
+navigate to <START:nav_target> window <END>
+navigate to <START:nav_target> curtain <END>
+navigate to <START:nav_target> curtains <END>
+navigate to <START:nav_target> bed <END>
+navigate to <START:nav_target> room light <END>
+navigate to <START:nav_target> room lights <END>
+navigate to <START:nav_target> table lamps <END>
+navigate to <START:nav_target> bed lamps <END>
+navigate to <START:nav_target> table lamp <END>
+navigate to <START:nav_target> bed lamp <END>
+navigate to <START:nav_target> heater <END>
+navigate to <START:nav_target> fan <END>
+navigate to <START:nav_target> home <END>
+navigate to <START:nav_target> housemate <END>
+navigate to <START:nav_target> door <END>
+navigate to <START:nav_target> alarm <END>
+navigate to <START:nav_target> intercom <END>
+navigate to <START:nav_target> music <END>
+navigate to <START:nav_target> music source <END>
+navigate to <START:nav_target> music sources <END>
+navigate to <START:nav_target> music control <END>
+navigate to <START:nav_target> tv control <END>
+navigate to <START:nav_target> tv power <END>
+navigate to <START:nav_target> tv settings <END>
+navigate to <START:nav_target> tv <END>
+navigate to category <START:nav_target> window <END>
+navigate to category <START:nav_target> curtain <END>
+navigate to category <START:nav_target> curtains <END>
+navigate to category <START:nav_target> bed <END>
+navigate to category <START:nav_target> room light <END>
+navigate to category <START:nav_target> room lights <END>
+navigate to category <START:nav_target> table lamps <END>
+navigate to category <START:nav_target> bed lamps <END>
+navigate to category <START:nav_target> table lamp <END>
+navigate to category <START:nav_target> bed lamp <END>
+navigate to category <START:nav_target> heater <END>
+navigate to category <START:nav_target> fan <END>
+navigate to category <START:nav_target> home <END>
+navigate to category <START:nav_target> housemate <END>
+navigate to category <START:nav_target> door <END>
+navigate to category <START:nav_target> alarm <END>
+navigate to category <START:nav_target> intercom <END>
+navigate to category <START:nav_target> music <END>
+navigate to category <START:nav_target> music source <END>
+navigate to category <START:nav_target> music sources <END>
+navigate to category <START:nav_target> music control <END>
+navigate to category <START:nav_target> tv control <END>
+navigate to category <START:nav_target> tv power <END>
+navigate to category <START:nav_target> tv settings <END>
+navigate to category <START:nav_target> tv <END>
+take me to <START:nav_target> window <END>
+take me to <START:nav_target> curtain <END>
+take me to <START:nav_target> curtains <END>
+take me to <START:nav_target> bed <END>
+take me to <START:nav_target> room light <END>
+take me to <START:nav_target> room lights <END>
+take me to <START:nav_target> table lamps <END>
+take me to <START:nav_target> bed lamps <END>
+take me to <START:nav_target> table lamp <END>
+take me to <START:nav_target> bed lamp <END>
+take me to <START:nav_target> heater <END>
+take me to <START:nav_target> fan <END>
+take me to <START:nav_target> home <END>
+take me to <START:nav_target> housemate <END>
+take me to <START:nav_target> door <END>
+take me to <START:nav_target> alarm <END>
+take me to <START:nav_target> intercom <END>
+take me to <START:nav_target> music <END>
+take me to <START:nav_target> music source <END>
+take me to <START:nav_target> music sources <END>
+take me to <START:nav_target> music control <END>
+take me to <START:nav_target> tv control <END>
+take me to <START:nav_target> tv power <END>
+take me to <START:nav_target> tv settings <END>
+take me to <START:nav_target> tv <END>
+take me to category <START:nav_target> window <END>
+take me to category <START:nav_target> curtain <END>
+take me to category <START:nav_target> curtains <END>
+take me to category <START:nav_target> bed <END>
+take me to category <START:nav_target> room light <END>
+take me to category <START:nav_target> room lights <END>
+take me to category <START:nav_target> table lamps <END>
+take me to category <START:nav_target> bed lamps <END>
+take me to category <START:nav_target> table lamp <END>
+take me to category <START:nav_target> bed lamp <END>
+take me to category <START:nav_target> heater <END>
+take me to category <START:nav_target> fan <END>
+take me to category <START:nav_target> home <END>
+take me to category <START:nav_target> housemate <END>
+take me to category <START:nav_target> door <END>
+take me to category <START:nav_target> alarm <END>
+take me to category <START:nav_target> intercom <END>
+take me to category <START:nav_target> music <END>
+take me to category <START:nav_target> music source <END>
+take me to category <START:nav_target> music sources <END>
+take me to category <START:nav_target> music control <END>
+take me to category <START:nav_target> tv control <END>
+take me to category <START:nav_target> tv power <END>
+take me to category <START:nav_target> tv settings <END>
+take me to category <START:nav_target> tv <END>
+switch to <START:nav_target> window <END>
+switch to <START:nav_target> curtain <END>
+switch to <START:nav_target> curtains <END>
+switch to <START:nav_target> bed <END>
+switch to <START:nav_target> room light <END>
+switch to <START:nav_target> room lights <END>
+switch to <START:nav_target> table lamps <END>
+switch to <START:nav_target> bed lamps <END>
+switch to <START:nav_target> table lamp <END>
+switch to <START:nav_target> bed lamp <END>
+switch to <START:nav_target> heater <END>
+switch to <START:nav_target> fan <END>
+switch to <START:nav_target> home <END>
+switch to <START:nav_target> housemate <END>
+switch to <START:nav_target> door <END>
+switch to <START:nav_target> alarm <END>
+switch to <START:nav_target> intercom <END>
+switch to <START:nav_target> music <END>
+switch to <START:nav_target> music source <END>
+switch to <START:nav_target> music sources <END>
+switch to <START:nav_target> music control <END>
+switch to <START:nav_target> tv control <END>
+switch to <START:nav_target> tv power <END>
+switch to <START:nav_target> tv settings <END>
+switch to <START:nav_target> tv <END>
+switch to category <START:nav_target> window <END>
+switch to category <START:nav_target> curtain <END>
+switch to category <START:nav_target> curtains <END>
+switch to category <START:nav_target> bed <END>
+switch to category <START:nav_target> room light <END>
+switch to category <START:nav_target> room lights <END>
+switch to category <START:nav_target> table lamps <END>
+switch to category <START:nav_target> bed lamps <END>
+switch to category <START:nav_target> table lamp <END>
+switch to category <START:nav_target> bed lamp <END>
+switch to category <START:nav_target> heater <END>
+switch to category <START:nav_target> fan <END>
+switch to category <START:nav_target> home <END>
+switch to category <START:nav_target> housemate <END>
+switch to category <START:nav_target> door <END>
+switch to category <START:nav_target> alarm <END>
+switch to category <START:nav_target> intercom <END>
+switch to category <START:nav_target> music <END>
+switch to category <START:nav_target> music source <END>
+switch to category <START:nav_target> music sources <END>
+switch to category <START:nav_target> music control <END>
+switch to category <START:nav_target> tv control <END>
+switch to category <START:nav_target> tv power <END>
+switch to category <START:nav_target> tv settings <END>
+switch to category <START:nav_target> tv <END>
+choose <START:nav_target> window <END>
+choose <START:nav_target> curtain <END>
+choose <START:nav_target> curtains <END>
+choose <START:nav_target> bed <END>
+choose <START:nav_target> room light <END>
+choose <START:nav_target> room lights <END>
+choose <START:nav_target> table lamps <END>
+choose <START:nav_target> bed lamps <END>
+choose <START:nav_target> table lamp <END>
+choose <START:nav_target> bed lamp <END>
+choose <START:nav_target> heater <END>
+choose <START:nav_target> fan <END>
+choose <START:nav_target> home <END>
+choose <START:nav_target> housemate <END>
+choose <START:nav_target> door <END>
+choose <START:nav_target> alarm <END>
+choose <START:nav_target> intercom <END>
+choose <START:nav_target> music <END>
+choose <START:nav_target> music source <END>
+choose <START:nav_target> music sources <END>
+choose <START:nav_target> music control <END>
+choose <START:nav_target> tv control <END>
+choose <START:nav_target> tv power <END>
+choose <START:nav_target> tv settings <END>
+choose <START:nav_target> tv <END>
+choose category <START:nav_target> window <END>
+choose category <START:nav_target> curtain <END>
+choose category <START:nav_target> curtains <END>
+choose category <START:nav_target> bed <END>
+choose category <START:nav_target> room light <END>
+choose category <START:nav_target> room lights <END>
+choose category <START:nav_target> table lamps <END>
+choose category <START:nav_target> bed lamps <END>
+choose category <START:nav_target> table lamp <END>
+choose category <START:nav_target> bed lamp <END>
+choose category <START:nav_target> heater <END>
+choose category <START:nav_target> fan <END>
+choose category <START:nav_target> home <END>
+choose category <START:nav_target> housemate <END>
+choose category <START:nav_target> door <END>
+choose category <START:nav_target> alarm <END>
+choose category <START:nav_target> intercom <END>
+choose category <START:nav_target> music <END>
+choose category <START:nav_target> music source <END>
+choose category <START:nav_target> music sources <END>
+choose category <START:nav_target> music control <END>
+choose category <START:nav_target> tv control <END>
+choose category <START:nav_target> tv power <END>
+choose category <START:nav_target> tv settings <END>
+choose category <START:nav_target> tv <END>
+select <START:nav_target> window <END>
+select <START:nav_target> curtain <END>
+select <START:nav_target> curtains <END>
+select <START:nav_target> bed <END>
+select <START:nav_target> room light <END>
+select <START:nav_target> room lights <END>
+select <START:nav_target> table lamps <END>
+select <START:nav_target> bed lamps <END>
+select <START:nav_target> table lamp <END>
+select <START:nav_target> bed lamp <END>
+select <START:nav_target> heater <END>
+select <START:nav_target> fan <END>
+select <START:nav_target> home <END>
+select <START:nav_target> housemate <END>
+select <START:nav_target> door <END>
+select <START:nav_target> alarm <END>
+select <START:nav_target> intercom <END>
+select <START:nav_target> music <END>
+select <START:nav_target> music source <END>
+select <START:nav_target> music sources <END>
+select <START:nav_target> music control <END>
+select <START:nav_target> tv control <END>
+select <START:nav_target> tv power <END>
+select <START:nav_target> tv settings <END>
+select <START:nav_target> tv <END>
+select category <START:nav_target> window <END>
+select category <START:nav_target> curtain <END>
+select category <START:nav_target> curtains <END>
+select category <START:nav_target> bed <END>
+select category <START:nav_target> room light <END>
+select category <START:nav_target> room lights <END>
+select category <START:nav_target> table lamps <END>
+select category <START:nav_target> bed lamps <END>
+select category <START:nav_target> table lamp <END>
+select category <START:nav_target> bed lamp <END>
+select category <START:nav_target> heater <END>
+select category <START:nav_target> fan <END>
+select category <START:nav_target> home <END>
+select category <START:nav_target> housemate <END>
+select category <START:nav_target> door <END>
+select category <START:nav_target> alarm <END>
+select category <START:nav_target> intercom <END>
+select category <START:nav_target> music <END>
+select category <START:nav_target> music source <END>
+select category <START:nav_target> music sources <END>
+select category <START:nav_target> music control <END>
+select category <START:nav_target> tv control <END>
+select category <START:nav_target> tv power <END>
+select category <START:nav_target> tv settings <END>
+select category <START:nav_target> tv <END>
+to <START:nav_target> window <END>
+to <START:nav_target> curtain <END>
+to <START:nav_target> curtains <END>
+to <START:nav_target> bed <END>
+to <START:nav_target> room light <END>
+to <START:nav_target> room lights <END>
+to <START:nav_target> table lamps <END>
+to <START:nav_target> bed lamps <END>
+to <START:nav_target> table lamp <END>
+to <START:nav_target> bed lamp <END>
+to <START:nav_target> heater <END>
+to <START:nav_target> fan <END>
+to <START:nav_target> home <END>
+to <START:nav_target> housemate <END>
+to <START:nav_target> door <END>
+to <START:nav_target> alarm <END>
+to <START:nav_target> intercom <END>
+to <START:nav_target> music <END>
+to <START:nav_target> music source <END>
+to <START:nav_target> music sources <END>
+to <START:nav_target> music control <END>
+to <START:nav_target> tv control <END>
+to <START:nav_target> tv power <END>
+to <START:nav_target> tv settings <END>
+to <START:nav_target> tv <END>
+to category <START:nav_target> window <END>
+to category <START:nav_target> curtain <END>
+to category <START:nav_target> curtains <END>
+to category <START:nav_target> bed <END>
+to category <START:nav_target> room light <END>
+to category <START:nav_target> room lights <END>
+to category <START:nav_target> table lamps <END>
+to category <START:nav_target> table lamp <END>
+to category <START:nav_target> heater <END>
+to category <START:nav_target> bed lamps <END>
+to category <START:nav_target> bed lamp <END>
+to category <START:nav_target> fan <END>
+to category <START:nav_target> home <END>
+to category <START:nav_target> housemate <END>
+to category <START:nav_target> door <END>
+to category <START:nav_target> alarm <END>
+to category <START:nav_target> intercom <END>
+to category <START:nav_target> music <END>
+to category <START:nav_target> music source <END>
+to category <START:nav_target> music sources <END>
+to category <START:nav_target> music control <END>
+to category <START:nav_target> tv control <END>
+to category <START:nav_target> tv power <END>
+to category <START:nav_target> tv settings <END>
+to category <START:nav_target> tv <END>
+category <START:nav_target> window <END>
+category <START:nav_target> curtain <END>
+category <START:nav_target> curtains <END>
+category <START:nav_target> bed <END>
+category <START:nav_target> room light <END>
+category <START:nav_target> room lights <END>
+category <START:nav_target> table lamps <END>
+category <START:nav_target> table lamp <END>
+category <START:nav_target> heater <END>
+category <START:nav_target> bed lamps <END>
+category <START:nav_target> bed lamp <END>
+category <START:nav_target> fan <END>
+category <START:nav_target> home <END>
+category <START:nav_target> housemate <END>
+category <START:nav_target> door <END>
+category <START:nav_target> alarm <END>
+category <START:nav_target> intercom <END>
+category <START:nav_target> music <END>
+category <START:nav_target> music source <END>
+category <START:nav_target> music sources <END>
+category <START:nav_target> music control <END>
+category <START:nav_target> tv control <END>
+category <START:nav_target> tv power <END>
+category <START:nav_target> tv settings <END>
+category <START:nav_target> tv <END>
+<START:nav_target> window <END>
+<START:nav_target> curtain <END>
+<START:nav_target> curtains <END>
+<START:nav_target> bed <END>
+<START:nav_target> room light <END>
+<START:nav_target> room lights <END>
+<START:nav_target> table lamps <END>
+<START:nav_target> table lamp <END>
+<START:nav_target> heater <END>
+<START:nav_target> bed lamps <END>
+<START:nav_target> bed lamp <END>
+<START:nav_target> fan <END>
+<START:nav_target> home <END>
+<START:nav_target> housemate <END>
+<START:nav_target> door <END>
+<START:nav_target> alarm <END>
+<START:nav_target> intercom <END>
+<START:nav_target> music <END>
+<START:nav_target> music source <END>
+<START:nav_target> music sources <END>
+<START:nav_target> music control <END>
+<START:nav_target> tv control <END>
+<START:nav_target> tv power <END>
+<START:nav_target> tv settings <END>
+<START:nav_target> tv <END>
 <START:nav_target> camera <END>
 <START:nav_target> media <END>
 <START:nav_target> gallery <END>

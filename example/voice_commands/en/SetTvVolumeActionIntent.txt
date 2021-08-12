@@ -1,0 +1,192 @@
+change tv volume <START:percent_target> zero <END>
+change tv volume <START:percent_target> one <END>
+change tv volume <START:percent_target> two <END>
+change tv volume <START:percent_target> three <END>
+change tv volume <START:percent_target> four <END>
+change tv volume <START:percent_target> five <END>
+change tv volume <START:percent_target> six <END>
+change tv volume <START:percent_target> seven <END>
+change tv volume <START:percent_target> eight <END>
+change tv volume <START:percent_target> nine <END>
+change tv volume <START:percent_target> ten <END>
+change the tv volume <START:percent_target> zero <END>
+change the tv volume <START:percent_target> one <END>
+change the tv volume <START:percent_target> two <END>
+change the tv volume <START:percent_target> three <END>
+change the tv volume <START:percent_target> four <END>
+change the tv volume <START:percent_target> five <END>
+change the tv volume <START:percent_target> six <END>
+change the tv volume <START:percent_target> seven <END>
+change the tv volume <START:percent_target> eight <END>
+change the tv volume <START:percent_target> nine <END>
+change the tv volume <START:percent_target> ten <END>
+set tv volume <START:percent_target> zero <END>
+set tv volume <START:percent_target> one <END>
+set tv volume <START:percent_target> two <END>
+set tv volume <START:percent_target> three <END>
+set tv volume <START:percent_target> four <END>
+set tv volume <START:percent_target> five <END>
+set tv volume <START:percent_target> six <END>
+set tv volume <START:percent_target> seven <END>
+set tv volume <START:percent_target> eight <END>
+set tv volume <START:percent_target> nine <END>
+set tv volume <START:percent_target> ten <END>
+set the tv volume <START:percent_target> zero <END>
+set the tv volume <START:percent_target> one <END>
+set the tv volume <START:percent_target> two <END>
+set the tv volume <START:percent_target> three <END>
+set the tv volume <START:percent_target> four <END>
+set the tv volume <START:percent_target> five <END>
+set the tv volume <START:percent_target> six <END>
+set the tv volume <START:percent_target> seven <END>
+set the tv volume <START:percent_target> eight <END>
+set the tv volume <START:percent_target> nine <END>
+set the tv volume <START:percent_target> ten <END>
+tv volume <START:percent_target> zero <END>
+tv volume <START:percent_target> one <END>
+tv volume <START:percent_target> two <END>
+tv volume <START:percent_target> three <END>
+tv volume <START:percent_target> four <END>
+tv volume <START:percent_target> five <END>
+tv volume <START:percent_target> six <END>
+tv volume <START:percent_target> seven <END>
+tv volume <START:percent_target> eight <END>
+tv volume <START:percent_target> nine <END>
+tv volume <START:percent_target> ten <END>
+set tv volume
+set the tv volume
+set tv volume to
+set the tv volume to
+change tv volume
+change the tv volume
+change tv volume to
+change the tv volume to
+tv volume to
+change volume of the tv <START:percent_target> zero <END>
+change volume of the tv <START:percent_target> one <END>
+change volume of the tv <START:percent_target> two <END>
+change volume of the tv <START:percent_target> three <END>
+change volume of the tv <START:percent_target> four <END>
+change volume of the tv <START:percent_target> five <END>
+change volume of the tv <START:percent_target> six <END>
+change volume of the tv <START:percent_target> seven <END>
+change volume of the tv <START:percent_target> eight <END>
+change volume of the tv <START:percent_target> nine <END>
+change volume of the tv <START:percent_target> ten <END>
+change the volume of the tv <START:percent_target> zero <END>
+change the volume of the tv <START:percent_target> one <END>
+change the volume of the tv <START:percent_target> two <END>
+change the volume of the tv <START:percent_target> three <END>
+change the volume of the tv <START:percent_target> four <END>
+change the volume of the tv <START:percent_target> five <END>
+change the volume of the tv <START:percent_target> six <END>
+change the volume of the tv <START:percent_target> seven <END>
+change the volume of the tv <START:percent_target> eight <END>
+change the volume of the tv <START:percent_target> nine <END>
+change the volume of the tv <START:percent_target> ten <END>
+set volume of the tv <START:percent_target> zero <END>
+set volume of the tv <START:percent_target> one <END>
+set volume of the tv <START:percent_target> two <END>
+set volume of the tv <START:percent_target> three <END>
+set volume of the tv <START:percent_target> four <END>
+set volume of the tv <START:percent_target> five <END>
+set volume of the tv <START:percent_target> six <END>
+set volume of the tv <START:percent_target> seven <END>
+set volume of the tv <START:percent_target> eight <END>
+set volume of the tv <START:percent_target> nine <END>
+set volume of the tv <START:percent_target> ten <END>
+set the volume of the tv <START:percent_target> zero <END>
+set the volume of the tv <START:percent_target> one <END>
+set the volume of the tv <START:percent_target> two <END>
+set the volume of the tv <START:percent_target> three <END>
+set the volume of the tv <START:percent_target> four <END>
+set the volume of the tv <START:percent_target> five <END>
+set the volume of the tv <START:percent_target> six <END>
+set the volume of the tv <START:percent_target> seven <END>
+set the volume of the tv <START:percent_target> eight <END>
+set the volume of the tv <START:percent_target> nine <END>
+set the volume of the tv <START:percent_target> ten <END>
+volume of the tv <START:percent_target> zero <END>
+volume of the tv <START:percent_target> one <END>
+volume of the tv <START:percent_target> two <END>
+volume of the tv <START:percent_target> three <END>
+volume of the tv <START:percent_target> four <END>
+volume of the tv <START:percent_target> five <END>
+volume of the tv <START:percent_target> six <END>
+volume of the tv <START:percent_target> seven <END>
+volume of the tv <START:percent_target> eight <END>
+volume of the tv <START:percent_target> nine <END>
+volume of the tv <START:percent_target> ten <END>
+set volume of the tv
+set the volume of the tv
+set volume of the tv to
+set the volume of the tv to
+change volume of the tv
+change the volume of the tv
+change volume of the tv to
+change the volume of the tv to
+volume of the tv to
+change volume of tv <START:percent_target> zero <END>
+change volume of tv <START:percent_target> one <END>
+change volume of tv <START:percent_target> two <END>
+change volume of tv <START:percent_target> three <END>
+change volume of tv <START:percent_target> four <END>
+change volume of tv <START:percent_target> five <END>
+change volume of tv <START:percent_target> six <END>
+change volume of tv <START:percent_target> seven <END>
+change volume of tv <START:percent_target> eight <END>
+change volume of tv <START:percent_target> nine <END>
+change volume of tv <START:percent_target> ten <END>
+change the volume of tv <START:percent_target> zero <END>
+change the volume of tv <START:percent_target> one <END>
+change the volume of tv <START:percent_target> two <END>
+change the volume of tv <START:percent_target> three <END>
+change the volume of tv <START:percent_target> four <END>
+change the volume of tv <START:percent_target> five <END>
+change the volume of tv <START:percent_target> six <END>
+change the volume of tv <START:percent_target> seven <END>
+change the volume of tv <START:percent_target> eight <END>
+change the volume of tv <START:percent_target> nine <END>
+change the volume of tv <START:percent_target> ten <END>
+set volume of tv <START:percent_target> zero <END>
+set volume of tv <START:percent_target> one <END>
+set volume of tv <START:percent_target> two <END>
+set volume of tv <START:percent_target> three <END>
+set volume of tv <START:percent_target> four <END>
+set volume of tv <START:percent_target> five <END>
+set volume of tv <START:percent_target> six <END>
+set volume of tv <START:percent_target> seven <END>
+set volume of tv <START:percent_target> eight <END>
+set volume of tv <START:percent_target> nine <END>
+set volume of tv <START:percent_target> ten <END>
+set the volume of tv <START:percent_target> zero <END>
+set the volume of tv <START:percent_target> one <END>
+set the volume of tv <START:percent_target> two <END>
+set the volume of tv <START:percent_target> three <END>
+set the volume of tv <START:percent_target> four <END>
+set the volume of tv <START:percent_target> five <END>
+set the volume of tv <START:percent_target> six <END>
+set the volume of tv <START:percent_target> seven <END>
+set the volume of tv <START:percent_target> eight <END>
+set the volume of tv <START:percent_target> nine <END>
+set the volume of tv <START:percent_target> ten <END>
+volume of tv <START:percent_target> zero <END>
+volume of tv <START:percent_target> one <END>
+volume of tv <START:percent_target> two <END>
+volume of tv <START:percent_target> three <END>
+volume of tv <START:percent_target> four <END>
+volume of tv <START:percent_target> five <END>
+volume of tv <START:percent_target> six <END>
+volume of tv <START:percent_target> seven <END>
+volume of tv <START:percent_target> eight <END>
+volume of tv <START:percent_target> nine <END>
+volume of tv <START:percent_target> ten <END>
+set volume of tv
+set the volume of tv
+set volume of tv to
+set the volume of tv to
+change volume of tv
+change the volume of tv
+change volume of tv to
+change the volume of tv to
+volume of tv to
