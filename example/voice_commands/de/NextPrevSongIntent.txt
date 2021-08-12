@@ -1,76 +1,76 @@
-<START:song_target> nächster <END> song
-der <START:song_target> nächste <END> song
-zum <START:song_target> nächsten <END> song
-<START:song_target> nächsten <END> song spielen
-wähle den <START:song_target> nächsten <END> song
-wähle <START:song_target> nächsten <END> song
-weiter mit <START:song_target> nächstem <END> song
-weiter zum <START:song_target> nächsten <END> song
-gehe zum <START:song_target> nächsten <END> song
-gehe weiter zum <START:song_target> nächsten <END> song
-fahre mit dem <START:song_target> nächsten <END> song fort
-wechsel zu <START:song_target> nächster <END> song
-wechsel zum <START:song_target> nächsten <END> song
-schalte zum <START:song_target> nächsten <END> song
-schalte auf den <START:song_target> nächsten <END> song
-spiele <START:song_target> nächsten <END> song
-spiele <START:song_target> nächsten <END> song ab
-spiele den <START:song_target> nächsten <END> song
-spiele den <START:song_target> nächsten <END> song ab
-<START:song_target> nächstes <END> lied
-das <START:song_target> nächste <END> lied
-zum <START:song_target> nächsten <END> lied
-<START:song_target> nächstes <END> lied spielen
-wähle das <START:song_target> nächste <END> lied
-wähle <START:song_target> nächstes <END> lied
-weiter mit <START:song_target> nächstem <END> lied
-weiter zum <START:song_target> nächsten <END> lied
-gehe zum <START:song_target> nächsten <END> lied
-gehe weiter zum <START:song_target> nächsten <END> lied
-fahre mit dem <START:song_target> nächsten <END> lied fort
-wechsel zu <START:song_target> nächstes <END> lied
-wechsel zum <START:song_target> nächsten <END> lied
-schalte zum <START:song_target> nächsten <END> lied
-schalte auf das <START:song_target> nächste <END> lied
-spiele <START:song_target> nächstes <END> lied
-spiele das <START:song_target> nächste <END> lied
-spiele <START:song_target> nächstes <END> lied ab
-spiele das <START:song_target> nächste <END> lied ab
-<START:song_target> vorheriger <END> song
-der <START:song_target> vorherige <END> song
-zum <START:song_target> vorherigen <END> song
-<START:song_target> vorherigen <END> song spielen
-wähle den <START:song_target> vorherigen <END> song
-wähle <START:song_target> vorherigen <END> song
-weiter mit <START:song_target> vorherigem <END> song
-zurück zum <START:song_target> vorherigen <END> song
-gehe zum <START:song_target> vorherigen <END> song
-gehe zurück zum <START:song_target> vorherigen <END> song
-fahre mit dem <START:song_target> vorherigen <END> song fort
-wechsel zu <START:song_target> vorheriger <END> song
-wechsel zum <START:song_target> vorherigen <END> song
-schalte zum <START:song_target> vorherigen <END> song
-schalte auf den <START:song_target> vorherigen <END> song
-spiele <START:song_target> vorherigen <END> song
-spiele den <START:song_target> vorherigen <END> song
-spiele <START:song_target> vorherigen <END> song ab
-spiele den <START:song_target> vorherigen <END> song ab
-<START:song_target> vorheriges <END> lied
-das <START:song_target> vorherig <END> lied
-zum <START:song_target> vorherigen <END> lied
-<START:song_target> vorheriges <END> lied spielen
-wähle das <START:song_target> vorherige <END> lied
-wähle <START:song_target> vorheriges <END> lied
-weiter mit <START:song_target> vorherigem <END> lied
-zurück zum <START:song_target> vorherigen <END> lied
-gehe zum <START:song_target> vorherigen <END> lied
-gehe zurück zum <START:song_target> vorherigen <END> lied
-fahre mit dem <START:song_target> vorherigen <END> lied fort
-wechsel zu <START:song_target> vorheriges <END> lied
-wechsel zum <START:song_target> vorherigen <END> lied
-schalte zum <START:song_target> vorherigen <END> lied
-schalte auf das <START:song_target> vorherige <END> lied
-spiele <START:song_target> vorheriges <END> lied
-spiele das <START:song_target> vorherige <END> lied
-spiele <START:song_target> vorheriges <END> lied ab
-spiele das <START:song_target> vorherige <END> lied ab
+<START:next_prev_target> nächster <END> song
+der <START:next_prev_target> nächste <END> song
+zum <START:next_prev_target> nächsten <END> song
+<START:next_prev_target> nächsten <END> song spielen
+wähle den <START:next_prev_target> nächsten <END> song
+wähle <START:next_prev_target> nächsten <END> song
+weiter mit <START:next_prev_target> nächstem <END> song
+weiter zum <START:next_prev_target> nächsten <END> song
+gehe zum <START:next_prev_target> nächsten <END> song
+gehe weiter zum <START:next_prev_target> nächsten <END> song
+fahre mit dem <START:next_prev_target> nächsten <END> song fort
+wechsel zu <START:next_prev_target> nächster <END> song
+wechsel zum <START:next_prev_target> nächsten <END> song
+schalte zum <START:next_prev_target> nächsten <END> song
+schalte auf den <START:next_prev_target> nächsten <END> song
+spiele <START:next_prev_target> nächsten <END> song
+spiele <START:next_prev_target> nächsten <END> song ab
+spiele den <START:next_prev_target> nächsten <END> song
+spiele den <START:next_prev_target> nächsten <END> song ab
+<START:next_prev_target> nächstes <END> lied
+das <START:next_prev_target> nächste <END> lied
+zum <START:next_prev_target> nächsten <END> lied
+<START:next_prev_target> nächstes <END> lied spielen
+wähle das <START:next_prev_target> nächste <END> lied
+wähle <START:next_prev_target> nächstes <END> lied
+weiter mit <START:next_prev_target> nächstem <END> lied
+weiter zum <START:next_prev_target> nächsten <END> lied
+gehe zum <START:next_prev_target> nächsten <END> lied
+gehe weiter zum <START:next_prev_target> nächsten <END> lied
+fahre mit dem <START:next_prev_target> nächsten <END> lied fort
+wechsel zu <START:next_prev_target> nächstes <END> lied
+wechsel zum <START:next_prev_target> nächsten <END> lied
+schalte zum <START:next_prev_target> nächsten <END> lied
+schalte auf das <START:next_prev_target> nächste <END> lied
+spiele <START:next_prev_target> nächstes <END> lied
+spiele das <START:next_prev_target> nächste <END> lied
+spiele <START:next_prev_target> nächstes <END> lied ab
+spiele das <START:next_prev_target> nächste <END> lied ab
+<START:next_prev_target> vorheriger <END> song
+der <START:next_prev_target> vorherige <END> song
+zum <START:next_prev_target> vorherigen <END> song
+<START:next_prev_target> vorherigen <END> song spielen
+wähle den <START:next_prev_target> vorherigen <END> song
+wähle <START:next_prev_target> vorherigen <END> song
+weiter mit <START:next_prev_target> vorherigem <END> song
+zurück zum <START:next_prev_target> vorherigen <END> song
+gehe zum <START:next_prev_target> vorherigen <END> song
+gehe zurück zum <START:next_prev_target> vorherigen <END> song
+fahre mit dem <START:next_prev_target> vorherigen <END> song fort
+wechsel zu <START:next_prev_target> vorheriger <END> song
+wechsel zum <START:next_prev_target> vorherigen <END> song
+schalte zum <START:next_prev_target> vorherigen <END> song
+schalte auf den <START:next_prev_target> vorherigen <END> song
+spiele <START:next_prev_target> vorherigen <END> song
+spiele den <START:next_prev_target> vorherigen <END> song
+spiele <START:next_prev_target> vorherigen <END> song ab
+spiele den <START:next_prev_target> vorherigen <END> song ab
+<START:next_prev_target> vorheriges <END> lied
+das <START:next_prev_target> vorherig <END> lied
+zum <START:next_prev_target> vorherigen <END> lied
+<START:next_prev_target> vorheriges <END> lied spielen
+wähle das <START:next_prev_target> vorherige <END> lied
+wähle <START:next_prev_target> vorheriges <END> lied
+weiter mit <START:next_prev_target> vorherigem <END> lied
+zurück zum <START:next_prev_target> vorherigen <END> lied
+gehe zum <START:next_prev_target> vorherigen <END> lied
+gehe zurück zum <START:next_prev_target> vorherigen <END> lied
+fahre mit dem <START:next_prev_target> vorherigen <END> lied fort
+wechsel zu <START:next_prev_target> vorheriges <END> lied
+wechsel zum <START:next_prev_target> vorherigen <END> lied
+schalte zum <START:next_prev_target> vorherigen <END> lied
+schalte auf das <START:next_prev_target> vorherige <END> lied
+spiele <START:next_prev_target> vorheriges <END> lied
+spiele das <START:next_prev_target> vorherige <END> lied
+spiele <START:next_prev_target> vorheriges <END> lied ab
+spiele das <START:next_prev_target> vorherige <END> lied ab

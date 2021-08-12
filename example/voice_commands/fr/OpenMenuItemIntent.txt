@@ -1,156 +1,156 @@
-ouvre <START:open_target> smartphone existant <END>
-ouvre <START:open_target> nouveau smartphone <END>
-ouvre <START:open_target> modes <END>
-ouvre <START:open_target> app info <END>
-ouvre <START:open_target> clibrage <END>
-ouvre <START:open_target> caméra <END>
-ouvre <START:open_target> conduite <END>
-ouvre <START:open_target> email d'urgence <END>
-ouvre <START:open_target> néerlandaise <END>
-ouvre <START:open_target> anglais <END>
-ouvre <START:open_target> français <END>
-ouvre <START:open_target> allemand <END>
-ouvre <START:open_target> galerie <END>
-ouvre <START:open_target> langue <END>
-ouvre <START:open_target> médias <END>
-ouvre <START:open_target> hocher <END>
-ouvre <START:open_target> inclinaison <END>
-ouvre <START:open_target> siège <END>
-ouvre <START:open_target> réglages <END>
-ouvre <START:open_target> soutien <END>
-ouvre <START:open_target> synchronisation <END>
-ouvre <START:open_target> volume <END>
-ouvre <START:open_target> kinova <END>
-ouvre <START:open_target> wifi <END>
-ouvre <START:open_target> internet <END>
-ouvre <START:open_target> monitor <END>
-ouvre <START:open_target> lumière <END>
-ouvre <START:open_target> lumières <END>
-ouvre <START:open_target> feux de détresse <END>
-ouvre <START:open_target> ajouts <END>
-ouvre <START:open_target> admin <END>
-ouvre <START:open_target> de base <END>
-ouvre <START:open_target> avancé <END>
-ouvre <START:open_target> conduire uniquement <END>
-ouvre <START:open_target> douplage <END>
-ouvre <START:open_target> geste de conduite <END>
-ouvre <START:open_target> réglages de verre <END>
-ouvre <START:open_target> mouse un <END>
-ouvre <START:open_target> mouse deux <END>
-ouvre la catégorie <START:open_target> smartphone existant <END>
-ouvre la catégorie <START:open_target> nouveau smartphone <END>
-ouvre la catégorie <START:open_target> modes <END>
-ouvre la catégorie <START:open_target> app info <END>
-ouvre la catégorie <START:open_target> clibrage <END>
-ouvre la catégorie <START:open_target> caméra <END>
-ouvre la catégorie <START:open_target> conduite <END>
-ouvre la catégorie <START:open_target> email d'urgence <END>
-ouvre la catégorie <START:open_target> néerlandaise <END>
-ouvre la catégorie <START:open_target> anglais <END>
-ouvre la catégorie <START:open_target> français <END>
-ouvre la catégorie <START:open_target> allemand <END>
-ouvre la catégorie <START:open_target> galerie <END>
-ouvre la catégorie <START:open_target> langue <END>
-ouvre la catégorie <START:open_target> médias <END>
-ouvre la catégorie <START:open_target> hocher <END>
-ouvre la catégorie <START:open_target> inclinaison <END>
-ouvre la catégorie <START:open_target> siège <END>
-ouvre la catégorie <START:open_target> réglages <END>
-ouvre la catégorie <START:open_target> soutien <END>
-ouvre la catégorie <START:open_target> synchronisation <END>
-ouvre la catégorie <START:open_target> volume <END>
-ouvre la catégorie <START:open_target> kinova <END>
-ouvre la catégorie <START:open_target> wifi <END>
-ouvre la catégorie <START:open_target> internet <END>
-ouvre la catégorie <START:open_target> monitor <END>
-ouvre la catégorie <START:open_target> lumière <END>
-ouvre la catégorie <START:open_target> lumières <END>
-ouvre la catégorie <START:open_target> feux de détresse <END>
-ouvre la catégorie <START:open_target> ajouts <END>
-ouvre la catégorie <START:open_target> admin <END>
-ouvre la catégorie <START:open_target> de base <END>
-ouvre la catégorie <START:open_target> avancé <END>
-ouvre la catégorie <START:open_target> conduire uniquement <END>
-ouvre la catégorie <START:open_target> douplage <END>
-ouvre la catégorie <START:open_target> geste de conduite <END>
-ouvre la catégorie <START:open_target> réglages de verre <END>
-ouvre la catégorie <START:open_target> mouse un <END>
-ouvre la catégorie <START:open_target> mouse deux <END>
-ouvrir <START:open_target> smartphone existant <END>
-ouvrir <START:open_target> nouveau smartphone <END>
-ouvrir <START:open_target> modes <END>
-ouvrir <START:open_target> app info <END>
-ouvrir <START:open_target> clibrage <END>
-ouvrir <START:open_target> caméra <END>
-ouvrir <START:open_target> conduite <END>
-ouvrir <START:open_target> email d'urgence <END>
-ouvrir <START:open_target> langue <END>
-ouvrir <START:open_target> néerlandaise <END>
-ouvrir <START:open_target> anglais <END>
-ouvrir <START:open_target> allemand <END>
-ouvrir <START:open_target> français <END>
-ouvrir <START:open_target> galerie <END>
-ouvrir <START:open_target> médias <END>
-ouvrir <START:open_target> hocher <END>
-ouvrir <START:open_target> inclinaison <END>
-ouvrir <START:open_target> siège <END>
-ouvrir <START:open_target> réglages <END>
-ouvrir <START:open_target> soutien <END>
-ouvrir <START:open_target> synchronisation <END>
-ouvrir <START:open_target> volume <END>
-ouvrir <START:open_target> kinova <END>
-ouvrir <START:open_target> wifi <END>
-ouvrir <START:open_target> internet <END>
-ouvrir <START:open_target> monitor <END>
-ouvrir <START:open_target> lumière <END>
-ouvrir <START:open_target> lumières <END>
-ouvrir <START:open_target> feux de détresse <END>
-ouvrir <START:open_target> ajouts <END>
-ouvrir <START:open_target> admin <END>
-ouvrir <START:open_target> de base <END>
-ouvrir <START:open_target> avancé <END>
-ouvrir <START:open_target> conduire uniquement <END>
-ouvrir <START:open_target> douplage <END>
-ouvrir <START:open_target> geste de conduite <END>
-ouvrir <START:open_target> réglages de verre <END>
-ouvrir <START:open_target> mouse un <END>
-ouvrir <START:open_target> mouse deux <END>
-ouvrir la catégorie <START:open_target> smartphone existant <END>
-ouvrir la catégorie <START:open_target> nouveau smartphone <END>
-ouvrir la catégorie <START:open_target> modes <END>
-ouvrir la catégorie <START:open_target> app info <END>
-ouvrir la catégorie <START:open_target> clibrage <END>
-ouvrir la catégorie <START:open_target> caméra <END>
-ouvrir la catégorie <START:open_target> conduite <END>
-ouvrir la catégorie <START:open_target> email d'urgence <END>
-ouvrir la catégorie <START:open_target> langue <END>
-ouvrir la catégorie <START:open_target> néerlandaise <END>
-ouvrir la catégorie <START:open_target> anglais <END>
-ouvrir la catégorie <START:open_target> allemand <END>
-ouvrir la catégorie <START:open_target> français <END>
-ouvrir la catégorie <START:open_target> galerie <END>
-ouvrir la catégorie <START:open_target> médias <END>
-ouvrir la catégorie <START:open_target> hocher <END>
-ouvrir la catégorie <START:open_target> inclinaison <END>
-ouvrir la catégorie <START:open_target> siège <END>
-ouvrir la catégorie <START:open_target> réglages <END>
-ouvrir la catégorie <START:open_target> soutien <END>
-ouvrir la catégorie <START:open_target> synchronisation <END>
-ouvrir la catégorie <START:open_target> volume <END>
-ouvrir la catégorie <START:open_target> kinova <END>
-ouvrir la catégorie <START:open_target> wifi <END>
-ouvrir la catégorie <START:open_target> internet <END>
-ouvrir la catégorie <START:open_target> monitor <END>
-ouvrir la catégorie <START:open_target> lumière <END>
-ouvrir la catégorie <START:open_target> lumières <END>
-ouvrir la catégorie <START:open_target> feux de détresse <END>
-ouvrir la catégorie <START:open_target> ajouts <END>
-ouvrir la catégorie <START:open_target> admin <END>
-ouvrir la catégorie <START:open_target> de base <END>
-ouvrir la catégorie <START:open_target> avancé <END>
-ouvrir la catégorie <START:open_target> conduire uniquement <END>
-ouvrir la catégorie <START:open_target> douplage <END>
-ouvrir la catégorie <START:open_target> geste de conduite <END>
-ouvrir la catégorie <START:open_target> réglages de verre <END>
-ouvrir la catégorie <START:open_target> mouse un <END>
-ouvrir la catégorie <START:open_target> mouse deux <END>
+ouvre <START:menuitem_target> smartphone existant <END>
+ouvre <START:menuitem_target> nouveau smartphone <END>
+ouvre <START:menuitem_target> modes <END>
+ouvre <START:menuitem_target> app info <END>
+ouvre <START:menuitem_target> clibrage <END>
+ouvre <START:menuitem_target> caméra <END>
+ouvre <START:menuitem_target> conduite <END>
+ouvre <START:menuitem_target> email d'urgence <END>
+ouvre <START:menuitem_target> néerlandaise <END>
+ouvre <START:menuitem_target> anglais <END>
+ouvre <START:menuitem_target> français <END>
+ouvre <START:menuitem_target> allemand <END>
+ouvre <START:menuitem_target> galerie <END>
+ouvre <START:menuitem_target> langue <END>
+ouvre <START:menuitem_target> médias <END>
+ouvre <START:menuitem_target> hocher <END>
+ouvre <START:menuitem_target> inclinaison <END>
+ouvre <START:menuitem_target> siège <END>
+ouvre <START:menuitem_target> réglages <END>
+ouvre <START:menuitem_target> soutien <END>
+ouvre <START:menuitem_target> synchronisation <END>
+ouvre <START:menuitem_target> volume <END>
+ouvre <START:menuitem_target> kinova <END>
+ouvre <START:menuitem_target> wifi <END>
+ouvre <START:menuitem_target> internet <END>
+ouvre <START:menuitem_target> monitor <END>
+ouvre <START:menuitem_target> lumière <END>
+ouvre <START:menuitem_target> lumières <END>
+ouvre <START:menuitem_target> feux de détresse <END>
+ouvre <START:menuitem_target> ajouts <END>
+ouvre <START:menuitem_target> admin <END>
+ouvre <START:menuitem_target> de base <END>
+ouvre <START:menuitem_target> avancé <END>
+ouvre <START:menuitem_target> conduire uniquement <END>
+ouvre <START:menuitem_target> douplage <END>
+ouvre <START:menuitem_target> geste de conduite <END>
+ouvre <START:menuitem_target> réglages de verre <END>
+ouvre <START:menuitem_target> mouse un <END>
+ouvre <START:menuitem_target> mouse deux <END>
+ouvre la catégorie <START:menuitem_target> smartphone existant <END>
+ouvre la catégorie <START:menuitem_target> nouveau smartphone <END>
+ouvre la catégorie <START:menuitem_target> modes <END>
+ouvre la catégorie <START:menuitem_target> app info <END>
+ouvre la catégorie <START:menuitem_target> clibrage <END>
+ouvre la catégorie <START:menuitem_target> caméra <END>
+ouvre la catégorie <START:menuitem_target> conduite <END>
+ouvre la catégorie <START:menuitem_target> email d'urgence <END>
+ouvre la catégorie <START:menuitem_target> néerlandaise <END>
+ouvre la catégorie <START:menuitem_target> anglais <END>
+ouvre la catégorie <START:menuitem_target> français <END>
+ouvre la catégorie <START:menuitem_target> allemand <END>
+ouvre la catégorie <START:menuitem_target> galerie <END>
+ouvre la catégorie <START:menuitem_target> langue <END>
+ouvre la catégorie <START:menuitem_target> médias <END>
+ouvre la catégorie <START:menuitem_target> hocher <END>
+ouvre la catégorie <START:menuitem_target> inclinaison <END>
+ouvre la catégorie <START:menuitem_target> siège <END>
+ouvre la catégorie <START:menuitem_target> réglages <END>
+ouvre la catégorie <START:menuitem_target> soutien <END>
+ouvre la catégorie <START:menuitem_target> synchronisation <END>
+ouvre la catégorie <START:menuitem_target> volume <END>
+ouvre la catégorie <START:menuitem_target> kinova <END>
+ouvre la catégorie <START:menuitem_target> wifi <END>
+ouvre la catégorie <START:menuitem_target> internet <END>
+ouvre la catégorie <START:menuitem_target> monitor <END>
+ouvre la catégorie <START:menuitem_target> lumière <END>
+ouvre la catégorie <START:menuitem_target> lumières <END>
+ouvre la catégorie <START:menuitem_target> feux de détresse <END>
+ouvre la catégorie <START:menuitem_target> ajouts <END>
+ouvre la catégorie <START:menuitem_target> admin <END>
+ouvre la catégorie <START:menuitem_target> de base <END>
+ouvre la catégorie <START:menuitem_target> avancé <END>
+ouvre la catégorie <START:menuitem_target> conduire uniquement <END>
+ouvre la catégorie <START:menuitem_target> douplage <END>
+ouvre la catégorie <START:menuitem_target> geste de conduite <END>
+ouvre la catégorie <START:menuitem_target> réglages de verre <END>
+ouvre la catégorie <START:menuitem_target> mouse un <END>
+ouvre la catégorie <START:menuitem_target> mouse deux <END>
+ouvrir <START:menuitem_target> smartphone existant <END>
+ouvrir <START:menuitem_target> nouveau smartphone <END>
+ouvrir <START:menuitem_target> modes <END>
+ouvrir <START:menuitem_target> app info <END>
+ouvrir <START:menuitem_target> clibrage <END>
+ouvrir <START:menuitem_target> caméra <END>
+ouvrir <START:menuitem_target> conduite <END>
+ouvrir <START:menuitem_target> email d'urgence <END>
+ouvrir <START:menuitem_target> langue <END>
+ouvrir <START:menuitem_target> néerlandaise <END>
+ouvrir <START:menuitem_target> anglais <END>
+ouvrir <START:menuitem_target> allemand <END>
+ouvrir <START:menuitem_target> français <END>
+ouvrir <START:menuitem_target> galerie <END>
+ouvrir <START:menuitem_target> médias <END>
+ouvrir <START:menuitem_target> hocher <END>
+ouvrir <START:menuitem_target> inclinaison <END>
+ouvrir <START:menuitem_target> siège <END>
+ouvrir <START:menuitem_target> réglages <END>
+ouvrir <START:menuitem_target> soutien <END>
+ouvrir <START:menuitem_target> synchronisation <END>
+ouvrir <START:menuitem_target> volume <END>
+ouvrir <START:menuitem_target> kinova <END>
+ouvrir <START:menuitem_target> wifi <END>
+ouvrir <START:menuitem_target> internet <END>
+ouvrir <START:menuitem_target> monitor <END>
+ouvrir <START:menuitem_target> lumière <END>
+ouvrir <START:menuitem_target> lumières <END>
+ouvrir <START:menuitem_target> feux de détresse <END>
+ouvrir <START:menuitem_target> ajouts <END>
+ouvrir <START:menuitem_target> admin <END>
+ouvrir <START:menuitem_target> de base <END>
+ouvrir <START:menuitem_target> avancé <END>
+ouvrir <START:menuitem_target> conduire uniquement <END>
+ouvrir <START:menuitem_target> douplage <END>
+ouvrir <START:menuitem_target> geste de conduite <END>
+ouvrir <START:menuitem_target> réglages de verre <END>
+ouvrir <START:menuitem_target> mouse un <END>
+ouvrir <START:menuitem_target> mouse deux <END>
+ouvrir la catégorie <START:menuitem_target> smartphone existant <END>
+ouvrir la catégorie <START:menuitem_target> nouveau smartphone <END>
+ouvrir la catégorie <START:menuitem_target> modes <END>
+ouvrir la catégorie <START:menuitem_target> app info <END>
+ouvrir la catégorie <START:menuitem_target> clibrage <END>
+ouvrir la catégorie <START:menuitem_target> caméra <END>
+ouvrir la catégorie <START:menuitem_target> conduite <END>
+ouvrir la catégorie <START:menuitem_target> email d'urgence <END>
+ouvrir la catégorie <START:menuitem_target> langue <END>
+ouvrir la catégorie <START:menuitem_target> néerlandaise <END>
+ouvrir la catégorie <START:menuitem_target> anglais <END>
+ouvrir la catégorie <START:menuitem_target> allemand <END>
+ouvrir la catégorie <START:menuitem_target> français <END>
+ouvrir la catégorie <START:menuitem_target> galerie <END>
+ouvrir la catégorie <START:menuitem_target> médias <END>
+ouvrir la catégorie <START:menuitem_target> hocher <END>
+ouvrir la catégorie <START:menuitem_target> inclinaison <END>
+ouvrir la catégorie <START:menuitem_target> siège <END>
+ouvrir la catégorie <START:menuitem_target> réglages <END>
+ouvrir la catégorie <START:menuitem_target> soutien <END>
+ouvrir la catégorie <START:menuitem_target> synchronisation <END>
+ouvrir la catégorie <START:menuitem_target> volume <END>
+ouvrir la catégorie <START:menuitem_target> kinova <END>
+ouvrir la catégorie <START:menuitem_target> wifi <END>
+ouvrir la catégorie <START:menuitem_target> internet <END>
+ouvrir la catégorie <START:menuitem_target> monitor <END>
+ouvrir la catégorie <START:menuitem_target> lumière <END>
+ouvrir la catégorie <START:menuitem_target> lumières <END>
+ouvrir la catégorie <START:menuitem_target> feux de détresse <END>
+ouvrir la catégorie <START:menuitem_target> ajouts <END>
+ouvrir la catégorie <START:menuitem_target> admin <END>
+ouvrir la catégorie <START:menuitem_target> de base <END>
+ouvrir la catégorie <START:menuitem_target> avancé <END>
+ouvrir la catégorie <START:menuitem_target> conduire uniquement <END>
+ouvrir la catégorie <START:menuitem_target> douplage <END>
+ouvrir la catégorie <START:menuitem_target> geste de conduite <END>
+ouvrir la catégorie <START:menuitem_target> réglages de verre <END>
+ouvrir la catégorie <START:menuitem_target> mouse un <END>
+ouvrir la catégorie <START:menuitem_target> mouse deux <END>

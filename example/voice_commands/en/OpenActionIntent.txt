@@ -1,116 +1,116 @@
-the <START:open_action_target> window <END> open
-<START:open_action_target> window <END> open
-the <START:open_action_target> window <END> opened
-<START:open_action_target> window <END> opened
-open <START:open_action_target> window <END>
-the <START:open_action_target> windows <END> open
-<START:open_action_target> windows <END> open
-the <START:open_action_target> windows <END> opened
-<START:open_action_target> windows <END> opened
-open <START:open_action_target> windows <END>
-open the <START:open_action_target> windows <END>
-open <START:open_action_target> curtain <END>
-open <START:open_action_target> curtains <END>
-open the <START:open_action_target> curtain <END>
-open the <START:open_action_target> curtains <END>
-the <START:open_action_target> curtain <END> open
-<START:open_action_target> curtain <END> open
-the <START:open_action_target> curtain <END> opened
-<START:open_action_target> curtain <END> opened
-the <START:open_action_target> curtains <END> open
-<START:open_action_target> curtains <END> open
-the <START:open_action_target> curtains <END> opened
-<START:open_action_target> curtains <END> opened
-the <START:open_action_target> door <END> opened
-<START:open_action_target> door <END> opened
-the <START:open_action_target> door <END> open
-<START:open_action_target> door <END> open
-open <START:open_action_target> door <END>
-open the <START:open_action_target> door <END>
-please the <START:open_action_target> window <END> open
-please <START:open_action_target> window <END> open
-please the <START:open_action_target> window <END> opened
-please <START:open_action_target> window <END> opened
-please open <START:open_action_target> window <END>
-please the <START:open_action_target> windows <END> open
-please <START:open_action_target> windows <END> open
-please the <START:open_action_target> windows <END> opened
-please <START:open_action_target> windows <END> opened
-please open <START:open_action_target> windows <END>
-please open the <START:open_action_target> windows <END>
-please open <START:open_action_target> curtain <END>
-please open <START:open_action_target> curtains <END>
-please open the <START:open_action_target> curtain <END>
-please open the <START:open_action_target> curtains <END>
-please the <START:open_action_target> curtain <END> open
-please <START:open_action_target> curtain <END> open
-please the <START:open_action_target> curtain <END> opened
-please <START:open_action_target> curtain <END> opened
-please the <START:open_action_target> curtains <END> open
-please <START:open_action_target> curtains <END> open
-please the <START:open_action_target> curtains <END> opened
-please <START:open_action_target> curtains <END> opened
-please the <START:open_action_target> door <END> opened
-please <START:open_action_target> door <END> opened
-please the <START:open_action_target> door <END> open
-please <START:open_action_target> door <END> open
-please open <START:open_action_target> door <END>
-please open the <START:open_action_target> door <END>
-please the <START:open_action_target> window <END> open now
-please <START:open_action_target> window <END> open now
-please the <START:open_action_target> window <END> opened now
-please <START:open_action_target> window <END> opened now
-please open <START:open_action_target> window <END> now
-please the <START:open_action_target> windows <END> open now
-please <START:open_action_target> windows <END> open now
-please the <START:open_action_target> windows <END> opened now
-please <START:open_action_target> windows <END> opened now
-please open <START:open_action_target> windows <END> now
-please open the <START:open_action_target> windows <END> now
-please open <START:open_action_target> curtain <END> now
-please open <START:open_action_target> curtains <END> now
-please open the <START:open_action_target> curtain <END> now
-please open the <START:open_action_target> curtains <END> now
-please the <START:open_action_target> curtain <END> open now
-please <START:open_action_target> curtain <END> open now
-please the <START:open_action_target> curtain <END> opened now
-please <START:open_action_target> curtain <END> opened now
-please the <START:open_action_target> curtains <END> open now
-please <START:open_action_target> curtains <END> open now
-please the <START:open_action_target> curtains <END> opened now
-please <START:open_action_target> curtains <END> opened now
-please the <START:open_action_target> door <END> opened now
-please <START:open_action_target> door <END> opened now
-please the <START:open_action_target> door <END> open now
-please <START:open_action_target> door <END> open now
-please open <START:open_action_target> door <END> now
-please open the <START:open_action_target> door <END> now
-the <START:open_action_target> window <END> open now
-<START:open_action_target> window <END> open now
-the <START:open_action_target> window <END> opened now
-<START:open_action_target> window <END> opened now
-open <START:open_action_target> window <END> now
-the <START:open_action_target> windows <END> open now
-<START:open_action_target> windows <END> open now
-the <START:open_action_target> windows <END> opened now
-<START:open_action_target> windows <END> opened now
-open <START:open_action_target> windows <END> now
-open the <START:open_action_target> windows <END> now
-open <START:open_action_target> curtain <END> now
-open <START:open_action_target> curtains <END> now
-open the <START:open_action_target> curtain <END> now
-open the <START:open_action_target> curtains <END> now
-the <START:open_action_target> curtain <END> open now
-<START:open_action_target> curtain <END> open now
-the <START:open_action_target> curtain <END> opened now
-<START:open_action_target> curtain <END> opened now
-the <START:open_action_target> curtains <END> open now
-<START:open_action_target> curtains <END> open now
-the <START:open_action_target> curtains <END> opened now
-<START:open_action_target> curtains <END> opened now
-the <START:open_action_target> door <END> opened now
-<START:open_action_target> door <END> opened now
-the <START:open_action_target> door <END> open now
-<START:open_action_target> door <END> open now
-open <START:open_action_target> door <END> now
-open the <START:open_action_target> door <END> now
+the <START:smarthome_target> window <END> open
+<START:smarthome_target> window <END> open
+the <START:smarthome_target> window <END> opened
+<START:smarthome_target> window <END> opened
+open <START:smarthome_target> window <END>
+the <START:smarthome_target> windows <END> open
+<START:smarthome_target> windows <END> open
+the <START:smarthome_target> windows <END> opened
+<START:smarthome_target> windows <END> opened
+open <START:smarthome_target> windows <END>
+open the <START:smarthome_target> windows <END>
+open <START:smarthome_target> curtain <END>
+open <START:smarthome_target> curtains <END>
+open the <START:smarthome_target> curtain <END>
+open the <START:smarthome_target> curtains <END>
+the <START:smarthome_target> curtain <END> open
+<START:smarthome_target> curtain <END> open
+the <START:smarthome_target> curtain <END> opened
+<START:smarthome_target> curtain <END> opened
+the <START:smarthome_target> curtains <END> open
+<START:smarthome_target> curtains <END> open
+the <START:smarthome_target> curtains <END> opened
+<START:smarthome_target> curtains <END> opened
+the <START:smarthome_target> door <END> opened
+<START:smarthome_target> door <END> opened
+the <START:smarthome_target> door <END> open
+<START:smarthome_target> door <END> open
+open <START:smarthome_target> door <END>
+open the <START:smarthome_target> door <END>
+please the <START:smarthome_target> window <END> open
+please <START:smarthome_target> window <END> open
+please the <START:smarthome_target> window <END> opened
+please <START:smarthome_target> window <END> opened
+please open <START:smarthome_target> window <END>
+please the <START:smarthome_target> windows <END> open
+please <START:smarthome_target> windows <END> open
+please the <START:smarthome_target> windows <END> opened
+please <START:smarthome_target> windows <END> opened
+please open <START:smarthome_target> windows <END>
+please open the <START:smarthome_target> windows <END>
+please open <START:smarthome_target> curtain <END>
+please open <START:smarthome_target> curtains <END>
+please open the <START:smarthome_target> curtain <END>
+please open the <START:smarthome_target> curtains <END>
+please the <START:smarthome_target> curtain <END> open
+please <START:smarthome_target> curtain <END> open
+please the <START:smarthome_target> curtain <END> opened
+please <START:smarthome_target> curtain <END> opened
+please the <START:smarthome_target> curtains <END> open
+please <START:smarthome_target> curtains <END> open
+please the <START:smarthome_target> curtains <END> opened
+please <START:smarthome_target> curtains <END> opened
+please the <START:smarthome_target> door <END> opened
+please <START:smarthome_target> door <END> opened
+please the <START:smarthome_target> door <END> open
+please <START:smarthome_target> door <END> open
+please open <START:smarthome_target> door <END>
+please open the <START:smarthome_target> door <END>
+please the <START:smarthome_target> window <END> open now
+please <START:smarthome_target> window <END> open now
+please the <START:smarthome_target> window <END> opened now
+please <START:smarthome_target> window <END> opened now
+please open <START:smarthome_target> window <END> now
+please the <START:smarthome_target> windows <END> open now
+please <START:smarthome_target> windows <END> open now
+please the <START:smarthome_target> windows <END> opened now
+please <START:smarthome_target> windows <END> opened now
+please open <START:smarthome_target> windows <END> now
+please open the <START:smarthome_target> windows <END> now
+please open <START:smarthome_target> curtain <END> now
+please open <START:smarthome_target> curtains <END> now
+please open the <START:smarthome_target> curtain <END> now
+please open the <START:smarthome_target> curtains <END> now
+please the <START:smarthome_target> curtain <END> open now
+please <START:smarthome_target> curtain <END> open now
+please the <START:smarthome_target> curtain <END> opened now
+please <START:smarthome_target> curtain <END> opened now
+please the <START:smarthome_target> curtains <END> open now
+please <START:smarthome_target> curtains <END> open now
+please the <START:smarthome_target> curtains <END> opened now
+please <START:smarthome_target> curtains <END> opened now
+please the <START:smarthome_target> door <END> opened now
+please <START:smarthome_target> door <END> opened now
+please the <START:smarthome_target> door <END> open now
+please <START:smarthome_target> door <END> open now
+please open <START:smarthome_target> door <END> now
+please open the <START:smarthome_target> door <END> now
+the <START:smarthome_target> window <END> open now
+<START:smarthome_target> window <END> open now
+the <START:smarthome_target> window <END> opened now
+<START:smarthome_target> window <END> opened now
+open <START:smarthome_target> window <END> now
+the <START:smarthome_target> windows <END> open now
+<START:smarthome_target> windows <END> open now
+the <START:smarthome_target> windows <END> opened now
+<START:smarthome_target> windows <END> opened now
+open <START:smarthome_target> windows <END> now
+open the <START:smarthome_target> windows <END> now
+open <START:smarthome_target> curtain <END> now
+open <START:smarthome_target> curtains <END> now
+open the <START:smarthome_target> curtain <END> now
+open the <START:smarthome_target> curtains <END> now
+the <START:smarthome_target> curtain <END> open now
+<START:smarthome_target> curtain <END> open now
+the <START:smarthome_target> curtain <END> opened now
+<START:smarthome_target> curtain <END> opened now
+the <START:smarthome_target> curtains <END> open now
+<START:smarthome_target> curtains <END> open now
+the <START:smarthome_target> curtains <END> opened now
+<START:smarthome_target> curtains <END> opened now
+the <START:smarthome_target> door <END> opened now
+<START:smarthome_target> door <END> opened now
+the <START:smarthome_target> door <END> open now
+<START:smarthome_target> door <END> open now
+open <START:smarthome_target> door <END> now
+open the <START:smarthome_target> door <END> now

@@ -1,70 +1,70 @@
-<START:song_target> previous <END> song
-the <START:song_target> previous <END> song
-to <START:song_target> previous <END> song
-to the <START:song_target> previous <END> song
-choose <START:song_target> previous <END> song
-choose the <START:song_target> previous <END> song
-back to <START:song_target> previous <END> song
-back to the <START:song_target> previous <END> song
-go to <START:song_target> previous <END> song
-go to the <START:song_target> previous <END> song
-go back to <START:song_target> previous <END> song
-go back to the <START:song_target> previous <END> song
-go to <START:song_target> previously <END> played song
-go to the <START:song_target> previously <END> played song
-go back to <START:song_target> previously <END> played song
-go back to the <START:song_target> previously <END> played song
-change to <START:song_target> previous <END> song
-change back to <START:song_target> previous <END> song
-change to the <START:song_target> previous <END> song
-change back to the <START:song_target> previous <END> song
-select <START:song_target> previous <END> song
-select <START:song_target> previous <END> song again
-select the <START:song_target> previous <END> song
-select the <START:song_target> previous <END> song again
-switch to <START:song_target> previous <END> song
-switch back to <START:song_target> previous <END> song
-switch to the <START:song_target> previous <END> song
-switch back to the <START:song_target> previous <END> song
-play <START:song_target> previous <END> song
-play <START:song_target> previous <END> song again
-play the <START:song_target> previous <END> song
-play the <START:song_target> previous <END> song again
-return to <START:song_target> previous <END> song
-return to the <START:song_target> previous <END> song
-<START:song_target> next <END> song
-the <START:song_target> next <END> song
-choose <START:song_target> next <END> song
-choose the <START:song_target> next <END> song
-to <START:song_target> next <END> song
-to the <START:song_target> next <END> song
-go to <START:song_target> next <END> song
-go to the <START:song_target> next <END> song
-go ahead to <START:song_target> next <END> song
-go ahead to the <START:song_target> next <END> song
-move on to <START:song_target> next <END> song
-move on to the <START:song_target> next <END> song
-go further to <START:song_target> next <END> song
-go further to the <START:song_target> next <END> song
-go forward to <START:song_target> next <END> song
-go forward to the <START:song_target> next <END> song
-forward to <START:song_target> next <END> song
-forward to the <START:song_target> next <END> song
-continue to <START:song_target> next <END> song
-continue to the <START:song_target> next <END> song
-continue further to <START:song_target> next <END> song
-continue further to the <START:song_target> next <END> song
-proceed to <START:song_target> next <END> song
-proceed to the <START:song_target> next <END> song
-change to <START:song_target> next <END> song
-change to the <START:song_target> next <END> song
-change further to <START:song_target> next <END> song
-change further to the <START:song_target> next <END> song
-select <START:song_target> next <END> song
-select the <START:song_target> next <END> song
-switch to <START:song_target> next <END> song
-switch to the <START:song_target> next <END> song
-play <START:song_target> next <END> song
-play the <START:song_target> next <END> song
-play <START:song_target> next <END> song again
-play the <START:song_target> next <END> song again
+<START:next_prev_target> previous <END> song
+the <START:next_prev_target> previous <END> song
+to <START:next_prev_target> previous <END> song
+to the <START:next_prev_target> previous <END> song
+choose <START:next_prev_target> previous <END> song
+choose the <START:next_prev_target> previous <END> song
+back to <START:next_prev_target> previous <END> song
+back to the <START:next_prev_target> previous <END> song
+go to <START:next_prev_target> previous <END> song
+go to the <START:next_prev_target> previous <END> song
+go back to <START:next_prev_target> previous <END> song
+go back to the <START:next_prev_target> previous <END> song
+go to <START:next_prev_target> previously <END> played song
+go to the <START:next_prev_target> previously <END> played song
+go back to <START:next_prev_target> previously <END> played song
+go back to the <START:next_prev_target> previously <END> played song
+change to <START:next_prev_target> previous <END> song
+change back to <START:next_prev_target> previous <END> song
+change to the <START:next_prev_target> previous <END> song
+change back to the <START:next_prev_target> previous <END> song
+select <START:next_prev_target> previous <END> song
+select <START:next_prev_target> previous <END> song again
+select the <START:next_prev_target> previous <END> song
+select the <START:next_prev_target> previous <END> song again
+switch to <START:next_prev_target> previous <END> song
+switch back to <START:next_prev_target> previous <END> song
+switch to the <START:next_prev_target> previous <END> song
+switch back to the <START:next_prev_target> previous <END> song
+play <START:next_prev_target> previous <END> song
+play <START:next_prev_target> previous <END> song again
+play the <START:next_prev_target> previous <END> song
+play the <START:next_prev_target> previous <END> song again
+return to <START:next_prev_target> previous <END> song
+return to the <START:next_prev_target> previous <END> song
+<START:next_prev_target> next <END> song
+the <START:next_prev_target> next <END> song
+choose <START:next_prev_target> next <END> song
+choose the <START:next_prev_target> next <END> song
+to <START:next_prev_target> next <END> song
+to the <START:next_prev_target> next <END> song
+go to <START:next_prev_target> next <END> song
+go to the <START:next_prev_target> next <END> song
+go ahead to <START:next_prev_target> next <END> song
+go ahead to the <START:next_prev_target> next <END> song
+move on to <START:next_prev_target> next <END> song
+move on to the <START:next_prev_target> next <END> song
+go further to <START:next_prev_target> next <END> song
+go further to the <START:next_prev_target> next <END> song
+go forward to <START:next_prev_target> next <END> song
+go forward to the <START:next_prev_target> next <END> song
+forward to <START:next_prev_target> next <END> song
+forward to the <START:next_prev_target> next <END> song
+continue to <START:next_prev_target> next <END> song
+continue to the <START:next_prev_target> next <END> song
+continue further to <START:next_prev_target> next <END> song
+continue further to the <START:next_prev_target> next <END> song
+proceed to <START:next_prev_target> next <END> song
+proceed to the <START:next_prev_target> next <END> song
+change to <START:next_prev_target> next <END> song
+change to the <START:next_prev_target> next <END> song
+change further to <START:next_prev_target> next <END> song
+change further to the <START:next_prev_target> next <END> song
+select <START:next_prev_target> next <END> song
+select the <START:next_prev_target> next <END> song
+switch to <START:next_prev_target> next <END> song
+switch to the <START:next_prev_target> next <END> song
+play <START:next_prev_target> next <END> song
+play the <START:next_prev_target> next <END> song
+play <START:next_prev_target> next <END> song again
+play the <START:next_prev_target> next <END> song again

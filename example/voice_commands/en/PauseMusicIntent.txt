@@ -1,22 +1,22 @@
-pause the <START:pause_music_target> music <END>
-pause <START:pause_music_target> music <END>
-stop the <START:pause_music_target> music <END>
-stop <START:pause_music_target> music <END>
-<START:pause_music_target> music <END> off
-the <START:pause_music_target> music <END> off
-turn the <START:pause_music_target> music <END> off
-turn <START:pause_music_target> music <END> off
-turn off the <START:pause_music_target> music <END>
-turn off <START:pause_music_target> music <END>
-end <START:pause_music_target> music <END>
-end the <START:pause_music_target> music <END>
-terminate <START:pause_music_target> music <END>
-terminate the <START:pause_music_target> music <END>
-switch <START:pause_music_target> music <END> off
-switch the <START:pause_music_target> music <END> off
-switch off the <START:pause_music_target> music <END>
-switch off <START:pause_music_target> music <END>
-turn out the <START:pause_music_target> music <END>
-turn the <START:pause_music_target> music <END> out
-turn <START:pause_music_target> music <END> out
-turn out <START:pause_music_target> music <END>
+pause the <START:music_target> music <END>
+pause <START:music_target> music <END>
+stop the <START:music_target> music <END>
+stop <START:music_target> music <END>
+<START:music_target> music <END> off
+the <START:music_target> music <END> off
+turn the <START:music_target> music <END> off
+turn <START:music_target> music <END> off
+turn off the <START:music_target> music <END>
+turn off <START:music_target> music <END>
+end <START:music_target> music <END>
+end the <START:music_target> music <END>
+terminate <START:music_target> music <END>
+terminate the <START:music_target> music <END>
+switch <START:music_target> music <END> off
+switch the <START:music_target> music <END> off
+switch off the <START:music_target> music <END>
+switch off <START:music_target> music <END>
+turn out the <START:music_target> music <END>
+turn the <START:music_target> music <END> out
+turn <START:music_target> music <END> out
+turn out <START:music_target> music <END>

@@ -1,24 +1,24 @@
-pausiere die <START:pause_music_target> musik <END>
-stoppe die <START:pause_music_target> musik <END>
-schalte die <START:pause_music_target> musik <END> aus
-beende die <START:pause_music_target> musik <END>
-mach die <START:pause_music_target> musik <END> aus
-halte die <START:pause_music_target> musik <END> an
-pausiere <START:pause_music_target> musik <END>
-stoppe <START:pause_music_target> musik <END>
-schalte <START:pause_music_target> musik <END> aus
-beende <START:pause_music_target> musik <END>
-mach <START:pause_music_target> musik <END> aus
-halte <START:pause_music_target> musik <END> an
-<START:pause_music_target> musik <END> pausieren
-<START:pause_music_target> musik <END> stoppen
-<START:pause_music_target> musik <END> ausschalten
-<START:pause_music_target> musik <END> beenden
-<START:pause_music_target> musik <END> ausmachen
-<START:pause_music_target> musik <END> anhalten
-die <START:pause_music_target> musik <END> pausieren
-die <START:pause_music_target> musik <END> stoppen
-die <START:pause_music_target> musik <END> ausschalten
-die <START:pause_music_target> musik <END> beenden
-die <START:pause_music_target> musik <END> ausmachen
-die <START:pause_music_target> musik <END> anhalten
+pausiere die <START:music_target> musik <END>
+stoppe die <START:music_target> musik <END>
+schalte die <START:music_target> musik <END> aus
+beende die <START:music_target> musik <END>
+mach die <START:music_target> musik <END> aus
+halte die <START:music_target> musik <END> an
+pausiere <START:music_target> musik <END>
+stoppe <START:music_target> musik <END>
+schalte <START:music_target> musik <END> aus
+beende <START:music_target> musik <END>
+mach <START:music_target> musik <END> aus
+halte <START:music_target> musik <END> an
+<START:music_target> musik <END> pausieren
+<START:music_target> musik <END> stoppen
+<START:music_target> musik <END> ausschalten
+<START:music_target> musik <END> beenden
+<START:music_target> musik <END> ausmachen
+<START:music_target> musik <END> anhalten
+die <START:music_target> musik <END> pausieren
+die <START:music_target> musik <END> stoppen
+die <START:music_target> musik <END> ausschalten
+die <START:music_target> musik <END> beenden
+die <START:music_target> musik <END> ausmachen
+die <START:music_target> musik <END> anhalten

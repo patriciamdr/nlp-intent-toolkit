@@ -1,97 +1,100 @@
-kippe das <START:tilt_up_target> bett <END> nach oben
-klappe das <START:tilt_up_target> bett <END> nach oben
-kippe das <START:tilt_up_target> bett <END> hoch
-kippe das <START:tilt_up_target> bett <END> auf
-klappe das <START:tilt_up_target> bett <END> hoch
-klappe das <START:tilt_up_target> bett <END> auf
-kippe <START:tilt_up_target> bett <END> nach oben
-klappe <START:tilt_up_target> bett <END> nach oben
-kippe <START:tilt_up_target> bett <END> hoch
-klappe <START:tilt_up_target> bett <END> hoch
-kippe <START:tilt_up_target> bett <END> auf
-klappe <START:tilt_up_target> bett <END> auf
-mach <START:tilt_up_target> bett <END> höher
-mach das <START:tilt_up_target> bett <END> höher
-mach das <START:tilt_up_target> bett <END> steiler
-mach <START:tilt_up_target> bett <END> steiler
-richte <START:tilt_up_target> bett <END> auf
-hebe <START:tilt_up_target> bett <END> an
-hebe das <START:tilt_up_target> bett <END> an
-steiger die <START:tilt_up_target> bett <END> neigung
-steiger die <START:tilt_up_target> bett <END> höhe
-steiger den <START:tilt_up_target> bett <END> winkel
-steiger die <START:tilt_up_target> bett <END> steigung
-steiger den <START:tilt_up_target> bett <END> neigungswinkel
-steiger die neigung des <START:tilt_up_target> betts <END>
-steiger die höhe des <START:tilt_up_target> betts <END>
-steiger den winkel des <START:tilt_up_target> betts <END>
-steiger die steigung des <START:tilt_up_target> betts <END>
-steiger den neigungswinkel des <START:tilt_up_target> betts <END>
-steiger <START:tilt_up_target> bett <END> neigung
-steiger <START:tilt_up_target> bett <END> höhe
-steiger <START:tilt_up_target> bett <END> winkel
-steiger <START:tilt_up_target> bett <END> steigung
-steiger <START:tilt_up_target> bett <END> neigungswinkel
-richte <START:tilt_up_target> bett <END> auf
-richte das <START:tilt_up_target> bett <END> auf
-erhöhe die <START:tilt_up_target> bett <END> neigung
-erhöhe die <START:tilt_up_target> bett <END> höhe
-erhöhe den <START:tilt_up_target> bett <END> winkel
-erhöhe die <START:tilt_up_target> bett <END> steigung
-erhöhe den <START:tilt_up_target> bett <END> neigungswinkel
-erhöhe die neigung des <START:tilt_up_target> betts <END>
-erhöhe die höhe des <START:tilt_up_target> betts <END>
-erhöhe den winkel des <START:tilt_up_target> betts <END>
-erhöhe die steigung des <START:tilt_up_target> betts <END>
-erhöhe den neigungswinkel des <START:tilt_up_target> betts <END>
-erhöhe <START:tilt_up_target> bett <END> neigung
-erhöhe <START:tilt_up_target> bett <END> höhe
-erhöhe <START:tilt_up_target> bett <END> winkel
-erhöhe <START:tilt_up_target> bett <END> steigung
-erhöhe <START:tilt_up_target> bett <END> neigungswinkel
-<START:tilt_up_target> bett <END> nach oben kippen
-<START:tilt_up_target> bett <END> nach oben klappen
-das <START:tilt_up_target> bett <END> nach oben kippen
-das <START:tilt_up_target> bett <END> nach oben klappen
-<START:tilt_up_target> bett <END> hochklappen
-das <START:tilt_up_target> bett <END> hochklappen
-<START:tilt_up_target> bett <END> aufklappen
-das <START:tilt_up_target> bett <END> aufklappen
-<START:tilt_up_target> bett <END> höher machen
-das <START:tilt_up_target> bett <END> höher machen
-<START:tilt_up_target> bett <END> steiler machen
-das <START:tilt_up_target> bett <END> steiler machen
-<START:tilt_up_target> bett <END> aufrichten
-das <START:tilt_up_target> bett <END> aufrichten
-<START:tilt_up_target> bett <END> anheben
-das <START:tilt_up_target> bett <END> anheben
-die <START:tilt_up_target> bett <END> neigung steigern
-die <START:tilt_up_target> bett <END> höhe steigern
-den <START:tilt_up_target> bett <END> winkel steigern
-die <START:tilt_up_target> bett <END> steigung steigern
-den <START:tilt_up_target> bett <END> neigungswinkel steigern
-die neigung des <START:tilt_up_target> betts <END> steigern
-die höhe des <START:tilt_up_target> betts <END> steigern
-den winkel des <START:tilt_up_target> betts <END> steigern
-die steigung des <START:tilt_up_target> betts <END> steigern
-den neigungswinkel des <START:tilt_up_target> betts <END> steigern
-<START:tilt_up_target> bett <END> neigung steigern
-<START:tilt_up_target> bett <END> höhe steigern
-<START:tilt_up_target> bett <END> winkel steigern
-<START:tilt_up_target> bett <END> steigung steigern
-<START:tilt_up_target> bett <END> neigungswinkel steigern
-die <START:tilt_up_target> bett <END> neigung erhöhen
-die <START:tilt_up_target> bett <END> höhe erhöhen
-den <START:tilt_up_target> bett <END> winkel erhöhen
-die <START:tilt_up_target> bett <END> steigung erhöhen
-den <START:tilt_up_target> bett <END> neigungswinkel erhöhen
-die neigung des <START:tilt_up_target> betts <END> erhöhen
-die höhe des <START:tilt_up_target> betts <END> erhöhen
-den winkel des <START:tilt_up_target> betts <END> erhöhen
-die steigung des <START:tilt_up_target> betts <END> erhöhen
-den neigungswinkel des <START:tilt_up_target> betts <END> erhöhen
-<START:tilt_up_target> bett <END> neigung erhöhen
-<START:tilt_up_target> bett <END> höhe erhöhen
-<START:tilt_up_target> bett <END> winkel erhöhen
-<START:tilt_up_target> bett <END> steigung erhöhen
-<START:tilt_up_target> bett <END> neigungswinkel erhöhen
+kippe das <START:tilt_target> bett <END> nach oben
+klappe das <START:tilt_target> bett <END> nach oben
+kippe das <START:tilt_target> bett <END> hoch
+kippe das <START:tilt_target> bett <END> auf
+klappe das <START:tilt_target> bett <END> hoch
+klappe das <START:tilt_target> bett <END> auf
+kippe <START:tilt_target> bett <END> nach oben
+klappe <START:tilt_target> bett <END> nach oben
+kippe <START:tilt_target> bett <END> hoch
+klappe <START:tilt_target> bett <END> hoch
+kippe <START:tilt_target> bett <END> auf
+klappe <START:tilt_target> bett <END> auf
+mach <START:tilt_target> bett <END> höher
+mach das <START:tilt_target> bett <END> höher
+mach das <START:tilt_target> bett <END> steiler
+mach <START:tilt_target> bett <END> steiler
+richte <START:tilt_target> bett <END> auf
+hebe <START:tilt_target> bett <END> an
+hebe das <START:tilt_target> bett <END> an
+steiger die <START:tilt_target> bett <END> neigung
+steiger die <START:tilt_target> bett <END> höhe
+steiger den <START:tilt_target> bett <END> winkel
+steiger die <START:tilt_target> bett <END> steigung
+steiger den <START:tilt_target> bett <END> neigungswinkel
+steiger die neigung des <START:tilt_target> betts <END>
+steiger die höhe des <START:tilt_target> betts <END>
+steiger den winkel des <START:tilt_target> betts <END>
+steiger die steigung des <START:tilt_target> betts <END>
+steiger den neigungswinkel des <START:tilt_target> betts <END>
+steiger <START:tilt_target> bett <END> neigung
+steiger <START:tilt_target> bett <END> höhe
+steiger <START:tilt_target> bett <END> winkel
+steiger <START:tilt_target> bett <END> steigung
+steiger <START:tilt_target> bett <END> neigungswinkel
+richte <START:tilt_target> bett <END> auf
+richte das <START:tilt_target> bett <END> auf
+erhöhe das <START:tilt_target> bett <END>
+erhöhe <START:tilt_target> bett <END>
+erhöhe die <START:tilt_target> bett <END> neigung
+erhöhe die <START:tilt_target> bett <END> höhe
+erhöhe den <START:tilt_target> bett <END> winkel
+erhöhe die <START:tilt_target> bett <END> steigung
+erhöhe den <START:tilt_target> bett <END> neigungswinkel
+erhöhe die neigung des <START:tilt_target> betts <END>
+erhöhe die höhe des <START:tilt_target> betts <END>
+erhöhe den winkel des <START:tilt_target> betts <END>
+erhöhe die steigung des <START:tilt_target> betts <END>
+erhöhe den neigungswinkel des <START:tilt_target> betts <END>
+erhöhe <START:tilt_target> bett <END> neigung
+erhöhe <START:tilt_target> bett <END> höhe
+erhöhe <START:tilt_target> bett <END> winkel
+erhöhe <START:tilt_target> bett <END> steigung
+erhöhe <START:tilt_target> bett <END> neigungswinkel
+<START:tilt_target> bett <END> nach oben kippen
+<START:tilt_target> bett <END> nach oben klappen
+das <START:tilt_target> bett <END> nach oben kippen
+das <START:tilt_target> bett <END> nach oben klappen
+<START:tilt_target> bett <END> hochklappen
+das <START:tilt_target> bett <END> hochklappen
+<START:tilt_target> bett <END> aufklappen
+das <START:tilt_target> bett <END> aufklappen
+<START:tilt_target> bett <END> höher machen
+das <START:tilt_target> bett <END> höher machen
+<START:tilt_target> bett <END> steiler machen
+das <START:tilt_target> bett <END> steiler machen
+<START:tilt_target> bett <END> aufrichten
+das <START:tilt_target> bett <END> aufrichten
+<START:tilt_target> bett <END> anheben
+das <START:tilt_target> bett <END> anheben
+die <START:tilt_target> bett <END> neigung steigern
+die <START:tilt_target> bett <END> höhe steigern
+den <START:tilt_target> bett <END> winkel steigern
+die <START:tilt_target> bett <END> steigung steigern
+den <START:tilt_target> bett <END> neigungswinkel steigern
+die neigung des <START:tilt_target> betts <END> steigern
+die höhe des <START:tilt_target> betts <END> steigern
+den winkel des <START:tilt_target> betts <END> steigern
+die steigung des <START:tilt_target> betts <END> steigern
+den neigungswinkel des <START:tilt_target> betts <END> steigern
+<START:tilt_target> bett <END> neigung steigern
+<START:tilt_target> bett <END> höhe steigern
+<START:tilt_target> bett <END> winkel steigern
+<START:tilt_target> bett <END> steigung steigern
+<START:tilt_target> bett <END> neigungswinkel steigern
+die <START:tilt_target> bett <END> neigung erhöhen
+die <START:tilt_target> bett <END> höhe erhöhen
+den <START:tilt_target> bett <END> winkel erhöhen
+die <START:tilt_target> bett <END> steigung erhöhen
+den <START:tilt_target> bett <END> neigungswinkel erhöhen
+die neigung des <START:tilt_target> betts <END> erhöhen
+die höhe des <START:tilt_target> betts <END> erhöhen
+den winkel des <START:tilt_target> betts <END> erhöhen
+die steigung des <START:tilt_target> betts <END> erhöhen
+den neigungswinkel des <START:tilt_target> betts <END> erhöhen
+<START:tilt_target> bett <END> erhöhen
+<START:tilt_target> bett <END> neigung erhöhen
+<START:tilt_target> bett <END> höhe erhöhen
+<START:tilt_target> bett <END> winkel erhöhen
+<START:tilt_target> bett <END> steigung erhöhen
+<START:tilt_target> bett <END> neigungswinkel erhöhen

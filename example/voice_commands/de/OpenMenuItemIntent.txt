@@ -1,375 +1,375 @@
-öffne das <START:open_target> bett <END>
-öffne das <START:open_target> raum licht <END>
-öffne die <START:open_target> raum lichter <END>
-öffne die <START:open_target> tisch lampe <END>
-öffne die <START:open_target> bett lampe <END>
-öffne den <START:open_target> heater <END>
-öffne die <START:open_target> heizung <END>
-öffne den <START:open_target> ventilator <END>
-öffne den <START:open_target> alarm <END>
-öffne die <START:open_target> musik <END>
-öffne die <START:open_target> musik quelle <END>
-öffne die <START:open_target> musik kontrolle <END>
-öffne die <START:open_target> tv steuerung <END>
-öffne die <START:open_target> tv power <END>
-öffne die <START:open_target> tv einstellungen <END>
-öffne den <START:open_target> tv <END>
-öffne <START:open_target> home <END>
-öffne <START:open_target> house mate <END>
-öffne <START:open_target> intercom <END>
-öffne <START:open_target> bett <END>
-öffne <START:open_target> raum licht <END>
-öffne <START:open_target> raum lichter <END>
-öffne <START:open_target> tisch lampe <END>
-öffne <START:open_target> bett lampe <END>
-öffne <START:open_target> heater <END>
-öffne <START:open_target> heizung <END>
-öffne <START:open_target> ventilator <END>
-öffne <START:open_target> alarm <END>
-öffne <START:open_target> musik <END>
-öffne <START:open_target> musik quelle <END>
-öffne <START:open_target> musik kontrolle <END>
-öffne <START:open_target> tv steuerung <END>
-öffne <START:open_target> tv power <END>
-öffne <START:open_target> tv einstellungen <END>
-öffne <START:open_target> tv <END>
-<START:open_target> home <END> öffnen
-<START:open_target> house mate <END> öffnen
-<START:open_target> intercom <END> öffnen
-<START:open_target> bett <END> öffnen
-<START:open_target> raum licht <END> öffnen
-<START:open_target> raum lichter <END> öffnen
-<START:open_target> tisch lampe <END> öffnen
-<START:open_target> bett lampe <END> öffnen
-<START:open_target> heater <END> öffnen
-<START:open_target> heizung <END> öffnen
-<START:open_target> ventilator <END> öffnen
-<START:open_target> alarm <END> öffnen
-<START:open_target> musik <END> öffnen
-<START:open_target> musik quelle <END> öffnen
-<START:open_target> musik kontrolle <END> öffnen
-<START:open_target> tv steuerung <END> öffnen
-<START:open_target> tv power <END> öffnen
-<START:open_target> tv einstellungen <END> öffnen
-<START:open_target> tv <END> öffnen
-öffne die kategorie <START:open_target> home <END>
-öffne die kategorie <START:open_target> house mate <END>
-öffne die kategorie <START:open_target> intercom <END>
-öffne die kategorie <START:open_target> fenster <END>
-öffne die kategorie <START:open_target> tür <END>
-öffne die kategorie <START:open_target> vorhang <END>
-öffne die kategorie <START:open_target> vorhänge <END>
-öffne die kategorie <START:open_target> bett <END>
-öffne die kategorie <START:open_target> raum licht <END>
-öffne die kategorie <START:open_target> raum lichter <END>
-öffne die kategorie <START:open_target> tisch lampe <END>
-öffne die kategorie <START:open_target> bett lampe <END>
-öffne die kategorie <START:open_target> heater <END>
-öffne die kategorie <START:open_target> heizung <END>
-öffne die kategorie <START:open_target> ventilator <END>
-öffne die kategorie <START:open_target> alarm <END>
-öffne die kategorie <START:open_target> musik <END>
-öffne die kategorie <START:open_target> musik quelle <END>
-öffne die kategorie <START:open_target> musik kontrolle <END>
-öffne die kategorie <START:open_target> tv steuerung <END>
-öffne die kategorie <START:open_target> tv power <END>
-öffne die kategorie <START:open_target> tv einstellungen <END>
-öffne die kategorie <START:open_target> tv <END>
-öffne kategorie <START:open_target> home <END>
-öffne kategorie <START:open_target> house mate <END>
-öffne kategorie <START:open_target> intercom <END>
-öffne kategorie <START:open_target> fenster <END>
-öffne kategorie <START:open_target> tür <END>
-öffne kategorie <START:open_target> vorhang <END>
-öffne kategorie <START:open_target> vorhänge <END>
-öffne kategorie <START:open_target> bett <END>
-öffne kategorie <START:open_target> raum licht <END>
-öffne kategorie <START:open_target> raum lichter <END>
-öffne kategorie <START:open_target> tisch lampe <END>
-öffne kategorie <START:open_target> bett lampe <END>
-öffne kategorie <START:open_target> heater <END>
-öffne kategorie <START:open_target> heizung <END>
-öffne kategorie <START:open_target> ventilator <END>
-öffne kategorie <START:open_target> alarm <END>
-öffne kategorie <START:open_target> musik <END>
-öffne kategorie <START:open_target> musik quelle <END>
-öffne kategorie <START:open_target> musik kontrolle <END>
-öffne kategorie <START:open_target> tv steuerung <END>
-öffne kategorie <START:open_target> tv power <END>
-öffne kategorie <START:open_target> tv einstellungen <END>
-öffne kategorie <START:open_target> tv <END>
-die kategorie <START:open_target> home <END> öffnen
-die kategorie <START:open_target> house mate <END> öffnen
-die kategorie <START:open_target> intercom <END> öffnen
-die kategorie <START:open_target> bett <END> öffnen
-die kategorie <START:open_target> raum licht <END> öffnen
-die kategorie <START:open_target> raum lichter <END> öffnen
-die kategorie <START:open_target> tisch lampe <END> öffnen
-die kategorie <START:open_target> bett lampe <END> öffnen
-die kategorie <START:open_target> heater <END> öffnen
-die kategorie <START:open_target> heizung <END> öffnen
-die kategorie <START:open_target> ventilator <END> öffnen
-die kategorie <START:open_target> alarm <END> öffnen
-die kategorie <START:open_target> musik <END> öffnen
-die kategorie <START:open_target> musik quelle <END> öffnen
-die kategorie <START:open_target> musik kontrolle <END> öffnen
-die kategorie <START:open_target> tv steuerung <END> öffnen
-die kategorie <START:open_target> tv power <END> öffnen
-die kategorie <START:open_target> tv einstellungen <END> öffnen
-die kategorie <START:open_target> tv <END> öffnen
-die kategorie <START:open_target> fenster <END> öffnen
-die kategorie <START:open_target> tür <END> öffnen
-die kategorie <START:open_target> vorhang <END> öffnen
-die kategorie <START:open_target> vorhänge <END> öffnen
-kategorie <START:open_target> home <END> öffnen
-kategorie <START:open_target> house mate <END> öffnen
-kategorie <START:open_target> intercom <END> öffnen
-kategorie <START:open_target> bett <END> öffnen
-kategorie <START:open_target> raum licht <END> öffnen
-kategorie <START:open_target> raum lichter <END> öffnen
-kategorie <START:open_target> tisch lampe <END> öffnen
-kategorie <START:open_target> bett lampe <END> öffnen
-kategorie <START:open_target> heater <END> öffnen
-kategorie <START:open_target> heizung <END> öffnen
-kategorie <START:open_target> ventilator <END> öffnen
-kategorie <START:open_target> alarm <END> öffnen
-kategorie <START:open_target> musik <END> öffnen
-kategorie <START:open_target> musik quelle <END> öffnen
-kategorie <START:open_target> musik kontrolle <END> öffnen
-kategorie <START:open_target> tv steuerung <END> öffnen
-kategorie <START:open_target> tv power <END> öffnen
-kategorie <START:open_target> tv einstellungen <END> öffnen
-kategorie <START:open_target> tv <END> öffnen
-kategorie <START:open_target> fenster <END> öffnen
-kategorie <START:open_target> tür <END> öffnen
-kategorie <START:open_target> vorhang <END> öffnen
-kategorie <START:open_target> vorhänge <END> öffnen
-öffne <START:open_target> kamera <END>
-öffne <START:open_target> media <END>
-öffne <START:open_target> galerie <END>
-öffne <START:open_target> sitz <END>
-öffne <START:open_target> sitz <END> position
-öffne <START:open_target> fahren <END>
-öffne <START:open_target> einstellung <END>
-öffne <START:open_target> einstellungen <END>
-öffne <START:open_target> kalibrierung <END>
-öffne <START:open_target> neigen <END>
-öffne <START:open_target> nicken <END>
-öffne <START:open_target> neigen <END> kalibrierung
-öffne <START:open_target> nicken <END> kalibrierung
-öffne <START:open_target> lichter <END>
-öffne <START:open_target> lichter <END> menü
-öffne <START:open_target> licht <END>
-öffne <START:open_target> licht <END> menü
-öffne <START:open_target> warn blinker <END>
-öffne <START:open_target> warn blinker <END>
-öffne <START:open_target> lautstärke <END>
-öffne <START:open_target> sprache <END>
-öffne <START:open_target> sprachen <END>
-öffne <START:open_target> wlan <END>
-öffne <START:open_target> internet <END>
-öffne <START:open_target> support <END>
-öffne <START:open_target> app info <END>
-öffne <START:open_target> notfall-email <END>
-öffne <START:open_target> notfall email <END>
-öffne <START:open_target> sync <END>
-öffne <START:open_target> synchronisierung <END>
-öffne <START:open_target> synchronisation <END>
-öffne <START:open_target> synchronisieren <END>
-öffne <START:open_target> admin <END>
-öffne <START:open_target> administration <END>
-öffne <START:open_target> koppeln <END>
-öffne <START:open_target> monitor <END>
-öffne <START:open_target> vorhandenes handy <END>
-öffne <START:open_target> neues handy <END>
-öffne <START:open_target> modi <END>
-öffne <START:open_target> basic <END>
-öffne <START:open_target> fortgeschritten <END>
-öffne <START:open_target> nur fahren <END>
-öffne <START:open_target> fahr geste <END>
-öffne <START:open_target> add ons <END>
-öffne <START:open_target> mouse eins <END>
-öffne <START:open_target> mouse eins <END> bitte
-öffne bitte <START:open_target> mouse eins <END>
-bitte öffne <START:open_target> mouse eins <END>
-öffne <START:open_target> mouse zwei <END>
-bitte öffne <START:open_target> mouse zwei <END>
-öffne bitte <START:open_target> mouse zwei <END>
-öffne <START:open_target> mouse zwei <END> bitte
-öffne <START:open_target> tv <END>
-öffne <START:open_target> fernseher <END>
-öffne <START:open_target> android <END>
-öffne <START:open_target> ios <END>
-öffne <START:open_target> iarm <END>
-öffne <START:open_target> idevice <END>
-öffne <START:open_target> computer <END>
-öffne <START:open_target> kontakte <END>
-öffne <START:open_target> kinova <END>
-<START:open_target> kamera <END> öffnen
-<START:open_target> media <END> öffnen
-<START:open_target> galerie <END> öffnen
-<START:open_target> sitz <END> öffnen
-<START:open_target> sitz <END> position öffnen
-<START:open_target> fahren <END> öffnen
-<START:open_target> einstellung <END> öffnen
-<START:open_target> einstellungen <END> öffnen
-<START:open_target> kalibrierung <END> öffnen
-<START:open_target> neigen <END> öffnen
-<START:open_target> nicken <END> öffnen
-<START:open_target> neigen <END> kalibrierung öffnen
-<START:open_target> nicken <END> kalibrierung öffnen
-<START:open_target> lichter <END> öffnen
-<START:open_target> lichter <END> menü öffnen
-<START:open_target> licht <END> öffnen
-<START:open_target> licht <END> menü öffnen
-<START:open_target> warn blinker <END> öffnen
-<START:open_target> lautstärke <END> öffnen
-<START:open_target> sprache <END> öffnen
-<START:open_target> sprachen <END> öffnen
-<START:open_target> wlan <END> öffnen
-<START:open_target> internet <END> öffnen
-<START:open_target> support <END> öffnen
-<START:open_target> app info <END> öffnen
-<START:open_target> notfall email <END> öffnen
-<START:open_target> notfall-email <END> öffnen
-<START:open_target> sync <END> öffnen
-<START:open_target> synchronisierung <END> öffnen
-<START:open_target> synchronisation <END> öffnen
-<START:open_target> synchronisieren <END> öffnen
-<START:open_target> admin <END> öffnen
-<START:open_target> administration <END> öffnen
-<START:open_target> koppeln <END> öffnen
-<START:open_target> monitor <END> öffnen
-<START:open_target> vorhandenes handy <END> öffnen
-<START:open_target> neues handy <END> öffnen
-<START:open_target> modi <END> öffnen
-<START:open_target> basic <END> öffnen
-<START:open_target> fortgeschritten <END> öffnen
-<START:open_target> nur fahren <END> öffnen
-<START:open_target> fahr geste <END> öffnen
-<START:open_target> add ons <END> öffnen
-<START:open_target> mouse eins <END> öffnen
-<START:open_target> mouse zwei <END> öffnen
-bitte <START:open_target> mouse eins <END> öffnen
-bitte <START:open_target> mouse zwei <END> öffnen
-<START:open_target> tv <END> öffnen
-<START:open_target> fernseher <END> öffnen
-<START:open_target> android <END> öffnen
-<START:open_target> ios <END> öffnen
-<START:open_target> iarm <END> öffnen
-<START:open_target> idevice <END> öffnen
-<START:open_target> computer <END> öffnen
-<START:open_target> kontakte <END> öffnen
-<START:open_target> kinova <END> öffnen
-öffne die <START:open_target> kamera <END>
-öffne kategorie <START:open_target> kamera <END>
-öffne kategorie <START:open_target> media <END>
-öffne kategorie <START:open_target> galerie <END>
-öffne die <START:open_target> galerie <END>
-öffne kategorie <START:open_target> fahren <END>
-öffne kategorie <START:open_target> einstellung <END>
-öffne kategorie <START:open_target> einstellungen <END>
-öffne die <START:open_target> einstellungen <END>
-öffne kategorie <START:open_target> kalibrierung <END>
-öffne kategorie <START:open_target> neigen <END>
-öffne kategorie <START:open_target> nicken <END>
-öffne kategorie <START:open_target> neigen <END> kalibrierung
-öffne kategorie <START:open_target> nicken <END> kalibrierung
-öffne kategorie <START:open_target> lichter <END>
-öffne kategorie <START:open_target> lichter <END> menü
-öffne kategorie <START:open_target> licht <END>
-öffne kategorie <START:open_target> licht <END> menü
-öffne kategorie <START:open_target> warn blinker <END>
-öffne kategorie <START:open_target> lautstärke <END>
-öffne kategorie <START:open_target> sprache <END>
-öffne kategorie <START:open_target> sprachen <END>
-öffne kategorie <START:open_target> wlan <END>
-öffne kategorie <START:open_target> internet <END>
-öffne kategorie <START:open_target> support <END>
-öffne kategorie <START:open_target> app info <END>
-öffne kategorie <START:open_target> notfall-email <END>
-öffne kategorie <START:open_target> notfall email <END>
-öffne kategorie <START:open_target> sync <END>
-öffne kategorie <START:open_target> synchronisierung <END>
-öffne kategorie <START:open_target> synchronisation <END>
-öffne kategorie <START:open_target> synchronisieren <END>
-öffne kategorie <START:open_target> admin <END>
-öffne kategorie <START:open_target> administration <END>
-öffne kategorie <START:open_target> koppeln <END>
-öffne kategorie <START:open_target> monitor <END>
-öffne kategorie <START:open_target> vorhandenes handy <END>
-öffne kategorie <START:open_target> neues handy <END>
-öffne kategorie <START:open_target> modi <END>
-öffne kategorie <START:open_target> basic <END>
-öffne den modus <START:open_target> basic <END>
-öffne kategorie <START:open_target> fortgeschritten <END>
-öffne den modus <START:open_target> fortgeschritten <END>
-öffne kategorie <START:open_target> nur fahren <END>
-öffne den modus <START:open_target> nur fahren <END>
-öffne kategorie <START:open_target> fahr geste <END>
-öffne kategorie <START:open_target> add ons <END>
-öffne die <START:open_target> add ons <END>
-öffne kategorie <START:open_target> mouse eins <END>
-öffne kategorie <START:open_target> mouse zwei <END>
-öffne kategorie <START:open_target> tv <END>
-öffne kategorie <START:open_target> fernseher <END>
-öffne kategorie <START:open_target> android <END>
-öffne kategorie <START:open_target> ios <END>
-öffne kategorie <START:open_target> iarm <END>
-öffne kategorie <START:open_target> idevice <END>
-öffne kategorie <START:open_target> computer <END>
-öffne kategorie <START:open_target> kontakte <END>
-öffne kategorie <START:open_target> kinova <END>
-kategorie <START:open_target> kamera <END> öffnen
-kategorie <START:open_target> media <END> öffnen
-kategorie <START:open_target> galerie <END> öffnen
-kategorie <START:open_target> sitz <END> öffnen
-kategorie <START:open_target> fahren <END> öffnen
-kategorie <START:open_target> einstellung <END> öffnen
-kategorie <START:open_target> einstellungen <END> öffnen
-kategorie <START:open_target> kalibrierung <END> öffnen
-kategorie <START:open_target> neigen <END> öffnen
-kategorie <START:open_target> nicken <END> öffnen
-kategorie <START:open_target> neigen <END> kalibrierung öffnen
-kategorie <START:open_target> nicken <END> kalibrierung öffnen
-kategorie <START:open_target> lichter <END> öffnen
-kategorie <START:open_target> lichter <END> menü öffnen
-kategorie <START:open_target> licht <END> öffnen
-kategorie <START:open_target> licht <END> menü öffnen
-kategorie <START:open_target> warn blinker <END> öffnen
-kategorie <START:open_target> lautstärke <END> öffnen
-kategorie <START:open_target> sprache <END> öffnen
-kategorie <START:open_target> sprachen <END> öffnen
-kategorie <START:open_target> wlan <END> öffnen
-kategorie <START:open_target> internet <END> öffnen
-kategorie <START:open_target> support <END> öffnen
-kategorie <START:open_target> app info <END> öffnen
-kategorie <START:open_target> notfall email <END> öffnen
-kategorie <START:open_target> notfall-email <END> öffnen
-kategorie <START:open_target> sync <END> öffnen
-kategorie <START:open_target> synchronisierung <END> öffnen
-kategorie <START:open_target> synchronisation <END> öffnen
-kategorie <START:open_target> synchronisieren <END> öffnen
-kategorie <START:open_target> admin <END> öffnen
-kategorie <START:open_target> administration <END> öffnen
-kategorie <START:open_target> koppeln <END> öffnen
-kategorie <START:open_target> monitor <END> öffnen
-kategorie <START:open_target> vorhandenes handy <END> öffnen
-kategorie <START:open_target> neues handy <END> öffnen
-kategorie <START:open_target> modi <END> öffnen
-kategorie <START:open_target> basic <END> öffnen
-kategorie <START:open_target> fortgeschritten <END> öffnen
-kategorie <START:open_target> nur fahren <END> öffnen
-kategorie <START:open_target> fahr geste <END> öffnen
-kategorie <START:open_target> add ons <END> öffnen
-kategorie <START:open_target> mouse eins <END> öffnen
-kategorie <START:open_target> mouse zwei <END> öffnen
-kategorie <START:open_target> tv <END> öffnen
-kategorie <START:open_target> fernseher <END> öffnen
-kategorie <START:open_target> android <END> öffnen
-kategorie <START:open_target> ios <END> öffnen
-kategorie <START:open_target> iarm <END> öffnen
-kategorie <START:open_target> idevice <END> öffnen
-kategorie <START:open_target> computer <END> öffnen
-kategorie <START:open_target> kontakte <END> öffnen
-kategorie <START:open_target> kinova <END> öffnen
+öffne das <START:menuitem_target> bett <END>
+öffne das <START:menuitem_target> raum licht <END>
+öffne die <START:menuitem_target> raum lichter <END>
+öffne die <START:menuitem_target> tisch lampe <END>
+öffne die <START:menuitem_target> bett lampe <END>
+öffne den <START:menuitem_target> heater <END>
+öffne die <START:menuitem_target> heizung <END>
+öffne den <START:menuitem_target> ventilator <END>
+öffne den <START:menuitem_target> alarm <END>
+öffne die <START:menuitem_target> musik <END>
+öffne die <START:menuitem_target> musik quelle <END>
+öffne die <START:menuitem_target> musik kontrolle <END>
+öffne die <START:menuitem_target> tv steuerung <END>
+öffne die <START:menuitem_target> tv power <END>
+öffne die <START:menuitem_target> tv einstellungen <END>
+öffne den <START:menuitem_target> tv <END>
+öffne <START:menuitem_target> home <END>
+öffne <START:menuitem_target> house mate <END>
+öffne <START:menuitem_target> intercom <END>
+öffne <START:menuitem_target> bett <END>
+öffne <START:menuitem_target> raum licht <END>
+öffne <START:menuitem_target> raum lichter <END>
+öffne <START:menuitem_target> tisch lampe <END>
+öffne <START:menuitem_target> bett lampe <END>
+öffne <START:menuitem_target> heater <END>
+öffne <START:menuitem_target> heizung <END>
+öffne <START:menuitem_target> ventilator <END>
+öffne <START:menuitem_target> alarm <END>
+öffne <START:menuitem_target> musik <END>
+öffne <START:menuitem_target> musik quelle <END>
+öffne <START:menuitem_target> musik kontrolle <END>
+öffne <START:menuitem_target> tv steuerung <END>
+öffne <START:menuitem_target> tv power <END>
+öffne <START:menuitem_target> tv einstellungen <END>
+öffne <START:menuitem_target> tv <END>
+<START:menuitem_target> home <END> öffnen
+<START:menuitem_target> house mate <END> öffnen
+<START:menuitem_target> intercom <END> öffnen
+<START:menuitem_target> bett <END> öffnen
+<START:menuitem_target> raum licht <END> öffnen
+<START:menuitem_target> raum lichter <END> öffnen
+<START:menuitem_target> tisch lampe <END> öffnen
+<START:menuitem_target> bett lampe <END> öffnen
+<START:menuitem_target> heater <END> öffnen
+<START:menuitem_target> heizung <END> öffnen
+<START:menuitem_target> ventilator <END> öffnen
+<START:menuitem_target> alarm <END> öffnen
+<START:menuitem_target> musik <END> öffnen
+<START:menuitem_target> musik quelle <END> öffnen
+<START:menuitem_target> musik kontrolle <END> öffnen
+<START:menuitem_target> tv steuerung <END> öffnen
+<START:menuitem_target> tv power <END> öffnen
+<START:menuitem_target> tv einstellungen <END> öffnen
+<START:menuitem_target> tv <END> öffnen
+öffne die kategorie <START:menuitem_target> home <END>
+öffne die kategorie <START:menuitem_target> house mate <END>
+öffne die kategorie <START:menuitem_target> intercom <END>
+öffne die kategorie <START:menuitem_target> fenster <END>
+öffne die kategorie <START:menuitem_target> tür <END>
+öffne die kategorie <START:menuitem_target> vorhang <END>
+öffne die kategorie <START:menuitem_target> vorhänge <END>
+öffne die kategorie <START:menuitem_target> bett <END>
+öffne die kategorie <START:menuitem_target> raum licht <END>
+öffne die kategorie <START:menuitem_target> raum lichter <END>
+öffne die kategorie <START:menuitem_target> tisch lampe <END>
+öffne die kategorie <START:menuitem_target> bett lampe <END>
+öffne die kategorie <START:menuitem_target> heater <END>
+öffne die kategorie <START:menuitem_target> heizung <END>
+öffne die kategorie <START:menuitem_target> ventilator <END>
+öffne die kategorie <START:menuitem_target> alarm <END>
+öffne die kategorie <START:menuitem_target> musik <END>
+öffne die kategorie <START:menuitem_target> musik quelle <END>
+öffne die kategorie <START:menuitem_target> musik kontrolle <END>
+öffne die kategorie <START:menuitem_target> tv steuerung <END>
+öffne die kategorie <START:menuitem_target> tv power <END>
+öffne die kategorie <START:menuitem_target> tv einstellungen <END>
+öffne die kategorie <START:menuitem_target> tv <END>
+öffne kategorie <START:menuitem_target> home <END>
+öffne kategorie <START:menuitem_target> house mate <END>
+öffne kategorie <START:menuitem_target> intercom <END>
+öffne kategorie <START:menuitem_target> fenster <END>
+öffne kategorie <START:menuitem_target> tür <END>
+öffne kategorie <START:menuitem_target> vorhang <END>
+öffne kategorie <START:menuitem_target> vorhänge <END>
+öffne kategorie <START:menuitem_target> bett <END>
+öffne kategorie <START:menuitem_target> raum licht <END>
+öffne kategorie <START:menuitem_target> raum lichter <END>
+öffne kategorie <START:menuitem_target> tisch lampe <END>
+öffne kategorie <START:menuitem_target> bett lampe <END>
+öffne kategorie <START:menuitem_target> heater <END>
+öffne kategorie <START:menuitem_target> heizung <END>
+öffne kategorie <START:menuitem_target> ventilator <END>
+öffne kategorie <START:menuitem_target> alarm <END>
+öffne kategorie <START:menuitem_target> musik <END>
+öffne kategorie <START:menuitem_target> musik quelle <END>
+öffne kategorie <START:menuitem_target> musik kontrolle <END>
+öffne kategorie <START:menuitem_target> tv steuerung <END>
+öffne kategorie <START:menuitem_target> tv power <END>
+öffne kategorie <START:menuitem_target> tv einstellungen <END>
+öffne kategorie <START:menuitem_target> tv <END>
+die kategorie <START:menuitem_target> home <END> öffnen
+die kategorie <START:menuitem_target> house mate <END> öffnen
+die kategorie <START:menuitem_target> intercom <END> öffnen
+die kategorie <START:menuitem_target> bett <END> öffnen
+die kategorie <START:menuitem_target> raum licht <END> öffnen
+die kategorie <START:menuitem_target> raum lichter <END> öffnen
+die kategorie <START:menuitem_target> tisch lampe <END> öffnen
+die kategorie <START:menuitem_target> bett lampe <END> öffnen
+die kategorie <START:menuitem_target> heater <END> öffnen
+die kategorie <START:menuitem_target> heizung <END> öffnen
+die kategorie <START:menuitem_target> ventilator <END> öffnen
+die kategorie <START:menuitem_target> alarm <END> öffnen
+die kategorie <START:menuitem_target> musik <END> öffnen
+die kategorie <START:menuitem_target> musik quelle <END> öffnen
+die kategorie <START:menuitem_target> musik kontrolle <END> öffnen
+die kategorie <START:menuitem_target> tv steuerung <END> öffnen
+die kategorie <START:menuitem_target> tv power <END> öffnen
+die kategorie <START:menuitem_target> tv einstellungen <END> öffnen
+die kategorie <START:menuitem_target> tv <END> öffnen
+die kategorie <START:menuitem_target> fenster <END> öffnen
+die kategorie <START:menuitem_target> tür <END> öffnen
+die kategorie <START:menuitem_target> vorhang <END> öffnen
+die kategorie <START:menuitem_target> vorhänge <END> öffnen
+kategorie <START:menuitem_target> home <END> öffnen
+kategorie <START:menuitem_target> house mate <END> öffnen
+kategorie <START:menuitem_target> intercom <END> öffnen
+kategorie <START:menuitem_target> bett <END> öffnen
+kategorie <START:menuitem_target> raum licht <END> öffnen
+kategorie <START:menuitem_target> raum lichter <END> öffnen
+kategorie <START:menuitem_target> tisch lampe <END> öffnen
+kategorie <START:menuitem_target> bett lampe <END> öffnen
+kategorie <START:menuitem_target> heater <END> öffnen
+kategorie <START:menuitem_target> heizung <END> öffnen
+kategorie <START:menuitem_target> ventilator <END> öffnen
+kategorie <START:menuitem_target> alarm <END> öffnen
+kategorie <START:menuitem_target> musik <END> öffnen
+kategorie <START:menuitem_target> musik quelle <END> öffnen
+kategorie <START:menuitem_target> musik kontrolle <END> öffnen
+kategorie <START:menuitem_target> tv steuerung <END> öffnen
+kategorie <START:menuitem_target> tv power <END> öffnen
+kategorie <START:menuitem_target> tv einstellungen <END> öffnen
+kategorie <START:menuitem_target> tv <END> öffnen
+kategorie <START:menuitem_target> fenster <END> öffnen
+kategorie <START:menuitem_target> tür <END> öffnen
+kategorie <START:menuitem_target> vorhang <END> öffnen
+kategorie <START:menuitem_target> vorhänge <END> öffnen
+öffne <START:menuitem_target> kamera <END>
+öffne <START:menuitem_target> media <END>
+öffne <START:menuitem_target> galerie <END>
+öffne <START:menuitem_target> sitz <END>
+öffne <START:menuitem_target> sitz <END> position
+öffne <START:menuitem_target> fahren <END>
+öffne <START:menuitem_target> einstellung <END>
+öffne <START:menuitem_target> einstellungen <END>
+öffne <START:menuitem_target> kalibrierung <END>
+öffne <START:menuitem_target> neigen <END>
+öffne <START:menuitem_target> nicken <END>
+öffne <START:menuitem_target> neigen <END> kalibrierung
+öffne <START:menuitem_target> nicken <END> kalibrierung
+öffne <START:menuitem_target> lichter <END>
+öffne <START:menuitem_target> lichter <END> menü
+öffne <START:menuitem_target> licht <END>
+öffne <START:menuitem_target> licht <END> menü
+öffne <START:menuitem_target> warn blinker <END>
+öffne <START:menuitem_target> warn blinker <END>
+öffne <START:menuitem_target> lautstärke <END>
+öffne <START:menuitem_target> sprache <END>
+öffne <START:menuitem_target> sprachen <END>
+öffne <START:menuitem_target> wlan <END>
+öffne <START:menuitem_target> internet <END>
+öffne <START:menuitem_target> support <END>
+öffne <START:menuitem_target> app info <END>
+öffne <START:menuitem_target> notfall-email <END>
+öffne <START:menuitem_target> notfall email <END>
+öffne <START:menuitem_target> sync <END>
+öffne <START:menuitem_target> synchronisierung <END>
+öffne <START:menuitem_target> synchronisation <END>
+öffne <START:menuitem_target> synchronisieren <END>
+öffne <START:menuitem_target> admin <END>
+öffne <START:menuitem_target> administration <END>
+öffne <START:menuitem_target> koppeln <END>
+öffne <START:menuitem_target> monitor <END>
+öffne <START:menuitem_target> vorhandenes handy <END>
+öffne <START:menuitem_target> neues handy <END>
+öffne <START:menuitem_target> modi <END>
+öffne <START:menuitem_target> basic <END>
+öffne <START:menuitem_target> fortgeschritten <END>
+öffne <START:menuitem_target> nur fahren <END>
+öffne <START:menuitem_target> fahr geste <END>
+öffne <START:menuitem_target> add ons <END>
+öffne <START:menuitem_target> mouse eins <END>
+öffne <START:menuitem_target> mouse eins <END> bitte
+öffne bitte <START:menuitem_target> mouse eins <END>
+bitte öffne <START:menuitem_target> mouse eins <END>
+öffne <START:menuitem_target> mouse zwei <END>
+bitte öffne <START:menuitem_target> mouse zwei <END>
+öffne bitte <START:menuitem_target> mouse zwei <END>
+öffne <START:menuitem_target> mouse zwei <END> bitte
+öffne <START:menuitem_target> tv <END>
+öffne <START:menuitem_target> fernseher <END>
+öffne <START:menuitem_target> android <END>
+öffne <START:menuitem_target> ios <END>
+öffne <START:menuitem_target> iarm <END>
+öffne <START:menuitem_target> idevice <END>
+öffne <START:menuitem_target> computer <END>
+öffne <START:menuitem_target> kontakte <END>
+öffne <START:menuitem_target> kinova <END>
+<START:menuitem_target> kamera <END> öffnen
+<START:menuitem_target> media <END> öffnen
+<START:menuitem_target> galerie <END> öffnen
+<START:menuitem_target> sitz <END> öffnen
+<START:menuitem_target> sitz <END> position öffnen
+<START:menuitem_target> fahren <END> öffnen
+<START:menuitem_target> einstellung <END> öffnen
+<START:menuitem_target> einstellungen <END> öffnen
+<START:menuitem_target> kalibrierung <END> öffnen
+<START:menuitem_target> neigen <END> öffnen
+<START:menuitem_target> nicken <END> öffnen
+<START:menuitem_target> neigen <END> kalibrierung öffnen
+<START:menuitem_target> nicken <END> kalibrierung öffnen
+<START:menuitem_target> lichter <END> öffnen
+<START:menuitem_target> lichter <END> menü öffnen
+<START:menuitem_target> licht <END> öffnen
+<START:menuitem_target> licht <END> menü öffnen
+<START:menuitem_target> warn blinker <END> öffnen
+<START:menuitem_target> lautstärke <END> öffnen
+<START:menuitem_target> sprache <END> öffnen
+<START:menuitem_target> sprachen <END> öffnen
+<START:menuitem_target> wlan <END> öffnen
+<START:menuitem_target> internet <END> öffnen
+<START:menuitem_target> support <END> öffnen
+<START:menuitem_target> app info <END> öffnen
+<START:menuitem_target> notfall email <END> öffnen
+<START:menuitem_target> notfall-email <END> öffnen
+<START:menuitem_target> sync <END> öffnen
+<START:menuitem_target> synchronisierung <END> öffnen
+<START:menuitem_target> synchronisation <END> öffnen
+<START:menuitem_target> synchronisieren <END> öffnen
+<START:menuitem_target> admin <END> öffnen
+<START:menuitem_target> administration <END> öffnen
+<START:menuitem_target> koppeln <END> öffnen
+<START:menuitem_target> monitor <END> öffnen
+<START:menuitem_target> vorhandenes handy <END> öffnen
+<START:menuitem_target> neues handy <END> öffnen
+<START:menuitem_target> modi <END> öffnen
+<START:menuitem_target> basic <END> öffnen
+<START:menuitem_target> fortgeschritten <END> öffnen
+<START:menuitem_target> nur fahren <END> öffnen
+<START:menuitem_target> fahr geste <END> öffnen
+<START:menuitem_target> add ons <END> öffnen
+<START:menuitem_target> mouse eins <END> öffnen
+<START:menuitem_target> mouse zwei <END> öffnen
+bitte <START:menuitem_target> mouse eins <END> öffnen
+bitte <START:menuitem_target> mouse zwei <END> öffnen
+<START:menuitem_target> tv <END> öffnen
+<START:menuitem_target> fernseher <END> öffnen
+<START:menuitem_target> android <END> öffnen
+<START:menuitem_target> ios <END> öffnen
+<START:menuitem_target> iarm <END> öffnen
+<START:menuitem_target> idevice <END> öffnen
+<START:menuitem_target> computer <END> öffnen
+<START:menuitem_target> kontakte <END> öffnen
+<START:menuitem_target> kinova <END> öffnen
+öffne die <START:menuitem_target> kamera <END>
+öffne kategorie <START:menuitem_target> kamera <END>
+öffne kategorie <START:menuitem_target> media <END>
+öffne kategorie <START:menuitem_target> galerie <END>
+öffne die <START:menuitem_target> galerie <END>
+öffne kategorie <START:menuitem_target> fahren <END>
+öffne kategorie <START:menuitem_target> einstellung <END>
+öffne kategorie <START:menuitem_target> einstellungen <END>
+öffne die <START:menuitem_target> einstellungen <END>
+öffne kategorie <START:menuitem_target> kalibrierung <END>
+öffne kategorie <START:menuitem_target> neigen <END>
+öffne kategorie <START:menuitem_target> nicken <END>
+öffne kategorie <START:menuitem_target> neigen <END> kalibrierung
+öffne kategorie <START:menuitem_target> nicken <END> kalibrierung
+öffne kategorie <START:menuitem_target> lichter <END>
+öffne kategorie <START:menuitem_target> lichter <END> menü
+öffne kategorie <START:menuitem_target> licht <END>
+öffne kategorie <START:menuitem_target> licht <END> menü
+öffne kategorie <START:menuitem_target> warn blinker <END>
+öffne kategorie <START:menuitem_target> lautstärke <END>
+öffne kategorie <START:menuitem_target> sprache <END>
+öffne kategorie <START:menuitem_target> sprachen <END>
+öffne kategorie <START:menuitem_target> wlan <END>
+öffne kategorie <START:menuitem_target> internet <END>
+öffne kategorie <START:menuitem_target> support <END>
+öffne kategorie <START:menuitem_target> app info <END>
+öffne kategorie <START:menuitem_target> notfall-email <END>
+öffne kategorie <START:menuitem_target> notfall email <END>
+öffne kategorie <START:menuitem_target> sync <END>
+öffne kategorie <START:menuitem_target> synchronisierung <END>
+öffne kategorie <START:menuitem_target> synchronisation <END>
+öffne kategorie <START:menuitem_target> synchronisieren <END>
+öffne kategorie <START:menuitem_target> admin <END>
+öffne kategorie <START:menuitem_target> administration <END>
+öffne kategorie <START:menuitem_target> koppeln <END>
+öffne kategorie <START:menuitem_target> monitor <END>
+öffne kategorie <START:menuitem_target> vorhandenes handy <END>
+öffne kategorie <START:menuitem_target> neues handy <END>
+öffne kategorie <START:menuitem_target> modi <END>
+öffne kategorie <START:menuitem_target> basic <END>
+öffne den modus <START:menuitem_target> basic <END>
+öffne kategorie <START:menuitem_target> fortgeschritten <END>
+öffne den modus <START:menuitem_target> fortgeschritten <END>
+öffne kategorie <START:menuitem_target> nur fahren <END>
+öffne den modus <START:menuitem_target> nur fahren <END>
+öffne kategorie <START:menuitem_target> fahr geste <END>
+öffne kategorie <START:menuitem_target> add ons <END>
+öffne die <START:menuitem_target> add ons <END>
+öffne kategorie <START:menuitem_target> mouse eins <END>
+öffne kategorie <START:menuitem_target> mouse zwei <END>
+öffne kategorie <START:menuitem_target> tv <END>
+öffne kategorie <START:menuitem_target> fernseher <END>
+öffne kategorie <START:menuitem_target> android <END>
+öffne kategorie <START:menuitem_target> ios <END>
+öffne kategorie <START:menuitem_target> iarm <END>
+öffne kategorie <START:menuitem_target> idevice <END>
+öffne kategorie <START:menuitem_target> computer <END>
+öffne kategorie <START:menuitem_target> kontakte <END>
+öffne kategorie <START:menuitem_target> kinova <END>
+kategorie <START:menuitem_target> kamera <END> öffnen
+kategorie <START:menuitem_target> media <END> öffnen
+kategorie <START:menuitem_target> galerie <END> öffnen
+kategorie <START:menuitem_target> sitz <END> öffnen
+kategorie <START:menuitem_target> fahren <END> öffnen
+kategorie <START:menuitem_target> einstellung <END> öffnen
+kategorie <START:menuitem_target> einstellungen <END> öffnen
+kategorie <START:menuitem_target> kalibrierung <END> öffnen
+kategorie <START:menuitem_target> neigen <END> öffnen
+kategorie <START:menuitem_target> nicken <END> öffnen
+kategorie <START:menuitem_target> neigen <END> kalibrierung öffnen
+kategorie <START:menuitem_target> nicken <END> kalibrierung öffnen
+kategorie <START:menuitem_target> lichter <END> öffnen
+kategorie <START:menuitem_target> lichter <END> menü öffnen
+kategorie <START:menuitem_target> licht <END> öffnen
+kategorie <START:menuitem_target> licht <END> menü öffnen
+kategorie <START:menuitem_target> warn blinker <END> öffnen
+kategorie <START:menuitem_target> lautstärke <END> öffnen
+kategorie <START:menuitem_target> sprache <END> öffnen
+kategorie <START:menuitem_target> sprachen <END> öffnen
+kategorie <START:menuitem_target> wlan <END> öffnen
+kategorie <START:menuitem_target> internet <END> öffnen
+kategorie <START:menuitem_target> support <END> öffnen
+kategorie <START:menuitem_target> app info <END> öffnen
+kategorie <START:menuitem_target> notfall email <END> öffnen
+kategorie <START:menuitem_target> notfall-email <END> öffnen
+kategorie <START:menuitem_target> sync <END> öffnen
+kategorie <START:menuitem_target> synchronisierung <END> öffnen
+kategorie <START:menuitem_target> synchronisation <END> öffnen
+kategorie <START:menuitem_target> synchronisieren <END> öffnen
+kategorie <START:menuitem_target> admin <END> öffnen
+kategorie <START:menuitem_target> administration <END> öffnen
+kategorie <START:menuitem_target> koppeln <END> öffnen
+kategorie <START:menuitem_target> monitor <END> öffnen
+kategorie <START:menuitem_target> vorhandenes handy <END> öffnen
+kategorie <START:menuitem_target> neues handy <END> öffnen
+kategorie <START:menuitem_target> modi <END> öffnen
+kategorie <START:menuitem_target> basic <END> öffnen
+kategorie <START:menuitem_target> fortgeschritten <END> öffnen
+kategorie <START:menuitem_target> nur fahren <END> öffnen
+kategorie <START:menuitem_target> fahr geste <END> öffnen
+kategorie <START:menuitem_target> add ons <END> öffnen
+kategorie <START:menuitem_target> mouse eins <END> öffnen
+kategorie <START:menuitem_target> mouse zwei <END> öffnen
+kategorie <START:menuitem_target> tv <END> öffnen
+kategorie <START:menuitem_target> fernseher <END> öffnen
+kategorie <START:menuitem_target> android <END> öffnen
+kategorie <START:menuitem_target> ios <END> öffnen
+kategorie <START:menuitem_target> iarm <END> öffnen
+kategorie <START:menuitem_target> idevice <END> öffnen
+kategorie <START:menuitem_target> computer <END> öffnen
+kategorie <START:menuitem_target> kontakte <END> öffnen
+kategorie <START:menuitem_target> kinova <END> öffnen

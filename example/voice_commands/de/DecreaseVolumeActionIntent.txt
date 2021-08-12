@@ -1,265 +1,265 @@
-reduziere die <START:decrease_target> lautstärke <END>
-verringere die <START:decrease_target> lautstärke <END>
-dreh die <START:decrease_target> lautstärke <END> herunter
-dreh die <START:decrease_target> lautstärke <END> runter
-mach die <START:decrease_target> lautstärke <END> leiser
-<START:decrease_target> lautstärke <END> leiser
-<START:decrease_target> lautstärke <END> reduzieren
-<START:decrease_target> lautstärke <END> verringern
-<START:decrease_target> lautstärke <END> herunter drehen
-<START:decrease_target> lautstärke <END> runter drehen
-<START:decrease_target> lautstärke <END> weniger
-bitte reduziere die <START:decrease_target> lautstärke <END>
-reduziere bitte die <START:decrease_target> lautstärke <END>
-bitte verringere die <START:decrease_target> lautstärke <END>
-verringere bitte die <START:decrease_target> lautstärke <END>
-bitte dreh die <START:decrease_target> lautstärke <END> herunter
-dreh bitte die <START:decrease_target> lautstärke <END> herunter
-dreh die <START:decrease_target> lautstärke <END> bitte herunter
-bitte dreh die <START:decrease_target> lautstärke <END> runter
-dreh bitte die <START:decrease_target> lautstärke <END> runter
-dreh die <START:decrease_target> lautstärke <END> bitte runter
-bitte <START:decrease_target> lautstärke <END> leiser
-bitte <START:decrease_target> lautstärke <END> reduzieren
-bitte <START:decrease_target> lautstärke <END> verringern
-bitte <START:decrease_target> lautstärke <END> herunter drehen
-bitte <START:decrease_target> lautstärke <END> runter drehen
-bitte <START:decrease_target> lautstärke <END> weniger
-reduziere die <START:decrease_target> lautstärke <END> bitte
-verringere die <START:decrease_target> lautstärke <END> bitte
-dreh die <START:decrease_target> lautstärke <END> herunter bitte
-dreh die <START:decrease_target> lautstärke <END> runter bitte
-<START:decrease_target> lautstärke <END> leiser bitte
-<START:decrease_target> lautstärke <END> reduzieren bitte
-<START:decrease_target> lautstärke <END> verringern bitte
-<START:decrease_target> lautstärke <END> herunter drehen bitte
-<START:decrease_target> lautstärke <END> runter drehen bitte
-<START:decrease_target> lautstärke <END> weniger bitte
-reduziere die <START:decrease_target> tv <END> lautstärke
-verringere die <START:decrease_target> tv <END> lautstärke
-dreh die <START:decrease_target> tv <END> lautstärke herunter
-dreh die <START:decrease_target> tv <END> lautstärke runter
-mach die <START:decrease_target> tv <END> lautstärke leiser
-mach den <START:decrease_target> tv <END> leiser
-<START:decrease_target> tv <END> leiser
-<START:decrease_target> tv <END> lautstärke leiser
-<START:decrease_target> tv <END> lautstärke reduzieren
-<START:decrease_target> tv <END> lautstärke verringern
-<START:decrease_target> tv <END> lautstärke herunter drehen
-<START:decrease_target> tv <END> lautstärke runter drehen
-<START:decrease_target> tv <END> lautstärke weniger
-bitte reduziere die <START:decrease_target> tv <END> lautstärke
-reduziere bitte die <START:decrease_target> tv <END> lautstärke
-bitte verringere die <START:decrease_target> tv <END> lautstärke
-verringere bitte die <START:decrease_target> tv <END> lautstärke
-bitte dreh die <START:decrease_target> tv <END> lautstärke herunter
-dreh bitte die <START:decrease_target> tv <END> lautstärke herunter
-dreh die <START:decrease_target> tv <END> lautstärke bitte herunter
-bitte dreh die <START:decrease_target> tv <END> lautstärke runter
-dreh bitte die <START:decrease_target> tv <END> lautstärke runter
-dreh die <START:decrease_target> tv <END> lautstärke bitte runter
-bitte <START:decrease_target> tv <END> lautstärke leiser
-bitte <START:decrease_target> tv <END> lautstärke reduzieren
-bitte <START:decrease_target> tv <END> lautstärke verringern
-bitte <START:decrease_target> tv <END> lautstärke herunter drehen
-bitte <START:decrease_target> tv <END> lautstärke runter drehen
-bitte <START:decrease_target> tv <END> lautstärke weniger
-reduziere die <START:decrease_target> tv <END> lautstärke bitte
-verringere die <START:decrease_target> tv <END> lautstärke bitte
-dreh die <START:decrease_target> tv <END> lautstärke herunter bitte
-dreh die <START:decrease_target> tv <END> lautstärke runter bitte
-<START:decrease_target> tv <END> lautstärke leiser bitte
-<START:decrease_target> tv <END> lautstärke reduzieren bitte
-<START:decrease_target> tv <END> lautstärke verringern bitte
-<START:decrease_target> tv <END> lautstärke herunter drehen bitte
-<START:decrease_target> tv <END> lautstärke runter drehen bitte
-<START:decrease_target> tv <END> lautstärke weniger bitte
-reduziere die lautstärke des <START:decrease_target> tv <END>
-verringere die lautstärke des <START:decrease_target> tv <END>
-dreh die lautstärke des <START:decrease_target> tv <END> herunter
-dreh die lautstärke des <START:decrease_target> tv <END> runter
-mach die lautstärke des <START:decrease_target> tv <END> leiser
-lautstärke des <START:decrease_target> tv <END> leiser
-lautstärke des <START:decrease_target> tv <END> reduzieren
-lautstärke des <START:decrease_target> tv <END> verringern
-lautstärke des <START:decrease_target> tv <END> herunter drehen
-lautstärke des <START:decrease_target> tv <END> runter drehen
-lautstärke des <START:decrease_target> tv <END> weniger
-bitte reduziere die lautstärke des <START:decrease_target> tv <END>
-reduziere bitte die lautstärke des <START:decrease_target> tv <END>
-bitte verringere die lautstärke des <START:decrease_target> tv <END>
-verringere bitte die lautstärke des <START:decrease_target> tv <END>
-bitte dreh die lautstärke des <START:decrease_target> tv <END> herunter
-dreh bitte die lautstärke des <START:decrease_target> tv <END> herunter
-dreh die lautstärke des <START:decrease_target> tv <END> bitte herunter
-bitte dreh die lautstärke des <START:decrease_target> tv <END> runter
-dreh bitte die lautstärke des <START:decrease_target> tv <END> runter
-dreh die lautstärke des <START:decrease_target> tv <END> bitte runter
-bitte lautstärke des <START:decrease_target> tv <END> leiser
-bitte lautstärke des <START:decrease_target> tv <END> reduzieren
-bitte lautstärke des <START:decrease_target> tv <END> verringern
-bitte lautstärke des <START:decrease_target> tv <END> herunter drehen
-bitte lautstärke des <START:decrease_target> tv <END> runter drehen
-bitte lautstärke des <START:decrease_target> tv <END> weniger
-reduziere die lautstärke des <START:decrease_target> tv <END> bitte
-verringere die lautstärke des <START:decrease_target> tv <END> bitte
-dreh die lautstärke des <START:decrease_target> tv <END> herunter bitte
-dreh die lautstärke des <START:decrease_target> tv <END> runter bitte
-lautstärke des <START:decrease_target> tv <END> leiser bitte
-lautstärke des <START:decrease_target> tv <END> reduzieren bitte
-lautstärke des <START:decrease_target> tv <END> verringern bitte
-lautstärke des <START:decrease_target> tv <END> herunter drehen bitte
-lautstärke des <START:decrease_target> tv <END> runter drehen bitte
-lautstärke des <START:decrease_target> tv <END> weniger bitte
-reduziere die <START:decrease_target> musik <END> lautstärke
-verringere die <START:decrease_target> musik <END> lautstärke
-dreh die <START:decrease_target> musik <END> lautstärke herunter
-dreh die <START:decrease_target> musik <END> lautstärke runter
-mach die <START:decrease_target> musik <END> lautstärke leiser
-mach die <START:decrease_target> musik <END> leiser
-<START:decrease_target> musik <END> leiser
-<START:decrease_target> musik <END> lautstärke leiser
-<START:decrease_target> musik <END> lautstärke reduzieren
-<START:decrease_target> musik <END> lautstärke verringern
-<START:decrease_target> musik <END> lautstärke herunter drehen
-<START:decrease_target> musik <END> lautstärke runter drehen
-<START:decrease_target> musik <END> lautstärke weniger
-bitte reduziere die <START:decrease_target> musik <END> lautstärke
-reduziere bitte die <START:decrease_target> musik <END> lautstärke
-bitte verringere die <START:decrease_target> musik <END> lautstärke
-verringere bitte die <START:decrease_target> musik <END> lautstärke
-bitte dreh die <START:decrease_target> musik <END> lautstärke herunter
-dreh bitte die <START:decrease_target> musik <END> lautstärke herunter
-dreh die <START:decrease_target> musik <END> lautstärke bitte herunter
-bitte dreh die <START:decrease_target> musik <END> lautstärke runter
-dreh bitte die <START:decrease_target> musik <END> lautstärke runter
-dreh die <START:decrease_target> musik <END> lautstärke bitte runter
-bitte <START:decrease_target> musik <END> lautstärke leiser
-bitte <START:decrease_target> musik <END> lautstärke reduzieren
-bitte <START:decrease_target> musik <END> lautstärke verringern
-bitte <START:decrease_target> musik <END> lautstärke herunter drehen
-bitte <START:decrease_target> musik <END> lautstärke runter drehen
-bitte <START:decrease_target> musik <END> lautstärke weniger
-reduziere die <START:decrease_target> musik <END> lautstärke bitte
-verringere die <START:decrease_target> musik <END> lautstärke bitte
-dreh die <START:decrease_target> musik <END> lautstärke herunter bitte
-dreh die <START:decrease_target> musik <END> lautstärke runter bitte
-<START:decrease_target> musik <END> lautstärke leiser bitte
-<START:decrease_target> musik <END> lautstärke reduzieren bitte
-<START:decrease_target> musik <END> lautstärke verringern bitte
-<START:decrease_target> musik <END> lautstärke herunter drehen bitte
-<START:decrease_target> musik <END> lautstärke runter drehen bitte
-<START:decrease_target> musik <END> lautstärke weniger bitte
-reduziere die lautstärke der <START:decrease_target> musik <END>
-verringere die lautstärke der <START:decrease_target> musik <END>
-dreh die lautstärke der <START:decrease_target> musik <END> herunter
-dreh die lautstärke der <START:decrease_target> musik <END> runter
-mach die lautstärke der <START:decrease_target> musik <END> leiser
-lautstärke der <START:decrease_target> musik <END> leiser
-lautstärke der <START:decrease_target> musik <END> reduzieren
-lautstärke der <START:decrease_target> musik <END> verringern
-lautstärke der <START:decrease_target> musik <END> herunter drehen
-lautstärke der <START:decrease_target> musik <END> runter drehen
-lautstärke der <START:decrease_target> musik <END> weniger
-bitte reduziere die lautstärke der <START:decrease_target> musik <END>
-reduziere bitte die lautstärke der <START:decrease_target> musik <END>
-bitte verringere die lautstärke der <START:decrease_target> musik <END>
-verringere bitte die lautstärke der <START:decrease_target> musik <END>
-bitte dreh die lautstärke der <START:decrease_target> musik <END> herunter
-dreh bitte die lautstärke der <START:decrease_target> musik <END> herunter
-dreh die lautstärke der <START:decrease_target> musik <END> bitte herunter
-bitte dreh die lautstärke der <START:decrease_target> musik <END> runter
-dreh bitte die lautstärke der <START:decrease_target> musik <END> runter
-dreh die lautstärke der <START:decrease_target> musik <END> bitte runter
-bitte lautstärke der <START:decrease_target> musik <END> leiser
-bitte lautstärke der <START:decrease_target> musik <END> reduzieren
-bitte lautstärke der <START:decrease_target> musik <END> verringern
-bitte lautstärke der <START:decrease_target> musik <END> herunter drehen
-bitte lautstärke der <START:decrease_target> musik <END> runter drehen
-bitte lautstärke der <START:decrease_target> musik <END> weniger
-reduziere die lautstärke der <START:decrease_target> musik <END> bitte
-verringere die lautstärke der <START:decrease_target> musik <END> bitte
-dreh die lautstärke der <START:decrease_target> musik <END> herunter bitte
-dreh die lautstärke der <START:decrease_target> musik <END> runter bitte
-lautstärke der <START:decrease_target> musik <END> leiser bitte
-lautstärke der <START:decrease_target> musik <END> reduzieren bitte
-lautstärke der <START:decrease_target> musik <END> verringern bitte
-lautstärke der <START:decrease_target> musik <END> herunter drehen bitte
-lautstärke der <START:decrease_target> musik <END> runter drehen bitte
-lautstärke der <START:decrease_target> musik <END> weniger bitte
-reduziere die <START:decrease_target> fernseher <END> lautstärke
-verringere die <START:decrease_target> fernseher <END> lautstärke
-dreh die <START:decrease_target> fernseher <END> lautstärke herunter
-dreh die <START:decrease_target> fernseher <END> lautstärke runter
-mach die <START:decrease_target> fernseher <END> lautstärke leiser
-mach den <START:decrease_target> fernseher <END> leiser
-<START:decrease_target> fernseher <END> leiser
-<START:decrease_target> fernseher <END> lautstärke leiser
-<START:decrease_target> fernseher <END> lautstärke reduzieren
-<START:decrease_target> fernseher <END> lautstärke verringern
-<START:decrease_target> fernseher <END> lautstärke herunter drehen
-<START:decrease_target> fernseher <END> lautstärke runter drehen
-<START:decrease_target> fernseher <END> lautstärke weniger
-bitte reduziere die <START:decrease_target> fernseher <END> lautstärke
-reduziere bitte die <START:decrease_target> fernseher <END> lautstärke
-bitte verringere die <START:decrease_target> fernseher <END> lautstärke
-verringere bitte die <START:decrease_target> fernseher <END> lautstärke
-bitte dreh die <START:decrease_target> fernseher <END> lautstärke herunter
-dreh bitte die <START:decrease_target> fernseher <END> lautstärke herunter
-dreh die <START:decrease_target> fernseher <END> lautstärke bitte herunter
-bitte dreh die <START:decrease_target> fernseher <END> lautstärke runter
-dreh bitte die <START:decrease_target> fernseher <END> lautstärke runter
-dreh die <START:decrease_target> fernseher <END> lautstärke bitte runter
-bitte <START:decrease_target> fernseher <END> lautstärke leiser
-bitte <START:decrease_target> fernseher <END> lautstärke reduzieren
-bitte <START:decrease_target> fernseher <END> lautstärke verringern
-bitte <START:decrease_target> fernseher <END> lautstärke herunter drehen
-bitte <START:decrease_target> fernseher <END> lautstärke runter drehen
-bitte <START:decrease_target> fernseher <END> lautstärke weniger
-reduziere die <START:decrease_target> fernseher <END> lautstärke bitte
-verringere die <START:decrease_target> fernseher <END> lautstärke bitte
-dreh die <START:decrease_target> fernseher <END> lautstärke herunter bitte
-dreh die <START:decrease_target> fernseher <END> lautstärke runter bitte
-<START:decrease_target> fernseher <END> lautstärke leiser bitte
-<START:decrease_target> fernseher <END> lautstärke reduzieren bitte
-<START:decrease_target> fernseher <END> lautstärke verringern bitte
-<START:decrease_target> fernseher <END> lautstärke herunter drehen bitte
-<START:decrease_target> fernseher <END> lautstärke runter drehen bitte
-<START:decrease_target> fernseher <END> lautstärke weniger bitte
-reduziere die lautstärke des <START:decrease_target> fernsehers <END>
-verringere die lautstärke des <START:decrease_target> fernsehers <END>
-dreh die lautstärke des <START:decrease_target> fernsehers <END> herunter
-dreh die lautstärke des <START:decrease_target> fernsehers <END> runter
-mach die lautstärke des <START:decrease_target> fernsehers <END> leiser
-lautstärke des <START:decrease_target> fernsehers <END> leiser
-lautstärke des <START:decrease_target> fernsehers <END> reduzieren
-lautstärke des <START:decrease_target> fernsehers <END> verringern
-lautstärke des <START:decrease_target> fernsehers <END> herunter drehen
-lautstärke des <START:decrease_target> fernsehers <END> runter drehen
-lautstärke des <START:decrease_target> fernsehers <END> weniger
-bitte reduziere die lautstärke des <START:decrease_target> fernsehers <END>
-reduziere bitte die lautstärke des <START:decrease_target> fernsehers <END>
-bitte verringere die lautstärke des <START:decrease_target> fernsehers <END>
-verringere bitte die lautstärke des <START:decrease_target> fernsehers <END>
-bitte dreh die lautstärke des <START:decrease_target> fernsehers <END> herunter
-dreh bitte die lautstärke des <START:decrease_target> fernsehers <END> herunter
-dreh die lautstärke des <START:decrease_target> fernsehers <END> bitte herunter
-bitte dreh die lautstärke des <START:decrease_target> fernsehers <END> runter
-dreh bitte die lautstärke des <START:decrease_target> fernsehers <END> runter
-dreh die lautstärke des <START:decrease_target> fernsehers <END> bitte runter
-bitte lautstärke des <START:decrease_target> fernsehers <END> leiser
-bitte lautstärke des <START:decrease_target> fernsehers <END> reduzieren
-bitte lautstärke des <START:decrease_target> fernsehers <END> verringern
-bitte lautstärke des <START:decrease_target> fernsehers <END> herunter drehen
-bitte lautstärke des <START:decrease_target> fernsehers <END> runter drehen
-bitte lautstärke des <START:decrease_target> fernsehers <END> weniger
-reduziere die lautstärke des <START:decrease_target> fernsehers <END> bitte
-verringere die lautstärke des <START:decrease_target> fernsehers <END> bitte
-dreh die lautstärke des <START:decrease_target> fernsehers <END> herunter bitte
-dreh die lautstärke des <START:decrease_target> fernsehers <END> runter bitte
-lautstärke des <START:decrease_target> fernsehers <END> leiser bitte
-lautstärke des <START:decrease_target> fernsehers <END> reduzieren bitte
-lautstärke des <START:decrease_target> fernsehers <END> verringern bitte
-lautstärke des <START:decrease_target> fernsehers <END> herunter drehen bitte
-lautstärke des <START:decrease_target> fernsehers <END> runter drehen bitte
-lautstärke des <START:decrease_target> fernsehers <END> weniger bitte
+reduziere die <START:volume_target> lautstärke <END>
+verringere die <START:volume_target> lautstärke <END>
+dreh die <START:volume_target> lautstärke <END> herunter
+dreh die <START:volume_target> lautstärke <END> runter
+mach die <START:volume_target> lautstärke <END> leiser
+<START:volume_target> lautstärke <END> leiser
+<START:volume_target> lautstärke <END> reduzieren
+<START:volume_target> lautstärke <END> verringern
+<START:volume_target> lautstärke <END> herunter drehen
+<START:volume_target> lautstärke <END> runter drehen
+<START:volume_target> lautstärke <END> weniger
+bitte reduziere die <START:volume_target> lautstärke <END>
+reduziere bitte die <START:volume_target> lautstärke <END>
+bitte verringere die <START:volume_target> lautstärke <END>
+verringere bitte die <START:volume_target> lautstärke <END>
+bitte dreh die <START:volume_target> lautstärke <END> herunter
+dreh bitte die <START:volume_target> lautstärke <END> herunter
+dreh die <START:volume_target> lautstärke <END> bitte herunter
+bitte dreh die <START:volume_target> lautstärke <END> runter
+dreh bitte die <START:volume_target> lautstärke <END> runter
+dreh die <START:volume_target> lautstärke <END> bitte runter
+bitte <START:volume_target> lautstärke <END> leiser
+bitte <START:volume_target> lautstärke <END> reduzieren
+bitte <START:volume_target> lautstärke <END> verringern
+bitte <START:volume_target> lautstärke <END> herunter drehen
+bitte <START:volume_target> lautstärke <END> runter drehen
+bitte <START:volume_target> lautstärke <END> weniger
+reduziere die <START:volume_target> lautstärke <END> bitte
+verringere die <START:volume_target> lautstärke <END> bitte
+dreh die <START:volume_target> lautstärke <END> herunter bitte
+dreh die <START:volume_target> lautstärke <END> runter bitte
+<START:volume_target> lautstärke <END> leiser bitte
+<START:volume_target> lautstärke <END> reduzieren bitte
+<START:volume_target> lautstärke <END> verringern bitte
+<START:volume_target> lautstärke <END> herunter drehen bitte
+<START:volume_target> lautstärke <END> runter drehen bitte
+<START:volume_target> lautstärke <END> weniger bitte
+reduziere die <START:volume_target> tv <END> lautstärke
+verringere die <START:volume_target> tv <END> lautstärke
+dreh die <START:volume_target> tv <END> lautstärke herunter
+dreh die <START:volume_target> tv <END> lautstärke runter
+mach die <START:volume_target> tv <END> lautstärke leiser
+mach den <START:volume_target> tv <END> leiser
+<START:volume_target> tv <END> leiser
+<START:volume_target> tv <END> lautstärke leiser
+<START:volume_target> tv <END> lautstärke reduzieren
+<START:volume_target> tv <END> lautstärke verringern
+<START:volume_target> tv <END> lautstärke herunter drehen
+<START:volume_target> tv <END> lautstärke runter drehen
+<START:volume_target> tv <END> lautstärke weniger
+bitte reduziere die <START:volume_target> tv <END> lautstärke
+reduziere bitte die <START:volume_target> tv <END> lautstärke
+bitte verringere die <START:volume_target> tv <END> lautstärke
+verringere bitte die <START:volume_target> tv <END> lautstärke
+bitte dreh die <START:volume_target> tv <END> lautstärke herunter
+dreh bitte die <START:volume_target> tv <END> lautstärke herunter
+dreh die <START:volume_target> tv <END> lautstärke bitte herunter
+bitte dreh die <START:volume_target> tv <END> lautstärke runter
+dreh bitte die <START:volume_target> tv <END> lautstärke runter
+dreh die <START:volume_target> tv <END> lautstärke bitte runter
+bitte <START:volume_target> tv <END> lautstärke leiser
+bitte <START:volume_target> tv <END> lautstärke reduzieren
+bitte <START:volume_target> tv <END> lautstärke verringern
+bitte <START:volume_target> tv <END> lautstärke herunter drehen
+bitte <START:volume_target> tv <END> lautstärke runter drehen
+bitte <START:volume_target> tv <END> lautstärke weniger
+reduziere die <START:volume_target> tv <END> lautstärke bitte
+verringere die <START:volume_target> tv <END> lautstärke bitte
+dreh die <START:volume_target> tv <END> lautstärke herunter bitte
+dreh die <START:volume_target> tv <END> lautstärke runter bitte
+<START:volume_target> tv <END> lautstärke leiser bitte
+<START:volume_target> tv <END> lautstärke reduzieren bitte
+<START:volume_target> tv <END> lautstärke verringern bitte
+<START:volume_target> tv <END> lautstärke herunter drehen bitte
+<START:volume_target> tv <END> lautstärke runter drehen bitte
+<START:volume_target> tv <END> lautstärke weniger bitte
+reduziere die lautstärke des <START:volume_target> tv <END>
+verringere die lautstärke des <START:volume_target> tv <END>
+dreh die lautstärke des <START:volume_target> tv <END> herunter
+dreh die lautstärke des <START:volume_target> tv <END> runter
+mach die lautstärke des <START:volume_target> tv <END> leiser
+lautstärke des <START:volume_target> tv <END> leiser
+lautstärke des <START:volume_target> tv <END> reduzieren
+lautstärke des <START:volume_target> tv <END> verringern
+lautstärke des <START:volume_target> tv <END> herunter drehen
+lautstärke des <START:volume_target> tv <END> runter drehen
+lautstärke des <START:volume_target> tv <END> weniger
+bitte reduziere die lautstärke des <START:volume_target> tv <END>
+reduziere bitte die lautstärke des <START:volume_target> tv <END>
+bitte verringere die lautstärke des <START:volume_target> tv <END>
+verringere bitte die lautstärke des <START:volume_target> tv <END>
+bitte dreh die lautstärke des <START:volume_target> tv <END> herunter
+dreh bitte die lautstärke des <START:volume_target> tv <END> herunter
+dreh die lautstärke des <START:volume_target> tv <END> bitte herunter
+bitte dreh die lautstärke des <START:volume_target> tv <END> runter
+dreh bitte die lautstärke des <START:volume_target> tv <END> runter
+dreh die lautstärke des <START:volume_target> tv <END> bitte runter
+bitte lautstärke des <START:volume_target> tv <END> leiser
+bitte lautstärke des <START:volume_target> tv <END> reduzieren
+bitte lautstärke des <START:volume_target> tv <END> verringern
+bitte lautstärke des <START:volume_target> tv <END> herunter drehen
+bitte lautstärke des <START:volume_target> tv <END> runter drehen
+bitte lautstärke des <START:volume_target> tv <END> weniger
+reduziere die lautstärke des <START:volume_target> tv <END> bitte
+verringere die lautstärke des <START:volume_target> tv <END> bitte
+dreh die lautstärke des <START:volume_target> tv <END> herunter bitte
+dreh die lautstärke des <START:volume_target> tv <END> runter bitte
+lautstärke des <START:volume_target> tv <END> leiser bitte
+lautstärke des <START:volume_target> tv <END> reduzieren bitte
+lautstärke des <START:volume_target> tv <END> verringern bitte
+lautstärke des <START:volume_target> tv <END> herunter drehen bitte
+lautstärke des <START:volume_target> tv <END> runter drehen bitte
+lautstärke des <START:volume_target> tv <END> weniger bitte
+reduziere die <START:volume_target> musik <END> lautstärke
+verringere die <START:volume_target> musik <END> lautstärke
+dreh die <START:volume_target> musik <END> lautstärke herunter
+dreh die <START:volume_target> musik <END> lautstärke runter
+mach die <START:volume_target> musik <END> lautstärke leiser
+mach die <START:volume_target> musik <END> leiser
+<START:volume_target> musik <END> leiser
+<START:volume_target> musik <END> lautstärke leiser
+<START:volume_target> musik <END> lautstärke reduzieren
+<START:volume_target> musik <END> lautstärke verringern
+<START:volume_target> musik <END> lautstärke herunter drehen
+<START:volume_target> musik <END> lautstärke runter drehen
+<START:volume_target> musik <END> lautstärke weniger
+bitte reduziere die <START:volume_target> musik <END> lautstärke
+reduziere bitte die <START:volume_target> musik <END> lautstärke
+bitte verringere die <START:volume_target> musik <END> lautstärke
+verringere bitte die <START:volume_target> musik <END> lautstärke
+bitte dreh die <START:volume_target> musik <END> lautstärke herunter
+dreh bitte die <START:volume_target> musik <END> lautstärke herunter
+dreh die <START:volume_target> musik <END> lautstärke bitte herunter
+bitte dreh die <START:volume_target> musik <END> lautstärke runter
+dreh bitte die <START:volume_target> musik <END> lautstärke runter
+dreh die <START:volume_target> musik <END> lautstärke bitte runter
+bitte <START:volume_target> musik <END> lautstärke leiser
+bitte <START:volume_target> musik <END> lautstärke reduzieren
+bitte <START:volume_target> musik <END> lautstärke verringern
+bitte <START:volume_target> musik <END> lautstärke herunter drehen
+bitte <START:volume_target> musik <END> lautstärke runter drehen
+bitte <START:volume_target> musik <END> lautstärke weniger
+reduziere die <START:volume_target> musik <END> lautstärke bitte
+verringere die <START:volume_target> musik <END> lautstärke bitte
+dreh die <START:volume_target> musik <END> lautstärke herunter bitte
+dreh die <START:volume_target> musik <END> lautstärke runter bitte
+<START:volume_target> musik <END> lautstärke leiser bitte
+<START:volume_target> musik <END> lautstärke reduzieren bitte
+<START:volume_target> musik <END> lautstärke verringern bitte
+<START:volume_target> musik <END> lautstärke herunter drehen bitte
+<START:volume_target> musik <END> lautstärke runter drehen bitte
+<START:volume_target> musik <END> lautstärke weniger bitte
+reduziere die lautstärke der <START:volume_target> musik <END>
+verringere die lautstärke der <START:volume_target> musik <END>
+dreh die lautstärke der <START:volume_target> musik <END> herunter
+dreh die lautstärke der <START:volume_target> musik <END> runter
+mach die lautstärke der <START:volume_target> musik <END> leiser
+lautstärke der <START:volume_target> musik <END> leiser
+lautstärke der <START:volume_target> musik <END> reduzieren
+lautstärke der <START:volume_target> musik <END> verringern
+lautstärke der <START:volume_target> musik <END> herunter drehen
+lautstärke der <START:volume_target> musik <END> runter drehen
+lautstärke der <START:volume_target> musik <END> weniger
+bitte reduziere die lautstärke der <START:volume_target> musik <END>
+reduziere bitte die lautstärke der <START:volume_target> musik <END>
+bitte verringere die lautstärke der <START:volume_target> musik <END>
+verringere bitte die lautstärke der <START:volume_target> musik <END>
+bitte dreh die lautstärke der <START:volume_target> musik <END> herunter
+dreh bitte die lautstärke der <START:volume_target> musik <END> herunter
+dreh die lautstärke der <START:volume_target> musik <END> bitte herunter
+bitte dreh die lautstärke der <START:volume_target> musik <END> runter
+dreh bitte die lautstärke der <START:volume_target> musik <END> runter
+dreh die lautstärke der <START:volume_target> musik <END> bitte runter
+bitte lautstärke der <START:volume_target> musik <END> leiser
+bitte lautstärke der <START:volume_target> musik <END> reduzieren
+bitte lautstärke der <START:volume_target> musik <END> verringern
+bitte lautstärke der <START:volume_target> musik <END> herunter drehen
+bitte lautstärke der <START:volume_target> musik <END> runter drehen
+bitte lautstärke der <START:volume_target> musik <END> weniger
+reduziere die lautstärke der <START:volume_target> musik <END> bitte
+verringere die lautstärke der <START:volume_target> musik <END> bitte
+dreh die lautstärke der <START:volume_target> musik <END> herunter bitte
+dreh die lautstärke der <START:volume_target> musik <END> runter bitte
+lautstärke der <START:volume_target> musik <END> leiser bitte
+lautstärke der <START:volume_target> musik <END> reduzieren bitte
+lautstärke der <START:volume_target> musik <END> verringern bitte
+lautstärke der <START:volume_target> musik <END> herunter drehen bitte
+lautstärke der <START:volume_target> musik <END> runter drehen bitte
+lautstärke der <START:volume_target> musik <END> weniger bitte
+reduziere die <START:volume_target> fernseher <END> lautstärke
+verringere die <START:volume_target> fernseher <END> lautstärke
+dreh die <START:volume_target> fernseher <END> lautstärke herunter
+dreh die <START:volume_target> fernseher <END> lautstärke runter
+mach die <START:volume_target> fernseher <END> lautstärke leiser
+mach den <START:volume_target> fernseher <END> leiser
+<START:volume_target> fernseher <END> leiser
+<START:volume_target> fernseher <END> lautstärke leiser
+<START:volume_target> fernseher <END> lautstärke reduzieren
+<START:volume_target> fernseher <END> lautstärke verringern
+<START:volume_target> fernseher <END> lautstärke herunter drehen
+<START:volume_target> fernseher <END> lautstärke runter drehen
+<START:volume_target> fernseher <END> lautstärke weniger
+bitte reduziere die <START:volume_target> fernseher <END> lautstärke
+reduziere bitte die <START:volume_target> fernseher <END> lautstärke
+bitte verringere die <START:volume_target> fernseher <END> lautstärke
+verringere bitte die <START:volume_target> fernseher <END> lautstärke
+bitte dreh die <START:volume_target> fernseher <END> lautstärke herunter
+dreh bitte die <START:volume_target> fernseher <END> lautstärke herunter
+dreh die <START:volume_target> fernseher <END> lautstärke bitte herunter
+bitte dreh die <START:volume_target> fernseher <END> lautstärke runter
+dreh bitte die <START:volume_target> fernseher <END> lautstärke runter
+dreh die <START:volume_target> fernseher <END> lautstärke bitte runter
+bitte <START:volume_target> fernseher <END> lautstärke leiser
+bitte <START:volume_target> fernseher <END> lautstärke reduzieren
+bitte <START:volume_target> fernseher <END> lautstärke verringern
+bitte <START:volume_target> fernseher <END> lautstärke herunter drehen
+bitte <START:volume_target> fernseher <END> lautstärke runter drehen
+bitte <START:volume_target> fernseher <END> lautstärke weniger
+reduziere die <START:volume_target> fernseher <END> lautstärke bitte
+verringere die <START:volume_target> fernseher <END> lautstärke bitte
+dreh die <START:volume_target> fernseher <END> lautstärke herunter bitte
+dreh die <START:volume_target> fernseher <END> lautstärke runter bitte
+<START:volume_target> fernseher <END> lautstärke leiser bitte
+<START:volume_target> fernseher <END> lautstärke reduzieren bitte
+<START:volume_target> fernseher <END> lautstärke verringern bitte
+<START:volume_target> fernseher <END> lautstärke herunter drehen bitte
+<START:volume_target> fernseher <END> lautstärke runter drehen bitte
+<START:volume_target> fernseher <END> lautstärke weniger bitte
+reduziere die lautstärke des <START:volume_target> fernsehers <END>
+verringere die lautstärke des <START:volume_target> fernsehers <END>
+dreh die lautstärke des <START:volume_target> fernsehers <END> herunter
+dreh die lautstärke des <START:volume_target> fernsehers <END> runter
+mach die lautstärke des <START:volume_target> fernsehers <END> leiser
+lautstärke des <START:volume_target> fernsehers <END> leiser
+lautstärke des <START:volume_target> fernsehers <END> reduzieren
+lautstärke des <START:volume_target> fernsehers <END> verringern
+lautstärke des <START:volume_target> fernsehers <END> herunter drehen
+lautstärke des <START:volume_target> fernsehers <END> runter drehen
+lautstärke des <START:volume_target> fernsehers <END> weniger
+bitte reduziere die lautstärke des <START:volume_target> fernsehers <END>
+reduziere bitte die lautstärke des <START:volume_target> fernsehers <END>
+bitte verringere die lautstärke des <START:volume_target> fernsehers <END>
+verringere bitte die lautstärke des <START:volume_target> fernsehers <END>
+bitte dreh die lautstärke des <START:volume_target> fernsehers <END> herunter
+dreh bitte die lautstärke des <START:volume_target> fernsehers <END> herunter
+dreh die lautstärke des <START:volume_target> fernsehers <END> bitte herunter
+bitte dreh die lautstärke des <START:volume_target> fernsehers <END> runter
+dreh bitte die lautstärke des <START:volume_target> fernsehers <END> runter
+dreh die lautstärke des <START:volume_target> fernsehers <END> bitte runter
+bitte lautstärke des <START:volume_target> fernsehers <END> leiser
+bitte lautstärke des <START:volume_target> fernsehers <END> reduzieren
+bitte lautstärke des <START:volume_target> fernsehers <END> verringern
+bitte lautstärke des <START:volume_target> fernsehers <END> herunter drehen
+bitte lautstärke des <START:volume_target> fernsehers <END> runter drehen
+bitte lautstärke des <START:volume_target> fernsehers <END> weniger
+reduziere die lautstärke des <START:volume_target> fernsehers <END> bitte
+verringere die lautstärke des <START:volume_target> fernsehers <END> bitte
+dreh die lautstärke des <START:volume_target> fernsehers <END> herunter bitte
+dreh die lautstärke des <START:volume_target> fernsehers <END> runter bitte
+lautstärke des <START:volume_target> fernsehers <END> leiser bitte
+lautstärke des <START:volume_target> fernsehers <END> reduzieren bitte
+lautstärke des <START:volume_target> fernsehers <END> verringern bitte
+lautstärke des <START:volume_target> fernsehers <END> herunter drehen bitte
+lautstärke des <START:volume_target> fernsehers <END> runter drehen bitte
+lautstärke des <START:volume_target> fernsehers <END> weniger bitte

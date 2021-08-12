@@ -1,60 +1,60 @@
-<START:channel_target> previous <END> channel
-the <START:channel_target> previous <END> channel
-to <START:channel_target> previous <END> channel
-to the <START:channel_target> previous <END> channel
-back to <START:channel_target> previous <END> channel
-back to the <START:channel_target> previous <END> channel
-go to <START:channel_target> previous <END> channel
-go to the <START:channel_target> previous <END> channel
-go back to <START:channel_target> previous <END> channel
-go back to the <START:channel_target> previous <END> channel
-change to <START:channel_target> previous <END> channel
-change back to <START:channel_target> previous <END> channel
-change to the <START:channel_target> previous <END> channel
-change back to the <START:channel_target> previous <END> channel
-select <START:channel_target> previous <END> channel
-select <START:channel_target> previous <END> channel again
-select the <START:channel_target> previous <END> channel
-select the <START:channel_target> previous <END> channel again
-switch to <START:channel_target> previous <END> channel
-switch back to <START:channel_target> previous <END> channel
-switch to the <START:channel_target> previous <END> channel
-switch back to the <START:channel_target> previous <END> channel
-show <START:channel_target> previous <END> channel
-show <START:channel_target> previous <END> channel again
-show the <START:channel_target> previous <END> channel
-show the <START:channel_target> previous <END> channel again
-return to <START:channel_target> previous <END> channel
-return to the <START:channel_target> previous <END> channel
-<START:channel_target> next <END> channel
-the <START:channel_target> next <END> channel
-to <START:channel_target> next <END> channel
-to the <START:channel_target> next <END> channel
-go to <START:channel_target> next <END> channel
-go to the <START:channel_target> next <END> channel
-go ahead to <START:channel_target> next <END> channel
-go ahead to the <START:channel_target> next <END> channel
-move on to <START:channel_target> next <END> channel
-move on to the <START:channel_target> next <END> channel
-go further to <START:channel_target> next <END> channel
-go further to the <START:channel_target> next <END> channel
-go forward to <START:channel_target> next <END> channel
-go forward to the <START:channel_target> next <END> channel
-forward to <START:channel_target> next <END> channel
-forward to the <START:channel_target> next <END> channel
-continue to <START:channel_target> next <END> channel
-continue to the <START:channel_target> next <END> channel
-continue further to <START:channel_target> next <END> channel
-continue further to the <START:channel_target> next <END> channel
-proceed to <START:channel_target> next <END> channel
-proceed to the <START:channel_target> next <END> channel
-change to <START:channel_target> next <END> channel
-change to the <START:channel_target> next <END> channel
-change further to <START:channel_target> next <END> channel
-change further to the <START:channel_target> next <END> channel
-select <START:channel_target> next <END> channel
-select the <START:channel_target> next <END> channel
-switch to <START:channel_target> next <END> channel
-switch to the <START:channel_target> next <END> channel
-show <START:channel_target> next <END> channel
-show the <START:channel_target> next <END> channel
+<START:next_prev_target> previous <END> channel
+the <START:next_prev_target> previous <END> channel
+to <START:next_prev_target> previous <END> channel
+to the <START:next_prev_target> previous <END> channel
+back to <START:next_prev_target> previous <END> channel
+back to the <START:next_prev_target> previous <END> channel
+go to <START:next_prev_target> previous <END> channel
+go to the <START:next_prev_target> previous <END> channel
+go back to <START:next_prev_target> previous <END> channel
+go back to the <START:next_prev_target> previous <END> channel
+change to <START:next_prev_target> previous <END> channel
+change back to <START:next_prev_target> previous <END> channel
+change to the <START:next_prev_target> previous <END> channel
+change back to the <START:next_prev_target> previous <END> channel
+select <START:next_prev_target> previous <END> channel
+select <START:next_prev_target> previous <END> channel again
+select the <START:next_prev_target> previous <END> channel
+select the <START:next_prev_target> previous <END> channel again
+switch to <START:next_prev_target> previous <END> channel
+switch back to <START:next_prev_target> previous <END> channel
+switch to the <START:next_prev_target> previous <END> channel
+switch back to the <START:next_prev_target> previous <END> channel
+show <START:next_prev_target> previous <END> channel
+show <START:next_prev_target> previous <END> channel again
+show the <START:next_prev_target> previous <END> channel
+show the <START:next_prev_target> previous <END> channel again
+return to <START:next_prev_target> previous <END> channel
+return to the <START:next_prev_target> previous <END> channel
+<START:next_prev_target> next <END> channel
+the <START:next_prev_target> next <END> channel
+to <START:next_prev_target> next <END> channel
+to the <START:next_prev_target> next <END> channel
+go to <START:next_prev_target> next <END> channel
+go to the <START:next_prev_target> next <END> channel
+go ahead to <START:next_prev_target> next <END> channel
+go ahead to the <START:next_prev_target> next <END> channel
+move on to <START:next_prev_target> next <END> channel
+move on to the <START:next_prev_target> next <END> channel
+go further to <START:next_prev_target> next <END> channel
+go further to the <START:next_prev_target> next <END> channel
+go forward to <START:next_prev_target> next <END> channel
+go forward to the <START:next_prev_target> next <END> channel
+forward to <START:next_prev_target> next <END> channel
+forward to the <START:next_prev_target> next <END> channel
+continue to <START:next_prev_target> next <END> channel
+continue to the <START:next_prev_target> next <END> channel
+continue further to <START:next_prev_target> next <END> channel
+continue further to the <START:next_prev_target> next <END> channel
+proceed to <START:next_prev_target> next <END> channel
+proceed to the <START:next_prev_target> next <END> channel
+change to <START:next_prev_target> next <END> channel
+change to the <START:next_prev_target> next <END> channel
+change further to <START:next_prev_target> next <END> channel
+change further to the <START:next_prev_target> next <END> channel
+select <START:next_prev_target> next <END> channel
+select the <START:next_prev_target> next <END> channel
+switch to <START:next_prev_target> next <END> channel
+switch to the <START:next_prev_target> next <END> channel
+show <START:next_prev_target> next <END> channel
+show the <START:next_prev_target> next <END> channel

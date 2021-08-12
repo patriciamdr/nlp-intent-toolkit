@@ -1,76 +1,76 @@
-tilt the <START:tilt_up_target> bed <END> up
-tilt <START:tilt_up_target> bed <END> up
-tilt up the <START:tilt_up_target> bed <END>
-tilt up <START:tilt_up_target> bed <END>
-<START:tilt_up_target> bed <END> up tilt
-<START:tilt_up_target> bed <END> tilt up
-level the <START:tilt_up_target> bed <END> up
-level <START:tilt_up_target> bed <END> up
-level up the <START:tilt_up_target> bed <END>
-level up <START:tilt_up_target> bed <END>
-<START:tilt_up_target> bed <END> up level
-<START:tilt_up_target> bed <END> level up
-increase <START:tilt_up_target> bed <END>
-increase the <START:tilt_up_target> bed <END>
-increase <START:tilt_up_target> bed <END> tilt
-increase <START:tilt_up_target> bed <END> level
-increase <START:tilt_up_target> bed <END> height
-increase <START:tilt_up_target> bed <END> incline
-increase <START:tilt_up_target> bed <END> angle
-increase the <START:tilt_up_target> bed <END> tilt
-increase the <START:tilt_up_target> bed <END> level
-increase the <START:tilt_up_target> bed <END> height
-increase the <START:tilt_up_target> bed <END> incline
-increase the <START:tilt_up_target> bed <END> angle
-increase tilt of <START:tilt_up_target> bed <END>
-increase level of <START:tilt_up_target> bed <END>
-increase height of <START:tilt_up_target> bed <END>
-increase angle of <START:tilt_up_target> bed <END>
-increase incline of <START:tilt_up_target> bed <END>
-increase tilt of the <START:tilt_up_target> bed <END>
-increase level of the <START:tilt_up_target> bed <END>
-increase height of the <START:tilt_up_target> bed <END>
-increase angle of the <START:tilt_up_target> bed <END>
-increase incline of the <START:tilt_up_target> bed <END>
-raise <START:tilt_up_target> bed <END> tilt
-raise <START:tilt_up_target> bed <END> level
-raise <START:tilt_up_target> bed <END> height
-raise <START:tilt_up_target> bed <END> incline
-raise <START:tilt_up_target> bed <END> angle
-raise the <START:tilt_up_target> bed <END> tilt
-raise the <START:tilt_up_target> bed <END> level
-raise the <START:tilt_up_target> bed <END> height
-raise the <START:tilt_up_target> bed <END> incline
-raise the <START:tilt_up_target> bed <END> angle
-raise tilt of <START:tilt_up_target> bed <END>
-raise level of <START:tilt_up_target> bed <END>
-raise height of <START:tilt_up_target> bed <END>
-raise angle of <START:tilt_up_target> bed <END>
-raise incline of <START:tilt_up_target> bed <END>
-raise tilt of the <START:tilt_up_target> bed <END>
-raise level of the <START:tilt_up_target> bed <END>
-raise height of the <START:tilt_up_target> bed <END>
-raise angle of the <START:tilt_up_target> bed <END>
-raise incline of the <START:tilt_up_target> bed <END>
-higher <START:tilt_up_target> bed <END>
-higher the <START:tilt_up_target> bed <END>
-higher <START:tilt_up_target> bed <END> tilt
-higher <START:tilt_up_target> bed <END> level
-higher <START:tilt_up_target> bed <END> height
-higher <START:tilt_up_target> bed <END> incline
-higher <START:tilt_up_target> bed <END> angle
-higher the <START:tilt_up_target> bed <END> tilt
-higher the <START:tilt_up_target> bed <END> level
-higher the <START:tilt_up_target> bed <END> height
-higher the <START:tilt_up_target> bed <END> incline
-higher the <START:tilt_up_target> bed <END> angle
-higher tilt of <START:tilt_up_target> bed <END>
-higher level of <START:tilt_up_target> bed <END>
-higher height of <START:tilt_up_target> bed <END>
-higher angle of <START:tilt_up_target> bed <END>
-higher incline of <START:tilt_up_target> bed <END>
-higher tilt of the <START:tilt_up_target> bed <END>
-higher level of the <START:tilt_up_target> bed <END>
-higher height of the <START:tilt_up_target> bed <END>
-higher angle of the <START:tilt_up_target> bed <END>
-higher incline of the <START:tilt_up_target> bed <END>
+tilt the <START:tilt_target> bed <END> up
+tilt <START:tilt_target> bed <END> up
+tilt up the <START:tilt_target> bed <END>
+tilt up <START:tilt_target> bed <END>
+<START:tilt_target> bed <END> up tilt
+<START:tilt_target> bed <END> tilt up
+level the <START:tilt_target> bed <END> up
+level <START:tilt_target> bed <END> up
+level up the <START:tilt_target> bed <END>
+level up <START:tilt_target> bed <END>
+<START:tilt_target> bed <END> up level
+<START:tilt_target> bed <END> level up
+increase <START:tilt_target> bed <END>
+increase the <START:tilt_target> bed <END>
+increase <START:tilt_target> bed <END> tilt
+increase <START:tilt_target> bed <END> level
+increase <START:tilt_target> bed <END> height
+increase <START:tilt_target> bed <END> incline
+increase <START:tilt_target> bed <END> angle
+increase the <START:tilt_target> bed <END> tilt
+increase the <START:tilt_target> bed <END> level
+increase the <START:tilt_target> bed <END> height
+increase the <START:tilt_target> bed <END> incline
+increase the <START:tilt_target> bed <END> angle
+increase tilt of <START:tilt_target> bed <END>
+increase level of <START:tilt_target> bed <END>
+increase height of <START:tilt_target> bed <END>
+increase angle of <START:tilt_target> bed <END>
+increase incline of <START:tilt_target> bed <END>
+increase tilt of the <START:tilt_target> bed <END>
+increase level of the <START:tilt_target> bed <END>
+increase height of the <START:tilt_target> bed <END>
+increase angle of the <START:tilt_target> bed <END>
+increase incline of the <START:tilt_target> bed <END>
+raise <START:tilt_target> bed <END> tilt
+raise <START:tilt_target> bed <END> level
+raise <START:tilt_target> bed <END> height
+raise <START:tilt_target> bed <END> incline
+raise <START:tilt_target> bed <END> angle
+raise the <START:tilt_target> bed <END> tilt
+raise the <START:tilt_target> bed <END> level
+raise the <START:tilt_target> bed <END> height
+raise the <START:tilt_target> bed <END> incline
+raise the <START:tilt_target> bed <END> angle
+raise tilt of <START:tilt_target> bed <END>
+raise level of <START:tilt_target> bed <END>
+raise height of <START:tilt_target> bed <END>
+raise angle of <START:tilt_target> bed <END>
+raise incline of <START:tilt_target> bed <END>
+raise tilt of the <START:tilt_target> bed <END>
+raise level of the <START:tilt_target> bed <END>
+raise height of the <START:tilt_target> bed <END>
+raise angle of the <START:tilt_target> bed <END>
+raise incline of the <START:tilt_target> bed <END>
+higher <START:tilt_target> bed <END>
+higher the <START:tilt_target> bed <END>
+higher <START:tilt_target> bed <END> tilt
+higher <START:tilt_target> bed <END> level
+higher <START:tilt_target> bed <END> height
+higher <START:tilt_target> bed <END> incline
+higher <START:tilt_target> bed <END> angle
+higher the <START:tilt_target> bed <END> tilt
+higher the <START:tilt_target> bed <END> level
+higher the <START:tilt_target> bed <END> height
+higher the <START:tilt_target> bed <END> incline
+higher the <START:tilt_target> bed <END> angle
+higher tilt of <START:tilt_target> bed <END>
+higher level of <START:tilt_target> bed <END>
+higher height of <START:tilt_target> bed <END>
+higher angle of <START:tilt_target> bed <END>
+higher incline of <START:tilt_target> bed <END>
+higher tilt of the <START:tilt_target> bed <END>
+higher level of the <START:tilt_target> bed <END>
+higher height of the <START:tilt_target> bed <END>
+higher angle of the <START:tilt_target> bed <END>
+higher incline of the <START:tilt_target> bed <END>

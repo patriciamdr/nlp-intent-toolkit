@@ -1,125 +1,125 @@
-close the <START:close_action_target> window <END>
-close the <START:close_action_target> windows <END>
-close <START:close_action_target> window <END>
-close <START:close_action_target> windows <END>
-closed <START:close_action_target> window <END>
-closed <START:close_action_target> windows <END>
-<START:close_action_target> window <END> closed
-<START:close_action_target> windows <END> closed
-<START:close_action_target> window <END> close
-<START:close_action_target> windows <END> close
-close the <START:close_action_target> curtain <END>
-close the <START:close_action_target> curtains <END>
-close <START:close_action_target> curtain <END>
-closed <START:close_action_target> curtains <END>
-closed <START:close_action_target> curtain <END>
-close <START:close_action_target> curtains <END>
-<START:close_action_target> curtain <END> closed
-<START:close_action_target> curtains <END> closed
-<START:close_action_target> curtain <END> close
-<START:close_action_target> curtains <END> close
-close the <START:close_action_target> door <END>
-close <START:close_action_target> door <END>
-closed <START:close_action_target> door <END>
-<START:close_action_target> door <END> closed
-<START:close_action_target> door <END> close
-close the <START:close_action_target> window <END> now
-close the <START:close_action_target> windows <END> now
-close <START:close_action_target> window <END> now
-close <START:close_action_target> windows <END> now
-closed <START:close_action_target> window <END> now
-closed <START:close_action_target> windows <END> now
-<START:close_action_target> window <END> closed now
-<START:close_action_target> windows <END> closed now
-<START:close_action_target> window <END> close now
-<START:close_action_target> windows <END> close now
-close the <START:close_action_target> curtain <END> now
-close the <START:close_action_target> curtains <END> now
-close <START:close_action_target> curtain <END> now
-closed <START:close_action_target> curtains <END> now
-closed <START:close_action_target> curtain <END> now
-close <START:close_action_target> curtains <END> now
-<START:close_action_target> curtain <END> closed now
-<START:close_action_target> curtains <END> closed now
-<START:close_action_target> curtain <END> close now
-<START:close_action_target> curtains <END> close now
-close the <START:close_action_target> door <END> now
-close <START:close_action_target> door <END> now
-closed <START:close_action_target> door <END> now
-<START:close_action_target> door <END> closed now
-<START:close_action_target> door <END> close now
-please close the <START:close_action_target> window <END> now
-please close the <START:close_action_target> windows <END> now
-please close <START:close_action_target> window <END> now
-please close <START:close_action_target> windows <END> now
-please closed <START:close_action_target> window <END> now
-please closed <START:close_action_target> windows <END> now
-please <START:close_action_target> window <END> closed now
-please <START:close_action_target> windows <END> closed now
-please <START:close_action_target> window <END> close now
-please <START:close_action_target> windows <END> close now
-please close the <START:close_action_target> curtain <END> now
-please close the <START:close_action_target> curtains <END> now
-please close <START:close_action_target> curtain <END> now
-please closed <START:close_action_target> curtains <END> now
-please closed <START:close_action_target> curtain <END> now
-please close <START:close_action_target> curtains <END> now
-please <START:close_action_target> curtain <END> closed now
-please <START:close_action_target> curtains <END> closed now
-please <START:close_action_target> curtain <END> close now
-please <START:close_action_target> curtains <END> close now
-please close the <START:close_action_target> door <END> now
-please close <START:close_action_target> door <END> now
-please closed <START:close_action_target> door <END> now
-please <START:close_action_target> door <END> closed now
-please <START:close_action_target> door <END> close now
-please close the <START:close_action_target> window <END>
-please close the <START:close_action_target> windows <END>
-please close <START:close_action_target> window <END>
-please close <START:close_action_target> windows <END>
-please closed <START:close_action_target> window <END>
-please closed <START:close_action_target> windows <END>
-please <START:close_action_target> window <END> closed
-please <START:close_action_target> windows <END> closed
-please <START:close_action_target> window <END> close
-please <START:close_action_target> windows <END> close
-please close the <START:close_action_target> curtain <END>
-please close the <START:close_action_target> curtains <END>
-please close <START:close_action_target> curtain <END>
-please closed <START:close_action_target> curtains <END>
-please closed <START:close_action_target> curtain <END>
-please close <START:close_action_target> curtains <END>
-please <START:close_action_target> curtain <END> closed
-please <START:close_action_target> curtains <END> closed
-please <START:close_action_target> curtain <END> close
-please <START:close_action_target> curtains <END> close
-please close the <START:close_action_target> door <END>
-please close <START:close_action_target> door <END>
-please closed <START:close_action_target> door <END>
-please <START:close_action_target> door <END> closed
-please <START:close_action_target> door <END> close
-close the <START:close_action_target> window <END> please
-close the <START:close_action_target> windows <END> please
-close <START:close_action_target> window <END> please
-close <START:close_action_target> windows <END> please
-closed <START:close_action_target> window <END> please
-closed <START:close_action_target> windows <END> please
-<START:close_action_target> window <END> closed please
-<START:close_action_target> windows <END> closed please
-<START:close_action_target> window <END> close please
-<START:close_action_target> windows <END> close please
-close the <START:close_action_target> curtain <END> please
-close the <START:close_action_target> curtains <END> please
-close <START:close_action_target> curtain <END> please
-closed <START:close_action_target> curtains <END> please
-closed <START:close_action_target> curtain <END> please
-close <START:close_action_target> curtains <END> please
-<START:close_action_target> curtain <END> closed please
-<START:close_action_target> curtains <END> closed please
-<START:close_action_target> curtain <END> close please
-<START:close_action_target> curtains <END> close please
-close the <START:close_action_target> door <END> please
-close <START:close_action_target> door <END> please
-closed <START:close_action_target> door <END> please
-<START:close_action_target> door <END> closed please
-<START:close_action_target> door <END> close please
+close the <START:smarthome_target> window <END>
+close the <START:smarthome_target> windows <END>
+close <START:smarthome_target> window <END>
+close <START:smarthome_target> windows <END>
+closed <START:smarthome_target> window <END>
+closed <START:smarthome_target> windows <END>
+<START:smarthome_target> window <END> closed
+<START:smarthome_target> windows <END> closed
+<START:smarthome_target> window <END> close
+<START:smarthome_target> windows <END> close
+close the <START:smarthome_target> curtain <END>
+close the <START:smarthome_target> curtains <END>
+close <START:smarthome_target> curtain <END>
+closed <START:smarthome_target> curtains <END>
+closed <START:smarthome_target> curtain <END>
+close <START:smarthome_target> curtains <END>
+<START:smarthome_target> curtain <END> closed
+<START:smarthome_target> curtains <END> closed
+<START:smarthome_target> curtain <END> close
+<START:smarthome_target> curtains <END> close
+close the <START:smarthome_target> door <END>
+close <START:smarthome_target> door <END>
+closed <START:smarthome_target> door <END>
+<START:smarthome_target> door <END> closed
+<START:smarthome_target> door <END> close
+close the <START:smarthome_target> window <END> now
+close the <START:smarthome_target> windows <END> now
+close <START:smarthome_target> window <END> now
+close <START:smarthome_target> windows <END> now
+closed <START:smarthome_target> window <END> now
+closed <START:smarthome_target> windows <END> now
+<START:smarthome_target> window <END> closed now
+<START:smarthome_target> windows <END> closed now
+<START:smarthome_target> window <END> close now
+<START:smarthome_target> windows <END> close now
+close the <START:smarthome_target> curtain <END> now
+close the <START:smarthome_target> curtains <END> now
+close <START:smarthome_target> curtain <END> now
+closed <START:smarthome_target> curtains <END> now
+closed <START:smarthome_target> curtain <END> now
+close <START:smarthome_target> curtains <END> now
+<START:smarthome_target> curtain <END> closed now
+<START:smarthome_target> curtains <END> closed now
+<START:smarthome_target> curtain <END> close now
+<START:smarthome_target> curtains <END> close now
+close the <START:smarthome_target> door <END> now
+close <START:smarthome_target> door <END> now
+closed <START:smarthome_target> door <END> now
+<START:smarthome_target> door <END> closed now
+<START:smarthome_target> door <END> close now
+please close the <START:smarthome_target> window <END> now
+please close the <START:smarthome_target> windows <END> now
+please close <START:smarthome_target> window <END> now
+please close <START:smarthome_target> windows <END> now
+please closed <START:smarthome_target> window <END> now
+please closed <START:smarthome_target> windows <END> now
+please <START:smarthome_target> window <END> closed now
+please <START:smarthome_target> windows <END> closed now
+please <START:smarthome_target> window <END> close now
+please <START:smarthome_target> windows <END> close now
+please close the <START:smarthome_target> curtain <END> now
+please close the <START:smarthome_target> curtains <END> now
+please close <START:smarthome_target> curtain <END> now
+please closed <START:smarthome_target> curtains <END> now
+please closed <START:smarthome_target> curtain <END> now
+please close <START:smarthome_target> curtains <END> now
+please <START:smarthome_target> curtain <END> closed now
+please <START:smarthome_target> curtains <END> closed now
+please <START:smarthome_target> curtain <END> close now
+please <START:smarthome_target> curtains <END> close now
+please close the <START:smarthome_target> door <END> now
+please close <START:smarthome_target> door <END> now
+please closed <START:smarthome_target> door <END> now
+please <START:smarthome_target> door <END> closed now
+please <START:smarthome_target> door <END> close now
+please close the <START:smarthome_target> window <END>
+please close the <START:smarthome_target> windows <END>
+please close <START:smarthome_target> window <END>
+please close <START:smarthome_target> windows <END>
+please closed <START:smarthome_target> window <END>
+please closed <START:smarthome_target> windows <END>
+please <START:smarthome_target> window <END> closed
+please <START:smarthome_target> windows <END> closed
+please <START:smarthome_target> window <END> close
+please <START:smarthome_target> windows <END> close
+please close the <START:smarthome_target> curtain <END>
+please close the <START:smarthome_target> curtains <END>
+please close <START:smarthome_target> curtain <END>
+please closed <START:smarthome_target> curtains <END>
+please closed <START:smarthome_target> curtain <END>
+please close <START:smarthome_target> curtains <END>
+please <START:smarthome_target> curtain <END> closed
+please <START:smarthome_target> curtains <END> closed
+please <START:smarthome_target> curtain <END> close
+please <START:smarthome_target> curtains <END> close
+please close the <START:smarthome_target> door <END>
+please close <START:smarthome_target> door <END>
+please closed <START:smarthome_target> door <END>
+please <START:smarthome_target> door <END> closed
+please <START:smarthome_target> door <END> close
+close the <START:smarthome_target> window <END> please
+close the <START:smarthome_target> windows <END> please
+close <START:smarthome_target> window <END> please
+close <START:smarthome_target> windows <END> please
+closed <START:smarthome_target> window <END> please
+closed <START:smarthome_target> windows <END> please
+<START:smarthome_target> window <END> closed please
+<START:smarthome_target> windows <END> closed please
+<START:smarthome_target> window <END> close please
+<START:smarthome_target> windows <END> close please
+close the <START:smarthome_target> curtain <END> please
+close the <START:smarthome_target> curtains <END> please
+close <START:smarthome_target> curtain <END> please
+closed <START:smarthome_target> curtains <END> please
+closed <START:smarthome_target> curtain <END> please
+close <START:smarthome_target> curtains <END> please
+<START:smarthome_target> curtain <END> closed please
+<START:smarthome_target> curtains <END> closed please
+<START:smarthome_target> curtain <END> close please
+<START:smarthome_target> curtains <END> close please
+close the <START:smarthome_target> door <END> please
+close <START:smarthome_target> door <END> please
+closed <START:smarthome_target> door <END> please
+<START:smarthome_target> door <END> closed please
+<START:smarthome_target> door <END> close please
