@@ -74,9 +74,9 @@ commencer mise à jour de l'appareil
 commencer mise à jour des applications
 commencer mise à jour des appareils
 démarrer la synchronisation
-début de la syncrhonisation
+début de la synchronisation
 démarrer synchronisation
-début de syncrhonisation
+début de synchronisation
 démarrer la synchronisation de l'application
 démarrer la synchronisation de l'appareil
 début de la synchronisation de l'application

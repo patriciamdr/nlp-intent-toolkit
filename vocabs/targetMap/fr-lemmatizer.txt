@@ -7,7 +7,7 @@ l'app:app
 lumières:lumière
 détresset:détresse
 douplage:doublage
-néerlandais:néerlandaise
+néerlandaise:néerlandais
 l'administration:admin
 administration:admin
 l'avancé:avancé

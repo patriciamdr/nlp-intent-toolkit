@@ -2,11 +2,11 @@ ouvre <START:menuitem_target> smartphone existant <END>
 ouvre <START:menuitem_target> nouveau smartphone <END>
 ouvre <START:menuitem_target> modes <END>
 ouvre <START:menuitem_target> app info <END>
-ouvre <START:menuitem_target> clibrage <END>
+ouvre <START:menuitem_target> calibrage <END>
 ouvre <START:menuitem_target> caméra <END>
 ouvre <START:menuitem_target> conduite <END>
 ouvre <START:menuitem_target> email d'urgence <END>
-ouvre <START:menuitem_target> néerlandaise <END>
+ouvre <START:menuitem_target> néerlandais <END>
 ouvre <START:menuitem_target> anglais <END>
 ouvre <START:menuitem_target> français <END>
 ouvre <START:menuitem_target> allemand <END>
@@ -32,7 +32,7 @@ ouvre <START:menuitem_target> admin <END>
 ouvre <START:menuitem_target> de base <END>
 ouvre <START:menuitem_target> avancé <END>
 ouvre <START:menuitem_target> conduire uniquement <END>
-ouvre <START:menuitem_target> douplage <END>
+ouvre <START:menuitem_target> doublage <END>
 ouvre <START:menuitem_target> geste de conduite <END>
 ouvre <START:menuitem_target> réglages de verre <END>
 ouvre <START:menuitem_target> mouse un <END>
@@ -41,11 +41,11 @@ ouvre la catégorie <START:menuitem_target> smartphone existant <END>
 ouvre la catégorie <START:menuitem_target> nouveau smartphone <END>
 ouvre la catégorie <START:menuitem_target> modes <END>
 ouvre la catégorie <START:menuitem_target> app info <END>
-ouvre la catégorie <START:menuitem_target> clibrage <END>
+ouvre la catégorie <START:menuitem_target> calibrage <END>
 ouvre la catégorie <START:menuitem_target> caméra <END>
 ouvre la catégorie <START:menuitem_target> conduite <END>
 ouvre la catégorie <START:menuitem_target> email d'urgence <END>
-ouvre la catégorie <START:menuitem_target> néerlandaise <END>
+ouvre la catégorie <START:menuitem_target> néerlandais <END>
 ouvre la catégorie <START:menuitem_target> anglais <END>
 ouvre la catégorie <START:menuitem_target> français <END>
 ouvre la catégorie <START:menuitem_target> allemand <END>
@@ -71,7 +71,7 @@ ouvre la catégorie <START:menuitem_target> admin <END>
 ouvre la catégorie <START:menuitem_target> de base <END>
 ouvre la catégorie <START:menuitem_target> avancé <END>
 ouvre la catégorie <START:menuitem_target> conduire uniquement <END>
-ouvre la catégorie <START:menuitem_target> douplage <END>
+ouvre la catégorie <START:menuitem_target> doublage <END>
 ouvre la catégorie <START:menuitem_target> geste de conduite <END>
 ouvre la catégorie <START:menuitem_target> réglages de verre <END>
 ouvre la catégorie <START:menuitem_target> mouse un <END>
@@ -80,12 +80,12 @@ ouvrir <START:menuitem_target> smartphone existant <END>
 ouvrir <START:menuitem_target> nouveau smartphone <END>
 ouvrir <START:menuitem_target> modes <END>
 ouvrir <START:menuitem_target> app info <END>
-ouvrir <START:menuitem_target> clibrage <END>
+ouvrir <START:menuitem_target> calibrage <END>
 ouvrir <START:menuitem_target> caméra <END>
 ouvrir <START:menuitem_target> conduite <END>
 ouvrir <START:menuitem_target> email d'urgence <END>
 ouvrir <START:menuitem_target> langue <END>
-ouvrir <START:menuitem_target> néerlandaise <END>
+ouvrir <START:menuitem_target> néerlandais <END>
 ouvrir <START:menuitem_target> anglais <END>
 ouvrir <START:menuitem_target> allemand <END>
 ouvrir <START:menuitem_target> français <END>
@@ -110,7 +110,7 @@ ouvrir <START:menuitem_target> admin <END>
 ouvrir <START:menuitem_target> de base <END>
 ouvrir <START:menuitem_target> avancé <END>
 ouvrir <START:menuitem_target> conduire uniquement <END>
-ouvrir <START:menuitem_target> douplage <END>
+ouvrir <START:menuitem_target> doublage <END>
 ouvrir <START:menuitem_target> geste de conduite <END>
 ouvrir <START:menuitem_target> réglages de verre <END>
 ouvrir <START:menuitem_target> mouse un <END>
@@ -119,12 +119,12 @@ ouvrir la catégorie <START:menuitem_target> smartphone existant <END>
 ouvrir la catégorie <START:menuitem_target> nouveau smartphone <END>
 ouvrir la catégorie <START:menuitem_target> modes <END>
 ouvrir la catégorie <START:menuitem_target> app info <END>
-ouvrir la catégorie <START:menuitem_target> clibrage <END>
+ouvrir la catégorie <START:menuitem_target> calibrage <END>
 ouvrir la catégorie <START:menuitem_target> caméra <END>
 ouvrir la catégorie <START:menuitem_target> conduite <END>
 ouvrir la catégorie <START:menuitem_target> email d'urgence <END>
 ouvrir la catégorie <START:menuitem_target> langue <END>
-ouvrir la catégorie <START:menuitem_target> néerlandaise <END>
+ouvrir la catégorie <START:menuitem_target> néerlandais <END>
 ouvrir la catégorie <START:menuitem_target> anglais <END>
 ouvrir la catégorie <START:menuitem_target> allemand <END>
 ouvrir la catégorie <START:menuitem_target> français <END>
@@ -149,7 +149,7 @@ ouvrir la catégorie <START:menuitem_target> admin <END>
 ouvrir la catégorie <START:menuitem_target> de base <END>
 ouvrir la catégorie <START:menuitem_target> avancé <END>
 ouvrir la catégorie <START:menuitem_target> conduire uniquement <END>
-ouvrir la catégorie <START:menuitem_target> douplage <END>
+ouvrir la catégorie <START:menuitem_target> doublage <END>
 ouvrir la catégorie <START:menuitem_target> geste de conduite <END>
 ouvrir la catégorie <START:menuitem_target> réglages de verre <END>
 ouvrir la catégorie <START:menuitem_target> mouse un <END>

@@ -1,8 +1,43 @@
+<START:nav_target> smartphone existant <END>
+<START:nav_target> nouveau smartphone <END>
+<START:nav_target> modes <END>
+<START:nav_target> app info <END>
+<START:nav_target> calibrage <END>
+<START:nav_target> caméra <END>
+<START:nav_target> conduite <END>
+<START:nav_target> email d'urgence <END>
+<START:nav_target> langue <END>
+<START:nav_target> galerie <END>
+<START:nav_target> médias <END>
+<START:nav_target> hocher <END>
+<START:nav_target> inclinaison <END>
+<START:nav_target> siège <END>
+<START:nav_target> réglages <END>
+<START:nav_target> soutien <END>
+<START:nav_target> synchronisation <END>
+<START:nav_target> volume <END>
+<START:nav_target> kinova <END>
+<START:nav_target> wifi <END>
+<START:nav_target> internet <END>
+<START:nav_target> monitor <END>
+<START:nav_target> lumière <END>
+<START:nav_target> lumières <END>
+<START:nav_target> feux de détresse <END>
+<START:nav_target> ajouts <END>
+<START:nav_target> admin <END>
+<START:nav_target> de base <END>
+<START:nav_target> avancé <END>
+<START:nav_target> conduire uniquement <END>
+<START:nav_target> doublage <END>
+<START:nav_target> geste de conduite <END>
+<START:nav_target> réglages de verre <END>
+<START:nav_target> mouse un <END>
+<START:nav_target> mouse deux <END>
 choisis <START:nav_target> smartphone existant <END>
 choisis <START:nav_target> nouveau smartphone <END>
 choisis <START:nav_target> modes <END>
 choisis <START:nav_target> app info <END>
-choisis <START:nav_target> clibrage <END>
+choisis <START:nav_target> calibrage <END>
 choisis <START:nav_target> caméra <END>
 choisis <START:nav_target> conduite <END>
 choisis <START:nav_target> email d'urgence <END>
@@ -28,7 +63,7 @@ choisis <START:nav_target> admin <END>
 choisis <START:nav_target> de base <END>
 choisis <START:nav_target> avancé <END>
 choisis <START:nav_target> conduire uniquement <END>
-choisis <START:nav_target> douplage <END>
+choisis <START:nav_target> doublage <END>
 choisis <START:nav_target> geste de conduite <END>
 choisis <START:nav_target> réglages de verre <END>
 choisis <START:nav_target> mouse un <END>
@@ -37,7 +72,7 @@ choisir <START:nav_target> smartphone existant <END>
 choisir <START:nav_target> nouveau smartphone <END>
 choisir <START:nav_target> modes <END>
 choisir <START:nav_target> app info <END>
-choisir <START:nav_target> clibrage <END>
+choisir <START:nav_target> calibrage <END>
 choisir <START:nav_target> caméra <END>
 choisir <START:nav_target> conduite <END>
 choisir <START:nav_target> email d'urgence <END>
@@ -63,7 +98,7 @@ choisir <START:nav_target> admin <END>
 choisir <START:nav_target> de base <END>
 choisir <START:nav_target> avancé <END>
 choisir <START:nav_target> conduire uniquement <END>
-choisir <START:nav_target> douplage <END>
+choisir <START:nav_target> doublage <END>
 choisir <START:nav_target> geste de conduite <END>
 choisir <START:nav_target> réglages de verre <END>
 choisir <START:nav_target> mouse un <END>
@@ -72,12 +107,12 @@ choisis la catégorie <START:nav_target> smartphone existant <END>
 choisis la catégorie <START:nav_target> nouveau smartphone <END>
 choisis la catégorie <START:nav_target> modes <END>
 choisis la catégorie <START:nav_target> app info <END>
-choisis la catégorie <START:nav_target> clibrage <END>
+choisis la catégorie <START:nav_target> calibrage <END>
 choisis la catégorie <START:nav_target> caméra <END>
 choisis la catégorie <START:nav_target> conduite <END>
 choisis la catégorie <START:nav_target> email d'urgence <END>
 choisis la catégorie <START:nav_target> anglais <END>
-choisis la catégorie <START:nav_target> néerlandaise <END>
+choisis la catégorie <START:nav_target> néerlandais <END>
 choisis la catégorie <START:nav_target> français <END>
 choisis la catégorie <START:nav_target> allemand <END>
 choisis la catégorie <START:nav_target> galerie <END>
@@ -102,7 +137,7 @@ choisis la catégorie <START:nav_target> admin <END>
 choisis la catégorie <START:nav_target> de base <END>
 choisis la catégorie <START:nav_target> avancé <END>
 choisis la catégorie <START:nav_target> conduire uniquement <END>
-choisis la catégorie <START:nav_target> douplage <END>
+choisis la catégorie <START:nav_target> doublage <END>
 choisis la catégorie <START:nav_target> geste de conduite <END>
 choisis la catégorie <START:nav_target> réglages de verre <END>
 choisis la catégorie <START:nav_target> mouse un <END>
@@ -111,12 +146,12 @@ choisir la catégorie <START:nav_target> smartphone existant <END>
 choisir la catégorie <START:nav_target> nouveau smartphone <END>
 choisir la catégorie <START:nav_target> modes <END>
 choisir la catégorie <START:nav_target> app info <END>
-choisir la catégorie <START:nav_target> clibrage <END>
+choisir la catégorie <START:nav_target> calibrage <END>
 choisir la catégorie <START:nav_target> caméra <END>
 choisir la catégorie <START:nav_target> conduite <END>
 choisir la catégorie <START:nav_target> email d'urgence <END>
 choisir la catégorie <START:nav_target> anglais <END>
-choisir la catégorie <START:nav_target> néerlandaise <END>
+choisir la catégorie <START:nav_target> néerlandais <END>
 choisir la catégorie <START:nav_target> français <END>
 choisir la catégorie <START:nav_target> galerie <END>
 choisir la catégorie <START:nav_target> allemand <END>
@@ -141,7 +176,7 @@ choisir la catégorie <START:nav_target> admin <END>
 choisir la catégorie <START:nav_target> de base <END>
 choisir la catégorie <START:nav_target> avancé <END>
 choisir la catégorie <START:nav_target> conduire uniquement <END>
-choisir la catégorie <START:nav_target> douplage <END>
+choisir la catégorie <START:nav_target> doublage <END>
 choisir la catégorie <START:nav_target> geste de conduite <END>
 choisir la catégorie <START:nav_target> réglages de verre <END>
 choisir la catégorie <START:nav_target> mouse un <END>
@@ -150,7 +185,7 @@ sélectionner <START:nav_target> smartphone existant <END>
 sélectionner <START:nav_target> nouveau smartphone <END>
 sélectionner <START:nav_target> modes <END>
 sélectionner <START:nav_target> app info <END>
-sélectionner <START:nav_target> clibrage <END>
+sélectionner <START:nav_target> calibrage <END>
 sélectionner <START:nav_target> caméra <END>
 sélectionner <START:nav_target> conduite <END>
 sélectionner <START:nav_target> email d'urgence <END>
@@ -176,7 +211,7 @@ sélectionner <START:nav_target> admin <END>
 sélectionner <START:nav_target> de base <END>
 sélectionner <START:nav_target> avancé <END>
 sélectionner <START:nav_target> conduire uniquement <END>
-sélectionner <START:nav_target> douplage <END>
+sélectionner <START:nav_target> doublage <END>
 sélectionner <START:nav_target> geste de conduite <END>
 sélectionner <START:nav_target> réglages de verre <END>
 sélectionner <START:nav_target> mouse un <END>
@@ -185,7 +220,7 @@ sélectionne <START:nav_target> smartphone existant <END>
 sélectionne <START:nav_target> nouveau smartphone <END>
 sélectionne <START:nav_target> modes <END>
 sélectionne <START:nav_target> app info <END>
-sélectionne <START:nav_target> clibrage <END>
+sélectionne <START:nav_target> calibrage <END>
 sélectionne <START:nav_target> caméra <END>
 sélectionne <START:nav_target> conduite <END>
 sélectionne <START:nav_target> email d'urgence <END>
@@ -211,7 +246,7 @@ sélectionne <START:nav_target> admin <END>
 sélectionne <START:nav_target> de base <END>
 sélectionne <START:nav_target> avancé <END>
 sélectionne <START:nav_target> conduire uniquement <END>
-sélectionne <START:nav_target> douplage <END>
+sélectionne <START:nav_target> doublage <END>
 sélectionne <START:nav_target> geste de conduite <END>
 sélectionne <START:nav_target> réglages de verre <END>
 sélectionne <START:nav_target> mouse un <END>
@@ -220,12 +255,12 @@ sélectionner la catégorie <START:nav_target> smartphone existant <END>
 sélectionner la catégorie <START:nav_target> nouveau smartphone <END>
 sélectionner la catégorie <START:nav_target> modes <END>
 sélectionner la catégorie <START:nav_target> app info <END>
-sélectionner la catégorie <START:nav_target> clibrage <END>
+sélectionner la catégorie <START:nav_target> calibrage <END>
 sélectionner la catégorie <START:nav_target> caméra <END>
 sélectionner la catégorie <START:nav_target> conduite <END>
 sélectionner la catégorie <START:nav_target> email d'urgence <END>
 sélectionner la catégorie <START:nav_target> anglais <END>
-sélectionner la catégorie <START:nav_target> néerlandaise <END>
+sélectionner la catégorie <START:nav_target> néerlandais <END>
 sélectionner la catégorie <START:nav_target> français <END>
 sélectionner la catégorie <START:nav_target> galerie <END>
 sélectionner la catégorie <START:nav_target> allemand <END>
@@ -250,7 +285,7 @@ sélectionner la catégorie <START:nav_target> admin <END>
 sélectionner la catégorie <START:nav_target> de base <END>
 sélectionner la catégorie <START:nav_target> avancé <END>
 sélectionner la catégorie <START:nav_target> conduire uniquement <END>
-sélectionner la catégorie <START:nav_target> douplage <END>
+sélectionner la catégorie <START:nav_target> doublage <END>
 sélectionner la catégorie <START:nav_target> geste de conduite <END>
 sélectionner la catégorie <START:nav_target> réglages de verre <END>
 sélectionner la catégorie <START:nav_target> mouse un <END>
@@ -259,12 +294,12 @@ sélectionne la catégorie <START:nav_target> smartphone existant <END>
 sélectionne la catégorie <START:nav_target> nouveau smartphone <END>
 sélectionne la catégorie <START:nav_target> modes <END>
 sélectionne la catégorie <START:nav_target> app info <END>
-sélectionne la catégorie <START:nav_target> clibrage <END>
+sélectionne la catégorie <START:nav_target> calibrage <END>
 sélectionne la catégorie <START:nav_target> caméra <END>
 sélectionne la catégorie <START:nav_target> conduite <END>
 sélectionne la catégorie <START:nav_target> email d'urgence <END>
 sélectionne la catégorie <START:nav_target> anglais <END>
-sélectionne la catégorie <START:nav_target> néerlandaise <END>
+sélectionne la catégorie <START:nav_target> néerlandais <END>
 sélectionne la catégorie <START:nav_target> français <END>
 sélectionne la catégorie <START:nav_target> galerie <END>
 sélectionne la catégorie <START:nav_target> allemand <END>
@@ -289,7 +324,7 @@ sélectionne la catégorie <START:nav_target> admin <END>
 sélectionne la catégorie <START:nav_target> de base <END>
 sélectionne la catégorie <START:nav_target> avancé <END>
 sélectionne la catégorie <START:nav_target> conduire uniquement <END>
-sélectionne la catégorie <START:nav_target> douplage <END>
+sélectionne la catégorie <START:nav_target> doublage <END>
 sélectionne la catégorie <START:nav_target> geste de conduite <END>
 sélectionne la catégorie <START:nav_target> réglages de verre <END>
 sélectionne la catégorie <START:nav_target> mouse un <END>
@@ -297,12 +332,12 @@ sélectionne la catégorie <START:nav_target> mouse deux <END>
 va à la catégorie <START:nav_target> nouveau smartphone <END>
 va à la catégorie <START:nav_target> modes <END>
 va à la catégorie <START:nav_target> app info <END>
-va à la catégorie <START:nav_target> clibrage <END>
+va à la catégorie <START:nav_target> calibrage <END>
 va à la catégorie <START:nav_target> caméra <END>
 va à la catégorie <START:nav_target> conduite <END>
 va à la catégorie <START:nav_target> email d'urgence <END>
 va à la catégorie <START:nav_target> anglais <END>
-va à la catégorie <START:nav_target> néerlandaise <END>
+va à la catégorie <START:nav_target> néerlandais <END>
 va à la catégorie <START:nav_target> français <END>
 va à la catégorie <START:nav_target> galerie <END>
 va à la catégorie <START:nav_target> allemand <END>
@@ -327,7 +362,7 @@ va à la catégorie <START:nav_target> admin <END>
 va à la catégorie <START:nav_target> de base <END>
 va à la catégorie <START:nav_target> avancé <END>
 va à la catégorie <START:nav_target> conduire uniquement <END>
-va à la catégorie <START:nav_target> douplage <END>
+va à la catégorie <START:nav_target> doublage <END>
 va à la catégorie <START:nav_target> geste de conduite <END>
 va à la catégorie <START:nav_target> réglages de verre <END>
 va à la catégorie <START:nav_target> mouse un <END>
@@ -335,12 +370,12 @@ va à la catégorie <START:nav_target> mouse deux <END>
 va à <START:nav_target> nouveau smartphone <END>
 va à <START:nav_target> modes <END>
 va à <START:nav_target> app info <END>
-va à <START:nav_target> clibrage <END>
+va à <START:nav_target> calibrage <END>
 va à <START:nav_target> caméra <END>
 va à <START:nav_target> conduite <END>
 va à <START:nav_target> email d'urgence <END>
 va à <START:nav_target> anglais <END>
-va à <START:nav_target> néerlandaise <END>
+va à <START:nav_target> néerlandais <END>
 va à <START:nav_target> français <END>
 va à <START:nav_target> galerie <END>
 va à <START:nav_target> allemand <END>
@@ -365,7 +400,7 @@ va à <START:nav_target> admin <END>
 va à <START:nav_target> de base <END>
 va à <START:nav_target> avancé <END>
 va à <START:nav_target> conduire uniquement <END>
-va à <START:nav_target> douplage <END>
+va à <START:nav_target> doublage <END>
 va à <START:nav_target> geste de conduite <END>
 va à <START:nav_target> réglages de verre <END>
 va à <START:nav_target> mouse un <END>
@@ -373,12 +408,12 @@ va à <START:nav_target> mouse deux <END>
 vas à la catégorie <START:nav_target> nouveau smartphone <END>
 vas à la catégorie <START:nav_target> modes <END>
 vas à la catégorie <START:nav_target> app info <END>
-vas à la catégorie <START:nav_target> clibrage <END>
+vas à la catégorie <START:nav_target> calibrage <END>
 vas à la catégorie <START:nav_target> caméra <END>
 vas à la catégorie <START:nav_target> conduite <END>
 vas à la catégorie <START:nav_target> email d'urgence <END>
 vas à la catégorie <START:nav_target> anglais <END>
-vas à la catégorie <START:nav_target> néerlandaise <END>
+vas à la catégorie <START:nav_target> néerlandais <END>
 vas à la catégorie <START:nav_target> français <END>
 vas à la catégorie <START:nav_target> galerie <END>
 vas à la catégorie <START:nav_target> allemand <END>
@@ -403,7 +438,7 @@ vas à la catégorie <START:nav_target> admin <END>
 vas à la catégorie <START:nav_target> de base <END>
 vas à la catégorie <START:nav_target> avancé <END>
 vas à la catégorie <START:nav_target> conduire uniquement <END>
-vas à la catégorie <START:nav_target> douplage <END>
+vas à la catégorie <START:nav_target> doublage <END>
 vas à la catégorie <START:nav_target> geste de conduite <END>
 vas à la catégorie <START:nav_target> réglages de verre <END>
 vas à la catégorie <START:nav_target> mouse un <END>
@@ -411,12 +446,12 @@ vas à la catégorie <START:nav_target> mouse deux <END>
 vas à <START:nav_target> nouveau smartphone <END>
 vas à <START:nav_target> modes <END>
 vas à <START:nav_target> app info <END>
-vas à <START:nav_target> clibrage <END>
+vas à <START:nav_target> calibrage <END>
 vas à <START:nav_target> caméra <END>
 vas à <START:nav_target> conduite <END>
 vas à <START:nav_target> email d'urgence <END>
 vas à <START:nav_target> anglais <END>
-vas à <START:nav_target> néerlandaise <END>
+vas à <START:nav_target> néerlandais <END>
 vas à <START:nav_target> français <END>
 vas à <START:nav_target> galerie <END>
 vas à <START:nav_target> allemand <END>
@@ -441,7 +476,7 @@ vas à <START:nav_target> admin <END>
 vas à <START:nav_target> de base <END>
 vas à <START:nav_target> avancé <END>
 vas à <START:nav_target> conduire uniquement <END>
-vas à <START:nav_target> douplage <END>
+vas à <START:nav_target> doublage <END>
 vas à <START:nav_target> geste de conduite <END>
 vas à <START:nav_target> réglages de verre <END>
 vas à <START:nav_target> mouse un <END>
@@ -449,12 +484,12 @@ vas à <START:nav_target> mouse deux <END>
 aller à la catégorie <START:nav_target> nouveau smartphone <END>
 aller à la catégorie <START:nav_target> modes <END>
 aller à la catégorie <START:nav_target> app info <END>
-aller à la catégorie <START:nav_target> clibrage <END>
+aller à la catégorie <START:nav_target> calibrage <END>
 aller à la catégorie <START:nav_target> caméra <END>
 aller à la catégorie <START:nav_target> conduite <END>
 aller à la catégorie <START:nav_target> email d'urgence <END>
 aller à la catégorie <START:nav_target> anglais <END>
-aller à la catégorie <START:nav_target> néerlandaise <END>
+aller à la catégorie <START:nav_target> néerlandais <END>
 aller à la catégorie <START:nav_target> français <END>
 aller à la catégorie <START:nav_target> galerie <END>
 aller à la catégorie <START:nav_target> allemand <END>
@@ -479,7 +514,7 @@ aller à la catégorie <START:nav_target> admin <END>
 aller à la catégorie <START:nav_target> de base <END>
 aller à la catégorie <START:nav_target> avancé <END>
 aller à la catégorie <START:nav_target> conduire uniquement <END>
-aller à la catégorie <START:nav_target> douplage <END>
+aller à la catégorie <START:nav_target> doublage <END>
 aller à la catégorie <START:nav_target> geste de conduite <END>
 aller à la catégorie <START:nav_target> réglages de verre <END>
 aller à la catégorie <START:nav_target> mouse un <END>
@@ -487,12 +522,12 @@ aller à la catégorie <START:nav_target> mouse deux <END>
 aller à <START:nav_target> nouveau smartphone <END>
 aller à <START:nav_target> modes <END>
 aller à <START:nav_target> app info <END>
-aller à <START:nav_target> clibrage <END>
+aller à <START:nav_target> calibrage <END>
 aller à <START:nav_target> caméra <END>
 aller à <START:nav_target> conduite <END>
 aller à <START:nav_target> email d'urgence <END>
 aller à <START:nav_target> anglais <END>
-aller à <START:nav_target> néerlandaise <END>
+aller à <START:nav_target> néerlandais <END>
 aller à <START:nav_target> français <END>
 aller à <START:nav_target> galerie <END>
 aller à <START:nav_target> allemand <END>
@@ -517,7 +552,7 @@ aller à <START:nav_target> admin <END>
 aller à <START:nav_target> de base <END>
 aller à <START:nav_target> avancé <END>
 aller à <START:nav_target> conduire uniquement <END>
-aller à <START:nav_target> douplage <END>
+aller à <START:nav_target> doublage <END>
 aller à <START:nav_target> geste de conduite <END>
 aller à <START:nav_target> réglages de verre <END>
 aller à <START:nav_target> mouse un <END>
@@ -525,7 +560,7 @@ aller à <START:nav_target> mouse deux <END>
 change en <START:nav_target> nouveau smartphone <END>
 change en <START:nav_target> modes <END>
 change en <START:nav_target> app info <END>
-change en <START:nav_target> clibrage <END>
+change en <START:nav_target> calibrage <END>
 change en <START:nav_target> caméra <END>
 change en <START:nav_target> conduite <END>
 change en <START:nav_target> email d'urgence <END>
@@ -551,7 +586,7 @@ change en <START:nav_target> admin <END>
 change en <START:nav_target> de base <END>
 change en <START:nav_target> avancé <END>
 change en <START:nav_target> conduire uniquement <END>
-change en <START:nav_target> douplage <END>
+change en <START:nav_target> doublage <END>
 change en <START:nav_target> geste de conduite <END>
 change en <START:nav_target> réglages de verre <END>
 change en <START:nav_target> mouse un <END>
@@ -559,12 +594,12 @@ change en <START:nav_target> mouse deux <END>
 change de catégorie en <START:nav_target> nouveau smartphone <END>
 change de catégorie en <START:nav_target> modes <END>
 change de catégorie en <START:nav_target> app info <END>
-change de catégorie en <START:nav_target> clibrage <END>
+change de catégorie en <START:nav_target> calibrage <END>
 change de catégorie en <START:nav_target> caméra <END>
 change de catégorie en <START:nav_target> conduite <END>
 change de catégorie en <START:nav_target> email d'urgence <END>
 change de catégorie en <START:nav_target> anglais <END>
-change de catégorie en <START:nav_target> néerlandaise <END>
+change de catégorie en <START:nav_target> néerlandais <END>
 change de catégorie en <START:nav_target> français <END>
 change de catégorie en <START:nav_target> galerie <END>
 change de catégorie en <START:nav_target> allemand <END>
@@ -589,7 +624,7 @@ change de catégorie en <START:nav_target> admin <END>
 change de catégorie en <START:nav_target> de base <END>
 change de catégorie en <START:nav_target> avancé <END>
 change de catégorie en <START:nav_target> conduire uniquement <END>
-change de catégorie en <START:nav_target> douplage <END>
+change de catégorie en <START:nav_target> doublage <END>
 change de catégorie en <START:nav_target> geste de conduite <END>
 change de catégorie en <START:nav_target> réglages de verre <END>
 change de catégorie en <START:nav_target> mouse un <END>
@@ -597,12 +632,12 @@ change de catégorie en <START:nav_target> mouse deux <END>
 change la catégorie en <START:nav_target> nouveau smartphone <END>
 change la catégorie en <START:nav_target> modes <END>
 change la catégorie en <START:nav_target> app info <END>
-change la catégorie en <START:nav_target> clibrage <END>
+change la catégorie en <START:nav_target> calibrage <END>
 change la catégorie en <START:nav_target> caméra <END>
 change la catégorie en <START:nav_target> conduite <END>
 change la catégorie en <START:nav_target> email d'urgence <END>
 change la catégorie en <START:nav_target> anglais <END>
-change la catégorie en <START:nav_target> néerlandaise <END>
+change la catégorie en <START:nav_target> néerlandais <END>
 change la catégorie en <START:nav_target> français <END>
 change la catégorie en <START:nav_target> galerie <END>
 change la catégorie en <START:nav_target> allemand <END>
@@ -627,7 +662,7 @@ change la catégorie en <START:nav_target> admin <END>
 change la catégorie en <START:nav_target> de base <END>
 change la catégorie en <START:nav_target> avancé <END>
 change la catégorie en <START:nav_target> conduire uniquement <END>
-change la catégorie en <START:nav_target> douplage <END>
+change la catégorie en <START:nav_target> doublage <END>
 change la catégorie en <START:nav_target> geste de conduite <END>
 change la catégorie en <START:nav_target> réglages de verre <END>
 change la catégorie en <START:nav_target> mouse un <END>
@@ -635,7 +670,7 @@ change la catégorie en <START:nav_target> mouse deux <END>
 changer en <START:nav_target> nouveau smartphone <END>
 changer en <START:nav_target> modes <END>
 changer en <START:nav_target> app info <END>
-changer en <START:nav_target> clibrage <END>
+changer en <START:nav_target> calibrage <END>
 changer en <START:nav_target> caméra <END>
 changer en <START:nav_target> conduite <END>
 changer en <START:nav_target> email d'urgence <END>
@@ -661,7 +696,7 @@ changer en <START:nav_target> admin <END>
 changer en <START:nav_target> de base <END>
 changer en <START:nav_target> avancé <END>
 changer en <START:nav_target> conduire uniquement <END>
-changer en <START:nav_target> douplage <END>
+changer en <START:nav_target> doublage <END>
 changer en <START:nav_target> geste de conduite <END>
 changer en <START:nav_target> réglages de verre <END>
 changer en <START:nav_target> mouse un <END>
@@ -669,12 +704,12 @@ changer en <START:nav_target> mouse deux <END>
 changer de catégorie en <START:nav_target> nouveau smartphone <END>
 changer de catégorie en <START:nav_target> modes <END>
 changer de catégorie en <START:nav_target> app info <END>
-changer de catégorie en <START:nav_target> clibrage <END>
+changer de catégorie en <START:nav_target> calibrage <END>
 changer de catégorie en <START:nav_target> caméra <END>
 changer de catégorie en <START:nav_target> conduite <END>
 changer de catégorie en <START:nav_target> email d'urgence <END>
 changer de catégorie en <START:nav_target> anglais <END>
-changer de catégorie en <START:nav_target> néerlandaise <END>
+changer de catégorie en <START:nav_target> néerlandais <END>
 changer de catégorie en <START:nav_target> français <END>
 changer de catégorie en <START:nav_target> galerie <END>
 changer de catégorie en <START:nav_target> allemand <END>
@@ -699,7 +734,7 @@ changer de catégorie en <START:nav_target> admin <END>
 changer de catégorie en <START:nav_target> de base <END>
 changer de catégorie en <START:nav_target> avancé <END>
 changer de catégorie en <START:nav_target> conduire uniquement <END>
-changer de catégorie en <START:nav_target> douplage <END>
+changer de catégorie en <START:nav_target> doublage <END>
 changer de catégorie en <START:nav_target> geste de conduite <END>
 changer de catégorie en <START:nav_target> réglages de verre <END>
 changer de catégorie en <START:nav_target> mouse un <END>
@@ -707,12 +742,12 @@ changer de catégorie en <START:nav_target> mouse deux <END>
 changer la catégorie en <START:nav_target> nouveau smartphone <END>
 changer la catégorie en <START:nav_target> modes <END>
 changer la catégorie en <START:nav_target> app info <END>
-changer la catégorie en <START:nav_target> clibrage <END>
+changer la catégorie en <START:nav_target> calibrage <END>
 changer la catégorie en <START:nav_target> caméra <END>
 changer la catégorie en <START:nav_target> conduite <END>
 changer la catégorie en <START:nav_target> email d'urgence <END>
 changer la catégorie en <START:nav_target> anglais <END>
-changer la catégorie en <START:nav_target> néerlandaise <END>
+changer la catégorie en <START:nav_target> néerlandais <END>
 changer la catégorie en <START:nav_target> français <END>
 changer la catégorie en <START:nav_target> galerie <END>
 changer la catégorie en <START:nav_target> allemand <END>
@@ -737,7 +772,7 @@ changer la catégorie en <START:nav_target> admin <END>
 changer la catégorie en <START:nav_target> de base <END>
 changer la catégorie en <START:nav_target> avancé <END>
 changer la catégorie en <START:nav_target> conduire uniquement <END>
-changer la catégorie en <START:nav_target> douplage <END>
+changer la catégorie en <START:nav_target> doublage <END>
 changer la catégorie en <START:nav_target> geste de conduite <END>
 changer la catégorie en <START:nav_target> réglages de verre <END>
 changer la catégorie en <START:nav_target> mouse un <END>
@@ -745,12 +780,12 @@ changer la catégorie en <START:nav_target> mouse deux <END>
 emmène moi à la catégorie <START:nav_target> nouveau smartphone <END>
 emmène moi à la catégorie <START:nav_target> modes <END>
 emmène moi à la catégorie <START:nav_target> app info <END>
-emmène moi à la catégorie <START:nav_target> clibrage <END>
+emmène moi à la catégorie <START:nav_target> calibrage <END>
 emmène moi à la catégorie <START:nav_target> caméra <END>
 emmène moi à la catégorie <START:nav_target> conduite <END>
 emmène moi à la catégorie <START:nav_target> email d'urgence <END>
 emmène moi à la catégorie <START:nav_target> anglais <END>
-emmène moi à la catégorie <START:nav_target> néerlandaise <END>
+emmène moi à la catégorie <START:nav_target> néerlandais <END>
 emmène moi à la catégorie <START:nav_target> français <END>
 emmène moi à la catégorie <START:nav_target> galerie <END>
 emmène moi à la catégorie <START:nav_target> allemand <END>
@@ -775,7 +810,7 @@ emmène moi à la catégorie <START:nav_target> admin <END>
 emmène moi à la catégorie <START:nav_target> de base <END>
 emmène moi à la catégorie <START:nav_target> avancé <END>
 emmène moi à la catégorie <START:nav_target> conduire uniquement <END>
-emmène moi à la catégorie <START:nav_target> douplage <END>
+emmène moi à la catégorie <START:nav_target> doublage <END>
 emmène moi à la catégorie <START:nav_target> geste de conduite <END>
 emmène moi à la catégorie <START:nav_target> réglages de verre <END>
 emmène moi à la catégorie <START:nav_target> mouse un <END>
@@ -783,12 +818,12 @@ emmène moi à la catégorie <START:nav_target> mouse deux <END>
 emmène moi à <START:nav_target> nouveau smartphone <END>
 emmène moi à <START:nav_target> modes <END>
 emmène moi à <START:nav_target> app info <END>
-emmène moi à <START:nav_target> clibrage <END>
+emmène moi à <START:nav_target> calibrage <END>
 emmène moi à <START:nav_target> caméra <END>
 emmène moi à <START:nav_target> conduite <END>
 emmène moi à <START:nav_target> email d'urgence <END>
 emmène moi à <START:nav_target> anglais <END>
-emmène moi à <START:nav_target> néerlandaise <END>
+emmène moi à <START:nav_target> néerlandais <END>
 emmène moi à <START:nav_target> français <END>
 emmène moi à <START:nav_target> galerie <END>
 emmène moi à <START:nav_target> allemand <END>
@@ -813,7 +848,7 @@ emmène moi à <START:nav_target> admin <END>
 emmène moi à <START:nav_target> de base <END>
 emmène moi à <START:nav_target> avancé <END>
 emmène moi à <START:nav_target> conduire uniquement <END>
-emmène moi à <START:nav_target> douplage <END>
+emmène moi à <START:nav_target> doublage <END>
 emmène moi à <START:nav_target> geste de conduite <END>
 emmène moi à <START:nav_target> réglages de verre <END>
 emmène moi à <START:nav_target> mouse un <END>
