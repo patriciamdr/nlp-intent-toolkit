@@ -1,3 +1,22 @@
+<START:nav_target> fenêtre <END>
+<START:nav_target> rideau <END>
+<START:nav_target> rideaux <END>
+<START:nav_target> lit <END>
+<START:nav_target> porte <END>
+<START:nav_target> musique <END>
+<START:nav_target> musique <END> volume
+volume de la <START:nav_target> musique <END>
+<START:nav_target> tv <END>
+<START:nav_target> télé <END>
+<START:nav_target> télé <END> volume
+volume du <START:nav_target> télé <END>
+volume de la <START:nav_target> télé <END>
+<START:nav_target> téléviseur <END>
+<START:nav_target> téléviseur <END> volume
+volume du <START:nav_target> téléviseur <END>
+<START:nav_target> télévision <END>
+<START:nav_target> télévision <END> volume
+volume de la <START:nav_target> télévision <END>
 <START:nav_target> smartphone existant <END>
 <START:nav_target> nouveau smartphone <END>
 <START:nav_target> modes <END>
@@ -33,6 +52,25 @@
 <START:nav_target> réglages de verre <END>
 <START:nav_target> mouse un <END>
 <START:nav_target> mouse deux <END>
+choisis <START:nav_target> fenêtre <END>
+choisis <START:nav_target> rideau <END>
+choisis <START:nav_target> rideaux <END>
+choisis <START:nav_target> lit <END>
+choisis <START:nav_target> porte <END>
+choisis <START:nav_target> musique <END>
+choisis <START:nav_target> musique <END> volume
+choisis volume de la <START:nav_target> musique <END>
+choisis <START:nav_target> tv <END>
+choisis <START:nav_target> télé <END>
+choisis <START:nav_target> télé <END> volume
+choisis volume du <START:nav_target> télé <END>
+choisis volume de la <START:nav_target> télé <END>
+choisis <START:nav_target> téléviseur <END>
+choisis <START:nav_target> téléviseur <END> volume
+choisis volume du <START:nav_target> téléviseur <END>
+choisis <START:nav_target> télévision <END>
+choisis <START:nav_target> télévision <END> volume
+choisis volume de la <START:nav_target> télévision <END>
 choisis <START:nav_target> smartphone existant <END>
 choisis <START:nav_target> nouveau smartphone <END>
 choisis <START:nav_target> modes <END>
@@ -68,6 +106,25 @@ choisis <START:nav_target> geste de conduite <END>
 choisis <START:nav_target> réglages de verre <END>
 choisis <START:nav_target> mouse un <END>
 choisis <START:nav_target> mouse deux <END>
+choisir <START:nav_target> fenêtre <END>
+choisir <START:nav_target> rideau <END>
+choisir <START:nav_target> rideaux <END>
+choisir <START:nav_target> lit <END>
+choisir <START:nav_target> porte <END>
+choisir <START:nav_target> musique <END>
+choisir <START:nav_target> musique <END> volume
+choisir volume de la <START:nav_target> musique <END>
+choisir <START:nav_target> tv <END>
+choisir <START:nav_target> télé <END>
+choisir <START:nav_target> télé <END> volume
+choisir volume du <START:nav_target> télé <END>
+choisir volume de la <START:nav_target> télé <END>
+choisir <START:nav_target> téléviseur <END>
+choisir <START:nav_target> téléviseur <END> volume
+choisir volume du <START:nav_target> téléviseur <END>
+choisir <START:nav_target> télévision <END>
+choisir <START:nav_target> télévision <END> volume
+choisir volume de la <START:nav_target> télévision <END>
 choisir <START:nav_target> smartphone existant <END>
 choisir <START:nav_target> nouveau smartphone <END>
 choisir <START:nav_target> modes <END>
@@ -181,6 +238,44 @@ choisir la catégorie <START:nav_target> geste de conduite <END>
 choisir la catégorie <START:nav_target> réglages de verre <END>
 choisir la catégorie <START:nav_target> mouse un <END>
 choisir la catégorie <START:nav_target> mouse deux <END>
+sélectionne <START:nav_target> fenêtre <END>
+sélectionne <START:nav_target> rideau <END>
+sélectionne <START:nav_target> rideaux <END>
+sélectionne <START:nav_target> lit <END>
+sélectionne <START:nav_target> porte <END>
+sélectionne <START:nav_target> musique <END>
+sélectionne <START:nav_target> musique <END> volume
+sélectionne volume de la <START:nav_target> musique <END>
+sélectionne <START:nav_target> tv <END>
+sélectionne <START:nav_target> télé <END>
+sélectionne <START:nav_target> télé <END> volume
+sélectionne volume du <START:nav_target> télé <END>
+sélectionne volume de la <START:nav_target> télé <END>
+sélectionne <START:nav_target> téléviseur <END>
+sélectionne <START:nav_target> téléviseur <END> volume
+sélectionne volume du <START:nav_target> téléviseur <END>
+sélectionne <START:nav_target> télévision <END>
+sélectionne <START:nav_target> télévision <END> volume
+sélectionne volume de la <START:nav_target> télévision <END>
+sélectionner <START:nav_target> fenêtre <END>
+sélectionner <START:nav_target> rideau <END>
+sélectionner <START:nav_target> rideaux <END>
+sélectionner <START:nav_target> lit <END>
+sélectionner <START:nav_target> porte <END>
+sélectionner <START:nav_target> musique <END>
+sélectionner <START:nav_target> musique <END> volume
+sélectionner volume de la <START:nav_target> musique <END>
+sélectionner <START:nav_target> tv <END>
+sélectionner <START:nav_target> télé <END>
+sélectionner <START:nav_target> télé <END> volume
+sélectionner volume du <START:nav_target> télé <END>
+sélectionner volume de la <START:nav_target> télé <END>
+sélectionner <START:nav_target> téléviseur <END>
+sélectionner <START:nav_target> téléviseur <END> volume
+sélectionner volume du <START:nav_target> téléviseur <END>
+sélectionner <START:nav_target> télévision <END>
+sélectionner <START:nav_target> télévision <END> volume
+sélectionner volume de la <START:nav_target> télévision <END>
 sélectionner <START:nav_target> smartphone existant <END>
 sélectionner <START:nav_target> nouveau smartphone <END>
 sélectionner <START:nav_target> modes <END>
@@ -329,6 +424,25 @@ sélectionne la catégorie <START:nav_target> geste de conduite <END>
 sélectionne la catégorie <START:nav_target> réglages de verre <END>
 sélectionne la catégorie <START:nav_target> mouse un <END>
 sélectionne la catégorie <START:nav_target> mouse deux <END>
+va à <START:nav_target> fenêtre <END>
+va à <START:nav_target> rideau <END>
+va à <START:nav_target> rideaux <END>
+va à <START:nav_target> lit <END>
+va à <START:nav_target> porte <END>
+va à <START:nav_target> musique <END>
+va à <START:nav_target> musique <END> volume
+va à volume de la <START:nav_target> musique <END>
+va à <START:nav_target> tv <END>
+va à <START:nav_target> télé <END>
+va à <START:nav_target> télé <END> volume
+va à volume du <START:nav_target> télé <END>
+va à volume de la <START:nav_target> télé <END>
+va à <START:nav_target> téléviseur <END>
+va à <START:nav_target> téléviseur <END> volume
+va à volume du <START:nav_target> téléviseur <END>
+va à <START:nav_target> télévision <END>
+va à <START:nav_target> télévision <END> volume
+va à volume de la <START:nav_target> télévision <END>
 va à la catégorie <START:nav_target> nouveau smartphone <END>
 va à la catégorie <START:nav_target> modes <END>
 va à la catégorie <START:nav_target> app info <END>
@@ -519,6 +633,25 @@ aller à la catégorie <START:nav_target> geste de conduite <END>
 aller à la catégorie <START:nav_target> réglages de verre <END>
 aller à la catégorie <START:nav_target> mouse un <END>
 aller à la catégorie <START:nav_target> mouse deux <END>
+aller à <START:nav_target> fenêtre <END>
+aller à <START:nav_target> rideau <END>
+aller à <START:nav_target> rideaux <END>
+aller à <START:nav_target> lit <END>
+aller à <START:nav_target> porte <END>
+aller à <START:nav_target> musique <END>
+aller à <START:nav_target> musique <END> volume
+aller à volume de la <START:nav_target> musique <END>
+aller à <START:nav_target> tv <END>
+aller à <START:nav_target> télé <END>
+aller à <START:nav_target> télé <END> volume
+aller à volume du <START:nav_target> télé <END>
+aller à volume de la <START:nav_target> télé <END>
+aller à <START:nav_target> téléviseur <END>
+aller à <START:nav_target> téléviseur <END> volume
+aller à volume du <START:nav_target> téléviseur <END>
+aller à <START:nav_target> télévision <END>
+aller à <START:nav_target> télévision <END> volume
+aller à volume de la <START:nav_target> télévision <END>
 aller à <START:nav_target> nouveau smartphone <END>
 aller à <START:nav_target> modes <END>
 aller à <START:nav_target> app info <END>
@@ -557,6 +690,25 @@ aller à <START:nav_target> geste de conduite <END>
 aller à <START:nav_target> réglages de verre <END>
 aller à <START:nav_target> mouse un <END>
 aller à <START:nav_target> mouse deux <END>
+change en <START:nav_target> fenêtre <END>
+change en <START:nav_target> rideau <END>
+change en <START:nav_target> rideaux <END>
+change en <START:nav_target> lit <END>
+change en <START:nav_target> porte <END>
+change en <START:nav_target> musique <END>
+change en <START:nav_target> musique <END> volume
+change en volume de la <START:nav_target> musique <END>
+change en <START:nav_target> tv <END>
+change en <START:nav_target> télé <END>
+change en <START:nav_target> télé <END> volume
+change en volume du <START:nav_target> télé <END>
+change en volume de la <START:nav_target> télé <END>
+change en <START:nav_target> téléviseur <END>
+change en <START:nav_target> téléviseur <END> volume
+change en volume du <START:nav_target> téléviseur <END>
+change en <START:nav_target> télévision <END>
+change en <START:nav_target> télévision <END> volume
+change en volume de la <START:nav_target> télévision <END>
 change en <START:nav_target> nouveau smartphone <END>
 change en <START:nav_target> modes <END>
 change en <START:nav_target> app info <END>
@@ -667,6 +819,25 @@ change la catégorie en <START:nav_target> geste de conduite <END>
 change la catégorie en <START:nav_target> réglages de verre <END>
 change la catégorie en <START:nav_target> mouse un <END>
 change la catégorie en <START:nav_target> mouse deux <END>
+changer en <START:nav_target> fenêtre <END>
+changer en <START:nav_target> rideau <END>
+changer en <START:nav_target> rideaux <END>
+changer en <START:nav_target> lit <END>
+changer en <START:nav_target> porte <END>
+changer en <START:nav_target> musique <END>
+changer en <START:nav_target> musique <END> volume
+changer en volume de la <START:nav_target> musique <END>
+changer en <START:nav_target> tv <END>
+changer en <START:nav_target> télé <END>
+changer en <START:nav_target> télé <END> volume
+changer en volume du <START:nav_target> télé <END>
+changer en volume de la <START:nav_target> télé <END>
+changer en <START:nav_target> téléviseur <END>
+changer en <START:nav_target> téléviseur <END> volume
+changer en volume du <START:nav_target> téléviseur <END>
+changer en <START:nav_target> télévision <END>
+changer en <START:nav_target> télévision <END> volume
+changer en volume de la <START:nav_target> télévision <END>
 changer en <START:nav_target> nouveau smartphone <END>
 changer en <START:nav_target> modes <END>
 changer en <START:nav_target> app info <END>

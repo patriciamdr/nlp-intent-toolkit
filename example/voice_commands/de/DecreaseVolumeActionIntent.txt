@@ -161,32 +161,6 @@ lautstärke der <START:volume_target> musik <END> verringern
 lautstärke der <START:volume_target> musik <END> herunter drehen
 lautstärke der <START:volume_target> musik <END> runter drehen
 lautstärke der <START:volume_target> musik <END> weniger
-bitte reduziere die lautstärke der <START:volume_target> musik <END>
-reduziere bitte die lautstärke der <START:volume_target> musik <END>
-bitte verringere die lautstärke der <START:volume_target> musik <END>
-verringere bitte die lautstärke der <START:volume_target> musik <END>
-bitte dreh die lautstärke der <START:volume_target> musik <END> herunter
-dreh bitte die lautstärke der <START:volume_target> musik <END> herunter
-dreh die lautstärke der <START:volume_target> musik <END> bitte herunter
-bitte dreh die lautstärke der <START:volume_target> musik <END> runter
-dreh bitte die lautstärke der <START:volume_target> musik <END> runter
-dreh die lautstärke der <START:volume_target> musik <END> bitte runter
-bitte lautstärke der <START:volume_target> musik <END> leiser
-bitte lautstärke der <START:volume_target> musik <END> reduzieren
-bitte lautstärke der <START:volume_target> musik <END> verringern
-bitte lautstärke der <START:volume_target> musik <END> herunter drehen
-bitte lautstärke der <START:volume_target> musik <END> runter drehen
-bitte lautstärke der <START:volume_target> musik <END> weniger
-reduziere die lautstärke der <START:volume_target> musik <END> bitte
-verringere die lautstärke der <START:volume_target> musik <END> bitte
-dreh die lautstärke der <START:volume_target> musik <END> herunter bitte
-dreh die lautstärke der <START:volume_target> musik <END> runter bitte
-lautstärke der <START:volume_target> musik <END> leiser bitte
-lautstärke der <START:volume_target> musik <END> reduzieren bitte
-lautstärke der <START:volume_target> musik <END> verringern bitte
-lautstärke der <START:volume_target> musik <END> herunter drehen bitte
-lautstärke der <START:volume_target> musik <END> runter drehen bitte
-lautstärke der <START:volume_target> musik <END> weniger bitte
 reduziere die <START:volume_target> fernseher <END> lautstärke
 verringere die <START:volume_target> fernseher <END> lautstärke
 dreh die <START:volume_target> fernseher <END> lautstärke herunter

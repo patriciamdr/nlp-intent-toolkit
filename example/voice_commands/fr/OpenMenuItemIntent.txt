@@ -1,3 +1,97 @@
+ouvre la catégorie <START:menuitem_target> fenêtre <END>
+ouvre la catégorie <START:menuitem_target> rideau <END>
+ouvre la catégorie <START:menuitem_target> rideaux <END>
+ouvre la catégorie <START:menuitem_target> lit <END>
+ouvre la catégorie <START:menuitem_target> porte <END>
+ouvrir la catégorie <START:menuitem_target> fenêtre <END>
+ouvrir la catégorie <START:menuitem_target> rideau <END>
+ouvrir la catégorie <START:menuitem_target> rideaux <END>
+ouvrir la catégorie <START:menuitem_target> lit <END>
+ouvrir la catégorie <START:menuitem_target> porte <END>
+ouvre <START:menuitem_target> musique <END>
+ouvre <START:menuitem_target> musique <END> volume
+ouvre volume de la <START:menuitem_target> musique <END>
+ouvre <START:menuitem_target> tv <END>
+ouvre <START:menuitem_target> télé <END>
+ouvre <START:menuitem_target> télé <END> volume
+ouvre volume du <START:menuitem_target> télé <END>
+ouvre volume de la <START:menuitem_target> télé <END>
+ouvre <START:menuitem_target> téléviseur <END>
+ouvre <START:menuitem_target> téléviseur <END> volume
+ouvre volume du <START:menuitem_target> téléviseur <END>
+ouvre <START:menuitem_target> télévision <END>
+ouvre <START:menuitem_target> télévision <END> volume
+ouvre volume de la <START:menuitem_target> télévision <END>
+ouvrir <START:menuitem_target> musique <END>
+ouvrir <START:menuitem_target> musique <END> volume
+ouvrir volume de la <START:menuitem_target> musique <END>
+ouvrir <START:menuitem_target> tv <END>
+ouvrir <START:menuitem_target> télé <END>
+ouvrir <START:menuitem_target> télé <END> volume
+ouvrir volume du <START:menuitem_target> télé <END>
+ouvrir volume de la <START:menuitem_target> télé <END>
+ouvrir <START:menuitem_target> téléviseur <END>
+ouvrir <START:menuitem_target> téléviseur <END> volume
+ouvrir volume du <START:menuitem_target> téléviseur <END>
+ouvrir <START:menuitem_target> télévision <END>
+ouvrir <START:menuitem_target> télévision <END> volume
+ouvrir volume de la <START:menuitem_target> télévision <END>
+ouvre catégorie <START:menuitem_target> musique <END>
+ouvre catégorie <START:menuitem_target> musique <END> volume
+ouvre catégorie volume de la <START:menuitem_target> musique <END>
+ouvre catégorie <START:menuitem_target> tv <END>
+ouvre catégorie <START:menuitem_target> télé <END>
+ouvre catégorie <START:menuitem_target> télé <END> volume
+ouvre catégorie volume du <START:menuitem_target> télé <END>
+ouvre catégorie volume de la <START:menuitem_target> télé <END>
+ouvre catégorie <START:menuitem_target> téléviseur <END>
+ouvre catégorie <START:menuitem_target> téléviseur <END> volume
+ouvre catégorie volume du <START:menuitem_target> téléviseur <END>
+ouvre catégorie <START:menuitem_target> télévision <END>
+ouvre catégorie <START:menuitem_target> télévision <END> volume
+ouvre catégorie volume de la <START:menuitem_target> télévision <END>
+ouvrir catégorie <START:menuitem_target> musique <END>
+ouvrir catégorie <START:menuitem_target> musique <END> volume
+ouvrir catégorie volume de la <START:menuitem_target> musique <END>
+ouvrir catégorie <START:menuitem_target> tv <END>
+ouvrir catégorie <START:menuitem_target> télé <END>
+ouvrir catégorie <START:menuitem_target> télé <END> volume
+ouvrir catégorie volume du <START:menuitem_target> télé <END>
+ouvrir catégorie volume de la <START:menuitem_target> télé <END>
+ouvrir catégorie <START:menuitem_target> téléviseur <END>
+ouvrir catégorie <START:menuitem_target> téléviseur <END> volume
+ouvrir catégorie volume du <START:menuitem_target> téléviseur <END>
+ouvrir catégorie <START:menuitem_target> télévision <END>
+ouvrir catégorie <START:menuitem_target> télévision <END> volume
+ouvrir catégorie volume de la <START:menuitem_target> télévision <END>
+ouvre la catégorie <START:menuitem_target> musique <END>
+ouvre la catégorie <START:menuitem_target> musique <END> volume
+ouvre la catégorie volume de la <START:menuitem_target> musique <END>
+ouvre la catégorie <START:menuitem_target> tv <END>
+ouvre la catégorie <START:menuitem_target> télé <END>
+ouvre la catégorie <START:menuitem_target> télé <END> volume
+ouvre la catégorie volume du <START:menuitem_target> télé <END>
+ouvre la catégorie volume de la <START:menuitem_target> télé <END>
+ouvre la catégorie <START:menuitem_target> téléviseur <END>
+ouvre la catégorie <START:menuitem_target> téléviseur <END> volume
+ouvre la catégorie volume du <START:menuitem_target> téléviseur <END>
+ouvre la catégorie <START:menuitem_target> télévision <END>
+ouvre la catégorie <START:menuitem_target> télévision <END> volume
+ouvre la catégorie volume de la <START:menuitem_target> télévision <END>
+ouvrir la catégorie <START:menuitem_target> musique <END>
+ouvrir la catégorie <START:menuitem_target> musique <END> volume
+ouvrir la catégorie volume de la <START:menuitem_target> musique <END>
+ouvrir la catégorie <START:menuitem_target> tv <END>
+ouvrir la catégorie <START:menuitem_target> télé <END>
+ouvrir la catégorie <START:menuitem_target> télé <END> volume
+ouvrir la catégorie volume du <START:menuitem_target> télé <END>
+ouvrir la catégorie volume de la <START:menuitem_target> télé <END>
+ouvrir la catégorie <START:menuitem_target> téléviseur <END>
+ouvrir la catégorie <START:menuitem_target> téléviseur <END> volume
+ouvrir la catégorie volume du <START:menuitem_target> téléviseur <END>
+ouvrir la catégorie <START:menuitem_target> télévision <END>
+ouvrir la catégorie <START:menuitem_target> télévision <END> volume
+ouvrir la catégorie volume de la <START:menuitem_target> télévision <END>
 ouvre <START:menuitem_target> smartphone existant <END>
 ouvre <START:menuitem_target> nouveau smartphone <END>
 ouvre <START:menuitem_target> modes <END>

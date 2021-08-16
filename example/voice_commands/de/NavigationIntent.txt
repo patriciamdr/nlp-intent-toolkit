@@ -13,6 +13,7 @@
 <START:nav_target> alarm <END>
 <START:nav_target> musik <END>
 <START:nav_target> musik <END> lautstärke
+lautstärke der <START:nav_target> musik <END>
 <START:nav_target> musik quelle <END>
 <START:nav_target> musik kontrolle <END>
 <START:nav_target> tv steuerung <END>

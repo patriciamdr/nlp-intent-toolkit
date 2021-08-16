@@ -1,0 +1,20 @@
+arrête la <START:music_target> musique <END>
+arrêter la <START:music_target> musique <END>
+éteinds la <START:music_target> musique <END>
+éteindre la <START:music_target> musique <END>
+termine la <START:music_target> musique <END>
+terminer la <START:music_target> musique <END>
+romps la <START:music_target> musique <END>
+rompre la <START:music_target> musique <END>
+pause la <START:music_target> musique <END>
+pauser la <START:music_target> musique <END>
+arrête <START:music_target> musique <END>
+arrêter <START:music_target> musique <END>
+éteinds <START:music_target> musique <END>
+éteindre <START:music_target> musique <END>
+termine <START:music_target> musique <END>
+terminer <START:music_target> musique <END>
+romps <START:music_target> musique <END>
+rompre <START:music_target> musique <END>
+pause <START:music_target> musique <END>
+pauser <START:music_target> musique <END>

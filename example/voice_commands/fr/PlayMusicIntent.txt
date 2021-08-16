@@ -1,0 +1,20 @@
+joue la <START:music_target> musique <END>
+jouer la <START:music_target> musique <END>
+démarrer la <START:music_target> musique <END>
+démarre la <START:music_target> musique <END>
+commence la <START:music_target> musique <END>
+commencer la <START:music_target> musique <END>
+allume la <START:music_target> musique <END>
+allumer la <START:music_target> musique <END>
+continue la <START:music_target> musique <END>
+continuer la <START:music_target> musique <END>
+joue <START:music_target> musique <END>
+jouer <START:music_target> musique <END>
+démarrer <START:music_target> musique <END>
+démarre <START:music_target> musique <END>
+commence <START:music_target> musique <END>
+commencer <START:music_target> musique <END>
+allume <START:music_target> musique <END>
+allumer <START:music_target> musique <END>
+continue <START:music_target> musique <END>
+continuer <START:music_target> musique <END>

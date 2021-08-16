@@ -11,3 +11,11 @@ néerlandaise:néerlandais
 l'administration:admin
 administration:admin
 l'avancé:avancé
+musical:musique
+suivante:prochaine
+suivant:prochaine
+prochain:prochaine
+prochain:prochaine
+précédent:précédente
+fenêtres:fenêtre
+rideaux:rideau

@@ -1,0 +1,40 @@
+baisse le <START:tilt_target> lit <END>
+rabats le <START:tilt_target> lit <END>
+incline le <START:tilt_target> lit <END> vers le bas
+réduis la baseur du <START:tilt_target> lit <END>
+réduis l'angle du <START:tilt_target> lit <END>
+réduis la pente du <START:tilt_target> lit <END>
+réduis l'inclinaison du <START:tilt_target> lit <END>
+diminue la baseur du <START:tilt_target> lit <END>
+diminue l'angle du <START:tilt_target> lit <END>
+diminue la pente du <START:tilt_target> lit <END>
+diminue l'inclinaison du <START:tilt_target> lit <END>
+baisse la baseur du <START:tilt_target> lit <END>
+baisse l'angle du <START:tilt_target> lit <END>
+baisse la pente du <START:tilt_target> lit <END>
+baisse l'inclinaison du <START:tilt_target> lit <END>
+rends le <START:tilt_target> lit <END> plus plat
+baisser le <START:tilt_target> lit <END>
+rabattre le <START:tilt_target> lit <END>
+incliner le <START:tilt_target> lit <END> vers le bas
+réduire la baseur du <START:tilt_target> lit <END>
+réduire l'angle du <START:tilt_target> lit <END>
+réduire la pente du <START:tilt_target> lit <END>
+réduire l'inclinaison du <START:tilt_target> lit <END>
+diminuer la baseur du <START:tilt_target> lit <END>
+diminuer l'angle du <START:tilt_target> lit <END>
+diminuer la pente du <START:tilt_target> lit <END>
+diminuer l'inclinaison du <START:tilt_target> lit <END>
+baisser la baseur du <START:tilt_target> lit <END>
+baisser l'angle du <START:tilt_target> lit <END>
+baisser la pente du <START:tilt_target> lit <END>
+baisser l'inclinaison du <START:tilt_target> lit <END>
+rendre le <START:tilt_target> lit <END> plus plat
+baisse <START:tilt_target> lit <END>
+rabats <START:tilt_target> lit <END>
+incline <START:tilt_target> lit <END> vers le bas
+rends <START:tilt_target> lit <END> plus plat
+baisser <START:tilt_target> lit <END>
+rabattre <START:tilt_target> lit <END>
+incliner <START:tilt_target> lit <END> vers le bas
+rendre <START:tilt_target> lit <END> plus plat

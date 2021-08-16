@@ -1,0 +1,30 @@
+ouvre la <START:smarthome_target> fenêtre <END>
+ouvre les <START:smarthome_target> fenêtres <END>
+ouvre le <START:smarthome_target> rideau <END>
+ouvre le <START:smarthome_target> rideaux <END>
+ouvre la <START:smarthome_target> porte <END>
+ouvre <START:smarthome_target> fenêtre <END>
+ouvre <START:smarthome_target> fenêtres <END>
+ouvre <START:smarthome_target> rideau <END>
+ouvre <START:smarthome_target> rideaux <END>
+ouvre <START:smarthome_target> porte <END>
+ouvrir la <START:smarthome_target> fenêtre <END>
+ouvrir les <START:smarthome_target> fenêtres <END>
+ouvrir le <START:smarthome_target> rideau <END>
+ouvrir le <START:smarthome_target> rideaux <END>
+ouvrir la <START:smarthome_target> porte <END>
+ouvrir <START:smarthome_target> fenêtre <END>
+ouvrir <START:smarthome_target> fenêtres <END>
+ouvrir <START:smarthome_target> rideau <END>
+ouvrir <START:smarthome_target> rideaux <END>
+ouvrir <START:smarthome_target> porte <END>
+la <START:smarthome_target> fenêtre <END> ouverte
+les <START:smarthome_target> fenêtres <END> ouvertes
+le <START:smarthome_target> rideau <END> ouvert
+les <START:smarthome_target> rideaux <END> ouverts
+la <START:smarthome_target> porte ouverte
+<START:smarthome_target> fenêtre <END> ouverte
+<START:smarthome_target> fenêtres <END> ouvertes
+<START:smarthome_target> rideau <END> ouvert
+<START:smarthome_target> rideaux <END> ouverts
+<START:smarthome_target> porte ouverte

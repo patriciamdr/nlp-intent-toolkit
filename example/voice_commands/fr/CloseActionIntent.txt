@@ -1,0 +1,30 @@
+ferme la <START:smarthome_target> fenêtre <END>
+ferme les <START:smarthome_target> fenêtres <END>
+ferme le <START:smarthome_target> rideau <END>
+ferme le <START:smarthome_target> rideaux <END>
+ferme la <START:smarthome_target> porte <END>
+ferme <START:smarthome_target> fenêtre <END>
+ferme <START:smarthome_target> fenêtres <END>
+ferme <START:smarthome_target> rideau <END>
+ferme <START:smarthome_target> rideaux <END>
+ferme <START:smarthome_target> porte <END>
+fermer la <START:smarthome_target> fenêtre <END>
+fermer les <START:smarthome_target> fenêtres <END>
+fermer le <START:smarthome_target> rideau <END>
+fermer le <START:smarthome_target> rideaux <END>
+fermer la <START:smarthome_target> porte <END>
+fermer <START:smarthome_target> fenêtre <END>
+fermer <START:smarthome_target> fenêtres <END>
+fermer <START:smarthome_target> rideau <END>
+fermer <START:smarthome_target> rideaux <END>
+fermer <START:smarthome_target> porte <END>
+la <START:smarthome_target> fenêtre <END> fermée
+les <START:smarthome_target> fenêtres <END> fermées
+le <START:smarthome_target> rideau <END> fermé
+les <START:smarthome_target> rideaux <END> fermés
+la <START:smarthome_target> porte fermée
+<START:smarthome_target> fenêtre <END> fermée
+<START:smarthome_target> fenêtres <END> fermées
+<START:smarthome_target> rideau <END> fermé
+<START:smarthome_target> rideaux <END> fermés
+<START:smarthome_target> porte <END> fermée

@@ -1,0 +1,48 @@
+releve le <START:tilt_target> lit <END>
+redresse le <START:tilt_target> lit <END>
+replie le <START:tilt_target> lit <END>
+incline le <START:tilt_target> lit <END> vers le haut
+augmente la hauteur du <START:tilt_target> lit <END>
+augmente l'angle du <START:tilt_target> lit <END>
+augmente la pente du <START:tilt_target> lit <END>
+augmente l'inclinaison du <START:tilt_target> lit <END>
+redresse la hauteur du <START:tilt_target> lit <END>
+redresse l'angle du <START:tilt_target> lit <END>
+redresse la pente du <START:tilt_target> lit <END>
+redresse l'inclinaison du <START:tilt_target> lit <END>
+monte la hauteur du <START:tilt_target> lit <END>
+monte l'angle du <START:tilt_target> lit <END>
+monte la pente du <START:tilt_target> lit <END>
+monte l'inclinaison du <START:tilt_target> lit <END>
+fais le <START:tilt_target> lit <END> plus haut
+rends le <START:tilt_target> lit <END> plus raide
+relever le <START:tilt_target> lit <END>
+redresser le <START:tilt_target> lit <END>
+replier le <START:tilt_target> lit <END>
+incliner le <START:tilt_target> lit <END> vers le haut
+augmenter la hauteur du <START:tilt_target> lit <END>
+augmenter l'angle du <START:tilt_target> lit <END>
+augmenter la pente du <START:tilt_target> lit <END>
+augmenter l'inclinaison du <START:tilt_target> lit <END>
+monter la hauteur du <START:tilt_target> lit <END>
+monter l'angle du <START:tilt_target> lit <END>
+monter la pente du <START:tilt_target> lit <END>
+monter l'inclinaison du <START:tilt_target> lit <END>
+redresser la hauteur du <START:tilt_target> lit <END>
+redresser l'angle du <START:tilt_target> lit <END>
+redresser la pente du <START:tilt_target> lit <END>
+redresser l'inclinaison du <START:tilt_target> lit <END>
+faire le <START:tilt_target> lit <END> plus haut
+rendre le <START:tilt_target> lit <END> plus raide
+releve <START:tilt_target> lit <END>
+redresse <START:tilt_target> lit <END>
+replie <START:tilt_target> lit <END>
+incline <START:tilt_target> lit <END> vers le haut
+fais <START:tilt_target> lit <END> plus haut
+rends <START:tilt_target> lit <END> plus raide
+relever <START:tilt_target> lit <END>
+redresser <START:tilt_target> lit <END>
+replier <START:tilt_target> lit <END>
+incliner <START:tilt_target> lit <END> vers le haut
+faire <START:tilt_target> lit <END> plus haut
+rendre <START:tilt_target> lit <END> plus raide
