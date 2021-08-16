@@ -16,6 +16,8 @@ go to <START:nav_target> door <END>
 go to <START:nav_target> alarm <END>
 go to <START:nav_target> intercom <END>
 go to <START:nav_target> music <END>
+go to volume of the <START:nav_target> music <END>
+go to <START:nav_target> music <END> volume
 go to <START:nav_target> music source <END>
 go to <START:nav_target> music sources <END>
 go to <START:nav_target> music control <END>
@@ -23,6 +25,8 @@ go to <START:nav_target> tv control <END>
 go to <START:nav_target> tv power <END>
 go to <START:nav_target> tv settings <END>
 go to <START:nav_target> tv <END>
+go to volume of the <START:nav_target> tv <END>
+go to <START:nav_target> tv <END> volume
 go to category <START:nav_target> window <END>
 go to category <START:nav_target> curtain <END>
 go to category <START:nav_target> curtains <END>
@@ -41,6 +45,8 @@ go to category <START:nav_target> door <END>
 go to category <START:nav_target> alarm <END>
 go to category <START:nav_target> intercom <END>
 go to category <START:nav_target> music <END>
+go to category volume of the <START:nav_target> music <END>
+go to category <START:nav_target> music <END> volume
 go to category <START:nav_target> music source <END>
 go to category <START:nav_target> music sources <END>
 go to category <START:nav_target> music control <END>
@@ -48,6 +54,8 @@ go to category <START:nav_target> tv control <END>
 go to category <START:nav_target> tv power <END>
 go to category <START:nav_target> tv settings <END>
 go to category <START:nav_target> tv <END>
+go to category volume of the <START:nav_target> tv <END>
+go to category <START:nav_target> tv <END> volume
 navigate to <START:nav_target> window <END>
 navigate to <START:nav_target> curtain <END>
 navigate to <START:nav_target> curtains <END>
@@ -66,6 +74,8 @@ navigate to <START:nav_target> door <END>
 navigate to <START:nav_target> alarm <END>
 navigate to <START:nav_target> intercom <END>
 navigate to <START:nav_target> music <END>
+navigate to volume of the <START:nav_target> music <END>
+navigate to <START:nav_target> music <END> volume
 navigate to <START:nav_target> music source <END>
 navigate to <START:nav_target> music sources <END>
 navigate to <START:nav_target> music control <END>
@@ -73,6 +83,8 @@ navigate to <START:nav_target> tv control <END>
 navigate to <START:nav_target> tv power <END>
 navigate to <START:nav_target> tv settings <END>
 navigate to <START:nav_target> tv <END>
+navigate to volume of the <START:nav_target> tv <END>
+navigate to <START:nav_target> tv <END> volume
 navigate to category <START:nav_target> window <END>
 navigate to category <START:nav_target> curtain <END>
 navigate to category <START:nav_target> curtains <END>
@@ -91,6 +103,8 @@ navigate to category <START:nav_target> door <END>
 navigate to category <START:nav_target> alarm <END>
 navigate to category <START:nav_target> intercom <END>
 navigate to category <START:nav_target> music <END>
+navigate to category volume of the <START:nav_target> music <END>
+navigate to category <START:nav_target> music <END> volume
 navigate to category <START:nav_target> music source <END>
 navigate to category <START:nav_target> music sources <END>
 navigate to category <START:nav_target> music control <END>
@@ -98,6 +112,8 @@ navigate to category <START:nav_target> tv control <END>
 navigate to category <START:nav_target> tv power <END>
 navigate to category <START:nav_target> tv settings <END>
 navigate to category <START:nav_target> tv <END>
+navigate to category volume of the <START:nav_target> tv <END>
+navigate to category <START:nav_target> tv <END> volume
 take me to <START:nav_target> window <END>
 take me to <START:nav_target> curtain <END>
 take me to <START:nav_target> curtains <END>
@@ -116,6 +132,8 @@ take me to <START:nav_target> door <END>
 take me to <START:nav_target> alarm <END>
 take me to <START:nav_target> intercom <END>
 take me to <START:nav_target> music <END>
+take me to volume of the <START:nav_target> music <END>
+take me to <START:nav_target> music <END> volume
 take me to <START:nav_target> music source <END>
 take me to <START:nav_target> music sources <END>
 take me to <START:nav_target> music control <END>
@@ -123,6 +141,8 @@ take me to <START:nav_target> tv control <END>
 take me to <START:nav_target> tv power <END>
 take me to <START:nav_target> tv settings <END>
 take me to <START:nav_target> tv <END>
+take me to volume of the <START:nav_target> tv <END>
+take me to <START:nav_target> tv <END> volume
 take me to category <START:nav_target> window <END>
 take me to category <START:nav_target> curtain <END>
 take me to category <START:nav_target> curtains <END>
@@ -141,6 +161,8 @@ take me to category <START:nav_target> door <END>
 take me to category <START:nav_target> alarm <END>
 take me to category <START:nav_target> intercom <END>
 take me to category <START:nav_target> music <END>
+take me to category volume of the <START:nav_target> music <END>
+take me to category <START:nav_target> music <END> volume
 take me to category <START:nav_target> music source <END>
 take me to category <START:nav_target> music sources <END>
 take me to category <START:nav_target> music control <END>
@@ -148,6 +170,8 @@ take me to category <START:nav_target> tv control <END>
 take me to category <START:nav_target> tv power <END>
 take me to category <START:nav_target> tv settings <END>
 take me to category <START:nav_target> tv <END>
+take me to category volume of the <START:nav_target> tv <END>
+take me to category <START:nav_target> tv <END> volume
 switch to <START:nav_target> window <END>
 switch to <START:nav_target> curtain <END>
 switch to <START:nav_target> curtains <END>
@@ -166,6 +190,8 @@ switch to <START:nav_target> door <END>
 switch to <START:nav_target> alarm <END>
 switch to <START:nav_target> intercom <END>
 switch to <START:nav_target> music <END>
+switch to volume of the <START:nav_target> music <END>
+switch to <START:nav_target> music <END> volume
 switch to <START:nav_target> music source <END>
 switch to <START:nav_target> music sources <END>
 switch to <START:nav_target> music control <END>
@@ -173,6 +199,8 @@ switch to <START:nav_target> tv control <END>
 switch to <START:nav_target> tv power <END>
 switch to <START:nav_target> tv settings <END>
 switch to <START:nav_target> tv <END>
+switch to volume of the <START:nav_target> tv <END>
+switch to <START:nav_target> tv <END> volume
 switch to category <START:nav_target> window <END>
 switch to category <START:nav_target> curtain <END>
 switch to category <START:nav_target> curtains <END>
@@ -191,6 +219,8 @@ switch to category <START:nav_target> door <END>
 switch to category <START:nav_target> alarm <END>
 switch to category <START:nav_target> intercom <END>
 switch to category <START:nav_target> music <END>
+switch to category volume of the <START:nav_target> music <END>
+switch to category <START:nav_target> music <END> volume
 switch to category <START:nav_target> music source <END>
 switch to category <START:nav_target> music sources <END>
 switch to category <START:nav_target> music control <END>
@@ -198,6 +228,8 @@ switch to category <START:nav_target> tv control <END>
 switch to category <START:nav_target> tv power <END>
 switch to category <START:nav_target> tv settings <END>
 switch to category <START:nav_target> tv <END>
+switch to category volume of the <START:nav_target> tv <END>
+switch to category <START:nav_target> tv <END> volume
 choose <START:nav_target> window <END>
 choose <START:nav_target> curtain <END>
 choose <START:nav_target> curtains <END>
@@ -216,6 +248,8 @@ choose <START:nav_target> door <END>
 choose <START:nav_target> alarm <END>
 choose <START:nav_target> intercom <END>
 choose <START:nav_target> music <END>
+choose volume of the <START:nav_target> music <END>
+choose <START:nav_target> music <END> volume
 choose <START:nav_target> music source <END>
 choose <START:nav_target> music sources <END>
 choose <START:nav_target> music control <END>
@@ -223,6 +257,8 @@ choose <START:nav_target> tv control <END>
 choose <START:nav_target> tv power <END>
 choose <START:nav_target> tv settings <END>
 choose <START:nav_target> tv <END>
+choose volume of the <START:nav_target> tv <END>
+choose <START:nav_target> tv <END> volume
 choose category <START:nav_target> window <END>
 choose category <START:nav_target> curtain <END>
 choose category <START:nav_target> curtains <END>
@@ -240,14 +276,18 @@ choose category <START:nav_target> housemate <END>
 choose category <START:nav_target> door <END>
 choose category <START:nav_target> alarm <END>
 choose category <START:nav_target> intercom <END>
+choose category volume of the <START:nav_target> music <END>
 choose category <START:nav_target> music <END>
+choose category <START:nav_target> music <END> volume
 choose category <START:nav_target> music source <END>
 choose category <START:nav_target> music sources <END>
 choose category <START:nav_target> music control <END>
 choose category <START:nav_target> tv control <END>
 choose category <START:nav_target> tv power <END>
 choose category <START:nav_target> tv settings <END>
+choose category volume of the <START:nav_target> tv <END>
 choose category <START:nav_target> tv <END>
+choose category <START:nav_target> tv <END> volume
 select <START:nav_target> window <END>
 select <START:nav_target> curtain <END>
 select <START:nav_target> curtains <END>
@@ -265,6 +305,8 @@ select <START:nav_target> housemate <END>
 select <START:nav_target> door <END>
 select <START:nav_target> alarm <END>
 select <START:nav_target> intercom <END>
+select volume of the <START:nav_target> music <END>
+select <START:nav_target> music <END> volume
 select <START:nav_target> music <END>
 select <START:nav_target> music source <END>
 select <START:nav_target> music sources <END>
@@ -272,7 +314,9 @@ select <START:nav_target> music control <END>
 select <START:nav_target> tv control <END>
 select <START:nav_target> tv power <END>
 select <START:nav_target> tv settings <END>
+select volume of the <START:nav_target> tv <END>
 select <START:nav_target> tv <END>
+select <START:nav_target> tv <END> volume
 select category <START:nav_target> window <END>
 select category <START:nav_target> curtain <END>
 select category <START:nav_target> curtains <END>
@@ -290,14 +334,18 @@ select category <START:nav_target> housemate <END>
 select category <START:nav_target> door <END>
 select category <START:nav_target> alarm <END>
 select category <START:nav_target> intercom <END>
+select category volume of the <START:nav_target> music <END>
 select category <START:nav_target> music <END>
+select category <START:nav_target> music <END> volume
 select category <START:nav_target> music source <END>
 select category <START:nav_target> music sources <END>
 select category <START:nav_target> music control <END>
 select category <START:nav_target> tv control <END>
 select category <START:nav_target> tv power <END>
 select category <START:nav_target> tv settings <END>
+select category volume of the <START:nav_target> tv <END>
 select category <START:nav_target> tv <END>
+select category <START:nav_target> tv <END> volume
 to <START:nav_target> window <END>
 to <START:nav_target> curtain <END>
 to <START:nav_target> curtains <END>
@@ -315,14 +363,18 @@ to <START:nav_target> housemate <END>
 to <START:nav_target> door <END>
 to <START:nav_target> alarm <END>
 to <START:nav_target> intercom <END>
+to volume of the <START:nav_target> music <END>
 to <START:nav_target> music <END>
 to <START:nav_target> music source <END>
 to <START:nav_target> music sources <END>
 to <START:nav_target> music control <END>
+to <START:nav_target> music <END> volume
 to <START:nav_target> tv control <END>
 to <START:nav_target> tv power <END>
 to <START:nav_target> tv settings <END>
+to volume of the <START:nav_target> tv <END>
 to <START:nav_target> tv <END>
+to <START:nav_target> tv <END> volume
 to category <START:nav_target> window <END>
 to category <START:nav_target> curtain <END>
 to category <START:nav_target> curtains <END>
@@ -340,14 +392,18 @@ to category <START:nav_target> housemate <END>
 to category <START:nav_target> door <END>
 to category <START:nav_target> alarm <END>
 to category <START:nav_target> intercom <END>
+to category volume of the <START:nav_target> music <END>
 to category <START:nav_target> music <END>
 to category <START:nav_target> music source <END>
 to category <START:nav_target> music sources <END>
 to category <START:nav_target> music control <END>
+to category <START:nav_target> music <END> volume
 to category <START:nav_target> tv control <END>
 to category <START:nav_target> tv power <END>
 to category <START:nav_target> tv settings <END>
+to category volume of the <START:nav_target> tv <END>
 to category <START:nav_target> tv <END>
+to category <START:nav_target> tv <END> volume
 category <START:nav_target> window <END>
 category <START:nav_target> curtain <END>
 category <START:nav_target> curtains <END>
@@ -365,14 +421,18 @@ category <START:nav_target> housemate <END>
 category <START:nav_target> door <END>
 category <START:nav_target> alarm <END>
 category <START:nav_target> intercom <END>
+category volume of the <START:nav_target> music <END>
 category <START:nav_target> music <END>
 category <START:nav_target> music source <END>
 category <START:nav_target> music sources <END>
 category <START:nav_target> music control <END>
+category <START:nav_target> music <END> volume
 category <START:nav_target> tv control <END>
 category <START:nav_target> tv power <END>
 category <START:nav_target> tv settings <END>
+category volume of the <START:nav_target> tv <END>
 category <START:nav_target> tv <END>
+category <START:nav_target> tv <END> volume
 <START:nav_target> window <END>
 <START:nav_target> curtain <END>
 <START:nav_target> curtains <END>
@@ -390,14 +450,18 @@ category <START:nav_target> tv <END>
 <START:nav_target> door <END>
 <START:nav_target> alarm <END>
 <START:nav_target> intercom <END>
+volume of the <START:nav_target> music <END>
 <START:nav_target> music <END>
+<START:nav_target> music <END> volume
 <START:nav_target> music source <END>
 <START:nav_target> music sources <END>
 <START:nav_target> music control <END>
 <START:nav_target> tv control <END>
 <START:nav_target> tv power <END>
 <START:nav_target> tv settings <END>
+volume of the <START:nav_target> tv <END>
 <START:nav_target> tv <END>
+<START:nav_target> tv <END> volume
 <START:nav_target> camera <END>
 <START:nav_target> media <END>
 <START:nav_target> gallery <END>
@@ -451,14 +515,14 @@ please category <START:nav_target> volume <END>
 <START:nav_target> add ons <END>
 <START:nav_target> mouse one <END>
 <START:nav_target> mouse two <END>
+volume of the <START:nav_target> tv <END>
 <START:nav_target> tv <END>
+<START:nav_target> tv <END> volume
 <START:nav_target> android <END>
-<START:nav_target> ios <END>
 <START:nav_target> computer <END>
 <START:nav_target> control <END>
 <START:nav_target> contacts <END>
 <START:nav_target> iarm <END>
-<START:nav_target> idevice <END>
 <START:nav_target> kinova <END>
 <START:nav_target> language <END> please
 <START:nav_target> languages <END> please
@@ -517,14 +581,14 @@ to <START:nav_target> drive gestures <END>
 to <START:nav_target> add ons <END>
 to <START:nav_target> mouse one <END>
 to <START:nav_target> mouse two <END>
+to volume of the <START:nav_target> tv <END>
 to <START:nav_target> tv <END>
+to <START:nav_target> tv <END> volume
 to <START:nav_target> android <END>
-to <START:nav_target> ios <END>
 to <START:nav_target> computer <END>
 to <START:nav_target> control <END>
 to <START:nav_target> contacts <END>
 to <START:nav_target> iarm <END>
-to <START:nav_target> idevice <END>
 to <START:nav_target> kinova <END>
 go to category <START:nav_target> camera <END>
 go to category <START:nav_target> media <END>
@@ -575,14 +639,14 @@ go to category <START:nav_target> drive gestures <END>
 go to category <START:nav_target> add ons <END>
 go to category <START:nav_target> mouse one <END>
 go to category <START:nav_target> mouse two <END>
+go to category volume of the <START:nav_target> tv <END>
 go to category <START:nav_target> tv <END>
+go to category <START:nav_target> tv <END> volume
 go to category <START:nav_target> android <END>
-go to category <START:nav_target> ios <END>
 go to category <START:nav_target> computer <END>
 go to category <START:nav_target> control <END>
 go to category <START:nav_target> contacts <END>
 go to category <START:nav_target> iarm <END>
-go to category <START:nav_target> idevice <END>
 go to category <START:nav_target> kinova <END>
 go to <START:nav_target> camera <END>
 go to <START:nav_target> media <END>
@@ -631,14 +695,14 @@ go to <START:nav_target> drive gestures <END>
 go to <START:nav_target> add ons <END>
 go to <START:nav_target> mouse one <END>
 go to <START:nav_target> mouse two <END>
+go to volume of the <START:nav_target> tv <END>
 go to <START:nav_target> tv <END>
+go to <START:nav_target> tv <END> volume
 go to <START:nav_target> android <END>
-go to <START:nav_target> ios <END>
 go to <START:nav_target> computer <END>
 go to <START:nav_target> control <END>
 go to <START:nav_target> contacts <END>
 go to <START:nav_target> iarm <END>
-go to <START:nav_target> idevice <END>
 go to <START:nav_target> kinova <END>
 go to <START:nav_target> english <END>
 go to <START:nav_target> german <END>
@@ -686,14 +750,14 @@ take me to category <START:nav_target> drive gesture <END>
 take me to category <START:nav_target> add ons <END>
 take me to category <START:nav_target> mouse one <END>
 take me to category <START:nav_target> mouse two <END>
+take me to category volume of the <START:nav_target> tv <END>
 take me to category <START:nav_target> tv <END>
+take me to category <START:nav_target> tv <END> volume
 take me to category <START:nav_target> android <END>
-take me to category <START:nav_target> ios <END>
 take me to category <START:nav_target> computer <END>
 take me to category <START:nav_target> control <END>
 take me to category <START:nav_target> contacts <END>
 take me to category <START:nav_target> iarm <END>
-take me to category <START:nav_target> idevice <END>
 take me to category <START:nav_target> kinova <END>
 take me to <START:nav_target> camera <END>
 take me to <START:nav_target> media <END>
@@ -741,14 +805,14 @@ take me to <START:nav_target> drive gesture <END>
 take me to <START:nav_target> add ons <END>
 take me to <START:nav_target> mouse one <END>
 take me to <START:nav_target> mouse two <END>
+take me to volume of the <START:nav_target> tv <END>
 take me to <START:nav_target> tv <END>
+take me to <START:nav_target> tv <END> volume
 take me to <START:nav_target> android <END>
-take me to <START:nav_target> ios <END>
 take me to <START:nav_target> computer <END>
 take me to <START:nav_target> control <END>
 take me to <START:nav_target> contacts <END>
 take me to <START:nav_target> iarm <END>
-take me to <START:nav_target> idevice <END>
 take me to <START:nav_target> kinova <END>
 take me to <START:nav_target> english <END>
 take me to <START:nav_target> german <END>
@@ -796,14 +860,14 @@ navigate to category <START:nav_target> drive gesture <END>
 navigate to category <START:nav_target> add ons <END>
 navigate to category <START:nav_target> mouse one <END>
 navigate to category <START:nav_target> mouse two <END>
+navigate to category volume of the <START:nav_target> tv <END>
 navigate to category <START:nav_target> tv <END>
+navigate to category <START:nav_target> tv <END> volume
 navigate to category <START:nav_target> android <END>
-navigate to category <START:nav_target> ios <END>
 navigate to category <START:nav_target> computer <END>
 navigate to category <START:nav_target> control <END>
 navigate to category <START:nav_target> contacts <END>
 navigate to category <START:nav_target> iarm <END>
-navigate to category <START:nav_target> idevice <END>
 navigate to category <START:nav_target> kinova <END>
 navigate to <START:nav_target> camera <END>
 navigate to <START:nav_target> media <END>
@@ -851,14 +915,14 @@ navigate to <START:nav_target> drive gesture <END>
 navigate to <START:nav_target> add ons <END>
 navigate to <START:nav_target> mouse one <END>
 navigate to <START:nav_target> mouse two <END>
+navigate to volume of the <START:nav_target> tv <END>
 navigate to <START:nav_target> tv <END>
+navigate to <START:nav_target> tv <END> volume
 navigate to <START:nav_target> android <END>
-navigate to <START:nav_target> ios <END>
 navigate to <START:nav_target> computer <END>
 navigate to <START:nav_target> control <END>
 navigate to <START:nav_target> contacts <END>
 navigate to <START:nav_target> iarm <END>
-navigate to <START:nav_target> idevice <END>
 navigate to <START:nav_target> kinova <END>
 navigate to <START:nav_target> english <END>
 navigate to <START:nav_target> german <END>
@@ -909,14 +973,14 @@ switch to <START:nav_target> drive gesture <END>
 switch to <START:nav_target> add ons <END>
 switch to <START:nav_target> mouse one <END>
 switch to <START:nav_target> mouse two <END>
+switch to volume of the <START:nav_target> tv <END>
 switch to <START:nav_target> tv <END>
+switch to <START:nav_target> tv <END> volume
 switch to <START:nav_target> android <END>
-switch to <START:nav_target> ios <END>
 switch to <START:nav_target> computer <END>
 switch to <START:nav_target> control <END>
 switch to <START:nav_target> contacts <END>
 switch to <START:nav_target> iarm <END>
-switch to <START:nav_target> idevice <END>
 switch to <START:nav_target> kinova <END>
 select <START:nav_target> camera <END>
 select <START:nav_target> media <END>
@@ -963,14 +1027,14 @@ select <START:nav_target> drive gesture <END>
 select <START:nav_target> add ons <END>
 select <START:nav_target> mouse one <END>
 select <START:nav_target> mouse two <END>
+select volume of the <START:nav_target> tv <END>
 select <START:nav_target> tv <END>
+select <START:nav_target> tv <END> volume
 select <START:nav_target> android <END>
-select <START:nav_target> ios <END>
 select <START:nav_target> computer <END>
 select <START:nav_target> control <END>
 select <START:nav_target> contacts <END>
 select <START:nav_target> iarm <END>
-select <START:nav_target> idevice <END>
 select <START:nav_target> kinova <END>
 choose <START:nav_target> camera <END>
 choose <START:nav_target> media <END>
@@ -1017,14 +1081,13 @@ choose <START:nav_target> drive gesture <END>
 choose <START:nav_target> add ons <END>
 choose <START:nav_target> mouse one <END>
 choose <START:nav_target> mouse two <END>
+choose volume of the <START:nav_target> tv <END>
 choose <START:nav_target> tv <END>
+choose <START:nav_target> tv <END> volume
 choose <START:nav_target> android <END>
-choose <START:nav_target> ios <END>
-choose <START:nav_target> computer <END>
 choose <START:nav_target> control <END>
 choose <START:nav_target> contacts <END>
 choose <START:nav_target> iarm <END>
-choose <START:nav_target> idevice <END>
 choose <START:nav_target> kinova <END>
 go to
 navigate to

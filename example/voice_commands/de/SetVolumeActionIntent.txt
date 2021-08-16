@@ -1,3 +1,1653 @@
+setze lautstärke auf <START:percent_target> null <END>
+setze lautstärke auf <START:percent_target> eins <END>
+setze lautstärke auf <START:percent_target> zwei <END>
+setze lautstärke auf <START:percent_target> drei <END>
+setze lautstärke auf <START:percent_target> vier <END>
+setze lautstärke auf <START:percent_target> fünf <END>
+setze lautstärke auf <START:percent_target> sechs <END>
+setze lautstärke auf <START:percent_target> sieben <END>
+setze lautstärke auf <START:percent_target> acht <END>
+setze lautstärke auf <START:percent_target> neun <END>
+setze lautstärke auf <START:percent_target> zehn <END>
+setze die lautstärke auf <START:percent_target> null <END>
+setze die lautstärke auf <START:percent_target> eins <END>
+setze die lautstärke auf <START:percent_target> zwei <END>
+setze die lautstärke auf <START:percent_target> drei <END>
+setze die lautstärke auf <START:percent_target> vier <END>
+setze die lautstärke auf <START:percent_target> fünf <END>
+setze die lautstärke auf <START:percent_target> sechs <END>
+setze die lautstärke auf <START:percent_target> sieben <END>
+setze die lautstärke auf <START:percent_target> acht <END>
+setze die lautstärke auf <START:percent_target> neun <END>
+setze die lautstärke auf <START:percent_target> zehn <END>
+lautstärke auf <START:percent_target> null <END>
+lautstärke auf <START:percent_target> eins <END>
+lautstärke auf <START:percent_target> zwei <END>
+lautstärke auf <START:percent_target> drei <END>
+lautstärke auf <START:percent_target> vier <END>
+lautstärke auf <START:percent_target> fünf <END>
+lautstärke auf <START:percent_target> sechs <END>
+lautstärke auf <START:percent_target> sieben <END>
+lautstärke auf <START:percent_target> acht <END>
+lautstärke auf <START:percent_target> neun <END>
+lautstärke auf <START:percent_target> zehn <END>
+ändere lautstärke auf <START:percent_target> null <END>
+ändere lautstärke auf <START:percent_target> eins <END>
+ändere lautstärke auf <START:percent_target> zwei <END>
+ändere lautstärke auf <START:percent_target> drei <END>
+ändere lautstärke auf <START:percent_target> vier <END>
+ändere lautstärke auf <START:percent_target> fünf <END>
+ändere lautstärke auf <START:percent_target> sechs <END>
+ändere lautstärke auf <START:percent_target> sieben <END>
+ändere lautstärke auf <START:percent_target> acht <END>
+ändere lautstärke auf <START:percent_target> neun <END>
+ändere lautstärke auf <START:percent_target> zehn <END>
+ändere die lautstärke auf <START:percent_target> null <END>
+ändere die lautstärke auf <START:percent_target> eins <END>
+ändere die lautstärke auf <START:percent_target> zwei <END>
+ändere die lautstärke auf <START:percent_target> drei <END>
+ändere die lautstärke auf <START:percent_target> vier <END>
+ändere die lautstärke auf <START:percent_target> fünf <END>
+ändere die lautstärke auf <START:percent_target> sechs <END>
+ändere die lautstärke auf <START:percent_target> sieben <END>
+ändere die lautstärke auf <START:percent_target> acht <END>
+ändere die lautstärke auf <START:percent_target> neun <END>
+ändere die lautstärke auf <START:percent_target> zehn <END>
+bitte setze lautstärke auf <START:percent_target> null <END>
+bitte setze lautstärke auf <START:percent_target> eins <END>
+bitte setze lautstärke auf <START:percent_target> zwei <END>
+bitte setze lautstärke auf <START:percent_target> drei <END>
+bitte setze lautstärke auf <START:percent_target> vier <END>
+bitte setze lautstärke auf <START:percent_target> fünf <END>
+bitte setze lautstärke auf <START:percent_target> sechs <END>
+bitte setze lautstärke auf <START:percent_target> sieben <END>
+bitte setze lautstärke auf <START:percent_target> acht <END>
+bitte setze lautstärke auf <START:percent_target> neun <END>
+bitte setze lautstärke auf <START:percent_target> zehn <END>
+bitte setze die lautstärke auf <START:percent_target> null <END>
+bitte setze die lautstärke auf <START:percent_target> eins <END>
+bitte setze die lautstärke auf <START:percent_target> zwei <END>
+bitte setze die lautstärke auf <START:percent_target> drei <END>
+bitte setze die lautstärke auf <START:percent_target> vier <END>
+bitte setze die lautstärke auf <START:percent_target> fünf <END>
+bitte setze die lautstärke auf <START:percent_target> sechs <END>
+bitte setze die lautstärke auf <START:percent_target> sieben <END>
+bitte setze die lautstärke auf <START:percent_target> acht <END>
+bitte setze die lautstärke auf <START:percent_target> neun <END>
+bitte setze die lautstärke auf <START:percent_target> zehn <END>
+bitte lautstärke auf <START:percent_target> null <END>
+bitte lautstärke auf <START:percent_target> eins <END>
+bitte lautstärke auf <START:percent_target> zwei <END>
+bitte lautstärke auf <START:percent_target> drei <END>
+bitte lautstärke auf <START:percent_target> vier <END>
+bitte lautstärke auf <START:percent_target> fünf <END>
+bitte lautstärke auf <START:percent_target> sechs <END>
+bitte lautstärke auf <START:percent_target> sieben <END>
+bitte lautstärke auf <START:percent_target> acht <END>
+bitte lautstärke auf <START:percent_target> neun <END>
+bitte lautstärke auf <START:percent_target> zehn <END>
+bitte ändere lautstärke auf <START:percent_target> null <END>
+bitte ändere lautstärke auf <START:percent_target> eins <END>
+bitte ändere lautstärke auf <START:percent_target> zwei <END>
+bitte ändere lautstärke auf <START:percent_target> drei <END>
+bitte ändere lautstärke auf <START:percent_target> vier <END>
+bitte ändere lautstärke auf <START:percent_target> fünf <END>
+bitte ändere lautstärke auf <START:percent_target> sechs <END>
+bitte ändere lautstärke auf <START:percent_target> sieben <END>
+bitte ändere lautstärke auf <START:percent_target> acht <END>
+bitte ändere lautstärke auf <START:percent_target> neun <END>
+bitte ändere lautstärke auf <START:percent_target> zehn <END>
+bitte ändere die lautstärke auf <START:percent_target> null <END>
+bitte ändere die lautstärke auf <START:percent_target> eins <END>
+bitte ändere die lautstärke auf <START:percent_target> zwei <END>
+bitte ändere die lautstärke auf <START:percent_target> drei <END>
+bitte ändere die lautstärke auf <START:percent_target> vier <END>
+bitte ändere die lautstärke auf <START:percent_target> fünf <END>
+bitte ändere die lautstärke auf <START:percent_target> sechs <END>
+bitte ändere die lautstärke auf <START:percent_target> sieben <END>
+bitte ändere die lautstärke auf <START:percent_target> acht <END>
+bitte ändere die lautstärke auf <START:percent_target> neun <END>
+bitte ändere die lautstärke auf <START:percent_target> zehn <END>
+setze lautstärke auf <START:percent_target> null <END> bitte
+setze lautstärke auf <START:percent_target> eins <END> bitte
+setze lautstärke auf <START:percent_target> zwei <END> bitte
+setze lautstärke auf <START:percent_target> drei <END> bitte
+setze lautstärke auf <START:percent_target> vier <END> bitte
+setze lautstärke auf <START:percent_target> fünf <END> bitte
+setze lautstärke auf <START:percent_target> sechs <END> bitte
+setze lautstärke auf <START:percent_target> sieben <END> bitte
+setze lautstärke auf <START:percent_target> acht <END> bitte
+setze lautstärke auf <START:percent_target> neun <END> bitte
+setze lautstärke auf <START:percent_target> zehn <END> bitte
+setze die lautstärke auf <START:percent_target> null <END> bitte
+setze die lautstärke auf <START:percent_target> eins <END> bitte
+setze die lautstärke auf <START:percent_target> zwei <END> bitte
+setze die lautstärke auf <START:percent_target> drei <END> bitte
+setze die lautstärke auf <START:percent_target> vier <END> bitte
+setze die lautstärke auf <START:percent_target> fünf <END> bitte
+setze die lautstärke auf <START:percent_target> sechs <END> bitte
+setze die lautstärke auf <START:percent_target> sieben <END> bitte
+setze die lautstärke auf <START:percent_target> acht <END> bitte
+setze die lautstärke auf <START:percent_target> neun <END> bitte
+setze die lautstärke auf <START:percent_target> zehn <END> bitte
+lautstärke auf <START:percent_target> null <END> bitte
+lautstärke auf <START:percent_target> eins <END> bitte
+lautstärke auf <START:percent_target> zwei <END> bitte
+lautstärke auf <START:percent_target> drei <END> bitte
+lautstärke auf <START:percent_target> vier <END> bitte
+lautstärke auf <START:percent_target> fünf <END> bitte
+lautstärke auf <START:percent_target> sechs <END> bitte
+lautstärke auf <START:percent_target> sieben <END> bitte
+lautstärke auf <START:percent_target> acht <END> bitte
+lautstärke auf <START:percent_target> neun <END> bitte
+lautstärke auf <START:percent_target> zehn <END> bitte
+ändere lautstärke auf <START:percent_target> null <END> bitte
+ändere lautstärke auf <START:percent_target> eins <END> bitte
+ändere lautstärke auf <START:percent_target> zwei <END> bitte
+ändere lautstärke auf <START:percent_target> drei <END> bitte
+ändere lautstärke auf <START:percent_target> vier <END> bitte
+ändere lautstärke auf <START:percent_target> fünf <END> bitte
+ändere lautstärke auf <START:percent_target> sechs <END> bitte
+ändere lautstärke auf <START:percent_target> sieben <END> bitte
+ändere lautstärke auf <START:percent_target> acht <END> bitte
+ändere lautstärke auf <START:percent_target> neun <END> bitte
+ändere lautstärke auf <START:percent_target> zehn <END> bitte
+ändere die lautstärke auf <START:percent_target> null <END> bitte
+ändere die lautstärke auf <START:percent_target> eins <END> bitte
+ändere die lautstärke auf <START:percent_target> zwei <END> bitte
+ändere die lautstärke auf <START:percent_target> drei <END> bitte
+ändere die lautstärke auf <START:percent_target> vier <END> bitte
+ändere die lautstärke auf <START:percent_target> fünf <END> bitte
+ändere die lautstärke auf <START:percent_target> sechs <END> bitte
+ändere die lautstärke auf <START:percent_target> sieben <END> bitte
+ändere die lautstärke auf <START:percent_target> acht <END> bitte
+ändere die lautstärke auf <START:percent_target> neun <END> bitte
+ändere die lautstärke auf <START:percent_target> zehn <END> bitte
+setze musik auf <START:percent_target> null <END>
+setze musik auf <START:percent_target> eins <END>
+setze musik auf <START:percent_target> zwei <END>
+setze musik auf <START:percent_target> drei <END>
+setze musik auf <START:percent_target> vier <END>
+setze musik auf <START:percent_target> fünf <END>
+setze musik auf <START:percent_target> sechs <END>
+setze musik auf <START:percent_target> sieben <END>
+setze musik auf <START:percent_target> acht <END>
+setze musik auf <START:percent_target> neun <END>
+setze musik auf <START:percent_target> zehn <END>
+setze die musik auf <START:percent_target> null <END>
+setze die musik auf <START:percent_target> eins <END>
+setze die musik auf <START:percent_target> zwei <END>
+setze die musik auf <START:percent_target> drei <END>
+setze die musik auf <START:percent_target> vier <END>
+setze die musik auf <START:percent_target> fünf <END>
+setze die musik auf <START:percent_target> sechs <END>
+setze die musik auf <START:percent_target> sieben <END>
+setze die musik auf <START:percent_target> acht <END>
+setze die musik auf <START:percent_target> neun <END>
+setze die musik auf <START:percent_target> zehn <END>
+musik auf <START:percent_target> null <END>
+musik auf <START:percent_target> eins <END>
+musik auf <START:percent_target> zwei <END>
+musik auf <START:percent_target> drei <END>
+musik auf <START:percent_target> vier <END>
+musik auf <START:percent_target> fünf <END>
+musik auf <START:percent_target> sechs <END>
+musik auf <START:percent_target> sieben <END>
+musik auf <START:percent_target> acht <END>
+musik auf <START:percent_target> neun <END>
+musik auf <START:percent_target> zehn <END>
+ändere musik auf <START:percent_target> null <END>
+ändere musik auf <START:percent_target> eins <END>
+ändere musik auf <START:percent_target> zwei <END>
+ändere musik auf <START:percent_target> drei <END>
+ändere musik auf <START:percent_target> vier <END>
+ändere musik auf <START:percent_target> fünf <END>
+ändere musik auf <START:percent_target> sechs <END>
+ändere musik auf <START:percent_target> sieben <END>
+ändere musik auf <START:percent_target> acht <END>
+ändere musik auf <START:percent_target> neun <END>
+ändere musik auf <START:percent_target> zehn <END>
+ändere die musik auf <START:percent_target> null <END>
+ändere die musik auf <START:percent_target> eins <END>
+ändere die musik auf <START:percent_target> zwei <END>
+ändere die musik auf <START:percent_target> drei <END>
+ändere die musik auf <START:percent_target> vier <END>
+ändere die musik auf <START:percent_target> fünf <END>
+ändere die musik auf <START:percent_target> sechs <END>
+ändere die musik auf <START:percent_target> sieben <END>
+ändere die musik auf <START:percent_target> acht <END>
+ändere die musik auf <START:percent_target> neun <END>
+ändere die musik auf <START:percent_target> zehn <END>
+bitte setze musik auf <START:percent_target> null <END>
+bitte setze musik auf <START:percent_target> eins <END>
+bitte setze musik auf <START:percent_target> zwei <END>
+bitte setze musik auf <START:percent_target> drei <END>
+bitte setze musik auf <START:percent_target> vier <END>
+bitte setze musik auf <START:percent_target> fünf <END>
+bitte setze musik auf <START:percent_target> sechs <END>
+bitte setze musik auf <START:percent_target> sieben <END>
+bitte setze musik auf <START:percent_target> acht <END>
+bitte setze musik auf <START:percent_target> neun <END>
+bitte setze musik auf <START:percent_target> zehn <END>
+bitte setze die musik auf <START:percent_target> null <END>
+bitte setze die musik auf <START:percent_target> eins <END>
+bitte setze die musik auf <START:percent_target> zwei <END>
+bitte setze die musik auf <START:percent_target> drei <END>
+bitte setze die musik auf <START:percent_target> vier <END>
+bitte setze die musik auf <START:percent_target> fünf <END>
+bitte setze die musik auf <START:percent_target> sechs <END>
+bitte setze die musik auf <START:percent_target> sieben <END>
+bitte setze die musik auf <START:percent_target> acht <END>
+bitte setze die musik auf <START:percent_target> neun <END>
+bitte setze die musik auf <START:percent_target> zehn <END>
+bitte musik auf <START:percent_target> null <END>
+bitte musik auf <START:percent_target> eins <END>
+bitte musik auf <START:percent_target> zwei <END>
+bitte musik auf <START:percent_target> drei <END>
+bitte musik auf <START:percent_target> vier <END>
+bitte musik auf <START:percent_target> fünf <END>
+bitte musik auf <START:percent_target> sechs <END>
+bitte musik auf <START:percent_target> sieben <END>
+bitte musik auf <START:percent_target> acht <END>
+bitte musik auf <START:percent_target> neun <END>
+bitte musik auf <START:percent_target> zehn <END>
+bitte ändere musik auf <START:percent_target> null <END>
+bitte ändere musik auf <START:percent_target> eins <END>
+bitte ändere musik auf <START:percent_target> zwei <END>
+bitte ändere musik auf <START:percent_target> drei <END>
+bitte ändere musik auf <START:percent_target> vier <END>
+bitte ändere musik auf <START:percent_target> fünf <END>
+bitte ändere musik auf <START:percent_target> sechs <END>
+bitte ändere musik auf <START:percent_target> sieben <END>
+bitte ändere musik auf <START:percent_target> acht <END>
+bitte ändere musik auf <START:percent_target> neun <END>
+bitte ändere musik auf <START:percent_target> zehn <END>
+bitte ändere die musik auf <START:percent_target> null <END>
+bitte ändere die musik auf <START:percent_target> eins <END>
+bitte ändere die musik auf <START:percent_target> zwei <END>
+bitte ändere die musik auf <START:percent_target> drei <END>
+bitte ändere die musik auf <START:percent_target> vier <END>
+bitte ändere die musik auf <START:percent_target> fünf <END>
+bitte ändere die musik auf <START:percent_target> sechs <END>
+bitte ändere die musik auf <START:percent_target> sieben <END>
+bitte ändere die musik auf <START:percent_target> acht <END>
+bitte ändere die musik auf <START:percent_target> neun <END>
+bitte ändere die musik auf <START:percent_target> zehn <END>
+setze musik auf <START:percent_target> null <END> bitte
+setze musik auf <START:percent_target> eins <END> bitte
+setze musik auf <START:percent_target> zwei <END> bitte
+setze musik auf <START:percent_target> drei <END> bitte
+setze musik auf <START:percent_target> vier <END> bitte
+setze musik auf <START:percent_target> fünf <END> bitte
+setze musik auf <START:percent_target> sechs <END> bitte
+setze musik auf <START:percent_target> sieben <END> bitte
+setze musik auf <START:percent_target> acht <END> bitte
+setze musik auf <START:percent_target> neun <END> bitte
+setze musik auf <START:percent_target> zehn <END> bitte
+setze die musik auf <START:percent_target> null <END> bitte
+setze die musik auf <START:percent_target> eins <END> bitte
+setze die musik auf <START:percent_target> zwei <END> bitte
+setze die musik auf <START:percent_target> drei <END> bitte
+setze die musik auf <START:percent_target> vier <END> bitte
+setze die musik auf <START:percent_target> fünf <END> bitte
+setze die musik auf <START:percent_target> sechs <END> bitte
+setze die musik auf <START:percent_target> sieben <END> bitte
+setze die musik auf <START:percent_target> acht <END> bitte
+setze die musik auf <START:percent_target> neun <END> bitte
+setze die musik auf <START:percent_target> zehn <END> bitte
+musik auf <START:percent_target> null <END> bitte
+musik auf <START:percent_target> eins <END> bitte
+musik auf <START:percent_target> zwei <END> bitte
+musik auf <START:percent_target> drei <END> bitte
+musik auf <START:percent_target> vier <END> bitte
+musik auf <START:percent_target> fünf <END> bitte
+musik auf <START:percent_target> sechs <END> bitte
+musik auf <START:percent_target> sieben <END> bitte
+musik auf <START:percent_target> acht <END> bitte
+musik auf <START:percent_target> neun <END> bitte
+musik auf <START:percent_target> zehn <END> bitte
+ändere musik auf <START:percent_target> null <END> bitte
+ändere musik auf <START:percent_target> eins <END> bitte
+ändere musik auf <START:percent_target> zwei <END> bitte
+ändere musik auf <START:percent_target> drei <END> bitte
+ändere musik auf <START:percent_target> vier <END> bitte
+ändere musik auf <START:percent_target> fünf <END> bitte
+ändere musik auf <START:percent_target> sechs <END> bitte
+ändere musik auf <START:percent_target> sieben <END> bitte
+ändere musik auf <START:percent_target> acht <END> bitte
+ändere musik auf <START:percent_target> neun <END> bitte
+ändere musik auf <START:percent_target> zehn <END> bitte
+ändere die musik auf <START:percent_target> null <END> bitte
+ändere die musik auf <START:percent_target> eins <END> bitte
+ändere die musik auf <START:percent_target> zwei <END> bitte
+ändere die musik auf <START:percent_target> drei <END> bitte
+ändere die musik auf <START:percent_target> vier <END> bitte
+ändere die musik auf <START:percent_target> fünf <END> bitte
+ändere die musik auf <START:percent_target> sechs <END> bitte
+ändere die musik auf <START:percent_target> sieben <END> bitte
+ändere die musik auf <START:percent_target> acht <END> bitte
+ändere die musik auf <START:percent_target> neun <END> bitte
+ändere die musik auf <START:percent_target> zehn <END> bitte
+setze musik lautstärke auf <START:percent_target> null <END>
+setze musik lautstärke auf <START:percent_target> eins <END>
+setze musik lautstärke auf <START:percent_target> zwei <END>
+setze musik lautstärke auf <START:percent_target> drei <END>
+setze musik lautstärke auf <START:percent_target> vier <END>
+setze musik lautstärke auf <START:percent_target> fünf <END>
+setze musik lautstärke auf <START:percent_target> sechs <END>
+setze musik lautstärke auf <START:percent_target> sieben <END>
+setze musik lautstärke auf <START:percent_target> acht <END>
+setze musik lautstärke auf <START:percent_target> neun <END>
+setze musik lautstärke auf <START:percent_target> zehn <END>
+setze die musik lautstärke auf <START:percent_target> null <END>
+setze die musik lautstärke auf <START:percent_target> eins <END>
+setze die musik lautstärke auf <START:percent_target> zwei <END>
+setze die musik lautstärke auf <START:percent_target> drei <END>
+setze die musik lautstärke auf <START:percent_target> vier <END>
+setze die musik lautstärke auf <START:percent_target> fünf <END>
+setze die musik lautstärke auf <START:percent_target> sechs <END>
+setze die musik lautstärke auf <START:percent_target> sieben <END>
+setze die musik lautstärke auf <START:percent_target> acht <END>
+setze die musik lautstärke auf <START:percent_target> neun <END>
+setze die musik lautstärke auf <START:percent_target> zehn <END>
+musik lautstärke auf <START:percent_target> null <END>
+musik lautstärke auf <START:percent_target> eins <END>
+musik lautstärke auf <START:percent_target> zwei <END>
+musik lautstärke auf <START:percent_target> drei <END>
+musik lautstärke auf <START:percent_target> vier <END>
+musik lautstärke auf <START:percent_target> fünf <END>
+musik lautstärke auf <START:percent_target> sechs <END>
+musik lautstärke auf <START:percent_target> sieben <END>
+musik lautstärke auf <START:percent_target> acht <END>
+musik lautstärke auf <START:percent_target> neun <END>
+musik lautstärke auf <START:percent_target> zehn <END>
+ändere musik lautstärke auf <START:percent_target> null <END>
+ändere musik lautstärke auf <START:percent_target> eins <END>
+ändere musik lautstärke auf <START:percent_target> zwei <END>
+ändere musik lautstärke auf <START:percent_target> drei <END>
+ändere musik lautstärke auf <START:percent_target> vier <END>
+ändere musik lautstärke auf <START:percent_target> fünf <END>
+ändere musik lautstärke auf <START:percent_target> sechs <END>
+ändere musik lautstärke auf <START:percent_target> sieben <END>
+ändere musik lautstärke auf <START:percent_target> acht <END>
+ändere musik lautstärke auf <START:percent_target> neun <END>
+ändere musik lautstärke auf <START:percent_target> zehn <END>
+ändere die musik lautstärke auf <START:percent_target> null <END>
+ändere die musik lautstärke auf <START:percent_target> eins <END>
+ändere die musik lautstärke auf <START:percent_target> zwei <END>
+ändere die musik lautstärke auf <START:percent_target> drei <END>
+ändere die musik lautstärke auf <START:percent_target> vier <END>
+ändere die musik lautstärke auf <START:percent_target> fünf <END>
+ändere die musik lautstärke auf <START:percent_target> sechs <END>
+ändere die musik lautstärke auf <START:percent_target> sieben <END>
+ändere die musik lautstärke auf <START:percent_target> acht <END>
+ändere die musik lautstärke auf <START:percent_target> neun <END>
+ändere die musik lautstärke auf <START:percent_target> zehn <END>
+bitte setze musik lautstärke auf <START:percent_target> null <END>
+bitte setze musik lautstärke auf <START:percent_target> eins <END>
+bitte setze musik lautstärke auf <START:percent_target> zwei <END>
+bitte setze musik lautstärke auf <START:percent_target> drei <END>
+bitte setze musik lautstärke auf <START:percent_target> vier <END>
+bitte setze musik lautstärke auf <START:percent_target> fünf <END>
+bitte setze musik lautstärke auf <START:percent_target> sechs <END>
+bitte setze musik lautstärke auf <START:percent_target> sieben <END>
+bitte setze musik lautstärke auf <START:percent_target> acht <END>
+bitte setze musik lautstärke auf <START:percent_target> neun <END>
+bitte setze musik lautstärke auf <START:percent_target> zehn <END>
+bitte setze die musik lautstärke auf <START:percent_target> null <END>
+bitte setze die musik lautstärke auf <START:percent_target> eins <END>
+bitte setze die musik lautstärke auf <START:percent_target> zwei <END>
+bitte setze die musik lautstärke auf <START:percent_target> drei <END>
+bitte setze die musik lautstärke auf <START:percent_target> vier <END>
+bitte setze die musik lautstärke auf <START:percent_target> fünf <END>
+bitte setze die musik lautstärke auf <START:percent_target> sechs <END>
+bitte setze die musik lautstärke auf <START:percent_target> sieben <END>
+bitte setze die musik lautstärke auf <START:percent_target> acht <END>
+bitte setze die musik lautstärke auf <START:percent_target> neun <END>
+bitte setze die musik lautstärke auf <START:percent_target> zehn <END>
+bitte musik lautstärke auf <START:percent_target> null <END>
+bitte musik lautstärke auf <START:percent_target> eins <END>
+bitte musik lautstärke auf <START:percent_target> zwei <END>
+bitte musik lautstärke auf <START:percent_target> drei <END>
+bitte musik lautstärke auf <START:percent_target> vier <END>
+bitte musik lautstärke auf <START:percent_target> fünf <END>
+bitte musik lautstärke auf <START:percent_target> sechs <END>
+bitte musik lautstärke auf <START:percent_target> sieben <END>
+bitte musik lautstärke auf <START:percent_target> acht <END>
+bitte musik lautstärke auf <START:percent_target> neun <END>
+bitte musik lautstärke auf <START:percent_target> zehn <END>
+bitte ändere musik lautstärke auf <START:percent_target> null <END>
+bitte ändere musik lautstärke auf <START:percent_target> eins <END>
+bitte ändere musik lautstärke auf <START:percent_target> zwei <END>
+bitte ändere musik lautstärke auf <START:percent_target> drei <END>
+bitte ändere musik lautstärke auf <START:percent_target> vier <END>
+bitte ändere musik lautstärke auf <START:percent_target> fünf <END>
+bitte ändere musik lautstärke auf <START:percent_target> sechs <END>
+bitte ändere musik lautstärke auf <START:percent_target> sieben <END>
+bitte ändere musik lautstärke auf <START:percent_target> acht <END>
+bitte ändere musik lautstärke auf <START:percent_target> neun <END>
+bitte ändere musik lautstärke auf <START:percent_target> zehn <END>
+bitte ändere die musik lautstärke auf <START:percent_target> null <END>
+bitte ändere die musik lautstärke auf <START:percent_target> eins <END>
+bitte ändere die musik lautstärke auf <START:percent_target> zwei <END>
+bitte ändere die musik lautstärke auf <START:percent_target> drei <END>
+bitte ändere die musik lautstärke auf <START:percent_target> vier <END>
+bitte ändere die musik lautstärke auf <START:percent_target> fünf <END>
+bitte ändere die musik lautstärke auf <START:percent_target> sechs <END>
+bitte ändere die musik lautstärke auf <START:percent_target> sieben <END>
+bitte ändere die musik lautstärke auf <START:percent_target> acht <END>
+bitte ändere die musik lautstärke auf <START:percent_target> neun <END>
+bitte ändere die musik lautstärke auf <START:percent_target> zehn <END>
+setze musik lautstärke auf <START:percent_target> null <END> bitte
+setze musik lautstärke auf <START:percent_target> eins <END> bitte
+setze musik lautstärke auf <START:percent_target> zwei <END> bitte
+setze musik lautstärke auf <START:percent_target> drei <END> bitte
+setze musik lautstärke auf <START:percent_target> vier <END> bitte
+setze musik lautstärke auf <START:percent_target> fünf <END> bitte
+setze musik lautstärke auf <START:percent_target> sechs <END> bitte
+setze musik lautstärke auf <START:percent_target> sieben <END> bitte
+setze musik lautstärke auf <START:percent_target> acht <END> bitte
+setze musik lautstärke auf <START:percent_target> neun <END> bitte
+setze musik lautstärke auf <START:percent_target> zehn <END> bitte
+setze die musik lautstärke auf <START:percent_target> null <END> bitte
+setze die musik lautstärke auf <START:percent_target> eins <END> bitte
+setze die musik lautstärke auf <START:percent_target> zwei <END> bitte
+setze die musik lautstärke auf <START:percent_target> drei <END> bitte
+setze die musik lautstärke auf <START:percent_target> vier <END> bitte
+setze die musik lautstärke auf <START:percent_target> fünf <END> bitte
+setze die musik lautstärke auf <START:percent_target> sechs <END> bitte
+setze die musik lautstärke auf <START:percent_target> sieben <END> bitte
+setze die musik lautstärke auf <START:percent_target> acht <END> bitte
+setze die musik lautstärke auf <START:percent_target> neun <END> bitte
+setze die musik lautstärke auf <START:percent_target> zehn <END> bitte
+musik lautstärke auf <START:percent_target> null <END> bitte
+musik lautstärke auf <START:percent_target> eins <END> bitte
+musik lautstärke auf <START:percent_target> zwei <END> bitte
+musik lautstärke auf <START:percent_target> drei <END> bitte
+musik lautstärke auf <START:percent_target> vier <END> bitte
+musik lautstärke auf <START:percent_target> fünf <END> bitte
+musik lautstärke auf <START:percent_target> sechs <END> bitte
+musik lautstärke auf <START:percent_target> sieben <END> bitte
+musik lautstärke auf <START:percent_target> acht <END> bitte
+musik lautstärke auf <START:percent_target> neun <END> bitte
+musik lautstärke auf <START:percent_target> zehn <END> bitte
+ändere musik lautstärke auf <START:percent_target> null <END> bitte
+ändere musik lautstärke auf <START:percent_target> eins <END> bitte
+ändere musik lautstärke auf <START:percent_target> zwei <END> bitte
+ändere musik lautstärke auf <START:percent_target> drei <END> bitte
+ändere musik lautstärke auf <START:percent_target> vier <END> bitte
+ändere musik lautstärke auf <START:percent_target> fünf <END> bitte
+ändere musik lautstärke auf <START:percent_target> sechs <END> bitte
+ändere musik lautstärke auf <START:percent_target> sieben <END> bitte
+ändere musik lautstärke auf <START:percent_target> acht <END> bitte
+ändere musik lautstärke auf <START:percent_target> neun <END> bitte
+ändere musik lautstärke auf <START:percent_target> zehn <END> bitte
+ändere die musik lautstärke auf <START:percent_target> null <END> bitte
+ändere die musik lautstärke auf <START:percent_target> eins <END> bitte
+ändere die musik lautstärke auf <START:percent_target> zwei <END> bitte
+ändere die musik lautstärke auf <START:percent_target> drei <END> bitte
+ändere die musik lautstärke auf <START:percent_target> vier <END> bitte
+ändere die musik lautstärke auf <START:percent_target> fünf <END> bitte
+ändere die musik lautstärke auf <START:percent_target> sechs <END> bitte
+ändere die musik lautstärke auf <START:percent_target> sieben <END> bitte
+ändere die musik lautstärke auf <START:percent_target> acht <END> bitte
+ändere die musik lautstärke auf <START:percent_target> neun <END> bitte
+ändere die musik lautstärke auf <START:percent_target> zehn <END> bitte
+setze lautstärke der musik auf <START:percent_target> null <END>
+setze lautstärke der musik auf <START:percent_target> eins <END>
+setze lautstärke der musik auf <START:percent_target> zwei <END>
+setze lautstärke der musik auf <START:percent_target> drei <END>
+setze lautstärke der musik auf <START:percent_target> vier <END>
+setze lautstärke der musik auf <START:percent_target> fünf <END>
+setze lautstärke der musik auf <START:percent_target> sechs <END>
+setze lautstärke der musik auf <START:percent_target> sieben <END>
+setze lautstärke der musik auf <START:percent_target> acht <END>
+setze lautstärke der musik auf <START:percent_target> neun <END>
+setze lautstärke der musik auf <START:percent_target> zehn <END>
+setze die lautstärke der musik auf <START:percent_target> null <END>
+setze die lautstärke der musik auf <START:percent_target> eins <END>
+setze die lautstärke der musik auf <START:percent_target> zwei <END>
+setze die lautstärke der musik auf <START:percent_target> drei <END>
+setze die lautstärke der musik auf <START:percent_target> vier <END>
+setze die lautstärke der musik auf <START:percent_target> fünf <END>
+setze die lautstärke der musik auf <START:percent_target> sechs <END>
+setze die lautstärke der musik auf <START:percent_target> sieben <END>
+setze die lautstärke der musik auf <START:percent_target> acht <END>
+setze die lautstärke der musik auf <START:percent_target> neun <END>
+setze die lautstärke der musik auf <START:percent_target> zehn <END>
+lautstärke der musik auf <START:percent_target> null <END>
+lautstärke der musik auf <START:percent_target> eins <END>
+lautstärke der musik auf <START:percent_target> zwei <END>
+lautstärke der musik auf <START:percent_target> drei <END>
+lautstärke der musik auf <START:percent_target> vier <END>
+lautstärke der musik auf <START:percent_target> fünf <END>
+lautstärke der musik auf <START:percent_target> sechs <END>
+lautstärke der musik auf <START:percent_target> sieben <END>
+lautstärke der musik auf <START:percent_target> acht <END>
+lautstärke der musik auf <START:percent_target> neun <END>
+lautstärke der musik auf <START:percent_target> zehn <END>
+ändere lautstärke der musik auf <START:percent_target> null <END>
+ändere lautstärke der musik auf <START:percent_target> eins <END>
+ändere lautstärke der musik auf <START:percent_target> zwei <END>
+ändere lautstärke der musik auf <START:percent_target> drei <END>
+ändere lautstärke der musik auf <START:percent_target> vier <END>
+ändere lautstärke der musik auf <START:percent_target> fünf <END>
+ändere lautstärke der musik auf <START:percent_target> sechs <END>
+ändere lautstärke der musik auf <START:percent_target> sieben <END>
+ändere lautstärke der musik auf <START:percent_target> acht <END>
+ändere lautstärke der musik auf <START:percent_target> neun <END>
+ändere lautstärke der musik auf <START:percent_target> zehn <END>
+ändere die lautstärke der musik auf <START:percent_target> null <END>
+ändere die lautstärke der musik auf <START:percent_target> eins <END>
+ändere die lautstärke der musik auf <START:percent_target> zwei <END>
+ändere die lautstärke der musik auf <START:percent_target> drei <END>
+ändere die lautstärke der musik auf <START:percent_target> vier <END>
+ändere die lautstärke der musik auf <START:percent_target> fünf <END>
+ändere die lautstärke der musik auf <START:percent_target> sechs <END>
+ändere die lautstärke der musik auf <START:percent_target> sieben <END>
+ändere die lautstärke der musik auf <START:percent_target> acht <END>
+ändere die lautstärke der musik auf <START:percent_target> neun <END>
+ändere die lautstärke der musik auf <START:percent_target> zehn <END>
+bitte setze lautstärke der musik auf <START:percent_target> null <END>
+bitte setze lautstärke der musik auf <START:percent_target> eins <END>
+bitte setze lautstärke der musik auf <START:percent_target> zwei <END>
+bitte setze lautstärke der musik auf <START:percent_target> drei <END>
+bitte setze lautstärke der musik auf <START:percent_target> vier <END>
+bitte setze lautstärke der musik auf <START:percent_target> fünf <END>
+bitte setze lautstärke der musik auf <START:percent_target> sechs <END>
+bitte setze lautstärke der musik auf <START:percent_target> sieben <END>
+bitte setze lautstärke der musik auf <START:percent_target> acht <END>
+bitte setze lautstärke der musik auf <START:percent_target> neun <END>
+bitte setze lautstärke der musik auf <START:percent_target> zehn <END>
+bitte setze die lautstärke der musik auf <START:percent_target> null <END>
+bitte setze die lautstärke der musik auf <START:percent_target> eins <END>
+bitte setze die lautstärke der musik auf <START:percent_target> zwei <END>
+bitte setze die lautstärke der musik auf <START:percent_target> drei <END>
+bitte setze die lautstärke der musik auf <START:percent_target> vier <END>
+bitte setze die lautstärke der musik auf <START:percent_target> fünf <END>
+bitte setze die lautstärke der musik auf <START:percent_target> sechs <END>
+bitte setze die lautstärke der musik auf <START:percent_target> sieben <END>
+bitte setze die lautstärke der musik auf <START:percent_target> acht <END>
+bitte setze die lautstärke der musik auf <START:percent_target> neun <END>
+bitte setze die lautstärke der musik auf <START:percent_target> zehn <END>
+bitte lautstärke der musik auf <START:percent_target> null <END>
+bitte lautstärke der musik auf <START:percent_target> eins <END>
+bitte lautstärke der musik auf <START:percent_target> zwei <END>
+bitte lautstärke der musik auf <START:percent_target> drei <END>
+bitte lautstärke der musik auf <START:percent_target> vier <END>
+bitte lautstärke der musik auf <START:percent_target> fünf <END>
+bitte lautstärke der musik auf <START:percent_target> sechs <END>
+bitte lautstärke der musik auf <START:percent_target> sieben <END>
+bitte lautstärke der musik auf <START:percent_target> acht <END>
+bitte lautstärke der musik auf <START:percent_target> neun <END>
+bitte lautstärke der musik auf <START:percent_target> zehn <END>
+bitte ändere lautstärke der musik auf <START:percent_target> null <END>
+bitte ändere lautstärke der musik auf <START:percent_target> eins <END>
+bitte ändere lautstärke der musik auf <START:percent_target> zwei <END>
+bitte ändere lautstärke der musik auf <START:percent_target> drei <END>
+bitte ändere lautstärke der musik auf <START:percent_target> vier <END>
+bitte ändere lautstärke der musik auf <START:percent_target> fünf <END>
+bitte ändere lautstärke der musik auf <START:percent_target> sechs <END>
+bitte ändere lautstärke der musik auf <START:percent_target> sieben <END>
+bitte ändere lautstärke der musik auf <START:percent_target> acht <END>
+bitte ändere lautstärke der musik auf <START:percent_target> neun <END>
+bitte ändere lautstärke der musik auf <START:percent_target> zehn <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> null <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> eins <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> zwei <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> drei <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> vier <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> fünf <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> sechs <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> sieben <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> acht <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> neun <END>
+bitte ändere die lautstärke der musik auf <START:percent_target> zehn <END>
+setze lautstärke der musik auf <START:percent_target> null <END> bitte
+setze lautstärke der musik auf <START:percent_target> eins <END> bitte
+setze lautstärke der musik auf <START:percent_target> zwei <END> bitte
+setze lautstärke der musik auf <START:percent_target> drei <END> bitte
+setze lautstärke der musik auf <START:percent_target> vier <END> bitte
+setze lautstärke der musik auf <START:percent_target> fünf <END> bitte
+setze lautstärke der musik auf <START:percent_target> sechs <END> bitte
+setze lautstärke der musik auf <START:percent_target> sieben <END> bitte
+setze lautstärke der musik auf <START:percent_target> acht <END> bitte
+setze lautstärke der musik auf <START:percent_target> neun <END> bitte
+setze lautstärke der musik auf <START:percent_target> zehn <END> bitte
+setze die lautstärke der musik auf <START:percent_target> null <END> bitte
+setze die lautstärke der musik auf <START:percent_target> eins <END> bitte
+setze die lautstärke der musik auf <START:percent_target> zwei <END> bitte
+setze die lautstärke der musik auf <START:percent_target> drei <END> bitte
+setze die lautstärke der musik auf <START:percent_target> vier <END> bitte
+setze die lautstärke der musik auf <START:percent_target> fünf <END> bitte
+setze die lautstärke der musik auf <START:percent_target> sechs <END> bitte
+setze die lautstärke der musik auf <START:percent_target> sieben <END> bitte
+setze die lautstärke der musik auf <START:percent_target> acht <END> bitte
+setze die lautstärke der musik auf <START:percent_target> neun <END> bitte
+setze die lautstärke der musik auf <START:percent_target> zehn <END> bitte
+lautstärke der musik auf <START:percent_target> null <END> bitte
+lautstärke der musik auf <START:percent_target> eins <END> bitte
+lautstärke der musik auf <START:percent_target> zwei <END> bitte
+lautstärke der musik auf <START:percent_target> drei <END> bitte
+lautstärke der musik auf <START:percent_target> vier <END> bitte
+lautstärke der musik auf <START:percent_target> fünf <END> bitte
+lautstärke der musik auf <START:percent_target> sechs <END> bitte
+lautstärke der musik auf <START:percent_target> sieben <END> bitte
+lautstärke der musik auf <START:percent_target> acht <END> bitte
+lautstärke der musik auf <START:percent_target> neun <END> bitte
+lautstärke der musik auf <START:percent_target> zehn <END> bitte
+ändere lautstärke der musik auf <START:percent_target> null <END> bitte
+ändere lautstärke der musik auf <START:percent_target> eins <END> bitte
+ändere lautstärke der musik auf <START:percent_target> zwei <END> bitte
+ändere lautstärke der musik auf <START:percent_target> drei <END> bitte
+ändere lautstärke der musik auf <START:percent_target> vier <END> bitte
+ändere lautstärke der musik auf <START:percent_target> fünf <END> bitte
+ändere lautstärke der musik auf <START:percent_target> sechs <END> bitte
+ändere lautstärke der musik auf <START:percent_target> sieben <END> bitte
+ändere lautstärke der musik auf <START:percent_target> acht <END> bitte
+ändere lautstärke der musik auf <START:percent_target> neun <END> bitte
+ändere lautstärke der musik auf <START:percent_target> zehn <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> null <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> eins <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> zwei <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> drei <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> vier <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> fünf <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> sechs <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> sieben <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> acht <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> neun <END> bitte
+ändere die lautstärke der musik auf <START:percent_target> zehn <END> bitte
+setze tv auf <START:percent_target> null <END>
+setze tv auf <START:percent_target> eins <END>
+setze tv auf <START:percent_target> zwei <END>
+setze tv auf <START:percent_target> drei <END>
+setze tv auf <START:percent_target> vier <END>
+setze tv auf <START:percent_target> fünf <END>
+setze tv auf <START:percent_target> sechs <END>
+setze tv auf <START:percent_target> sieben <END>
+setze tv auf <START:percent_target> acht <END>
+setze tv auf <START:percent_target> neun <END>
+setze tv auf <START:percent_target> zehn <END>
+setze den tv auf <START:percent_target> null <END>
+setze den tv auf <START:percent_target> eins <END>
+setze den tv auf <START:percent_target> zwei <END>
+setze den tv auf <START:percent_target> drei <END>
+setze den tv auf <START:percent_target> vier <END>
+setze den tv auf <START:percent_target> fünf <END>
+setze den tv auf <START:percent_target> sechs <END>
+setze den tv auf <START:percent_target> sieben <END>
+setze den tv auf <START:percent_target> acht <END>
+setze den tv auf <START:percent_target> neun <END>
+setze den tv auf <START:percent_target> zehn <END>
+tv auf <START:percent_target> null <END>
+tv auf <START:percent_target> eins <END>
+tv auf <START:percent_target> zwei <END>
+tv auf <START:percent_target> drei <END>
+tv auf <START:percent_target> vier <END>
+tv auf <START:percent_target> fünf <END>
+tv auf <START:percent_target> sechs <END>
+tv auf <START:percent_target> sieben <END>
+tv auf <START:percent_target> acht <END>
+tv auf <START:percent_target> neun <END>
+tv auf <START:percent_target> zehn <END>
+ändere tv auf <START:percent_target> null <END>
+ändere tv auf <START:percent_target> eins <END>
+ändere tv auf <START:percent_target> zwei <END>
+ändere tv auf <START:percent_target> drei <END>
+ändere tv auf <START:percent_target> vier <END>
+ändere tv auf <START:percent_target> fünf <END>
+ändere tv auf <START:percent_target> sechs <END>
+ändere tv auf <START:percent_target> sieben <END>
+ändere tv auf <START:percent_target> acht <END>
+ändere tv auf <START:percent_target> neun <END>
+ändere tv auf <START:percent_target> zehn <END>
+ändere den tv auf <START:percent_target> null <END>
+ändere den tv auf <START:percent_target> eins <END>
+ändere den tv auf <START:percent_target> zwei <END>
+ändere den tv auf <START:percent_target> drei <END>
+ändere den tv auf <START:percent_target> vier <END>
+ändere den tv auf <START:percent_target> fünf <END>
+ändere den tv auf <START:percent_target> sechs <END>
+ändere den tv auf <START:percent_target> sieben <END>
+ändere den tv auf <START:percent_target> acht <END>
+ändere den tv auf <START:percent_target> neun <END>
+ändere den tv auf <START:percent_target> zehn <END>
+bitte setze tv auf <START:percent_target> null <END>
+bitte setze tv auf <START:percent_target> eins <END>
+bitte setze tv auf <START:percent_target> zwei <END>
+bitte setze tv auf <START:percent_target> drei <END>
+bitte setze tv auf <START:percent_target> vier <END>
+bitte setze tv auf <START:percent_target> fünf <END>
+bitte setze tv auf <START:percent_target> sechs <END>
+bitte setze tv auf <START:percent_target> sieben <END>
+bitte setze tv auf <START:percent_target> acht <END>
+bitte setze tv auf <START:percent_target> neun <END>
+bitte setze tv auf <START:percent_target> zehn <END>
+bitte setze den tv auf <START:percent_target> null <END>
+bitte setze den tv auf <START:percent_target> eins <END>
+bitte setze den tv auf <START:percent_target> zwei <END>
+bitte setze den tv auf <START:percent_target> drei <END>
+bitte setze den tv auf <START:percent_target> vier <END>
+bitte setze den tv auf <START:percent_target> fünf <END>
+bitte setze den tv auf <START:percent_target> sechs <END>
+bitte setze den tv auf <START:percent_target> sieben <END>
+bitte setze den tv auf <START:percent_target> acht <END>
+bitte setze den tv auf <START:percent_target> neun <END>
+bitte setze den tv auf <START:percent_target> zehn <END>
+bitte tv auf <START:percent_target> null <END>
+bitte tv auf <START:percent_target> eins <END>
+bitte tv auf <START:percent_target> zwei <END>
+bitte tv auf <START:percent_target> drei <END>
+bitte tv auf <START:percent_target> vier <END>
+bitte tv auf <START:percent_target> fünf <END>
+bitte tv auf <START:percent_target> sechs <END>
+bitte tv auf <START:percent_target> sieben <END>
+bitte tv auf <START:percent_target> acht <END>
+bitte tv auf <START:percent_target> neun <END>
+bitte tv auf <START:percent_target> zehn <END>
+bitte ändere tv auf <START:percent_target> null <END>
+bitte ändere tv auf <START:percent_target> eins <END>
+bitte ändere tv auf <START:percent_target> zwei <END>
+bitte ändere tv auf <START:percent_target> drei <END>
+bitte ändere tv auf <START:percent_target> vier <END>
+bitte ändere tv auf <START:percent_target> fünf <END>
+bitte ändere tv auf <START:percent_target> sechs <END>
+bitte ändere tv auf <START:percent_target> sieben <END>
+bitte ändere tv auf <START:percent_target> acht <END>
+bitte ändere tv auf <START:percent_target> neun <END>
+bitte ändere tv auf <START:percent_target> zehn <END>
+bitte ändere den tv auf <START:percent_target> null <END>
+bitte ändere den tv auf <START:percent_target> eins <END>
+bitte ändere den tv auf <START:percent_target> zwei <END>
+bitte ändere den tv auf <START:percent_target> drei <END>
+bitte ändere den tv auf <START:percent_target> vier <END>
+bitte ändere den tv auf <START:percent_target> fünf <END>
+bitte ändere den tv auf <START:percent_target> sechs <END>
+bitte ändere den tv auf <START:percent_target> sieben <END>
+bitte ändere den tv auf <START:percent_target> acht <END>
+bitte ändere den tv auf <START:percent_target> neun <END>
+bitte ändere den tv auf <START:percent_target> zehn <END>
+setze tv auf <START:percent_target> null <END> bitte
+setze tv auf <START:percent_target> eins <END> bitte
+setze tv auf <START:percent_target> zwei <END> bitte
+setze tv auf <START:percent_target> drei <END> bitte
+setze tv auf <START:percent_target> vier <END> bitte
+setze tv auf <START:percent_target> fünf <END> bitte
+setze tv auf <START:percent_target> sechs <END> bitte
+setze tv auf <START:percent_target> sieben <END> bitte
+setze tv auf <START:percent_target> acht <END> bitte
+setze tv auf <START:percent_target> neun <END> bitte
+setze tv auf <START:percent_target> zehn <END> bitte
+setze den tv auf <START:percent_target> null <END> bitte
+setze den tv auf <START:percent_target> eins <END> bitte
+setze den tv auf <START:percent_target> zwei <END> bitte
+setze den tv auf <START:percent_target> drei <END> bitte
+setze den tv auf <START:percent_target> vier <END> bitte
+setze den tv auf <START:percent_target> fünf <END> bitte
+setze den tv auf <START:percent_target> sechs <END> bitte
+setze den tv auf <START:percent_target> sieben <END> bitte
+setze den tv auf <START:percent_target> acht <END> bitte
+setze den tv auf <START:percent_target> neun <END> bitte
+setze den tv auf <START:percent_target> zehn <END> bitte
+tv auf <START:percent_target> null <END> bitte
+tv auf <START:percent_target> eins <END> bitte
+tv auf <START:percent_target> zwei <END> bitte
+tv auf <START:percent_target> drei <END> bitte
+tv auf <START:percent_target> vier <END> bitte
+tv auf <START:percent_target> fünf <END> bitte
+tv auf <START:percent_target> sechs <END> bitte
+tv auf <START:percent_target> sieben <END> bitte
+tv auf <START:percent_target> acht <END> bitte
+tv auf <START:percent_target> neun <END> bitte
+tv auf <START:percent_target> zehn <END> bitte
+ändere tv auf <START:percent_target> null <END> bitte
+ändere tv auf <START:percent_target> eins <END> bitte
+ändere tv auf <START:percent_target> zwei <END> bitte
+ändere tv auf <START:percent_target> drei <END> bitte
+ändere tv auf <START:percent_target> vier <END> bitte
+ändere tv auf <START:percent_target> fünf <END> bitte
+ändere tv auf <START:percent_target> sechs <END> bitte
+ändere tv auf <START:percent_target> sieben <END> bitte
+ändere tv auf <START:percent_target> acht <END> bitte
+ändere tv auf <START:percent_target> neun <END> bitte
+ändere tv auf <START:percent_target> zehn <END> bitte
+ändere den tv auf <START:percent_target> null <END> bitte
+ändere den tv auf <START:percent_target> eins <END> bitte
+ändere den tv auf <START:percent_target> zwei <END> bitte
+ändere den tv auf <START:percent_target> drei <END> bitte
+ändere den tv auf <START:percent_target> vier <END> bitte
+ändere den tv auf <START:percent_target> fünf <END> bitte
+ändere den tv auf <START:percent_target> sechs <END> bitte
+ändere den tv auf <START:percent_target> sieben <END> bitte
+ändere den tv auf <START:percent_target> acht <END> bitte
+ändere den tv auf <START:percent_target> neun <END> bitte
+ändere den tv auf <START:percent_target> zehn <END> bitte
+setze tv lautstärke auf <START:percent_target> null <END>
+setze tv lautstärke auf <START:percent_target> eins <END>
+setze tv lautstärke auf <START:percent_target> zwei <END>
+setze tv lautstärke auf <START:percent_target> drei <END>
+setze tv lautstärke auf <START:percent_target> vier <END>
+setze tv lautstärke auf <START:percent_target> fünf <END>
+setze tv lautstärke auf <START:percent_target> sechs <END>
+setze tv lautstärke auf <START:percent_target> sieben <END>
+setze tv lautstärke auf <START:percent_target> acht <END>
+setze tv lautstärke auf <START:percent_target> neun <END>
+setze tv lautstärke auf <START:percent_target> zehn <END>
+setze die tv lautstärke auf <START:percent_target> null <END>
+setze die tv lautstärke auf <START:percent_target> eins <END>
+setze die tv lautstärke auf <START:percent_target> zwei <END>
+setze die tv lautstärke auf <START:percent_target> drei <END>
+setze die tv lautstärke auf <START:percent_target> vier <END>
+setze die tv lautstärke auf <START:percent_target> fünf <END>
+setze die tv lautstärke auf <START:percent_target> sechs <END>
+setze die tv lautstärke auf <START:percent_target> sieben <END>
+setze die tv lautstärke auf <START:percent_target> acht <END>
+setze die tv lautstärke auf <START:percent_target> neun <END>
+setze die tv lautstärke auf <START:percent_target> zehn <END>
+tv lautstärke auf <START:percent_target> null <END>
+tv lautstärke auf <START:percent_target> eins <END>
+tv lautstärke auf <START:percent_target> zwei <END>
+tv lautstärke auf <START:percent_target> drei <END>
+tv lautstärke auf <START:percent_target> vier <END>
+tv lautstärke auf <START:percent_target> fünf <END>
+tv lautstärke auf <START:percent_target> sechs <END>
+tv lautstärke auf <START:percent_target> sieben <END>
+tv lautstärke auf <START:percent_target> acht <END>
+tv lautstärke auf <START:percent_target> neun <END>
+tv lautstärke auf <START:percent_target> zehn <END>
+ändere tv lautstärke auf <START:percent_target> null <END>
+ändere tv lautstärke auf <START:percent_target> eins <END>
+ändere tv lautstärke auf <START:percent_target> zwei <END>
+ändere tv lautstärke auf <START:percent_target> drei <END>
+ändere tv lautstärke auf <START:percent_target> vier <END>
+ändere tv lautstärke auf <START:percent_target> fünf <END>
+ändere tv lautstärke auf <START:percent_target> sechs <END>
+ändere tv lautstärke auf <START:percent_target> sieben <END>
+ändere tv lautstärke auf <START:percent_target> acht <END>
+ändere tv lautstärke auf <START:percent_target> neun <END>
+ändere tv lautstärke auf <START:percent_target> zehn <END>
+ändere die tv lautstärke auf <START:percent_target> null <END>
+ändere die tv lautstärke auf <START:percent_target> eins <END>
+ändere die tv lautstärke auf <START:percent_target> zwei <END>
+ändere die tv lautstärke auf <START:percent_target> drei <END>
+ändere die tv lautstärke auf <START:percent_target> vier <END>
+ändere die tv lautstärke auf <START:percent_target> fünf <END>
+ändere die tv lautstärke auf <START:percent_target> sechs <END>
+ändere die tv lautstärke auf <START:percent_target> sieben <END>
+ändere die tv lautstärke auf <START:percent_target> acht <END>
+ändere die tv lautstärke auf <START:percent_target> neun <END>
+ändere die tv lautstärke auf <START:percent_target> zehn <END>
+bitte setze tv lautstärke auf <START:percent_target> null <END>
+bitte setze tv lautstärke auf <START:percent_target> eins <END>
+bitte setze tv lautstärke auf <START:percent_target> zwei <END>
+bitte setze tv lautstärke auf <START:percent_target> drei <END>
+bitte setze tv lautstärke auf <START:percent_target> vier <END>
+bitte setze tv lautstärke auf <START:percent_target> fünf <END>
+bitte setze tv lautstärke auf <START:percent_target> sechs <END>
+bitte setze tv lautstärke auf <START:percent_target> sieben <END>
+bitte setze tv lautstärke auf <START:percent_target> acht <END>
+bitte setze tv lautstärke auf <START:percent_target> neun <END>
+bitte setze tv lautstärke auf <START:percent_target> zehn <END>
+bitte setze die tv lautstärke auf <START:percent_target> null <END>
+bitte setze die tv lautstärke auf <START:percent_target> eins <END>
+bitte setze die tv lautstärke auf <START:percent_target> zwei <END>
+bitte setze die tv lautstärke auf <START:percent_target> drei <END>
+bitte setze die tv lautstärke auf <START:percent_target> vier <END>
+bitte setze die tv lautstärke auf <START:percent_target> fünf <END>
+bitte setze die tv lautstärke auf <START:percent_target> sechs <END>
+bitte setze die tv lautstärke auf <START:percent_target> sieben <END>
+bitte setze die tv lautstärke auf <START:percent_target> acht <END>
+bitte setze die tv lautstärke auf <START:percent_target> neun <END>
+bitte setze die tv lautstärke auf <START:percent_target> zehn <END>
+bitte tv lautstärke auf <START:percent_target> null <END>
+bitte tv lautstärke auf <START:percent_target> eins <END>
+bitte tv lautstärke auf <START:percent_target> zwei <END>
+bitte tv lautstärke auf <START:percent_target> drei <END>
+bitte tv lautstärke auf <START:percent_target> vier <END>
+bitte tv lautstärke auf <START:percent_target> fünf <END>
+bitte tv lautstärke auf <START:percent_target> sechs <END>
+bitte tv lautstärke auf <START:percent_target> sieben <END>
+bitte tv lautstärke auf <START:percent_target> acht <END>
+bitte tv lautstärke auf <START:percent_target> neun <END>
+bitte tv lautstärke auf <START:percent_target> zehn <END>
+bitte ändere tv lautstärke auf <START:percent_target> null <END>
+bitte ändere tv lautstärke auf <START:percent_target> eins <END>
+bitte ändere tv lautstärke auf <START:percent_target> zwei <END>
+bitte ändere tv lautstärke auf <START:percent_target> drei <END>
+bitte ändere tv lautstärke auf <START:percent_target> vier <END>
+bitte ändere tv lautstärke auf <START:percent_target> fünf <END>
+bitte ändere tv lautstärke auf <START:percent_target> sechs <END>
+bitte ändere tv lautstärke auf <START:percent_target> sieben <END>
+bitte ändere tv lautstärke auf <START:percent_target> acht <END>
+bitte ändere tv lautstärke auf <START:percent_target> neun <END>
+bitte ändere tv lautstärke auf <START:percent_target> zehn <END>
+bitte ändere die tv lautstärke auf <START:percent_target> null <END>
+bitte ändere die tv lautstärke auf <START:percent_target> eins <END>
+bitte ändere die tv lautstärke auf <START:percent_target> zwei <END>
+bitte ändere die tv lautstärke auf <START:percent_target> drei <END>
+bitte ändere die tv lautstärke auf <START:percent_target> vier <END>
+bitte ändere die tv lautstärke auf <START:percent_target> fünf <END>
+bitte ändere die tv lautstärke auf <START:percent_target> sechs <END>
+bitte ändere die tv lautstärke auf <START:percent_target> sieben <END>
+bitte ändere die tv lautstärke auf <START:percent_target> acht <END>
+bitte ändere die tv lautstärke auf <START:percent_target> neun <END>
+bitte ändere die tv lautstärke auf <START:percent_target> zehn <END>
+setze tv lautstärke auf <START:percent_target> null <END> bitte
+setze tv lautstärke auf <START:percent_target> eins <END> bitte
+setze tv lautstärke auf <START:percent_target> zwei <END> bitte
+setze tv lautstärke auf <START:percent_target> drei <END> bitte
+setze tv lautstärke auf <START:percent_target> vier <END> bitte
+setze tv lautstärke auf <START:percent_target> fünf <END> bitte
+setze tv lautstärke auf <START:percent_target> sechs <END> bitte
+setze tv lautstärke auf <START:percent_target> sieben <END> bitte
+setze tv lautstärke auf <START:percent_target> acht <END> bitte
+setze tv lautstärke auf <START:percent_target> neun <END> bitte
+setze tv lautstärke auf <START:percent_target> zehn <END> bitte
+setze die tv lautstärke auf <START:percent_target> null <END> bitte
+setze die tv lautstärke auf <START:percent_target> eins <END> bitte
+setze die tv lautstärke auf <START:percent_target> zwei <END> bitte
+setze die tv lautstärke auf <START:percent_target> drei <END> bitte
+setze die tv lautstärke auf <START:percent_target> vier <END> bitte
+setze die tv lautstärke auf <START:percent_target> fünf <END> bitte
+setze die tv lautstärke auf <START:percent_target> sechs <END> bitte
+setze die tv lautstärke auf <START:percent_target> sieben <END> bitte
+setze die tv lautstärke auf <START:percent_target> acht <END> bitte
+setze die tv lautstärke auf <START:percent_target> neun <END> bitte
+setze die tv lautstärke auf <START:percent_target> zehn <END> bitte
+tv lautstärke auf <START:percent_target> null <END> bitte
+tv lautstärke auf <START:percent_target> eins <END> bitte
+tv lautstärke auf <START:percent_target> zwei <END> bitte
+tv lautstärke auf <START:percent_target> drei <END> bitte
+tv lautstärke auf <START:percent_target> vier <END> bitte
+tv lautstärke auf <START:percent_target> fünf <END> bitte
+tv lautstärke auf <START:percent_target> sechs <END> bitte
+tv lautstärke auf <START:percent_target> sieben <END> bitte
+tv lautstärke auf <START:percent_target> acht <END> bitte
+tv lautstärke auf <START:percent_target> neun <END> bitte
+tv lautstärke auf <START:percent_target> zehn <END> bitte
+ändere tv lautstärke auf <START:percent_target> null <END> bitte
+ändere tv lautstärke auf <START:percent_target> eins <END> bitte
+ändere tv lautstärke auf <START:percent_target> zwei <END> bitte
+ändere tv lautstärke auf <START:percent_target> drei <END> bitte
+ändere tv lautstärke auf <START:percent_target> vier <END> bitte
+ändere tv lautstärke auf <START:percent_target> fünf <END> bitte
+ändere tv lautstärke auf <START:percent_target> sechs <END> bitte
+ändere tv lautstärke auf <START:percent_target> sieben <END> bitte
+ändere tv lautstärke auf <START:percent_target> acht <END> bitte
+ändere tv lautstärke auf <START:percent_target> neun <END> bitte
+ändere tv lautstärke auf <START:percent_target> zehn <END> bitte
+ändere die tv lautstärke auf <START:percent_target> null <END> bitte
+ändere die tv lautstärke auf <START:percent_target> eins <END> bitte
+ändere die tv lautstärke auf <START:percent_target> zwei <END> bitte
+ändere die tv lautstärke auf <START:percent_target> drei <END> bitte
+ändere die tv lautstärke auf <START:percent_target> vier <END> bitte
+ändere die tv lautstärke auf <START:percent_target> fünf <END> bitte
+ändere die tv lautstärke auf <START:percent_target> sechs <END> bitte
+ändere die tv lautstärke auf <START:percent_target> sieben <END> bitte
+ändere die tv lautstärke auf <START:percent_target> acht <END> bitte
+ändere die tv lautstärke auf <START:percent_target> neun <END> bitte
+ändere die tv lautstärke auf <START:percent_target> zehn <END> bitte
+setze lautstärke des tv auf <START:percent_target> null <END>
+setze lautstärke des tv auf <START:percent_target> eins <END>
+setze lautstärke des tv auf <START:percent_target> zwei <END>
+setze lautstärke des tv auf <START:percent_target> drei <END>
+setze lautstärke des tv auf <START:percent_target> vier <END>
+setze lautstärke des tv auf <START:percent_target> fünf <END>
+setze lautstärke des tv auf <START:percent_target> sechs <END>
+setze lautstärke des tv auf <START:percent_target> sieben <END>
+setze lautstärke des tv auf <START:percent_target> acht <END>
+setze lautstärke des tv auf <START:percent_target> neun <END>
+setze lautstärke des tv auf <START:percent_target> zehn <END>
+setze die lautstärke des tv auf <START:percent_target> null <END>
+setze die lautstärke des tv auf <START:percent_target> eins <END>
+setze die lautstärke des tv auf <START:percent_target> zwei <END>
+setze die lautstärke des tv auf <START:percent_target> drei <END>
+setze die lautstärke des tv auf <START:percent_target> vier <END>
+setze die lautstärke des tv auf <START:percent_target> fünf <END>
+setze die lautstärke des tv auf <START:percent_target> sechs <END>
+setze die lautstärke des tv auf <START:percent_target> sieben <END>
+setze die lautstärke des tv auf <START:percent_target> acht <END>
+setze die lautstärke des tv auf <START:percent_target> neun <END>
+setze die lautstärke des tv auf <START:percent_target> zehn <END>
+lautstärke des tv auf <START:percent_target> null <END>
+lautstärke des tv auf <START:percent_target> eins <END>
+lautstärke des tv auf <START:percent_target> zwei <END>
+lautstärke des tv auf <START:percent_target> drei <END>
+lautstärke des tv auf <START:percent_target> vier <END>
+lautstärke des tv auf <START:percent_target> fünf <END>
+lautstärke des tv auf <START:percent_target> sechs <END>
+lautstärke des tv auf <START:percent_target> sieben <END>
+lautstärke des tv auf <START:percent_target> acht <END>
+lautstärke des tv auf <START:percent_target> neun <END>
+lautstärke des tv auf <START:percent_target> zehn <END>
+ändere lautstärke des tv auf <START:percent_target> null <END>
+ändere lautstärke des tv auf <START:percent_target> eins <END>
+ändere lautstärke des tv auf <START:percent_target> zwei <END>
+ändere lautstärke des tv auf <START:percent_target> drei <END>
+ändere lautstärke des tv auf <START:percent_target> vier <END>
+ändere lautstärke des tv auf <START:percent_target> fünf <END>
+ändere lautstärke des tv auf <START:percent_target> sechs <END>
+ändere lautstärke des tv auf <START:percent_target> sieben <END>
+ändere lautstärke des tv auf <START:percent_target> acht <END>
+ändere lautstärke des tv auf <START:percent_target> neun <END>
+ändere lautstärke des tv auf <START:percent_target> zehn <END>
+ändere die lautstärke des tv auf <START:percent_target> null <END>
+ändere die lautstärke des tv auf <START:percent_target> eins <END>
+ändere die lautstärke des tv auf <START:percent_target> zwei <END>
+ändere die lautstärke des tv auf <START:percent_target> drei <END>
+ändere die lautstärke des tv auf <START:percent_target> vier <END>
+ändere die lautstärke des tv auf <START:percent_target> fünf <END>
+ändere die lautstärke des tv auf <START:percent_target> sechs <END>
+ändere die lautstärke des tv auf <START:percent_target> sieben <END>
+ändere die lautstärke des tv auf <START:percent_target> acht <END>
+ändere die lautstärke des tv auf <START:percent_target> neun <END>
+ändere die lautstärke des tv auf <START:percent_target> zehn <END>
+bitte setze lautstärke des tv auf <START:percent_target> null <END>
+bitte setze lautstärke des tv auf <START:percent_target> eins <END>
+bitte setze lautstärke des tv auf <START:percent_target> zwei <END>
+bitte setze lautstärke des tv auf <START:percent_target> drei <END>
+bitte setze lautstärke des tv auf <START:percent_target> vier <END>
+bitte setze lautstärke des tv auf <START:percent_target> fünf <END>
+bitte setze lautstärke des tv auf <START:percent_target> sechs <END>
+bitte setze lautstärke des tv auf <START:percent_target> sieben <END>
+bitte setze lautstärke des tv auf <START:percent_target> acht <END>
+bitte setze lautstärke des tv auf <START:percent_target> neun <END>
+bitte setze lautstärke des tv auf <START:percent_target> zehn <END>
+bitte setze die lautstärke des tv auf <START:percent_target> null <END>
+bitte setze die lautstärke des tv auf <START:percent_target> eins <END>
+bitte setze die lautstärke des tv auf <START:percent_target> zwei <END>
+bitte setze die lautstärke des tv auf <START:percent_target> drei <END>
+bitte setze die lautstärke des tv auf <START:percent_target> vier <END>
+bitte setze die lautstärke des tv auf <START:percent_target> fünf <END>
+bitte setze die lautstärke des tv auf <START:percent_target> sechs <END>
+bitte setze die lautstärke des tv auf <START:percent_target> sieben <END>
+bitte setze die lautstärke des tv auf <START:percent_target> acht <END>
+bitte setze die lautstärke des tv auf <START:percent_target> neun <END>
+bitte setze die lautstärke des tv auf <START:percent_target> zehn <END>
+bitte lautstärke des tv auf <START:percent_target> null <END>
+bitte lautstärke des tv auf <START:percent_target> eins <END>
+bitte lautstärke des tv auf <START:percent_target> zwei <END>
+bitte lautstärke des tv auf <START:percent_target> drei <END>
+bitte lautstärke des tv auf <START:percent_target> vier <END>
+bitte lautstärke des tv auf <START:percent_target> fünf <END>
+bitte lautstärke des tv auf <START:percent_target> sechs <END>
+bitte lautstärke des tv auf <START:percent_target> sieben <END>
+bitte lautstärke des tv auf <START:percent_target> acht <END>
+bitte lautstärke des tv auf <START:percent_target> neun <END>
+bitte lautstärke des tv auf <START:percent_target> zehn <END>
+bitte ändere lautstärke des tv auf <START:percent_target> null <END>
+bitte ändere lautstärke des tv auf <START:percent_target> eins <END>
+bitte ändere lautstärke des tv auf <START:percent_target> zwei <END>
+bitte ändere lautstärke des tv auf <START:percent_target> drei <END>
+bitte ändere lautstärke des tv auf <START:percent_target> vier <END>
+bitte ändere lautstärke des tv auf <START:percent_target> fünf <END>
+bitte ändere lautstärke des tv auf <START:percent_target> sechs <END>
+bitte ändere lautstärke des tv auf <START:percent_target> sieben <END>
+bitte ändere lautstärke des tv auf <START:percent_target> acht <END>
+bitte ändere lautstärke des tv auf <START:percent_target> neun <END>
+bitte ändere lautstärke des tv auf <START:percent_target> zehn <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> null <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> eins <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> zwei <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> drei <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> vier <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> fünf <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> sechs <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> sieben <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> acht <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> neun <END>
+bitte ändere die lautstärke des tv auf <START:percent_target> zehn <END>
+setze lautstärke des tv auf <START:percent_target> null <END> bitte
+setze lautstärke des tv auf <START:percent_target> eins <END> bitte
+setze lautstärke des tv auf <START:percent_target> zwei <END> bitte
+setze lautstärke des tv auf <START:percent_target> drei <END> bitte
+setze lautstärke des tv auf <START:percent_target> vier <END> bitte
+setze lautstärke des tv auf <START:percent_target> fünf <END> bitte
+setze lautstärke des tv auf <START:percent_target> sechs <END> bitte
+setze lautstärke des tv auf <START:percent_target> sieben <END> bitte
+setze lautstärke des tv auf <START:percent_target> acht <END> bitte
+setze lautstärke des tv auf <START:percent_target> neun <END> bitte
+setze lautstärke des tv auf <START:percent_target> zehn <END> bitte
+setze die lautstärke des tv auf <START:percent_target> null <END> bitte
+setze die lautstärke des tv auf <START:percent_target> eins <END> bitte
+setze die lautstärke des tv auf <START:percent_target> zwei <END> bitte
+setze die lautstärke des tv auf <START:percent_target> drei <END> bitte
+setze die lautstärke des tv auf <START:percent_target> vier <END> bitte
+setze die lautstärke des tv auf <START:percent_target> fünf <END> bitte
+setze die lautstärke des tv auf <START:percent_target> sechs <END> bitte
+setze die lautstärke des tv auf <START:percent_target> sieben <END> bitte
+setze die lautstärke des tv auf <START:percent_target> acht <END> bitte
+setze die lautstärke des tv auf <START:percent_target> neun <END> bitte
+setze die lautstärke des tv auf <START:percent_target> zehn <END> bitte
+lautstärke des tv auf <START:percent_target> null <END> bitte
+lautstärke des tv auf <START:percent_target> eins <END> bitte
+lautstärke des tv auf <START:percent_target> zwei <END> bitte
+lautstärke des tv auf <START:percent_target> drei <END> bitte
+lautstärke des tv auf <START:percent_target> vier <END> bitte
+lautstärke des tv auf <START:percent_target> fünf <END> bitte
+lautstärke des tv auf <START:percent_target> sechs <END> bitte
+lautstärke des tv auf <START:percent_target> sieben <END> bitte
+lautstärke des tv auf <START:percent_target> acht <END> bitte
+lautstärke des tv auf <START:percent_target> neun <END> bitte
+lautstärke des tv auf <START:percent_target> zehn <END> bitte
+ändere lautstärke des tv auf <START:percent_target> null <END> bitte
+ändere lautstärke des tv auf <START:percent_target> eins <END> bitte
+ändere lautstärke des tv auf <START:percent_target> zwei <END> bitte
+ändere lautstärke des tv auf <START:percent_target> drei <END> bitte
+ändere lautstärke des tv auf <START:percent_target> vier <END> bitte
+ändere lautstärke des tv auf <START:percent_target> fünf <END> bitte
+ändere lautstärke des tv auf <START:percent_target> sechs <END> bitte
+ändere lautstärke des tv auf <START:percent_target> sieben <END> bitte
+ändere lautstärke des tv auf <START:percent_target> acht <END> bitte
+ändere lautstärke des tv auf <START:percent_target> neun <END> bitte
+ändere lautstärke des tv auf <START:percent_target> zehn <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> null <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> eins <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> zwei <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> drei <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> vier <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> fünf <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> sechs <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> sieben <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> acht <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> neun <END> bitte
+ändere die lautstärke des tv auf <START:percent_target> zehn <END> bitte
+setze fernseher auf <START:percent_target> null <END>
+setze fernseher auf <START:percent_target> eins <END>
+setze fernseher auf <START:percent_target> zwei <END>
+setze fernseher auf <START:percent_target> drei <END>
+setze fernseher auf <START:percent_target> vier <END>
+setze fernseher auf <START:percent_target> fünf <END>
+setze fernseher auf <START:percent_target> sechs <END>
+setze fernseher auf <START:percent_target> sieben <END>
+setze fernseher auf <START:percent_target> acht <END>
+setze fernseher auf <START:percent_target> neun <END>
+setze fernseher auf <START:percent_target> zehn <END>
+setze den fernseher auf <START:percent_target> null <END>
+setze den fernseher auf <START:percent_target> eins <END>
+setze den fernseher auf <START:percent_target> zwei <END>
+setze den fernseher auf <START:percent_target> drei <END>
+setze den fernseher auf <START:percent_target> vier <END>
+setze den fernseher auf <START:percent_target> fünf <END>
+setze den fernseher auf <START:percent_target> sechs <END>
+setze den fernseher auf <START:percent_target> sieben <END>
+setze den fernseher auf <START:percent_target> acht <END>
+setze den fernseher auf <START:percent_target> neun <END>
+setze den fernseher auf <START:percent_target> zehn <END>
+fernseher auf <START:percent_target> null <END>
+fernseher auf <START:percent_target> eins <END>
+fernseher auf <START:percent_target> zwei <END>
+fernseher auf <START:percent_target> drei <END>
+fernseher auf <START:percent_target> vier <END>
+fernseher auf <START:percent_target> fünf <END>
+fernseher auf <START:percent_target> sechs <END>
+fernseher auf <START:percent_target> sieben <END>
+fernseher auf <START:percent_target> acht <END>
+fernseher auf <START:percent_target> neun <END>
+fernseher auf <START:percent_target> zehn <END>
+ändere fernseher auf <START:percent_target> null <END>
+ändere fernseher auf <START:percent_target> eins <END>
+ändere fernseher auf <START:percent_target> zwei <END>
+ändere fernseher auf <START:percent_target> drei <END>
+ändere fernseher auf <START:percent_target> vier <END>
+ändere fernseher auf <START:percent_target> fünf <END>
+ändere fernseher auf <START:percent_target> sechs <END>
+ändere fernseher auf <START:percent_target> sieben <END>
+ändere fernseher auf <START:percent_target> acht <END>
+ändere fernseher auf <START:percent_target> neun <END>
+ändere fernseher auf <START:percent_target> zehn <END>
+ändere den fernseher auf <START:percent_target> null <END>
+ändere den fernseher auf <START:percent_target> eins <END>
+ändere den fernseher auf <START:percent_target> zwei <END>
+ändere den fernseher auf <START:percent_target> drei <END>
+ändere den fernseher auf <START:percent_target> vier <END>
+ändere den fernseher auf <START:percent_target> fünf <END>
+ändere den fernseher auf <START:percent_target> sechs <END>
+ändere den fernseher auf <START:percent_target> sieben <END>
+ändere den fernseher auf <START:percent_target> acht <END>
+ändere den fernseher auf <START:percent_target> neun <END>
+ändere den fernseher auf <START:percent_target> zehn <END>
+bitte setze fernseher auf <START:percent_target> null <END>
+bitte setze fernseher auf <START:percent_target> eins <END>
+bitte setze fernseher auf <START:percent_target> zwei <END>
+bitte setze fernseher auf <START:percent_target> drei <END>
+bitte setze fernseher auf <START:percent_target> vier <END>
+bitte setze fernseher auf <START:percent_target> fünf <END>
+bitte setze fernseher auf <START:percent_target> sechs <END>
+bitte setze fernseher auf <START:percent_target> sieben <END>
+bitte setze fernseher auf <START:percent_target> acht <END>
+bitte setze fernseher auf <START:percent_target> neun <END>
+bitte setze fernseher auf <START:percent_target> zehn <END>
+bitte setze den fernseher auf <START:percent_target> null <END>
+bitte setze den fernseher auf <START:percent_target> eins <END>
+bitte setze den fernseher auf <START:percent_target> zwei <END>
+bitte setze den fernseher auf <START:percent_target> drei <END>
+bitte setze den fernseher auf <START:percent_target> vier <END>
+bitte setze den fernseher auf <START:percent_target> fünf <END>
+bitte setze den fernseher auf <START:percent_target> sechs <END>
+bitte setze den fernseher auf <START:percent_target> sieben <END>
+bitte setze den fernseher auf <START:percent_target> acht <END>
+bitte setze den fernseher auf <START:percent_target> neun <END>
+bitte setze den fernseher auf <START:percent_target> zehn <END>
+bitte fernseher auf <START:percent_target> null <END>
+bitte fernseher auf <START:percent_target> eins <END>
+bitte fernseher auf <START:percent_target> zwei <END>
+bitte fernseher auf <START:percent_target> drei <END>
+bitte fernseher auf <START:percent_target> vier <END>
+bitte fernseher auf <START:percent_target> fünf <END>
+bitte fernseher auf <START:percent_target> sechs <END>
+bitte fernseher auf <START:percent_target> sieben <END>
+bitte fernseher auf <START:percent_target> acht <END>
+bitte fernseher auf <START:percent_target> neun <END>
+bitte fernseher auf <START:percent_target> zehn <END>
+bitte ändere fernseher auf <START:percent_target> null <END>
+bitte ändere fernseher auf <START:percent_target> eins <END>
+bitte ändere fernseher auf <START:percent_target> zwei <END>
+bitte ändere fernseher auf <START:percent_target> drei <END>
+bitte ändere fernseher auf <START:percent_target> vier <END>
+bitte ändere fernseher auf <START:percent_target> fünf <END>
+bitte ändere fernseher auf <START:percent_target> sechs <END>
+bitte ändere fernseher auf <START:percent_target> sieben <END>
+bitte ändere fernseher auf <START:percent_target> acht <END>
+bitte ändere fernseher auf <START:percent_target> neun <END>
+bitte ändere fernseher auf <START:percent_target> zehn <END>
+bitte ändere den fernseher auf <START:percent_target> null <END>
+bitte ändere den fernseher auf <START:percent_target> eins <END>
+bitte ändere den fernseher auf <START:percent_target> zwei <END>
+bitte ändere den fernseher auf <START:percent_target> drei <END>
+bitte ändere den fernseher auf <START:percent_target> vier <END>
+bitte ändere den fernseher auf <START:percent_target> fünf <END>
+bitte ändere den fernseher auf <START:percent_target> sechs <END>
+bitte ändere den fernseher auf <START:percent_target> sieben <END>
+bitte ändere den fernseher auf <START:percent_target> acht <END>
+bitte ändere den fernseher auf <START:percent_target> neun <END>
+bitte ändere den fernseher auf <START:percent_target> zehn <END>
+setze fernseher auf <START:percent_target> null <END> bitte
+setze fernseher auf <START:percent_target> eins <END> bitte
+setze fernseher auf <START:percent_target> zwei <END> bitte
+setze fernseher auf <START:percent_target> drei <END> bitte
+setze fernseher auf <START:percent_target> vier <END> bitte
+setze fernseher auf <START:percent_target> fünf <END> bitte
+setze fernseher auf <START:percent_target> sechs <END> bitte
+setze fernseher auf <START:percent_target> sieben <END> bitte
+setze fernseher auf <START:percent_target> acht <END> bitte
+setze fernseher auf <START:percent_target> neun <END> bitte
+setze fernseher auf <START:percent_target> zehn <END> bitte
+setze den fernseher auf <START:percent_target> null <END> bitte
+setze den fernseher auf <START:percent_target> eins <END> bitte
+setze den fernseher auf <START:percent_target> zwei <END> bitte
+setze den fernseher auf <START:percent_target> drei <END> bitte
+setze den fernseher auf <START:percent_target> vier <END> bitte
+setze den fernseher auf <START:percent_target> fünf <END> bitte
+setze den fernseher auf <START:percent_target> sechs <END> bitte
+setze den fernseher auf <START:percent_target> sieben <END> bitte
+setze den fernseher auf <START:percent_target> acht <END> bitte
+setze den fernseher auf <START:percent_target> neun <END> bitte
+setze den fernseher auf <START:percent_target> zehn <END> bitte
+fernseher auf <START:percent_target> null <END> bitte
+fernseher auf <START:percent_target> eins <END> bitte
+fernseher auf <START:percent_target> zwei <END> bitte
+fernseher auf <START:percent_target> drei <END> bitte
+fernseher auf <START:percent_target> vier <END> bitte
+fernseher auf <START:percent_target> fünf <END> bitte
+fernseher auf <START:percent_target> sechs <END> bitte
+fernseher auf <START:percent_target> sieben <END> bitte
+fernseher auf <START:percent_target> acht <END> bitte
+fernseher auf <START:percent_target> neun <END> bitte
+fernseher auf <START:percent_target> zehn <END> bitte
+ändere fernseher auf <START:percent_target> null <END> bitte
+ändere fernseher auf <START:percent_target> eins <END> bitte
+ändere fernseher auf <START:percent_target> zwei <END> bitte
+ändere fernseher auf <START:percent_target> drei <END> bitte
+ändere fernseher auf <START:percent_target> vier <END> bitte
+ändere fernseher auf <START:percent_target> fünf <END> bitte
+ändere fernseher auf <START:percent_target> sechs <END> bitte
+ändere fernseher auf <START:percent_target> sieben <END> bitte
+ändere fernseher auf <START:percent_target> acht <END> bitte
+ändere fernseher auf <START:percent_target> neun <END> bitte
+ändere fernseher auf <START:percent_target> zehn <END> bitte
+ändere den fernseher auf <START:percent_target> null <END> bitte
+ändere den fernseher auf <START:percent_target> eins <END> bitte
+ändere den fernseher auf <START:percent_target> zwei <END> bitte
+ändere den fernseher auf <START:percent_target> drei <END> bitte
+ändere den fernseher auf <START:percent_target> vier <END> bitte
+ändere den fernseher auf <START:percent_target> fünf <END> bitte
+ändere den fernseher auf <START:percent_target> sechs <END> bitte
+ändere den fernseher auf <START:percent_target> sieben <END> bitte
+ändere den fernseher auf <START:percent_target> acht <END> bitte
+ändere den fernseher auf <START:percent_target> neun <END> bitte
+ändere den fernseher auf <START:percent_target> zehn <END> bitte
+setze fernseher lautstärke auf <START:percent_target> null <END>
+setze fernseher lautstärke auf <START:percent_target> eins <END>
+setze fernseher lautstärke auf <START:percent_target> zwei <END>
+setze fernseher lautstärke auf <START:percent_target> drei <END>
+setze fernseher lautstärke auf <START:percent_target> vier <END>
+setze fernseher lautstärke auf <START:percent_target> fünf <END>
+setze fernseher lautstärke auf <START:percent_target> sechs <END>
+setze fernseher lautstärke auf <START:percent_target> sieben <END>
+setze fernseher lautstärke auf <START:percent_target> acht <END>
+setze fernseher lautstärke auf <START:percent_target> neun <END>
+setze fernseher lautstärke auf <START:percent_target> zehn <END>
+setze die fernseher lautstärke auf <START:percent_target> null <END>
+setze die fernseher lautstärke auf <START:percent_target> eins <END>
+setze die fernseher lautstärke auf <START:percent_target> zwei <END>
+setze die fernseher lautstärke auf <START:percent_target> drei <END>
+setze die fernseher lautstärke auf <START:percent_target> vier <END>
+setze die fernseher lautstärke auf <START:percent_target> fünf <END>
+setze die fernseher lautstärke auf <START:percent_target> sechs <END>
+setze die fernseher lautstärke auf <START:percent_target> sieben <END>
+setze die fernseher lautstärke auf <START:percent_target> acht <END>
+setze die fernseher lautstärke auf <START:percent_target> neun <END>
+setze die fernseher lautstärke auf <START:percent_target> zehn <END>
+fernseher lautstärke auf <START:percent_target> null <END>
+fernseher lautstärke auf <START:percent_target> eins <END>
+fernseher lautstärke auf <START:percent_target> zwei <END>
+fernseher lautstärke auf <START:percent_target> drei <END>
+fernseher lautstärke auf <START:percent_target> vier <END>
+fernseher lautstärke auf <START:percent_target> fünf <END>
+fernseher lautstärke auf <START:percent_target> sechs <END>
+fernseher lautstärke auf <START:percent_target> sieben <END>
+fernseher lautstärke auf <START:percent_target> acht <END>
+fernseher lautstärke auf <START:percent_target> neun <END>
+fernseher lautstärke auf <START:percent_target> zehn <END>
+ändere fernseher lautstärke auf <START:percent_target> null <END>
+ändere fernseher lautstärke auf <START:percent_target> eins <END>
+ändere fernseher lautstärke auf <START:percent_target> zwei <END>
+ändere fernseher lautstärke auf <START:percent_target> drei <END>
+ändere fernseher lautstärke auf <START:percent_target> vier <END>
+ändere fernseher lautstärke auf <START:percent_target> fünf <END>
+ändere fernseher lautstärke auf <START:percent_target> sechs <END>
+ändere fernseher lautstärke auf <START:percent_target> sieben <END>
+ändere fernseher lautstärke auf <START:percent_target> acht <END>
+ändere fernseher lautstärke auf <START:percent_target> neun <END>
+ändere fernseher lautstärke auf <START:percent_target> zehn <END>
+ändere die fernseher lautstärke auf <START:percent_target> null <END>
+ändere die fernseher lautstärke auf <START:percent_target> eins <END>
+ändere die fernseher lautstärke auf <START:percent_target> zwei <END>
+ändere die fernseher lautstärke auf <START:percent_target> drei <END>
+ändere die fernseher lautstärke auf <START:percent_target> vier <END>
+ändere die fernseher lautstärke auf <START:percent_target> fünf <END>
+ändere die fernseher lautstärke auf <START:percent_target> sechs <END>
+ändere die fernseher lautstärke auf <START:percent_target> sieben <END>
+ändere die fernseher lautstärke auf <START:percent_target> acht <END>
+ändere die fernseher lautstärke auf <START:percent_target> neun <END>
+ändere die fernseher lautstärke auf <START:percent_target> zehn <END>
+bitte setze fernseher lautstärke auf <START:percent_target> null <END>
+bitte setze fernseher lautstärke auf <START:percent_target> eins <END>
+bitte setze fernseher lautstärke auf <START:percent_target> zwei <END>
+bitte setze fernseher lautstärke auf <START:percent_target> drei <END>
+bitte setze fernseher lautstärke auf <START:percent_target> vier <END>
+bitte setze fernseher lautstärke auf <START:percent_target> fünf <END>
+bitte setze fernseher lautstärke auf <START:percent_target> sechs <END>
+bitte setze fernseher lautstärke auf <START:percent_target> sieben <END>
+bitte setze fernseher lautstärke auf <START:percent_target> acht <END>
+bitte setze fernseher lautstärke auf <START:percent_target> neun <END>
+bitte setze fernseher lautstärke auf <START:percent_target> zehn <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> null <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> eins <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> zwei <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> drei <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> vier <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> fünf <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> sechs <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> sieben <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> acht <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> neun <END>
+bitte setze die fernseher lautstärke auf <START:percent_target> zehn <END>
+bitte fernseher lautstärke auf <START:percent_target> null <END>
+bitte fernseher lautstärke auf <START:percent_target> eins <END>
+bitte fernseher lautstärke auf <START:percent_target> zwei <END>
+bitte fernseher lautstärke auf <START:percent_target> drei <END>
+bitte fernseher lautstärke auf <START:percent_target> vier <END>
+bitte fernseher lautstärke auf <START:percent_target> fünf <END>
+bitte fernseher lautstärke auf <START:percent_target> sechs <END>
+bitte fernseher lautstärke auf <START:percent_target> sieben <END>
+bitte fernseher lautstärke auf <START:percent_target> acht <END>
+bitte fernseher lautstärke auf <START:percent_target> neun <END>
+bitte fernseher lautstärke auf <START:percent_target> zehn <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> null <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> eins <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> zwei <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> drei <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> vier <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> fünf <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> sechs <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> sieben <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> acht <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> neun <END>
+bitte ändere fernseher lautstärke auf <START:percent_target> zehn <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> null <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> eins <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> zwei <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> drei <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> vier <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> fünf <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> sechs <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> sieben <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> acht <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> neun <END>
+bitte ändere die fernseher lautstärke auf <START:percent_target> zehn <END>
+setze fernseher lautstärke auf <START:percent_target> null <END> bitte
+setze fernseher lautstärke auf <START:percent_target> eins <END> bitte
+setze fernseher lautstärke auf <START:percent_target> zwei <END> bitte
+setze fernseher lautstärke auf <START:percent_target> drei <END> bitte
+setze fernseher lautstärke auf <START:percent_target> vier <END> bitte
+setze fernseher lautstärke auf <START:percent_target> fünf <END> bitte
+setze fernseher lautstärke auf <START:percent_target> sechs <END> bitte
+setze fernseher lautstärke auf <START:percent_target> sieben <END> bitte
+setze fernseher lautstärke auf <START:percent_target> acht <END> bitte
+setze fernseher lautstärke auf <START:percent_target> neun <END> bitte
+setze fernseher lautstärke auf <START:percent_target> zehn <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> null <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> eins <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> zwei <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> drei <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> vier <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> fünf <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> sechs <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> sieben <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> acht <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> neun <END> bitte
+setze die fernseher lautstärke auf <START:percent_target> zehn <END> bitte
+fernseher lautstärke auf <START:percent_target> null <END> bitte
+fernseher lautstärke auf <START:percent_target> eins <END> bitte
+fernseher lautstärke auf <START:percent_target> zwei <END> bitte
+fernseher lautstärke auf <START:percent_target> drei <END> bitte
+fernseher lautstärke auf <START:percent_target> vier <END> bitte
+fernseher lautstärke auf <START:percent_target> fünf <END> bitte
+fernseher lautstärke auf <START:percent_target> sechs <END> bitte
+fernseher lautstärke auf <START:percent_target> sieben <END> bitte
+fernseher lautstärke auf <START:percent_target> acht <END> bitte
+fernseher lautstärke auf <START:percent_target> neun <END> bitte
+fernseher lautstärke auf <START:percent_target> zehn <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> null <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> eins <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> zwei <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> drei <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> vier <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> fünf <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> sechs <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> sieben <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> acht <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> neun <END> bitte
+ändere fernseher lautstärke auf <START:percent_target> zehn <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> null <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> eins <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> zwei <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> drei <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> vier <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> fünf <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> sechs <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> sieben <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> acht <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> neun <END> bitte
+ändere die fernseher lautstärke auf <START:percent_target> zehn <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> null <END>
+setze lautstärke des fernsehers auf <START:percent_target> eins <END>
+setze lautstärke des fernsehers auf <START:percent_target> zwei <END>
+setze lautstärke des fernsehers auf <START:percent_target> drei <END>
+setze lautstärke des fernsehers auf <START:percent_target> vier <END>
+setze lautstärke des fernsehers auf <START:percent_target> fünf <END>
+setze lautstärke des fernsehers auf <START:percent_target> sechs <END>
+setze lautstärke des fernsehers auf <START:percent_target> sieben <END>
+setze lautstärke des fernsehers auf <START:percent_target> acht <END>
+setze lautstärke des fernsehers auf <START:percent_target> neun <END>
+setze lautstärke des fernsehers auf <START:percent_target> zehn <END>
+setze die lautstärke des fernsehers auf <START:percent_target> null <END>
+setze die lautstärke des fernsehers auf <START:percent_target> eins <END>
+setze die lautstärke des fernsehers auf <START:percent_target> zwei <END>
+setze die lautstärke des fernsehers auf <START:percent_target> drei <END>
+setze die lautstärke des fernsehers auf <START:percent_target> vier <END>
+setze die lautstärke des fernsehers auf <START:percent_target> fünf <END>
+setze die lautstärke des fernsehers auf <START:percent_target> sechs <END>
+setze die lautstärke des fernsehers auf <START:percent_target> sieben <END>
+setze die lautstärke des fernsehers auf <START:percent_target> acht <END>
+setze die lautstärke des fernsehers auf <START:percent_target> neun <END>
+setze die lautstärke des fernsehers auf <START:percent_target> zehn <END>
+lautstärke des fernsehers auf <START:percent_target> null <END>
+lautstärke des fernsehers auf <START:percent_target> eins <END>
+lautstärke des fernsehers auf <START:percent_target> zwei <END>
+lautstärke des fernsehers auf <START:percent_target> drei <END>
+lautstärke des fernsehers auf <START:percent_target> vier <END>
+lautstärke des fernsehers auf <START:percent_target> fünf <END>
+lautstärke des fernsehers auf <START:percent_target> sechs <END>
+lautstärke des fernsehers auf <START:percent_target> sieben <END>
+lautstärke des fernsehers auf <START:percent_target> acht <END>
+lautstärke des fernsehers auf <START:percent_target> neun <END>
+lautstärke des fernsehers auf <START:percent_target> zehn <END>
+ändere lautstärke des fernsehers auf <START:percent_target> null <END>
+ändere lautstärke des fernsehers auf <START:percent_target> eins <END>
+ändere lautstärke des fernsehers auf <START:percent_target> zwei <END>
+ändere lautstärke des fernsehers auf <START:percent_target> drei <END>
+ändere lautstärke des fernsehers auf <START:percent_target> vier <END>
+ändere lautstärke des fernsehers auf <START:percent_target> fünf <END>
+ändere lautstärke des fernsehers auf <START:percent_target> sechs <END>
+ändere lautstärke des fernsehers auf <START:percent_target> sieben <END>
+ändere lautstärke des fernsehers auf <START:percent_target> acht <END>
+ändere lautstärke des fernsehers auf <START:percent_target> neun <END>
+ändere lautstärke des fernsehers auf <START:percent_target> zehn <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> null <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> eins <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> zwei <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> drei <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> vier <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> fünf <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> sechs <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> sieben <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> acht <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> neun <END>
+ändere die lautstärke des fernsehers auf <START:percent_target> zehn <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> null <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> eins <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> zwei <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> drei <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> vier <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> fünf <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> sechs <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> sieben <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> acht <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> neun <END>
+bitte setze lautstärke des fernsehers auf <START:percent_target> zehn <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> null <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> eins <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> zwei <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> drei <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> vier <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> fünf <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> sechs <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> sieben <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> acht <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> neun <END>
+bitte setze die lautstärke des fernsehers auf <START:percent_target> zehn <END>
+bitte lautstärke des fernsehers auf <START:percent_target> null <END>
+bitte lautstärke des fernsehers auf <START:percent_target> eins <END>
+bitte lautstärke des fernsehers auf <START:percent_target> zwei <END>
+bitte lautstärke des fernsehers auf <START:percent_target> drei <END>
+bitte lautstärke des fernsehers auf <START:percent_target> vier <END>
+bitte lautstärke des fernsehers auf <START:percent_target> fünf <END>
+bitte lautstärke des fernsehers auf <START:percent_target> sechs <END>
+bitte lautstärke des fernsehers auf <START:percent_target> sieben <END>
+bitte lautstärke des fernsehers auf <START:percent_target> acht <END>
+bitte lautstärke des fernsehers auf <START:percent_target> neun <END>
+bitte lautstärke des fernsehers auf <START:percent_target> zehn <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> null <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> eins <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> zwei <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> drei <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> vier <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> fünf <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> sechs <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> sieben <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> acht <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> neun <END>
+bitte ändere lautstärke des fernsehers auf <START:percent_target> zehn <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> null <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> eins <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> zwei <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> drei <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> vier <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> fünf <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> sechs <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> sieben <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> acht <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> neun <END>
+bitte ändere die lautstärke des fernsehers auf <START:percent_target> zehn <END>
+setze lautstärke des fernsehers auf <START:percent_target> null <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> eins <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> zwei <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> drei <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> vier <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> fünf <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> sechs <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> sieben <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> acht <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> neun <END> bitte
+setze lautstärke des fernsehers auf <START:percent_target> zehn <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> null <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> eins <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> zwei <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> drei <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> vier <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> fünf <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> sechs <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> sieben <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> acht <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> neun <END> bitte
+setze die lautstärke des fernsehers auf <START:percent_target> zehn <END> bitte
+lautstärke des fernsehers auf <START:percent_target> null <END> bitte
+lautstärke des fernsehers auf <START:percent_target> eins <END> bitte
+lautstärke des fernsehers auf <START:percent_target> zwei <END> bitte
+lautstärke des fernsehers auf <START:percent_target> drei <END> bitte
+lautstärke des fernsehers auf <START:percent_target> vier <END> bitte
+lautstärke des fernsehers auf <START:percent_target> fünf <END> bitte
+lautstärke des fernsehers auf <START:percent_target> sechs <END> bitte
+lautstärke des fernsehers auf <START:percent_target> sieben <END> bitte
+lautstärke des fernsehers auf <START:percent_target> acht <END> bitte
+lautstärke des fernsehers auf <START:percent_target> neun <END> bitte
+lautstärke des fernsehers auf <START:percent_target> zehn <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> null <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> eins <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> zwei <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> drei <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> vier <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> fünf <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> sechs <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> sieben <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> acht <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> neun <END> bitte
+ändere lautstärke des fernsehers auf <START:percent_target> zehn <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> null <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> eins <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> zwei <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> drei <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> vier <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> fünf <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> sechs <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> sieben <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> acht <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> neun <END> bitte
+ändere die lautstärke des fernsehers auf <START:percent_target> zehn <END> bitte
 setze lautstärke <START:percent_target> null <END>
 setze lautstärke <START:percent_target> eins <END>
 setze lautstärke <START:percent_target> zwei <END>
@@ -163,13 +1813,1488 @@ lautstärke <START:percent_target> zehn <END> bitte
 ändere die lautstärke <START:percent_target> acht <END> bitte
 ändere die lautstärke <START:percent_target> neun <END> bitte
 ändere die lautstärke <START:percent_target> zehn <END> bitte
-setze die lautstärke
-setze die lautstärke auf
-lautstärke auf
-ändere die lautstärke
-ändere die lautstärke auf
-setze die lautstärke
-setze die lautstärke auf
-lautstärke auf
-ändere die lautstärke
-ändere die lautstärke auf
+setze musik <START:percent_target> null <END>
+setze musik <START:percent_target> eins <END>
+setze musik <START:percent_target> zwei <END>
+setze musik <START:percent_target> drei <END>
+setze musik <START:percent_target> vier <END>
+setze musik <START:percent_target> fünf <END>
+setze musik <START:percent_target> sechs <END>
+setze musik <START:percent_target> sieben <END>
+setze musik <START:percent_target> acht <END>
+setze musik <START:percent_target> neun <END>
+setze musik <START:percent_target> zehn <END>
+setze die musik <START:percent_target> null <END>
+setze die musik <START:percent_target> eins <END>
+setze die musik <START:percent_target> zwei <END>
+setze die musik <START:percent_target> drei <END>
+setze die musik <START:percent_target> vier <END>
+setze die musik <START:percent_target> fünf <END>
+setze die musik <START:percent_target> sechs <END>
+setze die musik <START:percent_target> sieben <END>
+setze die musik <START:percent_target> acht <END>
+setze die musik <START:percent_target> neun <END>
+setze die musik <START:percent_target> zehn <END>
+musik <START:percent_target> null <END>
+musik <START:percent_target> eins <END>
+musik <START:percent_target> zwei <END>
+musik <START:percent_target> drei <END>
+musik <START:percent_target> vier <END>
+musik <START:percent_target> fünf <END>
+musik <START:percent_target> sechs <END>
+musik <START:percent_target> sieben <END>
+musik <START:percent_target> acht <END>
+musik <START:percent_target> neun <END>
+musik <START:percent_target> zehn <END>
+ändere musik <START:percent_target> null <END>
+ändere musik <START:percent_target> eins <END>
+ändere musik <START:percent_target> zwei <END>
+ändere musik <START:percent_target> drei <END>
+ändere musik <START:percent_target> vier <END>
+ändere musik <START:percent_target> fünf <END>
+ändere musik <START:percent_target> sechs <END>
+ändere musik <START:percent_target> sieben <END>
+ändere musik <START:percent_target> acht <END>
+ändere musik <START:percent_target> neun <END>
+ändere musik <START:percent_target> zehn <END>
+ändere die musik <START:percent_target> null <END>
+ändere die musik <START:percent_target> eins <END>
+ändere die musik <START:percent_target> zwei <END>
+ändere die musik <START:percent_target> drei <END>
+ändere die musik <START:percent_target> vier <END>
+ändere die musik <START:percent_target> fünf <END>
+ändere die musik <START:percent_target> sechs <END>
+ändere die musik <START:percent_target> sieben <END>
+ändere die musik <START:percent_target> acht <END>
+ändere die musik <START:percent_target> neun <END>
+ändere die musik <START:percent_target> zehn <END>
+bitte setze musik <START:percent_target> null <END>
+bitte setze musik <START:percent_target> eins <END>
+bitte setze musik <START:percent_target> zwei <END>
+bitte setze musik <START:percent_target> drei <END>
+bitte setze musik <START:percent_target> vier <END>
+bitte setze musik <START:percent_target> fünf <END>
+bitte setze musik <START:percent_target> sechs <END>
+bitte setze musik <START:percent_target> sieben <END>
+bitte setze musik <START:percent_target> acht <END>
+bitte setze musik <START:percent_target> neun <END>
+bitte setze musik <START:percent_target> zehn <END>
+bitte setze die musik <START:percent_target> null <END>
+bitte setze die musik <START:percent_target> eins <END>
+bitte setze die musik <START:percent_target> zwei <END>
+bitte setze die musik <START:percent_target> drei <END>
+bitte setze die musik <START:percent_target> vier <END>
+bitte setze die musik <START:percent_target> fünf <END>
+bitte setze die musik <START:percent_target> sechs <END>
+bitte setze die musik <START:percent_target> sieben <END>
+bitte setze die musik <START:percent_target> acht <END>
+bitte setze die musik <START:percent_target> neun <END>
+bitte setze die musik <START:percent_target> zehn <END>
+bitte musik <START:percent_target> null <END>
+bitte musik <START:percent_target> eins <END>
+bitte musik <START:percent_target> zwei <END>
+bitte musik <START:percent_target> drei <END>
+bitte musik <START:percent_target> vier <END>
+bitte musik <START:percent_target> fünf <END>
+bitte musik <START:percent_target> sechs <END>
+bitte musik <START:percent_target> sieben <END>
+bitte musik <START:percent_target> acht <END>
+bitte musik <START:percent_target> neun <END>
+bitte musik <START:percent_target> zehn <END>
+bitte ändere musik <START:percent_target> null <END>
+bitte ändere musik <START:percent_target> eins <END>
+bitte ändere musik <START:percent_target> zwei <END>
+bitte ändere musik <START:percent_target> drei <END>
+bitte ändere musik <START:percent_target> vier <END>
+bitte ändere musik <START:percent_target> fünf <END>
+bitte ändere musik <START:percent_target> sechs <END>
+bitte ändere musik <START:percent_target> sieben <END>
+bitte ändere musik <START:percent_target> acht <END>
+bitte ändere musik <START:percent_target> neun <END>
+bitte ändere musik <START:percent_target> zehn <END>
+bitte ändere die musik <START:percent_target> null <END>
+bitte ändere die musik <START:percent_target> eins <END>
+bitte ändere die musik <START:percent_target> zwei <END>
+bitte ändere die musik <START:percent_target> drei <END>
+bitte ändere die musik <START:percent_target> vier <END>
+bitte ändere die musik <START:percent_target> fünf <END>
+bitte ändere die musik <START:percent_target> sechs <END>
+bitte ändere die musik <START:percent_target> sieben <END>
+bitte ändere die musik <START:percent_target> acht <END>
+bitte ändere die musik <START:percent_target> neun <END>
+bitte ändere die musik <START:percent_target> zehn <END>
+setze musik <START:percent_target> null <END> bitte
+setze musik <START:percent_target> eins <END> bitte
+setze musik <START:percent_target> zwei <END> bitte
+setze musik <START:percent_target> drei <END> bitte
+setze musik <START:percent_target> vier <END> bitte
+setze musik <START:percent_target> fünf <END> bitte
+setze musik <START:percent_target> sechs <END> bitte
+setze musik <START:percent_target> sieben <END> bitte
+setze musik <START:percent_target> acht <END> bitte
+setze musik <START:percent_target> neun <END> bitte
+setze musik <START:percent_target> zehn <END> bitte
+setze die musik <START:percent_target> null <END> bitte
+setze die musik <START:percent_target> eins <END> bitte
+setze die musik <START:percent_target> zwei <END> bitte
+setze die musik <START:percent_target> drei <END> bitte
+setze die musik <START:percent_target> vier <END> bitte
+setze die musik <START:percent_target> fünf <END> bitte
+setze die musik <START:percent_target> sechs <END> bitte
+setze die musik <START:percent_target> sieben <END> bitte
+setze die musik <START:percent_target> acht <END> bitte
+setze die musik <START:percent_target> neun <END> bitte
+setze die musik <START:percent_target> zehn <END> bitte
+musik <START:percent_target> null <END> bitte
+musik <START:percent_target> eins <END> bitte
+musik <START:percent_target> zwei <END> bitte
+musik <START:percent_target> drei <END> bitte
+musik <START:percent_target> vier <END> bitte
+musik <START:percent_target> fünf <END> bitte
+musik <START:percent_target> sechs <END> bitte
+musik <START:percent_target> sieben <END> bitte
+musik <START:percent_target> acht <END> bitte
+musik <START:percent_target> neun <END> bitte
+musik <START:percent_target> zehn <END> bitte
+ändere musik <START:percent_target> null <END> bitte
+ändere musik <START:percent_target> eins <END> bitte
+ändere musik <START:percent_target> zwei <END> bitte
+ändere musik <START:percent_target> drei <END> bitte
+ändere musik <START:percent_target> vier <END> bitte
+ändere musik <START:percent_target> fünf <END> bitte
+ändere musik <START:percent_target> sechs <END> bitte
+ändere musik <START:percent_target> sieben <END> bitte
+ändere musik <START:percent_target> acht <END> bitte
+ändere musik <START:percent_target> neun <END> bitte
+ändere musik <START:percent_target> zehn <END> bitte
+ändere die musik <START:percent_target> null <END> bitte
+ändere die musik <START:percent_target> eins <END> bitte
+ändere die musik <START:percent_target> zwei <END> bitte
+ändere die musik <START:percent_target> drei <END> bitte
+ändere die musik <START:percent_target> vier <END> bitte
+ändere die musik <START:percent_target> fünf <END> bitte
+ändere die musik <START:percent_target> sechs <END> bitte
+ändere die musik <START:percent_target> sieben <END> bitte
+ändere die musik <START:percent_target> acht <END> bitte
+ändere die musik <START:percent_target> neun <END> bitte
+ändere die musik <START:percent_target> zehn <END> bitte
+setze musik lautstärke <START:percent_target> null <END>
+setze musik lautstärke <START:percent_target> eins <END>
+setze musik lautstärke <START:percent_target> zwei <END>
+setze musik lautstärke <START:percent_target> drei <END>
+setze musik lautstärke <START:percent_target> vier <END>
+setze musik lautstärke <START:percent_target> fünf <END>
+setze musik lautstärke <START:percent_target> sechs <END>
+setze musik lautstärke <START:percent_target> sieben <END>
+setze musik lautstärke <START:percent_target> acht <END>
+setze musik lautstärke <START:percent_target> neun <END>
+setze musik lautstärke <START:percent_target> zehn <END>
+setze die musik lautstärke <START:percent_target> null <END>
+setze die musik lautstärke <START:percent_target> eins <END>
+setze die musik lautstärke <START:percent_target> zwei <END>
+setze die musik lautstärke <START:percent_target> drei <END>
+setze die musik lautstärke <START:percent_target> vier <END>
+setze die musik lautstärke <START:percent_target> fünf <END>
+setze die musik lautstärke <START:percent_target> sechs <END>
+setze die musik lautstärke <START:percent_target> sieben <END>
+setze die musik lautstärke <START:percent_target> acht <END>
+setze die musik lautstärke <START:percent_target> neun <END>
+setze die musik lautstärke <START:percent_target> zehn <END>
+musik lautstärke <START:percent_target> null <END>
+musik lautstärke <START:percent_target> eins <END>
+musik lautstärke <START:percent_target> zwei <END>
+musik lautstärke <START:percent_target> drei <END>
+musik lautstärke <START:percent_target> vier <END>
+musik lautstärke <START:percent_target> fünf <END>
+musik lautstärke <START:percent_target> sechs <END>
+musik lautstärke <START:percent_target> sieben <END>
+musik lautstärke <START:percent_target> acht <END>
+musik lautstärke <START:percent_target> neun <END>
+musik lautstärke <START:percent_target> zehn <END>
+ändere musik lautstärke <START:percent_target> null <END>
+ändere musik lautstärke <START:percent_target> eins <END>
+ändere musik lautstärke <START:percent_target> zwei <END>
+ändere musik lautstärke <START:percent_target> drei <END>
+ändere musik lautstärke <START:percent_target> vier <END>
+ändere musik lautstärke <START:percent_target> fünf <END>
+ändere musik lautstärke <START:percent_target> sechs <END>
+ändere musik lautstärke <START:percent_target> sieben <END>
+ändere musik lautstärke <START:percent_target> acht <END>
+ändere musik lautstärke <START:percent_target> neun <END>
+ändere musik lautstärke <START:percent_target> zehn <END>
+ändere die musik lautstärke <START:percent_target> null <END>
+ändere die musik lautstärke <START:percent_target> eins <END>
+ändere die musik lautstärke <START:percent_target> zwei <END>
+ändere die musik lautstärke <START:percent_target> drei <END>
+ändere die musik lautstärke <START:percent_target> vier <END>
+ändere die musik lautstärke <START:percent_target> fünf <END>
+ändere die musik lautstärke <START:percent_target> sechs <END>
+ändere die musik lautstärke <START:percent_target> sieben <END>
+ändere die musik lautstärke <START:percent_target> acht <END>
+ändere die musik lautstärke <START:percent_target> neun <END>
+ändere die musik lautstärke <START:percent_target> zehn <END>
+bitte setze musik lautstärke <START:percent_target> null <END>
+bitte setze musik lautstärke <START:percent_target> eins <END>
+bitte setze musik lautstärke <START:percent_target> zwei <END>
+bitte setze musik lautstärke <START:percent_target> drei <END>
+bitte setze musik lautstärke <START:percent_target> vier <END>
+bitte setze musik lautstärke <START:percent_target> fünf <END>
+bitte setze musik lautstärke <START:percent_target> sechs <END>
+bitte setze musik lautstärke <START:percent_target> sieben <END>
+bitte setze musik lautstärke <START:percent_target> acht <END>
+bitte setze musik lautstärke <START:percent_target> neun <END>
+bitte setze musik lautstärke <START:percent_target> zehn <END>
+bitte setze die musik lautstärke <START:percent_target> null <END>
+bitte setze die musik lautstärke <START:percent_target> eins <END>
+bitte setze die musik lautstärke <START:percent_target> zwei <END>
+bitte setze die musik lautstärke <START:percent_target> drei <END>
+bitte setze die musik lautstärke <START:percent_target> vier <END>
+bitte setze die musik lautstärke <START:percent_target> fünf <END>
+bitte setze die musik lautstärke <START:percent_target> sechs <END>
+bitte setze die musik lautstärke <START:percent_target> sieben <END>
+bitte setze die musik lautstärke <START:percent_target> acht <END>
+bitte setze die musik lautstärke <START:percent_target> neun <END>
+bitte setze die musik lautstärke <START:percent_target> zehn <END>
+bitte musik lautstärke <START:percent_target> null <END>
+bitte musik lautstärke <START:percent_target> eins <END>
+bitte musik lautstärke <START:percent_target> zwei <END>
+bitte musik lautstärke <START:percent_target> drei <END>
+bitte musik lautstärke <START:percent_target> vier <END>
+bitte musik lautstärke <START:percent_target> fünf <END>
+bitte musik lautstärke <START:percent_target> sechs <END>
+bitte musik lautstärke <START:percent_target> sieben <END>
+bitte musik lautstärke <START:percent_target> acht <END>
+bitte musik lautstärke <START:percent_target> neun <END>
+bitte musik lautstärke <START:percent_target> zehn <END>
+bitte ändere musik lautstärke <START:percent_target> null <END>
+bitte ändere musik lautstärke <START:percent_target> eins <END>
+bitte ändere musik lautstärke <START:percent_target> zwei <END>
+bitte ändere musik lautstärke <START:percent_target> drei <END>
+bitte ändere musik lautstärke <START:percent_target> vier <END>
+bitte ändere musik lautstärke <START:percent_target> fünf <END>
+bitte ändere musik lautstärke <START:percent_target> sechs <END>
+bitte ändere musik lautstärke <START:percent_target> sieben <END>
+bitte ändere musik lautstärke <START:percent_target> acht <END>
+bitte ändere musik lautstärke <START:percent_target> neun <END>
+bitte ändere musik lautstärke <START:percent_target> zehn <END>
+bitte ändere die musik lautstärke <START:percent_target> null <END>
+bitte ändere die musik lautstärke <START:percent_target> eins <END>
+bitte ändere die musik lautstärke <START:percent_target> zwei <END>
+bitte ändere die musik lautstärke <START:percent_target> drei <END>
+bitte ändere die musik lautstärke <START:percent_target> vier <END>
+bitte ändere die musik lautstärke <START:percent_target> fünf <END>
+bitte ändere die musik lautstärke <START:percent_target> sechs <END>
+bitte ändere die musik lautstärke <START:percent_target> sieben <END>
+bitte ändere die musik lautstärke <START:percent_target> acht <END>
+bitte ändere die musik lautstärke <START:percent_target> neun <END>
+bitte ändere die musik lautstärke <START:percent_target> zehn <END>
+setze musik lautstärke <START:percent_target> null <END> bitte
+setze musik lautstärke <START:percent_target> eins <END> bitte
+setze musik lautstärke <START:percent_target> zwei <END> bitte
+setze musik lautstärke <START:percent_target> drei <END> bitte
+setze musik lautstärke <START:percent_target> vier <END> bitte
+setze musik lautstärke <START:percent_target> fünf <END> bitte
+setze musik lautstärke <START:percent_target> sechs <END> bitte
+setze musik lautstärke <START:percent_target> sieben <END> bitte
+setze musik lautstärke <START:percent_target> acht <END> bitte
+setze musik lautstärke <START:percent_target> neun <END> bitte
+setze musik lautstärke <START:percent_target> zehn <END> bitte
+setze die musik lautstärke <START:percent_target> null <END> bitte
+setze die musik lautstärke <START:percent_target> eins <END> bitte
+setze die musik lautstärke <START:percent_target> zwei <END> bitte
+setze die musik lautstärke <START:percent_target> drei <END> bitte
+setze die musik lautstärke <START:percent_target> vier <END> bitte
+setze die musik lautstärke <START:percent_target> fünf <END> bitte
+setze die musik lautstärke <START:percent_target> sechs <END> bitte
+setze die musik lautstärke <START:percent_target> sieben <END> bitte
+setze die musik lautstärke <START:percent_target> acht <END> bitte
+setze die musik lautstärke <START:percent_target> neun <END> bitte
+setze die musik lautstärke <START:percent_target> zehn <END> bitte
+musik lautstärke <START:percent_target> null <END> bitte
+musik lautstärke <START:percent_target> eins <END> bitte
+musik lautstärke <START:percent_target> zwei <END> bitte
+musik lautstärke <START:percent_target> drei <END> bitte
+musik lautstärke <START:percent_target> vier <END> bitte
+musik lautstärke <START:percent_target> fünf <END> bitte
+musik lautstärke <START:percent_target> sechs <END> bitte
+musik lautstärke <START:percent_target> sieben <END> bitte
+musik lautstärke <START:percent_target> acht <END> bitte
+musik lautstärke <START:percent_target> neun <END> bitte
+musik lautstärke <START:percent_target> zehn <END> bitte
+ändere musik lautstärke <START:percent_target> null <END> bitte
+ändere musik lautstärke <START:percent_target> eins <END> bitte
+ändere musik lautstärke <START:percent_target> zwei <END> bitte
+ändere musik lautstärke <START:percent_target> drei <END> bitte
+ändere musik lautstärke <START:percent_target> vier <END> bitte
+ändere musik lautstärke <START:percent_target> fünf <END> bitte
+ändere musik lautstärke <START:percent_target> sechs <END> bitte
+ändere musik lautstärke <START:percent_target> sieben <END> bitte
+ändere musik lautstärke <START:percent_target> acht <END> bitte
+ändere musik lautstärke <START:percent_target> neun <END> bitte
+ändere musik lautstärke <START:percent_target> zehn <END> bitte
+ändere die musik lautstärke <START:percent_target> null <END> bitte
+ändere die musik lautstärke <START:percent_target> eins <END> bitte
+ändere die musik lautstärke <START:percent_target> zwei <END> bitte
+ändere die musik lautstärke <START:percent_target> drei <END> bitte
+ändere die musik lautstärke <START:percent_target> vier <END> bitte
+ändere die musik lautstärke <START:percent_target> fünf <END> bitte
+ändere die musik lautstärke <START:percent_target> sechs <END> bitte
+ändere die musik lautstärke <START:percent_target> sieben <END> bitte
+ändere die musik lautstärke <START:percent_target> acht <END> bitte
+ändere die musik lautstärke <START:percent_target> neun <END> bitte
+ändere die musik lautstärke <START:percent_target> zehn <END> bitte
+setze lautstärke der musik <START:percent_target> null <END>
+setze lautstärke der musik <START:percent_target> eins <END>
+setze lautstärke der musik <START:percent_target> zwei <END>
+setze lautstärke der musik <START:percent_target> drei <END>
+setze lautstärke der musik <START:percent_target> vier <END>
+setze lautstärke der musik <START:percent_target> fünf <END>
+setze lautstärke der musik <START:percent_target> sechs <END>
+setze lautstärke der musik <START:percent_target> sieben <END>
+setze lautstärke der musik <START:percent_target> acht <END>
+setze lautstärke der musik <START:percent_target> neun <END>
+setze lautstärke der musik <START:percent_target> zehn <END>
+setze die lautstärke der musik <START:percent_target> null <END>
+setze die lautstärke der musik <START:percent_target> eins <END>
+setze die lautstärke der musik <START:percent_target> zwei <END>
+setze die lautstärke der musik <START:percent_target> drei <END>
+setze die lautstärke der musik <START:percent_target> vier <END>
+setze die lautstärke der musik <START:percent_target> fünf <END>
+setze die lautstärke der musik <START:percent_target> sechs <END>
+setze die lautstärke der musik <START:percent_target> sieben <END>
+setze die lautstärke der musik <START:percent_target> acht <END>
+setze die lautstärke der musik <START:percent_target> neun <END>
+setze die lautstärke der musik <START:percent_target> zehn <END>
+lautstärke der musik <START:percent_target> null <END>
+lautstärke der musik <START:percent_target> eins <END>
+lautstärke der musik <START:percent_target> zwei <END>
+lautstärke der musik <START:percent_target> drei <END>
+lautstärke der musik <START:percent_target> vier <END>
+lautstärke der musik <START:percent_target> fünf <END>
+lautstärke der musik <START:percent_target> sechs <END>
+lautstärke der musik <START:percent_target> sieben <END>
+lautstärke der musik <START:percent_target> acht <END>
+lautstärke der musik <START:percent_target> neun <END>
+lautstärke der musik <START:percent_target> zehn <END>
+ändere lautstärke der musik <START:percent_target> null <END>
+ändere lautstärke der musik <START:percent_target> eins <END>
+ändere lautstärke der musik <START:percent_target> zwei <END>
+ändere lautstärke der musik <START:percent_target> drei <END>
+ändere lautstärke der musik <START:percent_target> vier <END>
+ändere lautstärke der musik <START:percent_target> fünf <END>
+ändere lautstärke der musik <START:percent_target> sechs <END>
+ändere lautstärke der musik <START:percent_target> sieben <END>
+ändere lautstärke der musik <START:percent_target> acht <END>
+ändere lautstärke der musik <START:percent_target> neun <END>
+ändere lautstärke der musik <START:percent_target> zehn <END>
+ändere die lautstärke der musik <START:percent_target> null <END>
+ändere die lautstärke der musik <START:percent_target> eins <END>
+ändere die lautstärke der musik <START:percent_target> zwei <END>
+ändere die lautstärke der musik <START:percent_target> drei <END>
+ändere die lautstärke der musik <START:percent_target> vier <END>
+ändere die lautstärke der musik <START:percent_target> fünf <END>
+ändere die lautstärke der musik <START:percent_target> sechs <END>
+ändere die lautstärke der musik <START:percent_target> sieben <END>
+ändere die lautstärke der musik <START:percent_target> acht <END>
+ändere die lautstärke der musik <START:percent_target> neun <END>
+ändere die lautstärke der musik <START:percent_target> zehn <END>
+bitte setze lautstärke der musik <START:percent_target> null <END>
+bitte setze lautstärke der musik <START:percent_target> eins <END>
+bitte setze lautstärke der musik <START:percent_target> zwei <END>
+bitte setze lautstärke der musik <START:percent_target> drei <END>
+bitte setze lautstärke der musik <START:percent_target> vier <END>
+bitte setze lautstärke der musik <START:percent_target> fünf <END>
+bitte setze lautstärke der musik <START:percent_target> sechs <END>
+bitte setze lautstärke der musik <START:percent_target> sieben <END>
+bitte setze lautstärke der musik <START:percent_target> acht <END>
+bitte setze lautstärke der musik <START:percent_target> neun <END>
+bitte setze lautstärke der musik <START:percent_target> zehn <END>
+bitte setze die lautstärke der musik <START:percent_target> null <END>
+bitte setze die lautstärke der musik <START:percent_target> eins <END>
+bitte setze die lautstärke der musik <START:percent_target> zwei <END>
+bitte setze die lautstärke der musik <START:percent_target> drei <END>
+bitte setze die lautstärke der musik <START:percent_target> vier <END>
+bitte setze die lautstärke der musik <START:percent_target> fünf <END>
+bitte setze die lautstärke der musik <START:percent_target> sechs <END>
+bitte setze die lautstärke der musik <START:percent_target> sieben <END>
+bitte setze die lautstärke der musik <START:percent_target> acht <END>
+bitte setze die lautstärke der musik <START:percent_target> neun <END>
+bitte setze die lautstärke der musik <START:percent_target> zehn <END>
+bitte lautstärke der musik <START:percent_target> null <END>
+bitte lautstärke der musik <START:percent_target> eins <END>
+bitte lautstärke der musik <START:percent_target> zwei <END>
+bitte lautstärke der musik <START:percent_target> drei <END>
+bitte lautstärke der musik <START:percent_target> vier <END>
+bitte lautstärke der musik <START:percent_target> fünf <END>
+bitte lautstärke der musik <START:percent_target> sechs <END>
+bitte lautstärke der musik <START:percent_target> sieben <END>
+bitte lautstärke der musik <START:percent_target> acht <END>
+bitte lautstärke der musik <START:percent_target> neun <END>
+bitte lautstärke der musik <START:percent_target> zehn <END>
+bitte ändere lautstärke der musik <START:percent_target> null <END>
+bitte ändere lautstärke der musik <START:percent_target> eins <END>
+bitte ändere lautstärke der musik <START:percent_target> zwei <END>
+bitte ändere lautstärke der musik <START:percent_target> drei <END>
+bitte ändere lautstärke der musik <START:percent_target> vier <END>
+bitte ändere lautstärke der musik <START:percent_target> fünf <END>
+bitte ändere lautstärke der musik <START:percent_target> sechs <END>
+bitte ändere lautstärke der musik <START:percent_target> sieben <END>
+bitte ändere lautstärke der musik <START:percent_target> acht <END>
+bitte ändere lautstärke der musik <START:percent_target> neun <END>
+bitte ändere lautstärke der musik <START:percent_target> zehn <END>
+bitte ändere die lautstärke der musik <START:percent_target> null <END>
+bitte ändere die lautstärke der musik <START:percent_target> eins <END>
+bitte ändere die lautstärke der musik <START:percent_target> zwei <END>
+bitte ändere die lautstärke der musik <START:percent_target> drei <END>
+bitte ändere die lautstärke der musik <START:percent_target> vier <END>
+bitte ändere die lautstärke der musik <START:percent_target> fünf <END>
+bitte ändere die lautstärke der musik <START:percent_target> sechs <END>
+bitte ändere die lautstärke der musik <START:percent_target> sieben <END>
+bitte ändere die lautstärke der musik <START:percent_target> acht <END>
+bitte ändere die lautstärke der musik <START:percent_target> neun <END>
+bitte ändere die lautstärke der musik <START:percent_target> zehn <END>
+setze lautstärke der musik <START:percent_target> null <END> bitte
+setze lautstärke der musik <START:percent_target> eins <END> bitte
+setze lautstärke der musik <START:percent_target> zwei <END> bitte
+setze lautstärke der musik <START:percent_target> drei <END> bitte
+setze lautstärke der musik <START:percent_target> vier <END> bitte
+setze lautstärke der musik <START:percent_target> fünf <END> bitte
+setze lautstärke der musik <START:percent_target> sechs <END> bitte
+setze lautstärke der musik <START:percent_target> sieben <END> bitte
+setze lautstärke der musik <START:percent_target> acht <END> bitte
+setze lautstärke der musik <START:percent_target> neun <END> bitte
+setze lautstärke der musik <START:percent_target> zehn <END> bitte
+setze die lautstärke der musik <START:percent_target> null <END> bitte
+setze die lautstärke der musik <START:percent_target> eins <END> bitte
+setze die lautstärke der musik <START:percent_target> zwei <END> bitte
+setze die lautstärke der musik <START:percent_target> drei <END> bitte
+setze die lautstärke der musik <START:percent_target> vier <END> bitte
+setze die lautstärke der musik <START:percent_target> fünf <END> bitte
+setze die lautstärke der musik <START:percent_target> sechs <END> bitte
+setze die lautstärke der musik <START:percent_target> sieben <END> bitte
+setze die lautstärke der musik <START:percent_target> acht <END> bitte
+setze die lautstärke der musik <START:percent_target> neun <END> bitte
+setze die lautstärke der musik <START:percent_target> zehn <END> bitte
+lautstärke der musik <START:percent_target> null <END> bitte
+lautstärke der musik <START:percent_target> eins <END> bitte
+lautstärke der musik <START:percent_target> zwei <END> bitte
+lautstärke der musik <START:percent_target> drei <END> bitte
+lautstärke der musik <START:percent_target> vier <END> bitte
+lautstärke der musik <START:percent_target> fünf <END> bitte
+lautstärke der musik <START:percent_target> sechs <END> bitte
+lautstärke der musik <START:percent_target> sieben <END> bitte
+lautstärke der musik <START:percent_target> acht <END> bitte
+lautstärke der musik <START:percent_target> neun <END> bitte
+lautstärke der musik <START:percent_target> zehn <END> bitte
+ändere lautstärke der musik <START:percent_target> null <END> bitte
+ändere lautstärke der musik <START:percent_target> eins <END> bitte
+ändere lautstärke der musik <START:percent_target> zwei <END> bitte
+ändere lautstärke der musik <START:percent_target> drei <END> bitte
+ändere lautstärke der musik <START:percent_target> vier <END> bitte
+ändere lautstärke der musik <START:percent_target> fünf <END> bitte
+ändere lautstärke der musik <START:percent_target> sechs <END> bitte
+ändere lautstärke der musik <START:percent_target> sieben <END> bitte
+ändere lautstärke der musik <START:percent_target> acht <END> bitte
+ändere lautstärke der musik <START:percent_target> neun <END> bitte
+ändere lautstärke der musik <START:percent_target> zehn <END> bitte
+ändere die lautstärke der musik <START:percent_target> null <END> bitte
+ändere die lautstärke der musik <START:percent_target> eins <END> bitte
+ändere die lautstärke der musik <START:percent_target> zwei <END> bitte
+ändere die lautstärke der musik <START:percent_target> drei <END> bitte
+ändere die lautstärke der musik <START:percent_target> vier <END> bitte
+ändere die lautstärke der musik <START:percent_target> fünf <END> bitte
+ändere die lautstärke der musik <START:percent_target> sechs <END> bitte
+ändere die lautstärke der musik <START:percent_target> sieben <END> bitte
+ändere die lautstärke der musik <START:percent_target> acht <END> bitte
+ändere die lautstärke der musik <START:percent_target> neun <END> bitte
+ändere die lautstärke der musik <START:percent_target> zehn <END> bitte
+setze tv <START:percent_target> null <END>
+setze tv <START:percent_target> eins <END>
+setze tv <START:percent_target> zwei <END>
+setze tv <START:percent_target> drei <END>
+setze tv <START:percent_target> vier <END>
+setze tv <START:percent_target> fünf <END>
+setze tv <START:percent_target> sechs <END>
+setze tv <START:percent_target> sieben <END>
+setze tv <START:percent_target> acht <END>
+setze tv <START:percent_target> neun <END>
+setze tv <START:percent_target> zehn <END>
+setze den tv <START:percent_target> null <END>
+setze den tv <START:percent_target> eins <END>
+setze den tv <START:percent_target> zwei <END>
+setze den tv <START:percent_target> drei <END>
+setze den tv <START:percent_target> vier <END>
+setze den tv <START:percent_target> fünf <END>
+setze den tv <START:percent_target> sechs <END>
+setze den tv <START:percent_target> sieben <END>
+setze den tv <START:percent_target> acht <END>
+setze den tv <START:percent_target> neun <END>
+setze den tv <START:percent_target> zehn <END>
+tv <START:percent_target> null <END>
+tv <START:percent_target> eins <END>
+tv <START:percent_target> zwei <END>
+tv <START:percent_target> drei <END>
+tv <START:percent_target> vier <END>
+tv <START:percent_target> fünf <END>
+tv <START:percent_target> sechs <END>
+tv <START:percent_target> sieben <END>
+tv <START:percent_target> acht <END>
+tv <START:percent_target> neun <END>
+tv <START:percent_target> zehn <END>
+ändere tv <START:percent_target> null <END>
+ändere tv <START:percent_target> eins <END>
+ändere tv <START:percent_target> zwei <END>
+ändere tv <START:percent_target> drei <END>
+ändere tv <START:percent_target> vier <END>
+ändere tv <START:percent_target> fünf <END>
+ändere tv <START:percent_target> sechs <END>
+ändere tv <START:percent_target> sieben <END>
+ändere tv <START:percent_target> acht <END>
+ändere tv <START:percent_target> neun <END>
+ändere tv <START:percent_target> zehn <END>
+ändere den tv <START:percent_target> null <END>
+ändere den tv <START:percent_target> eins <END>
+ändere den tv <START:percent_target> zwei <END>
+ändere den tv <START:percent_target> drei <END>
+ändere den tv <START:percent_target> vier <END>
+ändere den tv <START:percent_target> fünf <END>
+ändere den tv <START:percent_target> sechs <END>
+ändere den tv <START:percent_target> sieben <END>
+ändere den tv <START:percent_target> acht <END>
+ändere den tv <START:percent_target> neun <END>
+ändere den tv <START:percent_target> zehn <END>
+bitte setze tv <START:percent_target> null <END>
+bitte setze tv <START:percent_target> eins <END>
+bitte setze tv <START:percent_target> zwei <END>
+bitte setze tv <START:percent_target> drei <END>
+bitte setze tv <START:percent_target> vier <END>
+bitte setze tv <START:percent_target> fünf <END>
+bitte setze tv <START:percent_target> sechs <END>
+bitte setze tv <START:percent_target> sieben <END>
+bitte setze tv <START:percent_target> acht <END>
+bitte setze tv <START:percent_target> neun <END>
+bitte setze tv <START:percent_target> zehn <END>
+bitte setze den tv <START:percent_target> null <END>
+bitte setze den tv <START:percent_target> eins <END>
+bitte setze den tv <START:percent_target> zwei <END>
+bitte setze den tv <START:percent_target> drei <END>
+bitte setze den tv <START:percent_target> vier <END>
+bitte setze den tv <START:percent_target> fünf <END>
+bitte setze den tv <START:percent_target> sechs <END>
+bitte setze den tv <START:percent_target> sieben <END>
+bitte setze den tv <START:percent_target> acht <END>
+bitte setze den tv <START:percent_target> neun <END>
+bitte setze den tv <START:percent_target> zehn <END>
+bitte tv <START:percent_target> null <END>
+bitte tv <START:percent_target> eins <END>
+bitte tv <START:percent_target> zwei <END>
+bitte tv <START:percent_target> drei <END>
+bitte tv <START:percent_target> vier <END>
+bitte tv <START:percent_target> fünf <END>
+bitte tv <START:percent_target> sechs <END>
+bitte tv <START:percent_target> sieben <END>
+bitte tv <START:percent_target> acht <END>
+bitte tv <START:percent_target> neun <END>
+bitte tv <START:percent_target> zehn <END>
+bitte ändere tv <START:percent_target> null <END>
+bitte ändere tv <START:percent_target> eins <END>
+bitte ändere tv <START:percent_target> zwei <END>
+bitte ändere tv <START:percent_target> drei <END>
+bitte ändere tv <START:percent_target> vier <END>
+bitte ändere tv <START:percent_target> fünf <END>
+bitte ändere tv <START:percent_target> sechs <END>
+bitte ändere tv <START:percent_target> sieben <END>
+bitte ändere tv <START:percent_target> acht <END>
+bitte ändere tv <START:percent_target> neun <END>
+bitte ändere tv <START:percent_target> zehn <END>
+bitte ändere den tv <START:percent_target> null <END>
+bitte ändere den tv <START:percent_target> eins <END>
+bitte ändere den tv <START:percent_target> zwei <END>
+bitte ändere den tv <START:percent_target> drei <END>
+bitte ändere den tv <START:percent_target> vier <END>
+bitte ändere den tv <START:percent_target> fünf <END>
+bitte ändere den tv <START:percent_target> sechs <END>
+bitte ändere den tv <START:percent_target> sieben <END>
+bitte ändere den tv <START:percent_target> acht <END>
+bitte ändere den tv <START:percent_target> neun <END>
+bitte ändere den tv <START:percent_target> zehn <END>
+setze tv <START:percent_target> null <END> bitte
+setze tv <START:percent_target> eins <END> bitte
+setze tv <START:percent_target> zwei <END> bitte
+setze tv <START:percent_target> drei <END> bitte
+setze tv <START:percent_target> vier <END> bitte
+setze tv <START:percent_target> fünf <END> bitte
+setze tv <START:percent_target> sechs <END> bitte
+setze tv <START:percent_target> sieben <END> bitte
+setze tv <START:percent_target> acht <END> bitte
+setze tv <START:percent_target> neun <END> bitte
+setze tv <START:percent_target> zehn <END> bitte
+setze den tv <START:percent_target> null <END> bitte
+setze den tv <START:percent_target> eins <END> bitte
+setze den tv <START:percent_target> zwei <END> bitte
+setze den tv <START:percent_target> drei <END> bitte
+setze den tv <START:percent_target> vier <END> bitte
+setze den tv <START:percent_target> fünf <END> bitte
+setze den tv <START:percent_target> sechs <END> bitte
+setze den tv <START:percent_target> sieben <END> bitte
+setze den tv <START:percent_target> acht <END> bitte
+setze den tv <START:percent_target> neun <END> bitte
+setze den tv <START:percent_target> zehn <END> bitte
+tv <START:percent_target> null <END> bitte
+tv <START:percent_target> eins <END> bitte
+tv <START:percent_target> zwei <END> bitte
+tv <START:percent_target> drei <END> bitte
+tv <START:percent_target> vier <END> bitte
+tv <START:percent_target> fünf <END> bitte
+tv <START:percent_target> sechs <END> bitte
+tv <START:percent_target> sieben <END> bitte
+tv <START:percent_target> acht <END> bitte
+tv <START:percent_target> neun <END> bitte
+tv <START:percent_target> zehn <END> bitte
+ändere tv <START:percent_target> null <END> bitte
+ändere tv <START:percent_target> eins <END> bitte
+ändere tv <START:percent_target> zwei <END> bitte
+ändere tv <START:percent_target> drei <END> bitte
+ändere tv <START:percent_target> vier <END> bitte
+ändere tv <START:percent_target> fünf <END> bitte
+ändere tv <START:percent_target> sechs <END> bitte
+ändere tv <START:percent_target> sieben <END> bitte
+ändere tv <START:percent_target> acht <END> bitte
+ändere tv <START:percent_target> neun <END> bitte
+ändere tv <START:percent_target> zehn <END> bitte
+ändere den tv <START:percent_target> null <END> bitte
+ändere den tv <START:percent_target> eins <END> bitte
+ändere den tv <START:percent_target> zwei <END> bitte
+ändere den tv <START:percent_target> drei <END> bitte
+ändere den tv <START:percent_target> vier <END> bitte
+ändere den tv <START:percent_target> fünf <END> bitte
+ändere den tv <START:percent_target> sechs <END> bitte
+ändere den tv <START:percent_target> sieben <END> bitte
+ändere den tv <START:percent_target> acht <END> bitte
+ändere den tv <START:percent_target> neun <END> bitte
+ändere den tv <START:percent_target> zehn <END> bitte
+setze tv lautstärke <START:percent_target> null <END>
+setze tv lautstärke <START:percent_target> eins <END>
+setze tv lautstärke <START:percent_target> zwei <END>
+setze tv lautstärke <START:percent_target> drei <END>
+setze tv lautstärke <START:percent_target> vier <END>
+setze tv lautstärke <START:percent_target> fünf <END>
+setze tv lautstärke <START:percent_target> sechs <END>
+setze tv lautstärke <START:percent_target> sieben <END>
+setze tv lautstärke <START:percent_target> acht <END>
+setze tv lautstärke <START:percent_target> neun <END>
+setze tv lautstärke <START:percent_target> zehn <END>
+setze die tv lautstärke <START:percent_target> null <END>
+setze die tv lautstärke <START:percent_target> eins <END>
+setze die tv lautstärke <START:percent_target> zwei <END>
+setze die tv lautstärke <START:percent_target> drei <END>
+setze die tv lautstärke <START:percent_target> vier <END>
+setze die tv lautstärke <START:percent_target> fünf <END>
+setze die tv lautstärke <START:percent_target> sechs <END>
+setze die tv lautstärke <START:percent_target> sieben <END>
+setze die tv lautstärke <START:percent_target> acht <END>
+setze die tv lautstärke <START:percent_target> neun <END>
+setze die tv lautstärke <START:percent_target> zehn <END>
+tv lautstärke <START:percent_target> null <END>
+tv lautstärke <START:percent_target> eins <END>
+tv lautstärke <START:percent_target> zwei <END>
+tv lautstärke <START:percent_target> drei <END>
+tv lautstärke <START:percent_target> vier <END>
+tv lautstärke <START:percent_target> fünf <END>
+tv lautstärke <START:percent_target> sechs <END>
+tv lautstärke <START:percent_target> sieben <END>
+tv lautstärke <START:percent_target> acht <END>
+tv lautstärke <START:percent_target> neun <END>
+tv lautstärke <START:percent_target> zehn <END>
+ändere tv lautstärke <START:percent_target> null <END>
+ändere tv lautstärke <START:percent_target> eins <END>
+ändere tv lautstärke <START:percent_target> zwei <END>
+ändere tv lautstärke <START:percent_target> drei <END>
+ändere tv lautstärke <START:percent_target> vier <END>
+ändere tv lautstärke <START:percent_target> fünf <END>
+ändere tv lautstärke <START:percent_target> sechs <END>
+ändere tv lautstärke <START:percent_target> sieben <END>
+ändere tv lautstärke <START:percent_target> acht <END>
+ändere tv lautstärke <START:percent_target> neun <END>
+ändere tv lautstärke <START:percent_target> zehn <END>
+ändere die tv lautstärke <START:percent_target> null <END>
+ändere die tv lautstärke <START:percent_target> eins <END>
+ändere die tv lautstärke <START:percent_target> zwei <END>
+ändere die tv lautstärke <START:percent_target> drei <END>
+ändere die tv lautstärke <START:percent_target> vier <END>
+ändere die tv lautstärke <START:percent_target> fünf <END>
+ändere die tv lautstärke <START:percent_target> sechs <END>
+ändere die tv lautstärke <START:percent_target> sieben <END>
+ändere die tv lautstärke <START:percent_target> acht <END>
+ändere die tv lautstärke <START:percent_target> neun <END>
+ändere die tv lautstärke <START:percent_target> zehn <END>
+bitte setze tv lautstärke <START:percent_target> null <END>
+bitte setze tv lautstärke <START:percent_target> eins <END>
+bitte setze tv lautstärke <START:percent_target> zwei <END>
+bitte setze tv lautstärke <START:percent_target> drei <END>
+bitte setze tv lautstärke <START:percent_target> vier <END>
+bitte setze tv lautstärke <START:percent_target> fünf <END>
+bitte setze tv lautstärke <START:percent_target> sechs <END>
+bitte setze tv lautstärke <START:percent_target> sieben <END>
+bitte setze tv lautstärke <START:percent_target> acht <END>
+bitte setze tv lautstärke <START:percent_target> neun <END>
+bitte setze tv lautstärke <START:percent_target> zehn <END>
+bitte setze die tv lautstärke <START:percent_target> null <END>
+bitte setze die tv lautstärke <START:percent_target> eins <END>
+bitte setze die tv lautstärke <START:percent_target> zwei <END>
+bitte setze die tv lautstärke <START:percent_target> drei <END>
+bitte setze die tv lautstärke <START:percent_target> vier <END>
+bitte setze die tv lautstärke <START:percent_target> fünf <END>
+bitte setze die tv lautstärke <START:percent_target> sechs <END>
+bitte setze die tv lautstärke <START:percent_target> sieben <END>
+bitte setze die tv lautstärke <START:percent_target> acht <END>
+bitte setze die tv lautstärke <START:percent_target> neun <END>
+bitte setze die tv lautstärke <START:percent_target> zehn <END>
+bitte tv lautstärke <START:percent_target> null <END>
+bitte tv lautstärke <START:percent_target> eins <END>
+bitte tv lautstärke <START:percent_target> zwei <END>
+bitte tv lautstärke <START:percent_target> drei <END>
+bitte tv lautstärke <START:percent_target> vier <END>
+bitte tv lautstärke <START:percent_target> fünf <END>
+bitte tv lautstärke <START:percent_target> sechs <END>
+bitte tv lautstärke <START:percent_target> sieben <END>
+bitte tv lautstärke <START:percent_target> acht <END>
+bitte tv lautstärke <START:percent_target> neun <END>
+bitte tv lautstärke <START:percent_target> zehn <END>
+bitte ändere tv lautstärke <START:percent_target> null <END>
+bitte ändere tv lautstärke <START:percent_target> eins <END>
+bitte ändere tv lautstärke <START:percent_target> zwei <END>
+bitte ändere tv lautstärke <START:percent_target> drei <END>
+bitte ändere tv lautstärke <START:percent_target> vier <END>
+bitte ändere tv lautstärke <START:percent_target> fünf <END>
+bitte ändere tv lautstärke <START:percent_target> sechs <END>
+bitte ändere tv lautstärke <START:percent_target> sieben <END>
+bitte ändere tv lautstärke <START:percent_target> acht <END>
+bitte ändere tv lautstärke <START:percent_target> neun <END>
+bitte ändere tv lautstärke <START:percent_target> zehn <END>
+bitte ändere die tv lautstärke <START:percent_target> null <END>
+bitte ändere die tv lautstärke <START:percent_target> eins <END>
+bitte ändere die tv lautstärke <START:percent_target> zwei <END>
+bitte ändere die tv lautstärke <START:percent_target> drei <END>
+bitte ändere die tv lautstärke <START:percent_target> vier <END>
+bitte ändere die tv lautstärke <START:percent_target> fünf <END>
+bitte ändere die tv lautstärke <START:percent_target> sechs <END>
+bitte ändere die tv lautstärke <START:percent_target> sieben <END>
+bitte ändere die tv lautstärke <START:percent_target> acht <END>
+bitte ändere die tv lautstärke <START:percent_target> neun <END>
+bitte ändere die tv lautstärke <START:percent_target> zehn <END>
+setze tv lautstärke <START:percent_target> null <END> bitte
+setze tv lautstärke <START:percent_target> eins <END> bitte
+setze tv lautstärke <START:percent_target> zwei <END> bitte
+setze tv lautstärke <START:percent_target> drei <END> bitte
+setze tv lautstärke <START:percent_target> vier <END> bitte
+setze tv lautstärke <START:percent_target> fünf <END> bitte
+setze tv lautstärke <START:percent_target> sechs <END> bitte
+setze tv lautstärke <START:percent_target> sieben <END> bitte
+setze tv lautstärke <START:percent_target> acht <END> bitte
+setze tv lautstärke <START:percent_target> neun <END> bitte
+setze tv lautstärke <START:percent_target> zehn <END> bitte
+setze die tv lautstärke <START:percent_target> null <END> bitte
+setze die tv lautstärke <START:percent_target> eins <END> bitte
+setze die tv lautstärke <START:percent_target> zwei <END> bitte
+setze die tv lautstärke <START:percent_target> drei <END> bitte
+setze die tv lautstärke <START:percent_target> vier <END> bitte
+setze die tv lautstärke <START:percent_target> fünf <END> bitte
+setze die tv lautstärke <START:percent_target> sechs <END> bitte
+setze die tv lautstärke <START:percent_target> sieben <END> bitte
+setze die tv lautstärke <START:percent_target> acht <END> bitte
+setze die tv lautstärke <START:percent_target> neun <END> bitte
+setze die tv lautstärke <START:percent_target> zehn <END> bitte
+tv lautstärke <START:percent_target> null <END> bitte
+tv lautstärke <START:percent_target> eins <END> bitte
+tv lautstärke <START:percent_target> zwei <END> bitte
+tv lautstärke <START:percent_target> drei <END> bitte
+tv lautstärke <START:percent_target> vier <END> bitte
+tv lautstärke <START:percent_target> fünf <END> bitte
+tv lautstärke <START:percent_target> sechs <END> bitte
+tv lautstärke <START:percent_target> sieben <END> bitte
+tv lautstärke <START:percent_target> acht <END> bitte
+tv lautstärke <START:percent_target> neun <END> bitte
+tv lautstärke <START:percent_target> zehn <END> bitte
+ändere tv lautstärke <START:percent_target> null <END> bitte
+ändere tv lautstärke <START:percent_target> eins <END> bitte
+ändere tv lautstärke <START:percent_target> zwei <END> bitte
+ändere tv lautstärke <START:percent_target> drei <END> bitte
+ändere tv lautstärke <START:percent_target> vier <END> bitte
+ändere tv lautstärke <START:percent_target> fünf <END> bitte
+ändere tv lautstärke <START:percent_target> sechs <END> bitte
+ändere tv lautstärke <START:percent_target> sieben <END> bitte
+ändere tv lautstärke <START:percent_target> acht <END> bitte
+ändere tv lautstärke <START:percent_target> neun <END> bitte
+ändere tv lautstärke <START:percent_target> zehn <END> bitte
+ändere die tv lautstärke <START:percent_target> null <END> bitte
+ändere die tv lautstärke <START:percent_target> eins <END> bitte
+ändere die tv lautstärke <START:percent_target> zwei <END> bitte
+ändere die tv lautstärke <START:percent_target> drei <END> bitte
+ändere die tv lautstärke <START:percent_target> vier <END> bitte
+ändere die tv lautstärke <START:percent_target> fünf <END> bitte
+ändere die tv lautstärke <START:percent_target> sechs <END> bitte
+ändere die tv lautstärke <START:percent_target> sieben <END> bitte
+ändere die tv lautstärke <START:percent_target> acht <END> bitte
+ändere die tv lautstärke <START:percent_target> neun <END> bitte
+ändere die tv lautstärke <START:percent_target> zehn <END> bitte
+setze lautstärke des tv <START:percent_target> null <END>
+setze lautstärke des tv <START:percent_target> eins <END>
+setze lautstärke des tv <START:percent_target> zwei <END>
+setze lautstärke des tv <START:percent_target> drei <END>
+setze lautstärke des tv <START:percent_target> vier <END>
+setze lautstärke des tv <START:percent_target> fünf <END>
+setze lautstärke des tv <START:percent_target> sechs <END>
+setze lautstärke des tv <START:percent_target> sieben <END>
+setze lautstärke des tv <START:percent_target> acht <END>
+setze lautstärke des tv <START:percent_target> neun <END>
+setze lautstärke des tv <START:percent_target> zehn <END>
+setze die lautstärke des tv <START:percent_target> null <END>
+setze die lautstärke des tv <START:percent_target> eins <END>
+setze die lautstärke des tv <START:percent_target> zwei <END>
+setze die lautstärke des tv <START:percent_target> drei <END>
+setze die lautstärke des tv <START:percent_target> vier <END>
+setze die lautstärke des tv <START:percent_target> fünf <END>
+setze die lautstärke des tv <START:percent_target> sechs <END>
+setze die lautstärke des tv <START:percent_target> sieben <END>
+setze die lautstärke des tv <START:percent_target> acht <END>
+setze die lautstärke des tv <START:percent_target> neun <END>
+setze die lautstärke des tv <START:percent_target> zehn <END>
+lautstärke des tv <START:percent_target> null <END>
+lautstärke des tv <START:percent_target> eins <END>
+lautstärke des tv <START:percent_target> zwei <END>
+lautstärke des tv <START:percent_target> drei <END>
+lautstärke des tv <START:percent_target> vier <END>
+lautstärke des tv <START:percent_target> fünf <END>
+lautstärke des tv <START:percent_target> sechs <END>
+lautstärke des tv <START:percent_target> sieben <END>
+lautstärke des tv <START:percent_target> acht <END>
+lautstärke des tv <START:percent_target> neun <END>
+lautstärke des tv <START:percent_target> zehn <END>
+ändere lautstärke des tv <START:percent_target> null <END>
+ändere lautstärke des tv <START:percent_target> eins <END>
+ändere lautstärke des tv <START:percent_target> zwei <END>
+ändere lautstärke des tv <START:percent_target> drei <END>
+ändere lautstärke des tv <START:percent_target> vier <END>
+ändere lautstärke des tv <START:percent_target> fünf <END>
+ändere lautstärke des tv <START:percent_target> sechs <END>
+ändere lautstärke des tv <START:percent_target> sieben <END>
+ändere lautstärke des tv <START:percent_target> acht <END>
+ändere lautstärke des tv <START:percent_target> neun <END>
+ändere lautstärke des tv <START:percent_target> zehn <END>
+ändere die lautstärke des tv <START:percent_target> null <END>
+ändere die lautstärke des tv <START:percent_target> eins <END>
+ändere die lautstärke des tv <START:percent_target> zwei <END>
+ändere die lautstärke des tv <START:percent_target> drei <END>
+ändere die lautstärke des tv <START:percent_target> vier <END>
+ändere die lautstärke des tv <START:percent_target> fünf <END>
+ändere die lautstärke des tv <START:percent_target> sechs <END>
+ändere die lautstärke des tv <START:percent_target> sieben <END>
+ändere die lautstärke des tv <START:percent_target> acht <END>
+ändere die lautstärke des tv <START:percent_target> neun <END>
+ändere die lautstärke des tv <START:percent_target> zehn <END>
+bitte setze lautstärke des tv <START:percent_target> null <END>
+bitte setze lautstärke des tv <START:percent_target> eins <END>
+bitte setze lautstärke des tv <START:percent_target> zwei <END>
+bitte setze lautstärke des tv <START:percent_target> drei <END>
+bitte setze lautstärke des tv <START:percent_target> vier <END>
+bitte setze lautstärke des tv <START:percent_target> fünf <END>
+bitte setze lautstärke des tv <START:percent_target> sechs <END>
+bitte setze lautstärke des tv <START:percent_target> sieben <END>
+bitte setze lautstärke des tv <START:percent_target> acht <END>
+bitte setze lautstärke des tv <START:percent_target> neun <END>
+bitte setze lautstärke des tv <START:percent_target> zehn <END>
+bitte setze die lautstärke des tv <START:percent_target> null <END>
+bitte setze die lautstärke des tv <START:percent_target> eins <END>
+bitte setze die lautstärke des tv <START:percent_target> zwei <END>
+bitte setze die lautstärke des tv <START:percent_target> drei <END>
+bitte setze die lautstärke des tv <START:percent_target> vier <END>
+bitte setze die lautstärke des tv <START:percent_target> fünf <END>
+bitte setze die lautstärke des tv <START:percent_target> sechs <END>
+bitte setze die lautstärke des tv <START:percent_target> sieben <END>
+bitte setze die lautstärke des tv <START:percent_target> acht <END>
+bitte setze die lautstärke des tv <START:percent_target> neun <END>
+bitte setze die lautstärke des tv <START:percent_target> zehn <END>
+bitte lautstärke des tv <START:percent_target> null <END>
+bitte lautstärke des tv <START:percent_target> eins <END>
+bitte lautstärke des tv <START:percent_target> zwei <END>
+bitte lautstärke des tv <START:percent_target> drei <END>
+bitte lautstärke des tv <START:percent_target> vier <END>
+bitte lautstärke des tv <START:percent_target> fünf <END>
+bitte lautstärke des tv <START:percent_target> sechs <END>
+bitte lautstärke des tv <START:percent_target> sieben <END>
+bitte lautstärke des tv <START:percent_target> acht <END>
+bitte lautstärke des tv <START:percent_target> neun <END>
+bitte lautstärke des tv <START:percent_target> zehn <END>
+bitte ändere lautstärke des tv <START:percent_target> null <END>
+bitte ändere lautstärke des tv <START:percent_target> eins <END>
+bitte ändere lautstärke des tv <START:percent_target> zwei <END>
+bitte ändere lautstärke des tv <START:percent_target> drei <END>
+bitte ändere lautstärke des tv <START:percent_target> vier <END>
+bitte ändere lautstärke des tv <START:percent_target> fünf <END>
+bitte ändere lautstärke des tv <START:percent_target> sechs <END>
+bitte ändere lautstärke des tv <START:percent_target> sieben <END>
+bitte ändere lautstärke des tv <START:percent_target> acht <END>
+bitte ändere lautstärke des tv <START:percent_target> neun <END>
+bitte ändere lautstärke des tv <START:percent_target> zehn <END>
+bitte ändere die lautstärke des tv <START:percent_target> null <END>
+bitte ändere die lautstärke des tv <START:percent_target> eins <END>
+bitte ändere die lautstärke des tv <START:percent_target> zwei <END>
+bitte ändere die lautstärke des tv <START:percent_target> drei <END>
+bitte ändere die lautstärke des tv <START:percent_target> vier <END>
+bitte ändere die lautstärke des tv <START:percent_target> fünf <END>
+bitte ändere die lautstärke des tv <START:percent_target> sechs <END>
+bitte ändere die lautstärke des tv <START:percent_target> sieben <END>
+bitte ändere die lautstärke des tv <START:percent_target> acht <END>
+bitte ändere die lautstärke des tv <START:percent_target> neun <END>
+bitte ändere die lautstärke des tv <START:percent_target> zehn <END>
+setze lautstärke des tv <START:percent_target> null <END> bitte
+setze lautstärke des tv <START:percent_target> eins <END> bitte
+setze lautstärke des tv <START:percent_target> zwei <END> bitte
+setze lautstärke des tv <START:percent_target> drei <END> bitte
+setze lautstärke des tv <START:percent_target> vier <END> bitte
+setze lautstärke des tv <START:percent_target> fünf <END> bitte
+setze lautstärke des tv <START:percent_target> sechs <END> bitte
+setze lautstärke des tv <START:percent_target> sieben <END> bitte
+setze lautstärke des tv <START:percent_target> acht <END> bitte
+setze lautstärke des tv <START:percent_target> neun <END> bitte
+setze lautstärke des tv <START:percent_target> zehn <END> bitte
+setze die lautstärke des tv <START:percent_target> null <END> bitte
+setze die lautstärke des tv <START:percent_target> eins <END> bitte
+setze die lautstärke des tv <START:percent_target> zwei <END> bitte
+setze die lautstärke des tv <START:percent_target> drei <END> bitte
+setze die lautstärke des tv <START:percent_target> vier <END> bitte
+setze die lautstärke des tv <START:percent_target> fünf <END> bitte
+setze die lautstärke des tv <START:percent_target> sechs <END> bitte
+setze die lautstärke des tv <START:percent_target> sieben <END> bitte
+setze die lautstärke des tv <START:percent_target> acht <END> bitte
+setze die lautstärke des tv <START:percent_target> neun <END> bitte
+setze die lautstärke des tv <START:percent_target> zehn <END> bitte
+lautstärke des tv <START:percent_target> null <END> bitte
+lautstärke des tv <START:percent_target> eins <END> bitte
+lautstärke des tv <START:percent_target> zwei <END> bitte
+lautstärke des tv <START:percent_target> drei <END> bitte
+lautstärke des tv <START:percent_target> vier <END> bitte
+lautstärke des tv <START:percent_target> fünf <END> bitte
+lautstärke des tv <START:percent_target> sechs <END> bitte
+lautstärke des tv <START:percent_target> sieben <END> bitte
+lautstärke des tv <START:percent_target> acht <END> bitte
+lautstärke des tv <START:percent_target> neun <END> bitte
+lautstärke des tv <START:percent_target> zehn <END> bitte
+ändere lautstärke des tv <START:percent_target> null <END> bitte
+ändere lautstärke des tv <START:percent_target> eins <END> bitte
+ändere lautstärke des tv <START:percent_target> zwei <END> bitte
+ändere lautstärke des tv <START:percent_target> drei <END> bitte
+ändere lautstärke des tv <START:percent_target> vier <END> bitte
+ändere lautstärke des tv <START:percent_target> fünf <END> bitte
+ändere lautstärke des tv <START:percent_target> sechs <END> bitte
+ändere lautstärke des tv <START:percent_target> sieben <END> bitte
+ändere lautstärke des tv <START:percent_target> acht <END> bitte
+ändere lautstärke des tv <START:percent_target> neun <END> bitte
+ändere lautstärke des tv <START:percent_target> zehn <END> bitte
+ändere die lautstärke des tv <START:percent_target> null <END> bitte
+ändere die lautstärke des tv <START:percent_target> eins <END> bitte
+ändere die lautstärke des tv <START:percent_target> zwei <END> bitte
+ändere die lautstärke des tv <START:percent_target> drei <END> bitte
+ändere die lautstärke des tv <START:percent_target> vier <END> bitte
+ändere die lautstärke des tv <START:percent_target> fünf <END> bitte
+ändere die lautstärke des tv <START:percent_target> sechs <END> bitte
+ändere die lautstärke des tv <START:percent_target> sieben <END> bitte
+ändere die lautstärke des tv <START:percent_target> acht <END> bitte
+ändere die lautstärke des tv <START:percent_target> neun <END> bitte
+ändere die lautstärke des tv <START:percent_target> zehn <END> bitte
+setze fernseher <START:percent_target> null <END>
+setze fernseher <START:percent_target> eins <END>
+setze fernseher <START:percent_target> zwei <END>
+setze fernseher <START:percent_target> drei <END>
+setze fernseher <START:percent_target> vier <END>
+setze fernseher <START:percent_target> fünf <END>
+setze fernseher <START:percent_target> sechs <END>
+setze fernseher <START:percent_target> sieben <END>
+setze fernseher <START:percent_target> acht <END>
+setze fernseher <START:percent_target> neun <END>
+setze fernseher <START:percent_target> zehn <END>
+setze den fernseher <START:percent_target> null <END>
+setze den fernseher <START:percent_target> eins <END>
+setze den fernseher <START:percent_target> zwei <END>
+setze den fernseher <START:percent_target> drei <END>
+setze den fernseher <START:percent_target> vier <END>
+setze den fernseher <START:percent_target> fünf <END>
+setze den fernseher <START:percent_target> sechs <END>
+setze den fernseher <START:percent_target> sieben <END>
+setze den fernseher <START:percent_target> acht <END>
+setze den fernseher <START:percent_target> neun <END>
+setze den fernseher <START:percent_target> zehn <END>
+fernseher <START:percent_target> null <END>
+fernseher <START:percent_target> eins <END>
+fernseher <START:percent_target> zwei <END>
+fernseher <START:percent_target> drei <END>
+fernseher <START:percent_target> vier <END>
+fernseher <START:percent_target> fünf <END>
+fernseher <START:percent_target> sechs <END>
+fernseher <START:percent_target> sieben <END>
+fernseher <START:percent_target> acht <END>
+fernseher <START:percent_target> neun <END>
+fernseher <START:percent_target> zehn <END>
+ändere fernseher <START:percent_target> null <END>
+ändere fernseher <START:percent_target> eins <END>
+ändere fernseher <START:percent_target> zwei <END>
+ändere fernseher <START:percent_target> drei <END>
+ändere fernseher <START:percent_target> vier <END>
+ändere fernseher <START:percent_target> fünf <END>
+ändere fernseher <START:percent_target> sechs <END>
+ändere fernseher <START:percent_target> sieben <END>
+ändere fernseher <START:percent_target> acht <END>
+ändere fernseher <START:percent_target> neun <END>
+ändere fernseher <START:percent_target> zehn <END>
+ändere den fernseher <START:percent_target> null <END>
+ändere den fernseher <START:percent_target> eins <END>
+ändere den fernseher <START:percent_target> zwei <END>
+ändere den fernseher <START:percent_target> drei <END>
+ändere den fernseher <START:percent_target> vier <END>
+ändere den fernseher <START:percent_target> fünf <END>
+ändere den fernseher <START:percent_target> sechs <END>
+ändere den fernseher <START:percent_target> sieben <END>
+ändere den fernseher <START:percent_target> acht <END>
+ändere den fernseher <START:percent_target> neun <END>
+ändere den fernseher <START:percent_target> zehn <END>
+bitte setze fernseher <START:percent_target> null <END>
+bitte setze fernseher <START:percent_target> eins <END>
+bitte setze fernseher <START:percent_target> zwei <END>
+bitte setze fernseher <START:percent_target> drei <END>
+bitte setze fernseher <START:percent_target> vier <END>
+bitte setze fernseher <START:percent_target> fünf <END>
+bitte setze fernseher <START:percent_target> sechs <END>
+bitte setze fernseher <START:percent_target> sieben <END>
+bitte setze fernseher <START:percent_target> acht <END>
+bitte setze fernseher <START:percent_target> neun <END>
+bitte setze fernseher <START:percent_target> zehn <END>
+bitte setze den fernseher <START:percent_target> null <END>
+bitte setze den fernseher <START:percent_target> eins <END>
+bitte setze den fernseher <START:percent_target> zwei <END>
+bitte setze den fernseher <START:percent_target> drei <END>
+bitte setze den fernseher <START:percent_target> vier <END>
+bitte setze den fernseher <START:percent_target> fünf <END>
+bitte setze den fernseher <START:percent_target> sechs <END>
+bitte setze den fernseher <START:percent_target> sieben <END>
+bitte setze den fernseher <START:percent_target> acht <END>
+bitte setze den fernseher <START:percent_target> neun <END>
+bitte setze den fernseher <START:percent_target> zehn <END>
+bitte fernseher <START:percent_target> null <END>
+bitte fernseher <START:percent_target> eins <END>
+bitte fernseher <START:percent_target> zwei <END>
+bitte fernseher <START:percent_target> drei <END>
+bitte fernseher <START:percent_target> vier <END>
+bitte fernseher <START:percent_target> fünf <END>
+bitte fernseher <START:percent_target> sechs <END>
+bitte fernseher <START:percent_target> sieben <END>
+bitte fernseher <START:percent_target> acht <END>
+bitte fernseher <START:percent_target> neun <END>
+bitte fernseher <START:percent_target> zehn <END>
+bitte ändere fernseher <START:percent_target> null <END>
+bitte ändere fernseher <START:percent_target> eins <END>
+bitte ändere fernseher <START:percent_target> zwei <END>
+bitte ändere fernseher <START:percent_target> drei <END>
+bitte ändere fernseher <START:percent_target> vier <END>
+bitte ändere fernseher <START:percent_target> fünf <END>
+bitte ändere fernseher <START:percent_target> sechs <END>
+bitte ändere fernseher <START:percent_target> sieben <END>
+bitte ändere fernseher <START:percent_target> acht <END>
+bitte ändere fernseher <START:percent_target> neun <END>
+bitte ändere fernseher <START:percent_target> zehn <END>
+bitte ändere den fernseher <START:percent_target> null <END>
+bitte ändere den fernseher <START:percent_target> eins <END>
+bitte ändere den fernseher <START:percent_target> zwei <END>
+bitte ändere den fernseher <START:percent_target> drei <END>
+bitte ändere den fernseher <START:percent_target> vier <END>
+bitte ändere den fernseher <START:percent_target> fünf <END>
+bitte ändere den fernseher <START:percent_target> sechs <END>
+bitte ändere den fernseher <START:percent_target> sieben <END>
+bitte ändere den fernseher <START:percent_target> acht <END>
+bitte ändere den fernseher <START:percent_target> neun <END>
+bitte ändere den fernseher <START:percent_target> zehn <END>
+setze fernseher <START:percent_target> null <END> bitte
+setze fernseher <START:percent_target> eins <END> bitte
+setze fernseher <START:percent_target> zwei <END> bitte
+setze fernseher <START:percent_target> drei <END> bitte
+setze fernseher <START:percent_target> vier <END> bitte
+setze fernseher <START:percent_target> fünf <END> bitte
+setze fernseher <START:percent_target> sechs <END> bitte
+setze fernseher <START:percent_target> sieben <END> bitte
+setze fernseher <START:percent_target> acht <END> bitte
+setze fernseher <START:percent_target> neun <END> bitte
+setze fernseher <START:percent_target> zehn <END> bitte
+setze den fernseher <START:percent_target> null <END> bitte
+setze den fernseher <START:percent_target> eins <END> bitte
+setze den fernseher <START:percent_target> zwei <END> bitte
+setze den fernseher <START:percent_target> drei <END> bitte
+setze den fernseher <START:percent_target> vier <END> bitte
+setze den fernseher <START:percent_target> fünf <END> bitte
+setze den fernseher <START:percent_target> sechs <END> bitte
+setze den fernseher <START:percent_target> sieben <END> bitte
+setze den fernseher <START:percent_target> acht <END> bitte
+setze den fernseher <START:percent_target> neun <END> bitte
+setze den fernseher <START:percent_target> zehn <END> bitte
+fernseher <START:percent_target> null <END> bitte
+fernseher <START:percent_target> eins <END> bitte
+fernseher <START:percent_target> zwei <END> bitte
+fernseher <START:percent_target> drei <END> bitte
+fernseher <START:percent_target> vier <END> bitte
+fernseher <START:percent_target> fünf <END> bitte
+fernseher <START:percent_target> sechs <END> bitte
+fernseher <START:percent_target> sieben <END> bitte
+fernseher <START:percent_target> acht <END> bitte
+fernseher <START:percent_target> neun <END> bitte
+fernseher <START:percent_target> zehn <END> bitte
+ändere fernseher <START:percent_target> null <END> bitte
+ändere fernseher <START:percent_target> eins <END> bitte
+ändere fernseher <START:percent_target> zwei <END> bitte
+ändere fernseher <START:percent_target> drei <END> bitte
+ändere fernseher <START:percent_target> vier <END> bitte
+ändere fernseher <START:percent_target> fünf <END> bitte
+ändere fernseher <START:percent_target> sechs <END> bitte
+ändere fernseher <START:percent_target> sieben <END> bitte
+ändere fernseher <START:percent_target> acht <END> bitte
+ändere fernseher <START:percent_target> neun <END> bitte
+ändere fernseher <START:percent_target> zehn <END> bitte
+ändere den fernseher <START:percent_target> null <END> bitte
+ändere den fernseher <START:percent_target> eins <END> bitte
+ändere den fernseher <START:percent_target> zwei <END> bitte
+ändere den fernseher <START:percent_target> drei <END> bitte
+ändere den fernseher <START:percent_target> vier <END> bitte
+ändere den fernseher <START:percent_target> fünf <END> bitte
+ändere den fernseher <START:percent_target> sechs <END> bitte
+ändere den fernseher <START:percent_target> sieben <END> bitte
+ändere den fernseher <START:percent_target> acht <END> bitte
+ändere den fernseher <START:percent_target> neun <END> bitte
+ändere den fernseher <START:percent_target> zehn <END> bitte
+setze fernseher lautstärke <START:percent_target> null <END>
+setze fernseher lautstärke <START:percent_target> eins <END>
+setze fernseher lautstärke <START:percent_target> zwei <END>
+setze fernseher lautstärke <START:percent_target> drei <END>
+setze fernseher lautstärke <START:percent_target> vier <END>
+setze fernseher lautstärke <START:percent_target> fünf <END>
+setze fernseher lautstärke <START:percent_target> sechs <END>
+setze fernseher lautstärke <START:percent_target> sieben <END>
+setze fernseher lautstärke <START:percent_target> acht <END>
+setze fernseher lautstärke <START:percent_target> neun <END>
+setze fernseher lautstärke <START:percent_target> zehn <END>
+setze die fernseher lautstärke <START:percent_target> null <END>
+setze die fernseher lautstärke <START:percent_target> eins <END>
+setze die fernseher lautstärke <START:percent_target> zwei <END>
+setze die fernseher lautstärke <START:percent_target> drei <END>
+setze die fernseher lautstärke <START:percent_target> vier <END>
+setze die fernseher lautstärke <START:percent_target> fünf <END>
+setze die fernseher lautstärke <START:percent_target> sechs <END>
+setze die fernseher lautstärke <START:percent_target> sieben <END>
+setze die fernseher lautstärke <START:percent_target> acht <END>
+setze die fernseher lautstärke <START:percent_target> neun <END>
+setze die fernseher lautstärke <START:percent_target> zehn <END>
+fernseher lautstärke <START:percent_target> null <END>
+fernseher lautstärke <START:percent_target> eins <END>
+fernseher lautstärke <START:percent_target> zwei <END>
+fernseher lautstärke <START:percent_target> drei <END>
+fernseher lautstärke <START:percent_target> vier <END>
+fernseher lautstärke <START:percent_target> fünf <END>
+fernseher lautstärke <START:percent_target> sechs <END>
+fernseher lautstärke <START:percent_target> sieben <END>
+fernseher lautstärke <START:percent_target> acht <END>
+fernseher lautstärke <START:percent_target> neun <END>
+fernseher lautstärke <START:percent_target> zehn <END>
+ändere fernseher lautstärke <START:percent_target> null <END>
+ändere fernseher lautstärke <START:percent_target> eins <END>
+ändere fernseher lautstärke <START:percent_target> zwei <END>
+ändere fernseher lautstärke <START:percent_target> drei <END>
+ändere fernseher lautstärke <START:percent_target> vier <END>
+ändere fernseher lautstärke <START:percent_target> fünf <END>
+ändere fernseher lautstärke <START:percent_target> sechs <END>
+ändere fernseher lautstärke <START:percent_target> sieben <END>
+ändere fernseher lautstärke <START:percent_target> acht <END>
+ändere fernseher lautstärke <START:percent_target> neun <END>
+ändere fernseher lautstärke <START:percent_target> zehn <END>
+ändere die fernseher lautstärke <START:percent_target> null <END>
+ändere die fernseher lautstärke <START:percent_target> eins <END>
+ändere die fernseher lautstärke <START:percent_target> zwei <END>
+ändere die fernseher lautstärke <START:percent_target> drei <END>
+ändere die fernseher lautstärke <START:percent_target> vier <END>
+ändere die fernseher lautstärke <START:percent_target> fünf <END>
+ändere die fernseher lautstärke <START:percent_target> sechs <END>
+ändere die fernseher lautstärke <START:percent_target> sieben <END>
+ändere die fernseher lautstärke <START:percent_target> acht <END>
+ändere die fernseher lautstärke <START:percent_target> neun <END>
+ändere die fernseher lautstärke <START:percent_target> zehn <END>
+bitte setze fernseher lautstärke <START:percent_target> null <END>
+bitte setze fernseher lautstärke <START:percent_target> eins <END>
+bitte setze fernseher lautstärke <START:percent_target> zwei <END>
+bitte setze fernseher lautstärke <START:percent_target> drei <END>
+bitte setze fernseher lautstärke <START:percent_target> vier <END>
+bitte setze fernseher lautstärke <START:percent_target> fünf <END>
+bitte setze fernseher lautstärke <START:percent_target> sechs <END>
+bitte setze fernseher lautstärke <START:percent_target> sieben <END>
+bitte setze fernseher lautstärke <START:percent_target> acht <END>
+bitte setze fernseher lautstärke <START:percent_target> neun <END>
+bitte setze fernseher lautstärke <START:percent_target> zehn <END>
+bitte setze die fernseher lautstärke <START:percent_target> null <END>
+bitte setze die fernseher lautstärke <START:percent_target> eins <END>
+bitte setze die fernseher lautstärke <START:percent_target> zwei <END>
+bitte setze die fernseher lautstärke <START:percent_target> drei <END>
+bitte setze die fernseher lautstärke <START:percent_target> vier <END>
+bitte setze die fernseher lautstärke <START:percent_target> fünf <END>
+bitte setze die fernseher lautstärke <START:percent_target> sechs <END>
+bitte setze die fernseher lautstärke <START:percent_target> sieben <END>
+bitte setze die fernseher lautstärke <START:percent_target> acht <END>
+bitte setze die fernseher lautstärke <START:percent_target> neun <END>
+bitte setze die fernseher lautstärke <START:percent_target> zehn <END>
+bitte fernseher lautstärke <START:percent_target> null <END>
+bitte fernseher lautstärke <START:percent_target> eins <END>
+bitte fernseher lautstärke <START:percent_target> zwei <END>
+bitte fernseher lautstärke <START:percent_target> drei <END>
+bitte fernseher lautstärke <START:percent_target> vier <END>
+bitte fernseher lautstärke <START:percent_target> fünf <END>
+bitte fernseher lautstärke <START:percent_target> sechs <END>
+bitte fernseher lautstärke <START:percent_target> sieben <END>
+bitte fernseher lautstärke <START:percent_target> acht <END>
+bitte fernseher lautstärke <START:percent_target> neun <END>
+bitte fernseher lautstärke <START:percent_target> zehn <END>
+bitte ändere fernseher lautstärke <START:percent_target> null <END>
+bitte ändere fernseher lautstärke <START:percent_target> eins <END>
+bitte ändere fernseher lautstärke <START:percent_target> zwei <END>
+bitte ändere fernseher lautstärke <START:percent_target> drei <END>
+bitte ändere fernseher lautstärke <START:percent_target> vier <END>
+bitte ändere fernseher lautstärke <START:percent_target> fünf <END>
+bitte ändere fernseher lautstärke <START:percent_target> sechs <END>
+bitte ändere fernseher lautstärke <START:percent_target> sieben <END>
+bitte ändere fernseher lautstärke <START:percent_target> acht <END>
+bitte ändere fernseher lautstärke <START:percent_target> neun <END>
+bitte ändere fernseher lautstärke <START:percent_target> zehn <END>
+bitte ändere die fernseher lautstärke <START:percent_target> null <END>
+bitte ändere die fernseher lautstärke <START:percent_target> eins <END>
+bitte ändere die fernseher lautstärke <START:percent_target> zwei <END>
+bitte ändere die fernseher lautstärke <START:percent_target> drei <END>
+bitte ändere die fernseher lautstärke <START:percent_target> vier <END>
+bitte ändere die fernseher lautstärke <START:percent_target> fünf <END>
+bitte ändere die fernseher lautstärke <START:percent_target> sechs <END>
+bitte ändere die fernseher lautstärke <START:percent_target> sieben <END>
+bitte ändere die fernseher lautstärke <START:percent_target> acht <END>
+bitte ändere die fernseher lautstärke <START:percent_target> neun <END>
+bitte ändere die fernseher lautstärke <START:percent_target> zehn <END>
+setze fernseher lautstärke <START:percent_target> null <END> bitte
+setze fernseher lautstärke <START:percent_target> eins <END> bitte
+setze fernseher lautstärke <START:percent_target> zwei <END> bitte
+setze fernseher lautstärke <START:percent_target> drei <END> bitte
+setze fernseher lautstärke <START:percent_target> vier <END> bitte
+setze fernseher lautstärke <START:percent_target> fünf <END> bitte
+setze fernseher lautstärke <START:percent_target> sechs <END> bitte
+setze fernseher lautstärke <START:percent_target> sieben <END> bitte
+setze fernseher lautstärke <START:percent_target> acht <END> bitte
+setze fernseher lautstärke <START:percent_target> neun <END> bitte
+setze fernseher lautstärke <START:percent_target> zehn <END> bitte
+setze die fernseher lautstärke <START:percent_target> null <END> bitte
+setze die fernseher lautstärke <START:percent_target> eins <END> bitte
+setze die fernseher lautstärke <START:percent_target> zwei <END> bitte
+setze die fernseher lautstärke <START:percent_target> drei <END> bitte
+setze die fernseher lautstärke <START:percent_target> vier <END> bitte
+setze die fernseher lautstärke <START:percent_target> fünf <END> bitte
+setze die fernseher lautstärke <START:percent_target> sechs <END> bitte
+setze die fernseher lautstärke <START:percent_target> sieben <END> bitte
+setze die fernseher lautstärke <START:percent_target> acht <END> bitte
+setze die fernseher lautstärke <START:percent_target> neun <END> bitte
+setze die fernseher lautstärke <START:percent_target> zehn <END> bitte
+fernseher lautstärke <START:percent_target> null <END> bitte
+fernseher lautstärke <START:percent_target> eins <END> bitte
+fernseher lautstärke <START:percent_target> zwei <END> bitte
+fernseher lautstärke <START:percent_target> drei <END> bitte
+fernseher lautstärke <START:percent_target> vier <END> bitte
+fernseher lautstärke <START:percent_target> fünf <END> bitte
+fernseher lautstärke <START:percent_target> sechs <END> bitte
+fernseher lautstärke <START:percent_target> sieben <END> bitte
+fernseher lautstärke <START:percent_target> acht <END> bitte
+fernseher lautstärke <START:percent_target> neun <END> bitte
+fernseher lautstärke <START:percent_target> zehn <END> bitte
+ändere fernseher lautstärke <START:percent_target> null <END> bitte
+ändere fernseher lautstärke <START:percent_target> eins <END> bitte
+ändere fernseher lautstärke <START:percent_target> zwei <END> bitte
+ändere fernseher lautstärke <START:percent_target> drei <END> bitte
+ändere fernseher lautstärke <START:percent_target> vier <END> bitte
+ändere fernseher lautstärke <START:percent_target> fünf <END> bitte
+ändere fernseher lautstärke <START:percent_target> sechs <END> bitte
+ändere fernseher lautstärke <START:percent_target> sieben <END> bitte
+ändere fernseher lautstärke <START:percent_target> acht <END> bitte
+ändere fernseher lautstärke <START:percent_target> neun <END> bitte
+ändere fernseher lautstärke <START:percent_target> zehn <END> bitte
+ändere die fernseher lautstärke <START:percent_target> null <END> bitte
+ändere die fernseher lautstärke <START:percent_target> eins <END> bitte
+ändere die fernseher lautstärke <START:percent_target> zwei <END> bitte
+ändere die fernseher lautstärke <START:percent_target> drei <END> bitte
+ändere die fernseher lautstärke <START:percent_target> vier <END> bitte
+ändere die fernseher lautstärke <START:percent_target> fünf <END> bitte
+ändere die fernseher lautstärke <START:percent_target> sechs <END> bitte
+ändere die fernseher lautstärke <START:percent_target> sieben <END> bitte
+ändere die fernseher lautstärke <START:percent_target> acht <END> bitte
+ändere die fernseher lautstärke <START:percent_target> neun <END> bitte
+ändere die fernseher lautstärke <START:percent_target> zehn <END> bitte
+setze lautstärke des fernsehers <START:percent_target> null <END>
+setze lautstärke des fernsehers <START:percent_target> eins <END>
+setze lautstärke des fernsehers <START:percent_target> zwei <END>
+setze lautstärke des fernsehers <START:percent_target> drei <END>
+setze lautstärke des fernsehers <START:percent_target> vier <END>
+setze lautstärke des fernsehers <START:percent_target> fünf <END>
+setze lautstärke des fernsehers <START:percent_target> sechs <END>
+setze lautstärke des fernsehers <START:percent_target> sieben <END>
+setze lautstärke des fernsehers <START:percent_target> acht <END>
+setze lautstärke des fernsehers <START:percent_target> neun <END>
+setze lautstärke des fernsehers <START:percent_target> zehn <END>
+setze die lautstärke des fernsehers <START:percent_target> null <END>
+setze die lautstärke des fernsehers <START:percent_target> eins <END>
+setze die lautstärke des fernsehers <START:percent_target> zwei <END>
+setze die lautstärke des fernsehers <START:percent_target> drei <END>
+setze die lautstärke des fernsehers <START:percent_target> vier <END>
+setze die lautstärke des fernsehers <START:percent_target> fünf <END>
+setze die lautstärke des fernsehers <START:percent_target> sechs <END>
+setze die lautstärke des fernsehers <START:percent_target> sieben <END>
+setze die lautstärke des fernsehers <START:percent_target> acht <END>
+setze die lautstärke des fernsehers <START:percent_target> neun <END>
+setze die lautstärke des fernsehers <START:percent_target> zehn <END>
+lautstärke des fernsehers <START:percent_target> null <END>
+lautstärke des fernsehers <START:percent_target> eins <END>
+lautstärke des fernsehers <START:percent_target> zwei <END>
+lautstärke des fernsehers <START:percent_target> drei <END>
+lautstärke des fernsehers <START:percent_target> vier <END>
+lautstärke des fernsehers <START:percent_target> fünf <END>
+lautstärke des fernsehers <START:percent_target> sechs <END>
+lautstärke des fernsehers <START:percent_target> sieben <END>
+lautstärke des fernsehers <START:percent_target> acht <END>
+lautstärke des fernsehers <START:percent_target> neun <END>
+lautstärke des fernsehers <START:percent_target> zehn <END>
+ändere lautstärke des fernsehers <START:percent_target> null <END>
+ändere lautstärke des fernsehers <START:percent_target> eins <END>
+ändere lautstärke des fernsehers <START:percent_target> zwei <END>
+ändere lautstärke des fernsehers <START:percent_target> drei <END>
+ändere lautstärke des fernsehers <START:percent_target> vier <END>
+ändere lautstärke des fernsehers <START:percent_target> fünf <END>
+ändere lautstärke des fernsehers <START:percent_target> sechs <END>
+ändere lautstärke des fernsehers <START:percent_target> sieben <END>
+ändere lautstärke des fernsehers <START:percent_target> acht <END>
+ändere lautstärke des fernsehers <START:percent_target> neun <END>
+ändere lautstärke des fernsehers <START:percent_target> zehn <END>
+ändere die lautstärke des fernsehers <START:percent_target> null <END>
+ändere die lautstärke des fernsehers <START:percent_target> eins <END>
+ändere die lautstärke des fernsehers <START:percent_target> zwei <END>
+ändere die lautstärke des fernsehers <START:percent_target> drei <END>
+ändere die lautstärke des fernsehers <START:percent_target> vier <END>
+ändere die lautstärke des fernsehers <START:percent_target> fünf <END>
+ändere die lautstärke des fernsehers <START:percent_target> sechs <END>
+ändere die lautstärke des fernsehers <START:percent_target> sieben <END>
+ändere die lautstärke des fernsehers <START:percent_target> acht <END>
+ändere die lautstärke des fernsehers <START:percent_target> neun <END>
+ändere die lautstärke des fernsehers <START:percent_target> zehn <END>
+bitte setze lautstärke des fernsehers <START:percent_target> null <END>
+bitte setze lautstärke des fernsehers <START:percent_target> eins <END>
+bitte setze lautstärke des fernsehers <START:percent_target> zwei <END>
+bitte setze lautstärke des fernsehers <START:percent_target> drei <END>
+bitte setze lautstärke des fernsehers <START:percent_target> vier <END>
+bitte setze lautstärke des fernsehers <START:percent_target> fünf <END>
+bitte setze lautstärke des fernsehers <START:percent_target> sechs <END>
+bitte setze lautstärke des fernsehers <START:percent_target> sieben <END>
+bitte setze lautstärke des fernsehers <START:percent_target> acht <END>
+bitte setze lautstärke des fernsehers <START:percent_target> neun <END>
+bitte setze lautstärke des fernsehers <START:percent_target> zehn <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> null <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> eins <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> zwei <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> drei <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> vier <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> fünf <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> sechs <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> sieben <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> acht <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> neun <END>
+bitte setze die lautstärke des fernsehers <START:percent_target> zehn <END>
+bitte lautstärke des fernsehers <START:percent_target> null <END>
+bitte lautstärke des fernsehers <START:percent_target> eins <END>
+bitte lautstärke des fernsehers <START:percent_target> zwei <END>
+bitte lautstärke des fernsehers <START:percent_target> drei <END>
+bitte lautstärke des fernsehers <START:percent_target> vier <END>
+bitte lautstärke des fernsehers <START:percent_target> fünf <END>
+bitte lautstärke des fernsehers <START:percent_target> sechs <END>
+bitte lautstärke des fernsehers <START:percent_target> sieben <END>
+bitte lautstärke des fernsehers <START:percent_target> acht <END>
+bitte lautstärke des fernsehers <START:percent_target> neun <END>
+bitte lautstärke des fernsehers <START:percent_target> zehn <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> null <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> eins <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> zwei <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> drei <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> vier <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> fünf <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> sechs <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> sieben <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> acht <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> neun <END>
+bitte ändere lautstärke des fernsehers <START:percent_target> zehn <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> null <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> eins <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> zwei <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> drei <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> vier <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> fünf <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> sechs <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> sieben <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> acht <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> neun <END>
+bitte ändere die lautstärke des fernsehers <START:percent_target> zehn <END>
+setze lautstärke des fernsehers <START:percent_target> null <END> bitte
+setze lautstärke des fernsehers <START:percent_target> eins <END> bitte
+setze lautstärke des fernsehers <START:percent_target> zwei <END> bitte
+setze lautstärke des fernsehers <START:percent_target> drei <END> bitte
+setze lautstärke des fernsehers <START:percent_target> vier <END> bitte
+setze lautstärke des fernsehers <START:percent_target> fünf <END> bitte
+setze lautstärke des fernsehers <START:percent_target> sechs <END> bitte
+setze lautstärke des fernsehers <START:percent_target> sieben <END> bitte
+setze lautstärke des fernsehers <START:percent_target> acht <END> bitte
+setze lautstärke des fernsehers <START:percent_target> neun <END> bitte
+setze lautstärke des fernsehers <START:percent_target> zehn <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> null <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> eins <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> zwei <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> drei <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> vier <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> fünf <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> sechs <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> sieben <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> acht <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> neun <END> bitte
+setze die lautstärke des fernsehers <START:percent_target> zehn <END> bitte
+lautstärke des fernsehers <START:percent_target> null <END> bitte
+lautstärke des fernsehers <START:percent_target> eins <END> bitte
+lautstärke des fernsehers <START:percent_target> zwei <END> bitte
+lautstärke des fernsehers <START:percent_target> drei <END> bitte
+lautstärke des fernsehers <START:percent_target> vier <END> bitte
+lautstärke des fernsehers <START:percent_target> fünf <END> bitte
+lautstärke des fernsehers <START:percent_target> sechs <END> bitte
+lautstärke des fernsehers <START:percent_target> sieben <END> bitte
+lautstärke des fernsehers <START:percent_target> acht <END> bitte
+lautstärke des fernsehers <START:percent_target> neun <END> bitte
+lautstärke des fernsehers <START:percent_target> zehn <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> null <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> eins <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> zwei <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> drei <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> vier <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> fünf <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> sechs <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> sieben <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> acht <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> neun <END> bitte
+ändere lautstärke des fernsehers <START:percent_target> zehn <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> null <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> eins <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> zwei <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> drei <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> vier <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> fünf <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> sechs <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> sieben <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> acht <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> neun <END> bitte
+ändere die lautstärke des fernsehers <START:percent_target> zehn <END> bitte

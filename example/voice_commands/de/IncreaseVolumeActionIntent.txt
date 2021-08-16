@@ -165,34 +165,6 @@ lautstärke des <START:volume_target> tv <END> erhöhen
 lautstärke des <START:volume_target> tv <END> aufdrehen
 lautstärke des <START:volume_target> tv <END> hoch drehen
 lautstärke des <START:volume_target> tv <END> höher
-bitte erhöhe lautstärke des <START:volume_target> tv <END>
-bitte erhöhe die lautstärke des <START:volume_target> tv <END>
-bitte dreh die lautstärke des <START:volume_target> tv <END> auf
-bitte dreh die lautstärke des <START:volume_target> tv <END> hoch
-erhöhe bitte die lautstärke des <START:volume_target> tv <END>
-dreh bitte die lautstärke des <START:volume_target> tv <END> auf
-dreh bitte die lautstärke des <START:volume_target> tv <END> hoch
-dreh die lautstärke des <START:volume_target> tv <END> bitte auf
-dreh die lautstärke des <START:volume_target> tv <END> bitte hoch
-erhöhe lautstärke des <START:volume_target> tv <END> bitte
-erhöhe die lautstärke des <START:volume_target> tv <END> bitte
-dreh die lautstärke des <START:volume_target> tv <END> auf bitte
-dreh die lautstärke des <START:volume_target> tv <END> hoch bitte
-lautstärke des <START:volume_target> tv <END> lauter
-lautstärke des <START:volume_target> tv <END> erhöhen
-lautstärke des <START:volume_target> tv <END> aufdrehen
-lautstärke des <START:volume_target> tv <END> hoch drehen
-lautstärke des <START:volume_target> tv <END> höher
-bitte lautstärke des <START:volume_target> tv <END> lauter
-bitte lautstärke des <START:volume_target> tv <END> erhöhen
-bitte lautstärke des <START:volume_target> tv <END> aufdrehen
-bitte lautstärke des <START:volume_target> tv <END> hoch drehen
-bitte lautstärke des <START:volume_target> tv <END> höher
-lautstärke des <START:volume_target> tv <END> lauter bitte
-lautstärke des <START:volume_target> tv <END> erhöhen bitte
-lautstärke des <START:volume_target> tv <END> aufdrehen bitte
-lautstärke des <START:volume_target> tv <END> hoch drehen bitte
-lautstärke des <START:volume_target> tv <END> höher bitte
 erhöhe lautstärke der <START:volume_target> musik <END>
 erhöhe die lautstärke der <START:volume_target> musik <END>
 dreh die lautstärke der <START:volume_target> musik <END> auf
@@ -202,34 +174,6 @@ lautstärke der <START:volume_target> musik <END> erhöhen
 lautstärke der <START:volume_target> musik <END> aufdrehen
 lautstärke der <START:volume_target> musik <END> hoch drehen
 lautstärke der <START:volume_target> musik <END> höher
-bitte erhöhe lautstärke der <START:volume_target> musik <END>
-bitte erhöhe die lautstärke der <START:volume_target> musik <END>
-bitte dreh die lautstärke der <START:volume_target> musik <END> auf
-bitte dreh die lautstärke der <START:volume_target> musik <END> hoch
-erhöhe bitte die lautstärke der <START:volume_target> musik <END>
-dreh bitte die lautstärke der <START:volume_target> musik <END> auf
-dreh bitte die lautstärke der <START:volume_target> musik <END> hoch
-dreh die lautstärke der <START:volume_target> musik <END> bitte auf
-dreh die lautstärke der <START:volume_target> musik <END> bitte hoch
-erhöhe lautstärke der <START:volume_target> musik <END> bitte
-erhöhe die lautstärke der <START:volume_target> musik <END> bitte
-dreh die lautstärke der <START:volume_target> musik <END> auf bitte
-dreh die lautstärke der <START:volume_target> musik <END> hoch bitte
-lautstärke der <START:volume_target> musik <END> lauter
-lautstärke der <START:volume_target> musik <END> erhöhen
-lautstärke der <START:volume_target> musik <END> aufdrehen
-lautstärke der <START:volume_target> musik <END> hoch drehen
-lautstärke der <START:volume_target> musik <END> höher
-bitte lautstärke der <START:volume_target> musik <END> lauter
-bitte lautstärke der <START:volume_target> musik <END> erhöhen
-bitte lautstärke der <START:volume_target> musik <END> aufdrehen
-bitte lautstärke der <START:volume_target> musik <END> hoch drehen
-bitte lautstärke der <START:volume_target> musik <END> höher
-lautstärke der <START:volume_target> musik <END> lauter bitte
-lautstärke der <START:volume_target> musik <END> erhöhen bitte
-lautstärke der <START:volume_target> musik <END> aufdrehen bitte
-lautstärke der <START:volume_target> musik <END> hoch drehen bitte
-lautstärke der <START:volume_target> musik <END> höher bitte
 erhöhe lautstärke des <START:volume_target> fernsehers <END>
 erhöhe die lautstärke des <START:volume_target> fernsehers <END>
 dreh die lautstärke des <START:volume_target> fernsehers <END> auf

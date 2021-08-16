@@ -53,12 +53,718 @@ volume <START:percent_target> seven <END>
 volume <START:percent_target> eight <END>
 volume <START:percent_target> nine <END>
 volume <START:percent_target> ten <END>
-set volume
-set the volume
-set volume to
-set the volume to
-change volume
-change the volume
-change volume to
-change the volume to
-volume to
+change music volume <START:percent_target> zero <END>
+change music volume <START:percent_target> one <END>
+change music volume <START:percent_target> two <END>
+change music volume <START:percent_target> three <END>
+change music volume <START:percent_target> four <END>
+change music volume <START:percent_target> five <END>
+change music volume <START:percent_target> six <END>
+change music volume <START:percent_target> seven <END>
+change music volume <START:percent_target> eight <END>
+change music volume <START:percent_target> nine <END>
+change music volume <START:percent_target> ten <END>
+change the music volume <START:percent_target> zero <END>
+change the music volume <START:percent_target> one <END>
+change the music volume <START:percent_target> two <END>
+change the music volume <START:percent_target> three <END>
+change the music volume <START:percent_target> four <END>
+change the music volume <START:percent_target> five <END>
+change the music volume <START:percent_target> six <END>
+change the music volume <START:percent_target> seven <END>
+change the music volume <START:percent_target> eight <END>
+change the music volume <START:percent_target> nine <END>
+change the music volume <START:percent_target> ten <END>
+set music volume <START:percent_target> zero <END>
+set music volume <START:percent_target> one <END>
+set music volume <START:percent_target> two <END>
+set music volume <START:percent_target> three <END>
+set music volume <START:percent_target> four <END>
+set music volume <START:percent_target> five <END>
+set music volume <START:percent_target> six <END>
+set music volume <START:percent_target> seven <END>
+set music volume <START:percent_target> eight <END>
+set music volume <START:percent_target> nine <END>
+set music volume <START:percent_target> ten <END>
+set the music volume <START:percent_target> zero <END>
+set the music volume <START:percent_target> one <END>
+set the music volume <START:percent_target> two <END>
+set the music volume <START:percent_target> three <END>
+set the music volume <START:percent_target> four <END>
+set the music volume <START:percent_target> five <END>
+set the music volume <START:percent_target> six <END>
+set the music volume <START:percent_target> seven <END>
+set the music volume <START:percent_target> eight <END>
+set the music volume <START:percent_target> nine <END>
+set the music volume <START:percent_target> ten <END>
+music volume <START:percent_target> zero <END>
+music volume <START:percent_target> one <END>
+music volume <START:percent_target> two <END>
+music volume <START:percent_target> three <END>
+music volume <START:percent_target> four <END>
+music volume <START:percent_target> five <END>
+music volume <START:percent_target> six <END>
+music volume <START:percent_target> seven <END>
+music volume <START:percent_target> eight <END>
+music volume <START:percent_target> nine <END>
+music volume <START:percent_target> ten <END>
+change volume of the music <START:percent_target> zero <END>
+change volume of the music <START:percent_target> one <END>
+change volume of the music <START:percent_target> two <END>
+change volume of the music <START:percent_target> three <END>
+change volume of the music <START:percent_target> four <END>
+change volume of the music <START:percent_target> five <END>
+change volume of the music <START:percent_target> six <END>
+change volume of the music <START:percent_target> seven <END>
+change volume of the music <START:percent_target> eight <END>
+change volume of the music <START:percent_target> nine <END>
+change volume of the music <START:percent_target> ten <END>
+change the volume of the music <START:percent_target> zero <END>
+change the volume of the music <START:percent_target> one <END>
+change the volume of the music <START:percent_target> two <END>
+change the volume of the music <START:percent_target> three <END>
+change the volume of the music <START:percent_target> four <END>
+change the volume of the music <START:percent_target> five <END>
+change the volume of the music <START:percent_target> six <END>
+change the volume of the music <START:percent_target> seven <END>
+change the volume of the music <START:percent_target> eight <END>
+change the volume of the music <START:percent_target> nine <END>
+change the volume of the music <START:percent_target> ten <END>
+set volume of the music <START:percent_target> zero <END>
+set volume of the music <START:percent_target> one <END>
+set volume of the music <START:percent_target> two <END>
+set volume of the music <START:percent_target> three <END>
+set volume of the music <START:percent_target> four <END>
+set volume of the music <START:percent_target> five <END>
+set volume of the music <START:percent_target> six <END>
+set volume of the music <START:percent_target> seven <END>
+set volume of the music <START:percent_target> eight <END>
+set volume of the music <START:percent_target> nine <END>
+set volume of the music <START:percent_target> ten <END>
+set the volume of the music <START:percent_target> zero <END>
+set the volume of the music <START:percent_target> one <END>
+set the volume of the music <START:percent_target> two <END>
+set the volume of the music <START:percent_target> three <END>
+set the volume of the music <START:percent_target> four <END>
+set the volume of the music <START:percent_target> five <END>
+set the volume of the music <START:percent_target> six <END>
+set the volume of the music <START:percent_target> seven <END>
+set the volume of the music <START:percent_target> eight <END>
+set the volume of the music <START:percent_target> nine <END>
+set the volume of the music <START:percent_target> ten <END>
+volume of the music <START:percent_target> zero <END>
+volume of the music <START:percent_target> one <END>
+volume of the music <START:percent_target> two <END>
+volume of the music <START:percent_target> three <END>
+volume of the music <START:percent_target> four <END>
+volume of the music <START:percent_target> five <END>
+volume of the music <START:percent_target> six <END>
+volume of the music <START:percent_target> seven <END>
+volume of the music <START:percent_target> eight <END>
+volume of the music <START:percent_target> nine <END>
+volume of the music <START:percent_target> ten <END>
+change volume of music <START:percent_target> zero <END>
+change volume of music <START:percent_target> one <END>
+change volume of music <START:percent_target> two <END>
+change volume of music <START:percent_target> three <END>
+change volume of music <START:percent_target> four <END>
+change volume of music <START:percent_target> five <END>
+change volume of music <START:percent_target> six <END>
+change volume of music <START:percent_target> seven <END>
+change volume of music <START:percent_target> eight <END>
+change volume of music <START:percent_target> nine <END>
+change volume of music <START:percent_target> ten <END>
+change the volume of music <START:percent_target> zero <END>
+change the volume of music <START:percent_target> one <END>
+change the volume of music <START:percent_target> two <END>
+change the volume of music <START:percent_target> three <END>
+change the volume of music <START:percent_target> four <END>
+change the volume of music <START:percent_target> five <END>
+change the volume of music <START:percent_target> six <END>
+change the volume of music <START:percent_target> seven <END>
+change the volume of music <START:percent_target> eight <END>
+change the volume of music <START:percent_target> nine <END>
+change the volume of music <START:percent_target> ten <END>
+set volume of music <START:percent_target> zero <END>
+set volume of music <START:percent_target> one <END>
+set volume of music <START:percent_target> two <END>
+set volume of music <START:percent_target> three <END>
+set volume of music <START:percent_target> four <END>
+set volume of music <START:percent_target> five <END>
+set volume of music <START:percent_target> six <END>
+set volume of music <START:percent_target> seven <END>
+set volume of music <START:percent_target> eight <END>
+set volume of music <START:percent_target> nine <END>
+set volume of music <START:percent_target> ten <END>
+set the volume of music <START:percent_target> zero <END>
+set the volume of music <START:percent_target> one <END>
+set the volume of music <START:percent_target> two <END>
+set the volume of music <START:percent_target> three <END>
+set the volume of music <START:percent_target> four <END>
+set the volume of music <START:percent_target> five <END>
+set the volume of music <START:percent_target> six <END>
+set the volume of music <START:percent_target> seven <END>
+set the volume of music <START:percent_target> eight <END>
+set the volume of music <START:percent_target> nine <END>
+set the volume of music <START:percent_target> ten <END>
+volume of music <START:percent_target> zero <END>
+volume of music <START:percent_target> one <END>
+volume of music <START:percent_target> two <END>
+volume of music <START:percent_target> three <END>
+volume of music <START:percent_target> four <END>
+volume of music <START:percent_target> five <END>
+volume of music <START:percent_target> six <END>
+volume of music <START:percent_target> seven <END>
+volume of music <START:percent_target> eight <END>
+volume of music <START:percent_target> nine <END>
+volume of music <START:percent_target> ten <END>
+change tv volume <START:percent_target> zero <END>
+change tv volume <START:percent_target> one <END>
+change tv volume <START:percent_target> two <END>
+change tv volume <START:percent_target> three <END>
+change tv volume <START:percent_target> four <END>
+change tv volume <START:percent_target> five <END>
+change tv volume <START:percent_target> six <END>
+change tv volume <START:percent_target> seven <END>
+change tv volume <START:percent_target> eight <END>
+change tv volume <START:percent_target> nine <END>
+change tv volume <START:percent_target> ten <END>
+change the tv volume <START:percent_target> zero <END>
+change the tv volume <START:percent_target> one <END>
+change the tv volume <START:percent_target> two <END>
+change the tv volume <START:percent_target> three <END>
+change the tv volume <START:percent_target> four <END>
+change the tv volume <START:percent_target> five <END>
+change the tv volume <START:percent_target> six <END>
+change the tv volume <START:percent_target> seven <END>
+change the tv volume <START:percent_target> eight <END>
+change the tv volume <START:percent_target> nine <END>
+change the tv volume <START:percent_target> ten <END>
+set tv volume <START:percent_target> zero <END>
+set tv volume <START:percent_target> one <END>
+set tv volume <START:percent_target> two <END>
+set tv volume <START:percent_target> three <END>
+set tv volume <START:percent_target> four <END>
+set tv volume <START:percent_target> five <END>
+set tv volume <START:percent_target> six <END>
+set tv volume <START:percent_target> seven <END>
+set tv volume <START:percent_target> eight <END>
+set tv volume <START:percent_target> nine <END>
+set tv volume <START:percent_target> ten <END>
+set the tv volume <START:percent_target> zero <END>
+set the tv volume <START:percent_target> one <END>
+set the tv volume <START:percent_target> two <END>
+set the tv volume <START:percent_target> three <END>
+set the tv volume <START:percent_target> four <END>
+set the tv volume <START:percent_target> five <END>
+set the tv volume <START:percent_target> six <END>
+set the tv volume <START:percent_target> seven <END>
+set the tv volume <START:percent_target> eight <END>
+set the tv volume <START:percent_target> nine <END>
+set the tv volume <START:percent_target> ten <END>
+tv volume <START:percent_target> zero <END>
+tv volume <START:percent_target> one <END>
+tv volume <START:percent_target> two <END>
+tv volume <START:percent_target> three <END>
+tv volume <START:percent_target> four <END>
+tv volume <START:percent_target> five <END>
+tv volume <START:percent_target> six <END>
+tv volume <START:percent_target> seven <END>
+tv volume <START:percent_target> eight <END>
+tv volume <START:percent_target> nine <END>
+tv volume <START:percent_target> ten <END>
+change volume of the tv <START:percent_target> zero <END>
+change volume of the tv <START:percent_target> one <END>
+change volume of the tv <START:percent_target> two <END>
+change volume of the tv <START:percent_target> three <END>
+change volume of the tv <START:percent_target> four <END>
+change volume of the tv <START:percent_target> five <END>
+change volume of the tv <START:percent_target> six <END>
+change volume of the tv <START:percent_target> seven <END>
+change volume of the tv <START:percent_target> eight <END>
+change volume of the tv <START:percent_target> nine <END>
+change volume of the tv <START:percent_target> ten <END>
+change the volume of the tv <START:percent_target> zero <END>
+change the volume of the tv <START:percent_target> one <END>
+change the volume of the tv <START:percent_target> two <END>
+change the volume of the tv <START:percent_target> three <END>
+change the volume of the tv <START:percent_target> four <END>
+change the volume of the tv <START:percent_target> five <END>
+change the volume of the tv <START:percent_target> six <END>
+change the volume of the tv <START:percent_target> seven <END>
+change the volume of the tv <START:percent_target> eight <END>
+change the volume of the tv <START:percent_target> nine <END>
+change the volume of the tv <START:percent_target> ten <END>
+set volume of the tv <START:percent_target> zero <END>
+set volume of the tv <START:percent_target> one <END>
+set volume of the tv <START:percent_target> two <END>
+set volume of the tv <START:percent_target> three <END>
+set volume of the tv <START:percent_target> four <END>
+set volume of the tv <START:percent_target> five <END>
+set volume of the tv <START:percent_target> six <END>
+set volume of the tv <START:percent_target> seven <END>
+set volume of the tv <START:percent_target> eight <END>
+set volume of the tv <START:percent_target> nine <END>
+set volume of the tv <START:percent_target> ten <END>
+set the volume of the tv <START:percent_target> zero <END>
+set the volume of the tv <START:percent_target> one <END>
+set the volume of the tv <START:percent_target> two <END>
+set the volume of the tv <START:percent_target> three <END>
+set the volume of the tv <START:percent_target> four <END>
+set the volume of the tv <START:percent_target> five <END>
+set the volume of the tv <START:percent_target> six <END>
+set the volume of the tv <START:percent_target> seven <END>
+set the volume of the tv <START:percent_target> eight <END>
+set the volume of the tv <START:percent_target> nine <END>
+set the volume of the tv <START:percent_target> ten <END>
+volume of the tv <START:percent_target> zero <END>
+volume of the tv <START:percent_target> one <END>
+volume of the tv <START:percent_target> two <END>
+volume of the tv <START:percent_target> three <END>
+volume of the tv <START:percent_target> four <END>
+volume of the tv <START:percent_target> five <END>
+volume of the tv <START:percent_target> six <END>
+volume of the tv <START:percent_target> seven <END>
+volume of the tv <START:percent_target> eight <END>
+volume of the tv <START:percent_target> nine <END>
+volume of the tv <START:percent_target> ten <END>
+change volume of tv <START:percent_target> zero <END>
+change volume of tv <START:percent_target> one <END>
+change volume of tv <START:percent_target> two <END>
+change volume of tv <START:percent_target> three <END>
+change volume of tv <START:percent_target> four <END>
+change volume of tv <START:percent_target> five <END>
+change volume of tv <START:percent_target> six <END>
+change volume of tv <START:percent_target> seven <END>
+change volume of tv <START:percent_target> eight <END>
+change volume of tv <START:percent_target> nine <END>
+change volume of tv <START:percent_target> ten <END>
+change the volume of tv <START:percent_target> zero <END>
+change the volume of tv <START:percent_target> one <END>
+change the volume of tv <START:percent_target> two <END>
+change the volume of tv <START:percent_target> three <END>
+change the volume of tv <START:percent_target> four <END>
+change the volume of tv <START:percent_target> five <END>
+change the volume of tv <START:percent_target> six <END>
+change the volume of tv <START:percent_target> seven <END>
+change the volume of tv <START:percent_target> eight <END>
+change the volume of tv <START:percent_target> nine <END>
+change the volume of tv <START:percent_target> ten <END>
+set volume of tv <START:percent_target> zero <END>
+set volume of tv <START:percent_target> one <END>
+set volume of tv <START:percent_target> two <END>
+set volume of tv <START:percent_target> three <END>
+set volume of tv <START:percent_target> four <END>
+set volume of tv <START:percent_target> five <END>
+set volume of tv <START:percent_target> six <END>
+set volume of tv <START:percent_target> seven <END>
+set volume of tv <START:percent_target> eight <END>
+set volume of tv <START:percent_target> nine <END>
+set volume of tv <START:percent_target> ten <END>
+set the volume of tv <START:percent_target> zero <END>
+set the volume of tv <START:percent_target> one <END>
+set the volume of tv <START:percent_target> two <END>
+set the volume of tv <START:percent_target> three <END>
+set the volume of tv <START:percent_target> four <END>
+set the volume of tv <START:percent_target> five <END>
+set the volume of tv <START:percent_target> six <END>
+set the volume of tv <START:percent_target> seven <END>
+set the volume of tv <START:percent_target> eight <END>
+set the volume of tv <START:percent_target> nine <END>
+set the volume of tv <START:percent_target> ten <END>
+volume of tv <START:percent_target> zero <END>
+volume of tv <START:percent_target> one <END>
+volume of tv <START:percent_target> two <END>
+volume of tv <START:percent_target> three <END>
+volume of tv <START:percent_target> four <END>
+volume of tv <START:percent_target> five <END>
+volume of tv <START:percent_target> six <END>
+volume of tv <START:percent_target> seven <END>
+volume of tv <START:percent_target> eight <END>
+volume of tv <START:percent_target> nine <END>
+volume of tv <START:percent_target> ten <END>
+change volume to <START:percent_target> zero <END>
+change volume to <START:percent_target> one <END>
+change volume to <START:percent_target> two <END>
+change volume to <START:percent_target> three <END>
+change volume to <START:percent_target> four <END>
+change volume to <START:percent_target> five <END>
+change volume to <START:percent_target> six <END>
+change volume to <START:percent_target> seven <END>
+change volume to <START:percent_target> eight <END>
+change volume to <START:percent_target> nine <END>
+change volume to <START:percent_target> ten <END>
+change the volume to <START:percent_target> zero <END>
+change the volume to <START:percent_target> one <END>
+change the volume to <START:percent_target> two <END>
+change the volume to <START:percent_target> three <END>
+change the volume to <START:percent_target> four <END>
+change the volume to <START:percent_target> five <END>
+change the volume to <START:percent_target> six <END>
+change the volume to <START:percent_target> seven <END>
+change the volume to <START:percent_target> eight <END>
+change the volume to <START:percent_target> nine <END>
+change the volume to <START:percent_target> ten <END>
+set volume to <START:percent_target> zero <END>
+set volume to <START:percent_target> one <END>
+set volume to <START:percent_target> two <END>
+set volume to <START:percent_target> three <END>
+set volume to <START:percent_target> four <END>
+set volume to <START:percent_target> five <END>
+set volume to <START:percent_target> six <END>
+set volume to <START:percent_target> seven <END>
+set volume to <START:percent_target> eight <END>
+set volume to <START:percent_target> nine <END>
+set volume to <START:percent_target> ten <END>
+set the volume to <START:percent_target> zero <END>
+set the volume to <START:percent_target> one <END>
+set the volume to <START:percent_target> two <END>
+set the volume to <START:percent_target> three <END>
+set the volume to <START:percent_target> four <END>
+set the volume to <START:percent_target> five <END>
+set the volume to <START:percent_target> six <END>
+set the volume to <START:percent_target> seven <END>
+set the volume to <START:percent_target> eight <END>
+set the volume to <START:percent_target> nine <END>
+set the volume to <START:percent_target> ten <END>
+volume to <START:percent_target> zero <END>
+volume to <START:percent_target> one <END>
+volume to <START:percent_target> two <END>
+volume to <START:percent_target> three <END>
+volume to <START:percent_target> four <END>
+volume to <START:percent_target> five <END>
+volume to <START:percent_target> six <END>
+volume to <START:percent_target> seven <END>
+volume to <START:percent_target> eight <END>
+volume to <START:percent_target> nine <END>
+volume to <START:percent_target> ten <END>
+change music volume to <START:percent_target> zero <END>
+change music volume to <START:percent_target> one <END>
+change music volume to <START:percent_target> two <END>
+change music volume to <START:percent_target> three <END>
+change music volume to <START:percent_target> four <END>
+change music volume to <START:percent_target> five <END>
+change music volume to <START:percent_target> six <END>
+change music volume to <START:percent_target> seven <END>
+change music volume to <START:percent_target> eight <END>
+change music volume to <START:percent_target> nine <END>
+change music volume to <START:percent_target> ten <END>
+change the music volume to <START:percent_target> zero <END>
+change the music volume to <START:percent_target> one <END>
+change the music volume to <START:percent_target> two <END>
+change the music volume to <START:percent_target> three <END>
+change the music volume to <START:percent_target> four <END>
+change the music volume to <START:percent_target> five <END>
+change the music volume to <START:percent_target> six <END>
+change the music volume to <START:percent_target> seven <END>
+change the music volume to <START:percent_target> eight <END>
+change the music volume to <START:percent_target> nine <END>
+change the music volume to <START:percent_target> ten <END>
+set music volume to <START:percent_target> zero <END>
+set music volume to <START:percent_target> one <END>
+set music volume to <START:percent_target> two <END>
+set music volume to <START:percent_target> three <END>
+set music volume to <START:percent_target> four <END>
+set music volume to <START:percent_target> five <END>
+set music volume to <START:percent_target> six <END>
+set music volume to <START:percent_target> seven <END>
+set music volume to <START:percent_target> eight <END>
+set music volume to <START:percent_target> nine <END>
+set music volume to <START:percent_target> ten <END>
+set the music volume to <START:percent_target> zero <END>
+set the music volume to <START:percent_target> one <END>
+set the music volume to <START:percent_target> two <END>
+set the music volume to <START:percent_target> three <END>
+set the music volume to <START:percent_target> four <END>
+set the music volume to <START:percent_target> five <END>
+set the music volume to <START:percent_target> six <END>
+set the music volume to <START:percent_target> seven <END>
+set the music volume to <START:percent_target> eight <END>
+set the music volume to <START:percent_target> nine <END>
+set the music volume to <START:percent_target> ten <END>
+music volume to <START:percent_target> zero <END>
+music volume to <START:percent_target> one <END>
+music volume to <START:percent_target> two <END>
+music volume to <START:percent_target> three <END>
+music volume to <START:percent_target> four <END>
+music volume to <START:percent_target> five <END>
+music volume to <START:percent_target> six <END>
+music volume to <START:percent_target> seven <END>
+music volume to <START:percent_target> eight <END>
+music volume to <START:percent_target> nine <END>
+music volume to <START:percent_target> ten <END>
+change volume of the music to <START:percent_target> zero <END>
+change volume of the music to <START:percent_target> one <END>
+change volume of the music to <START:percent_target> two <END>
+change volume of the music to <START:percent_target> three <END>
+change volume of the music to <START:percent_target> four <END>
+change volume of the music to <START:percent_target> five <END>
+change volume of the music to <START:percent_target> six <END>
+change volume of the music to <START:percent_target> seven <END>
+change volume of the music to <START:percent_target> eight <END>
+change volume of the music to <START:percent_target> nine <END>
+change volume of the music to <START:percent_target> ten <END>
+change the volume of the music to <START:percent_target> zero <END>
+change the volume of the music to <START:percent_target> one <END>
+change the volume of the music to <START:percent_target> two <END>
+change the volume of the music to <START:percent_target> three <END>
+change the volume of the music to <START:percent_target> four <END>
+change the volume of the music to <START:percent_target> five <END>
+change the volume of the music to <START:percent_target> six <END>
+change the volume of the music to <START:percent_target> seven <END>
+change the volume of the music to <START:percent_target> eight <END>
+change the volume of the music to <START:percent_target> nine <END>
+change the volume of the music to <START:percent_target> ten <END>
+set volume of the music to <START:percent_target> zero <END>
+set volume of the music to <START:percent_target> one <END>
+set volume of the music to <START:percent_target> two <END>
+set volume of the music to <START:percent_target> three <END>
+set volume of the music to <START:percent_target> four <END>
+set volume of the music to <START:percent_target> five <END>
+set volume of the music to <START:percent_target> six <END>
+set volume of the music to <START:percent_target> seven <END>
+set volume of the music to <START:percent_target> eight <END>
+set volume of the music to <START:percent_target> nine <END>
+set volume of the music to <START:percent_target> ten <END>
+set the volume of the music to <START:percent_target> zero <END>
+set the volume of the music to <START:percent_target> one <END>
+set the volume of the music to <START:percent_target> two <END>
+set the volume of the music to <START:percent_target> three <END>
+set the volume of the music to <START:percent_target> four <END>
+set the volume of the music to <START:percent_target> five <END>
+set the volume of the music to <START:percent_target> six <END>
+set the volume of the music to <START:percent_target> seven <END>
+set the volume of the music to <START:percent_target> eight <END>
+set the volume of the music to <START:percent_target> nine <END>
+set the volume of the music to <START:percent_target> ten <END>
+volume of the music to <START:percent_target> zero <END>
+volume of the music to <START:percent_target> one <END>
+volume of the music to <START:percent_target> two <END>
+volume of the music to <START:percent_target> three <END>
+volume of the music to <START:percent_target> four <END>
+volume of the music to <START:percent_target> five <END>
+volume of the music to <START:percent_target> six <END>
+volume of the music to <START:percent_target> seven <END>
+volume of the music to <START:percent_target> eight <END>
+volume of the music to <START:percent_target> nine <END>
+volume of the music to <START:percent_target> ten <END>
+change volume of music to <START:percent_target> zero <END>
+change volume of music to <START:percent_target> one <END>
+change volume of music to <START:percent_target> two <END>
+change volume of music to <START:percent_target> three <END>
+change volume of music to <START:percent_target> four <END>
+change volume of music to <START:percent_target> five <END>
+change volume of music to <START:percent_target> six <END>
+change volume of music to <START:percent_target> seven <END>
+change volume of music to <START:percent_target> eight <END>
+change volume of music to <START:percent_target> nine <END>
+change volume of music to <START:percent_target> ten <END>
+change the volume of music to <START:percent_target> zero <END>
+change the volume of music to <START:percent_target> one <END>
+change the volume of music to <START:percent_target> two <END>
+change the volume of music to <START:percent_target> three <END>
+change the volume of music to <START:percent_target> four <END>
+change the volume of music to <START:percent_target> five <END>
+change the volume of music to <START:percent_target> six <END>
+change the volume of music to <START:percent_target> seven <END>
+change the volume of music to <START:percent_target> eight <END>
+change the volume of music to <START:percent_target> nine <END>
+change the volume of music to <START:percent_target> ten <END>
+set volume of music to <START:percent_target> zero <END>
+set volume of music to <START:percent_target> one <END>
+set volume of music to <START:percent_target> two <END>
+set volume of music to <START:percent_target> three <END>
+set volume of music to <START:percent_target> four <END>
+set volume of music to <START:percent_target> five <END>
+set volume of music to <START:percent_target> six <END>
+set volume of music to <START:percent_target> seven <END>
+set volume of music to <START:percent_target> eight <END>
+set volume of music to <START:percent_target> nine <END>
+set volume of music to <START:percent_target> ten <END>
+set the volume of music to <START:percent_target> zero <END>
+set the volume of music to <START:percent_target> one <END>
+set the volume of music to <START:percent_target> two <END>
+set the volume of music to <START:percent_target> three <END>
+set the volume of music to <START:percent_target> four <END>
+set the volume of music to <START:percent_target> five <END>
+set the volume of music to <START:percent_target> six <END>
+set the volume of music to <START:percent_target> seven <END>
+set the volume of music to <START:percent_target> eight <END>
+set the volume of music to <START:percent_target> nine <END>
+set the volume of music to <START:percent_target> ten <END>
+volume of music to <START:percent_target> zero <END>
+volume of music to <START:percent_target> one <END>
+volume of music to <START:percent_target> two <END>
+volume of music to <START:percent_target> three <END>
+volume of music to <START:percent_target> four <END>
+volume of music to <START:percent_target> five <END>
+volume of music to <START:percent_target> six <END>
+volume of music to <START:percent_target> seven <END>
+volume of music to <START:percent_target> eight <END>
+volume of music to <START:percent_target> nine <END>
+volume of music to <START:percent_target> ten <END>
+change tv volume to <START:percent_target> zero <END>
+change tv volume to <START:percent_target> one <END>
+change tv volume to <START:percent_target> two <END>
+change tv volume to <START:percent_target> three <END>
+change tv volume to <START:percent_target> four <END>
+change tv volume to <START:percent_target> five <END>
+change tv volume to <START:percent_target> six <END>
+change tv volume to <START:percent_target> seven <END>
+change tv volume to <START:percent_target> eight <END>
+change tv volume to <START:percent_target> nine <END>
+change tv volume to <START:percent_target> ten <END>
+change the tv volume to <START:percent_target> zero <END>
+change the tv volume to <START:percent_target> one <END>
+change the tv volume to <START:percent_target> two <END>
+change the tv volume to <START:percent_target> three <END>
+change the tv volume to <START:percent_target> four <END>
+change the tv volume to <START:percent_target> five <END>
+change the tv volume to <START:percent_target> six <END>
+change the tv volume to <START:percent_target> seven <END>
+change the tv volume to <START:percent_target> eight <END>
+change the tv volume to <START:percent_target> nine <END>
+change the tv volume to <START:percent_target> ten <END>
+set tv volume to <START:percent_target> zero <END>
+set tv volume to <START:percent_target> one <END>
+set tv volume to <START:percent_target> two <END>
+set tv volume to <START:percent_target> three <END>
+set tv volume to <START:percent_target> four <END>
+set tv volume to <START:percent_target> five <END>
+set tv volume to <START:percent_target> six <END>
+set tv volume to <START:percent_target> seven <END>
+set tv volume to <START:percent_target> eight <END>
+set tv volume to <START:percent_target> nine <END>
+set tv volume to <START:percent_target> ten <END>
+set the tv volume to <START:percent_target> zero <END>
+set the tv volume to <START:percent_target> one <END>
+set the tv volume to <START:percent_target> two <END>
+set the tv volume to <START:percent_target> three <END>
+set the tv volume to <START:percent_target> four <END>
+set the tv volume to <START:percent_target> five <END>
+set the tv volume to <START:percent_target> six <END>
+set the tv volume to <START:percent_target> seven <END>
+set the tv volume to <START:percent_target> eight <END>
+set the tv volume to <START:percent_target> nine <END>
+set the tv volume to <START:percent_target> ten <END>
+tv volume to <START:percent_target> zero <END>
+tv volume to <START:percent_target> one <END>
+tv volume to <START:percent_target> two <END>
+tv volume to <START:percent_target> three <END>
+tv volume to <START:percent_target> four <END>
+tv volume to <START:percent_target> five <END>
+tv volume to <START:percent_target> six <END>
+tv volume to <START:percent_target> seven <END>
+tv volume to <START:percent_target> eight <END>
+tv volume to <START:percent_target> nine <END>
+tv volume to <START:percent_target> ten <END>
+change volume of the tv to <START:percent_target> zero <END>
+change volume of the tv to <START:percent_target> one <END>
+change volume of the tv to <START:percent_target> two <END>
+change volume of the tv to <START:percent_target> three <END>
+change volume of the tv to <START:percent_target> four <END>
+change volume of the tv to <START:percent_target> five <END>
+change volume of the tv to <START:percent_target> six <END>
+change volume of the tv to <START:percent_target> seven <END>
+change volume of the tv to <START:percent_target> eight <END>
+change volume of the tv to <START:percent_target> nine <END>
+change volume of the tv to <START:percent_target> ten <END>
+change the volume of the tv to <START:percent_target> zero <END>
+change the volume of the tv to <START:percent_target> one <END>
+change the volume of the tv to <START:percent_target> two <END>
+change the volume of the tv to <START:percent_target> three <END>
+change the volume of the tv to <START:percent_target> four <END>
+change the volume of the tv to <START:percent_target> five <END>
+change the volume of the tv to <START:percent_target> six <END>
+change the volume of the tv to <START:percent_target> seven <END>
+change the volume of the tv to <START:percent_target> eight <END>
+change the volume of the tv to <START:percent_target> nine <END>
+change the volume of the tv to <START:percent_target> ten <END>
+set volume of the tv to <START:percent_target> zero <END>
+set volume of the tv to <START:percent_target> one <END>
+set volume of the tv to <START:percent_target> two <END>
+set volume of the tv to <START:percent_target> three <END>
+set volume of the tv to <START:percent_target> four <END>
+set volume of the tv to <START:percent_target> five <END>
+set volume of the tv to <START:percent_target> six <END>
+set volume of the tv to <START:percent_target> seven <END>
+set volume of the tv to <START:percent_target> eight <END>
+set volume of the tv to <START:percent_target> nine <END>
+set volume of the tv to <START:percent_target> ten <END>
+set the volume of the tv to <START:percent_target> zero <END>
+set the volume of the tv to <START:percent_target> one <END>
+set the volume of the tv to <START:percent_target> two <END>
+set the volume of the tv to <START:percent_target> three <END>
+set the volume of the tv to <START:percent_target> four <END>
+set the volume of the tv to <START:percent_target> five <END>
+set the volume of the tv to <START:percent_target> six <END>
+set the volume of the tv to <START:percent_target> seven <END>
+set the volume of the tv to <START:percent_target> eight <END>
+set the volume of the tv to <START:percent_target> nine <END>
+set the volume of the tv to <START:percent_target> ten <END>
+volume of the tv to <START:percent_target> zero <END>
+volume of the tv to <START:percent_target> one <END>
+volume of the tv to <START:percent_target> two <END>
+volume of the tv to <START:percent_target> three <END>
+volume of the tv to <START:percent_target> four <END>
+volume of the tv to <START:percent_target> five <END>
+volume of the tv to <START:percent_target> six <END>
+volume of the tv to <START:percent_target> seven <END>
+volume of the tv to <START:percent_target> eight <END>
+volume of the tv to <START:percent_target> nine <END>
+volume of the tv to <START:percent_target> ten <END>
+change volume of tv to <START:percent_target> zero <END>
+change volume of tv to <START:percent_target> one <END>
+change volume of tv to <START:percent_target> two <END>
+change volume of tv to <START:percent_target> three <END>
+change volume of tv to <START:percent_target> four <END>
+change volume of tv to <START:percent_target> five <END>
+change volume of tv to <START:percent_target> six <END>
+change volume of tv to <START:percent_target> seven <END>
+change volume of tv to <START:percent_target> eight <END>
+change volume of tv to <START:percent_target> nine <END>
+change volume of tv to <START:percent_target> ten <END>
+change the volume of tv to <START:percent_target> zero <END>
+change the volume of tv to <START:percent_target> one <END>
+change the volume of tv to <START:percent_target> two <END>
+change the volume of tv to <START:percent_target> three <END>
+change the volume of tv to <START:percent_target> four <END>
+change the volume of tv to <START:percent_target> five <END>
+change the volume of tv to <START:percent_target> six <END>
+change the volume of tv to <START:percent_target> seven <END>
+change the volume of tv to <START:percent_target> eight <END>
+change the volume of tv to <START:percent_target> nine <END>
+change the volume of tv to <START:percent_target> ten <END>
+set volume of tv to <START:percent_target> zero <END>
+set volume of tv to <START:percent_target> one <END>
+set volume of tv to <START:percent_target> two <END>
+set volume of tv to <START:percent_target> three <END>
+set volume of tv to <START:percent_target> four <END>
+set volume of tv to <START:percent_target> five <END>
+set volume of tv to <START:percent_target> six <END>
+set volume of tv to <START:percent_target> seven <END>
+set volume of tv to <START:percent_target> eight <END>
+set volume of tv to <START:percent_target> nine <END>
+set volume of tv to <START:percent_target> ten <END>
+set the volume of tv to <START:percent_target> zero <END>
+set the volume of tv to <START:percent_target> one <END>
+set the volume of tv to <START:percent_target> two <END>
+set the volume of tv to <START:percent_target> three <END>
+set the volume of tv to <START:percent_target> four <END>
+set the volume of tv to <START:percent_target> five <END>
+set the volume of tv to <START:percent_target> six <END>
+set the volume of tv to <START:percent_target> seven <END>
+set the volume of tv to <START:percent_target> eight <END>
+set the volume of tv to <START:percent_target> nine <END>
+set the volume of tv to <START:percent_target> ten <END>
+volume of tv to <START:percent_target> zero <END>
+volume of tv to <START:percent_target> one <END>
+volume of tv to <START:percent_target> two <END>
+volume of tv to <START:percent_target> three <END>
+volume of tv to <START:percent_target> four <END>
+volume of tv to <START:percent_target> five <END>
+volume of tv to <START:percent_target> six <END>
+volume of tv to <START:percent_target> seven <END>
+volume of tv to <START:percent_target> eight <END>
+volume of tv to <START:percent_target> nine <END>
+volume of tv to <START:percent_target> ten <END>

@@ -2780,37 +2780,6 @@ set the volume of the tv to seven
 set the volume of the tv to eight
 set the volume of the tv to nine
 set the volume of the tv to ten
-volume of the tv zero
-volume of the tv one
-volume of the tv two
-volume of the tv three
-volume of the tv four
-volume of the tv five
-volume of the tv six
-volume of the tv seven
-volume of the tv eight
-volume of the tv nine
-volume of the tv ten
-volume of the tv to zero
-volume of the tv to one
-volume of the tv to two
-volume of the tv to three
-volume of the tv to four
-volume of the tv to five
-volume of the tv to six
-volume of the tv to seven
-volume of the tv to eight
-volume of the tv to nine
-volume of the tv to ten
-set volume of the tv
-set the volume of the tv
-set volume of the tv to
-set the volume of the tv to
-change volume of the tv
-change the volume of the tv
-change volume of the tv to
-change the volume of the tv to
-volume of the tv to
 change volume of tv to zero
 change volume of tv to one
 change volume of tv to two
@@ -3476,3 +3445,422 @@ window
 windows
 write
 zero
+change music volume zero
+change music volume one
+change music volume two
+change music volume three
+change music volume four
+change music volume five
+change music volume six
+change music volume seven
+change music volume eight
+change music volume nine
+change music volume ten
+change the music volume zero
+change the music volume one
+change the music volume two
+change the music volume three
+change the music volume four
+change the music volume five
+change the music volume six
+change the music volume seven
+change the music volume eight
+change the music volume nine
+change the music volume ten
+set music volume zero
+set music volume one
+set music volume two
+set music volume three
+set music volume four
+set music volume five
+set music volume six
+set music volume seven
+set music volume eight
+set music volume nine
+set music volume ten
+set the music volume zero
+set the music volume one
+set the music volume two
+set the music volume three
+set the music volume four
+set the music volume five
+set the music volume six
+set the music volume seven
+set the music volume eight
+set the music volume nine
+set the music volume ten
+change volume of the music zero
+change volume of the music one
+change volume of the music two
+change volume of the music three
+change volume of the music four
+change volume of the music five
+change volume of the music six
+change volume of the music seven
+change volume of the music eight
+change volume of the music nine
+change volume of the music ten
+change the volume of the music zero
+change the volume of the music one
+change the volume of the music two
+change the volume of the music three
+change the volume of the music four
+change the volume of the music five
+change the volume of the music six
+change the volume of the music seven
+change the volume of the music eight
+change the volume of the music nine
+change the volume of the music ten
+set volume of the music zero
+set volume of the music one
+set volume of the music two
+set volume of the music three
+set volume of the music four
+set volume of the music five
+set volume of the music six
+set volume of the music seven
+set volume of the music eight
+set volume of the music nine
+set volume of the music ten
+set the volume of the music zero
+set the volume of the music one
+set the volume of the music two
+set the volume of the music three
+set the volume of the music four
+set the volume of the music five
+set the volume of the music six
+set the volume of the music seven
+set the volume of the music eight
+set the volume of the music nine
+set the volume of the music ten
+set volume of the music
+set the volume of the music
+set volume of the music to
+set the volume of the music to
+change volume of the music
+change the volume of the music
+change volume of the music to
+change the volume of the music to
+volume of the music to
+change volume of music zero
+change volume of music one
+change volume of music two
+change volume of music three
+change volume of music four
+change volume of music five
+change volume of music six
+change volume of music seven
+change volume of music eight
+change volume of music nine
+change volume of music ten
+change the volume of music zero
+change the volume of music one
+change the volume of music two
+change the volume of music three
+change the volume of music four
+change the volume of music five
+change the volume of music six
+change the volume of music seven
+change the volume of music eight
+change the volume of music nine
+change the volume of music ten
+set volume of music zero
+set volume of music one
+set volume of music two
+set volume of music three
+set volume of music four
+set volume of music five
+set volume of music six
+set volume of music seven
+set volume of music eight
+set volume of music nine
+set volume of music ten
+set the volume of music zero
+set the volume of music one
+set the volume of music two
+set the volume of music three
+set the volume of music four
+set the volume of music five
+set the volume of music six
+set the volume of music seven
+set the volume of music eight
+set the volume of music nine
+set the volume of music ten
+volume of music zero
+volume of music one
+volume of music two
+volume of music three
+volume of music four
+volume of music five
+volume of music six
+volume of music seven
+volume of music eight
+volume of music nine
+volume of music ten
+volume of music zero
+volume of music one
+volume of music two
+volume of music three
+volume of music four
+volume of music five
+volume of music six
+volume of music seven
+volume of music eight
+volume of music nine
+volume of music ten
+set volume of music
+set the volume of music
+set volume of music to
+set the volume of music to
+change volume of music
+change the volume of music
+change volume of music to
+change the volume of music to
+volume of music to
+change tv volume zero
+change tv volume one
+change tv volume two
+change tv volume three
+change tv volume four
+change tv volume five
+change tv volume six
+change tv volume seven
+change tv volume eight
+change tv volume nine
+change tv volume ten
+change the tv volume zero
+change the tv volume one
+change the tv volume two
+change the tv volume three
+change the tv volume four
+change the tv volume five
+change the tv volume six
+change the tv volume seven
+change the tv volume eight
+change the tv volume nine
+change the tv volume ten
+set tv volume zero
+set tv volume one
+set tv volume two
+set tv volume three
+set tv volume four
+set tv volume five
+set tv volume six
+set tv volume seven
+set tv volume eight
+set tv volume nine
+set tv volume ten
+set the tv volume zero
+set the tv volume one
+set the tv volume two
+set the tv volume three
+set the tv volume four
+set the tv volume five
+set the tv volume six
+set the tv volume seven
+set the tv volume eight
+set the tv volume nine
+set the tv volume ten
+set tv volume
+set the tv volume
+set tv volume to
+set the tv volume to
+change tv volume
+change the tv volume
+change tv volume to
+change the tv volume to
+tv volume to
+change volume of the tv zero
+change volume of the tv one
+change volume of the tv two
+change volume of the tv three
+change volume of the tv four
+change volume of the tv five
+change volume of the tv six
+change volume of the tv seven
+change volume of the tv eight
+change volume of the tv nine
+change volume of the tv ten
+change the volume of the tv zero
+change the volume of the tv one
+change the volume of the tv two
+change the volume of the tv three
+change the volume of the tv four
+change the volume of the tv five
+change the volume of the tv six
+change the volume of the tv seven
+change the volume of the tv eight
+change the volume of the tv nine
+change the volume of the tv ten
+set volume of the tv zero
+set volume of the tv one
+set volume of the tv two
+set volume of the tv three
+set volume of the tv four
+set volume of the tv five
+set volume of the tv six
+set volume of the tv seven
+set volume of the tv eight
+set volume of the tv nine
+set volume of the tv ten
+set the volume of the tv zero
+set the volume of the tv one
+set the volume of the tv two
+set the volume of the tv three
+set the volume of the tv four
+set the volume of the tv five
+set the volume of the tv six
+set the volume of the tv seven
+set the volume of the tv eight
+set the volume of the tv nine
+set the volume of the tv ten
+volume of the tv zero
+volume of the tv one
+volume of the tv two
+volume of the tv three
+volume of the tv four
+volume of the tv five
+volume of the tv six
+volume of the tv seven
+volume of the tv eight
+volume of the tv nine
+volume of the tv ten
+volume of the tv zero
+volume of the tv one
+volume of the tv two
+volume of the tv three
+volume of the tv four
+volume of the tv five
+volume of the tv six
+volume of the tv seven
+volume of the tv eight
+volume of the tv nine
+volume of the tv ten
+set volume of the tv
+set the volume of the tv
+set volume of the tv to
+set the volume of the tv to
+change volume of the tv
+change the volume of the tv
+change volume of the tv to
+change the volume of the tv to
+volume of the tv to
+change volume of tv zero
+change volume of tv one
+change volume of tv two
+change volume of tv three
+change volume of tv four
+change volume of tv five
+change volume of tv six
+change volume of tv seven
+change volume of tv eight
+change volume of tv nine
+change volume of tv ten
+change the volume of tv three
+change the volume of tv zero
+change the volume of tv one
+change the volume of tv two
+change the volume of tv four
+change the volume of tv five
+change the volume of tv six
+change the volume of tv seven
+change the volume of tv eight
+change the volume of tv nine
+change the volume of tv ten
+set volume of tv zero
+set volume of tv one
+set volume of tv two
+set volume of tv three
+set volume of tv four
+set volume of tv five
+set volume of tv six
+set volume of tv seven
+set volume of tv eight
+set volume of tv nine
+set volume of tv ten
+set the volume of tv zero
+set the volume of tv one
+set the volume of tv two
+set the volume of tv three
+set the volume of tv four
+set the volume of tv five
+set the volume of tv six
+set the volume of tv seven
+set the volume of tv eight
+set the volume of tv nine
+set the volume of tv ten
+volume of tv zero
+volume of tv one
+volume of tv two
+volume of tv three
+volume of tv four
+volume of tv five
+volume of tv six
+volume of tv seven
+volume of tv eight
+volume of tv nine
+volume of tv ten
+volume of tv zero
+volume of tv one
+volume of tv two
+volume of tv three
+volume of tv four
+volume of tv five
+volume of tv six
+volume of tv seven
+volume of tv eight
+volume of tv nine
+volume of tv ten
+set volume of tv
+set the volume of tv
+set volume of tv to
+set the volume of tv to
+change volume of tv
+change the volume of tv
+change volume of tv to
+change the volume of tv to
+volume of tv to
+change volume zero
+change volume one
+change volume two
+change volume three
+change volume four
+change volume five
+change volume six
+change volume seven
+change volume eight
+change volume nine
+change volume ten
+change the volume zero
+change the volume one
+change the volume two
+change the volume three
+change the volume four
+change the volume five
+change the volume six
+change the volume seven
+change the volume eight
+change the volume nine
+change the volume ten
+set volume zero
+set volume one
+set volume two
+set volume three
+set volume four
+set volume five
+set volume six
+set volume seven
+set volume eight
+set volume nine
+set volume ten
+set the volume zero
+set the volume one
+set the volume two
+set the volume three
+set the volume four
+set the volume five
+set the volume six
+set the volume seven
+set the volume eight
+set the volume nine
+set the volume ten

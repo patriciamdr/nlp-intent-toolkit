@@ -75,15 +75,80 @@ volume <START:percent_target> zeven <END>
 volume <START:percent_target> acht <END>
 volume <START:percent_target> negen <END>
 volume <START:percent_target> tien <END>
-volume op
-het volume op
-verander het volume op
-verander het volume
-stel het volume in op
-stel het volume in
-stel volume in
-stel volume in op
-zet het volume op
-zet het volume
-zet de volume
-zet de volume op
+stel het volume op <START:percent_target> nul <END>
+stel het volume op <START:percent_target> een <END>
+stel het volume op <START:percent_target> twee <END>
+stel het volume op <START:percent_target> drie <END>
+stel het volume op <START:percent_target> vier <END>
+stel het volume op <START:percent_target> vijf <END>
+stel het volume op <START:percent_target> zes <END>
+stel het volume op <START:percent_target> zeven <END>
+stel het volume op <START:percent_target> acht <END>
+stel het volume op <START:percent_target> negen <END>
+stel het volume op <START:percent_target> tien <END>
+stel volume op <START:percent_target> nul <END>
+stel volume op <START:percent_target> een <END>
+stel volume op <START:percent_target> twee <END>
+stel volume op <START:percent_target> drie <END>
+stel volume op <START:percent_target> vier <END>
+stel volume op <START:percent_target> vijf <END>
+stel volume op <START:percent_target> zes <END>
+stel volume op <START:percent_target> zeven <END>
+stel volume op <START:percent_target> acht <END>
+stel volume op <START:percent_target> negen <END>
+stel volume op <START:percent_target> tien <END>
+zet het volume op <START:percent_target> nul <END>
+zet het volume op <START:percent_target> een <END>
+zet het volume op <START:percent_target> twee <END>
+zet het volume op <START:percent_target> drie <END>
+zet het volume op <START:percent_target> vier <END>
+zet het volume op <START:percent_target> vijf <END>
+zet het volume op <START:percent_target> zes <END>
+zet het volume op <START:percent_target> zeven <END>
+zet het volume op <START:percent_target> acht <END>
+zet het volume op <START:percent_target> negen <END>
+zet het volume op <START:percent_target> tien <END>
+zet de volume op <START:percent_target> nul <END>
+zet de volume op <START:percent_target> een <END>
+zet de volume op <START:percent_target> twee <END>
+zet de volume op <START:percent_target> drie <END>
+zet de volume op <START:percent_target> vier <END>
+zet de volume op <START:percent_target> vijf <END>
+zet de volume op <START:percent_target> zes <END>
+zet de volume op <START:percent_target> zeven <END>
+zet de volume op <START:percent_target> acht <END>
+zet de volume op <START:percent_target> negen <END>
+zet de volume op <START:percent_target> tien <END>
+het volume op <START:percent_target> nul <END> zetten
+het volume op <START:percent_target> een <END> zetten
+het volume op <START:percent_target> twee <END> zetten
+het volume op <START:percent_target> drie <END> zetten
+het volume op <START:percent_target> vier <END> zetten
+het volume op <START:percent_target> vijf <END> zetten
+het volume op <START:percent_target> zes <END> zetten
+het volume op <START:percent_target> zeven <END> zetten
+het volume op <START:percent_target> acht <END> zetten
+het volume op <START:percent_target> negen <END> zetten
+het volume op <START:percent_target> tien <END> zetten
+verander het volume op <START:percent_target> nul <END>
+verander het volume op <START:percent_target> een <END>
+verander het volume op <START:percent_target> twee <END>
+verander het volume op <START:percent_target> drie <END>
+verander het volume op <START:percent_target> vier <END>
+verander het volume op <START:percent_target> vijf <END>
+verander het volume op <START:percent_target> zes <END>
+verander het volume op <START:percent_target> zeven <END>
+verander het volume op <START:percent_target> acht <END>
+verander het volume op <START:percent_target> negen <END>
+verander het volume op <START:percent_target> tien <END>
+volume op <START:percent_target> nul <END>
+volume op <START:percent_target> een <END>
+volume op <START:percent_target> twee <END>
+volume op <START:percent_target> drie <END>
+volume op <START:percent_target> vier <END>
+volume op <START:percent_target> vijf <END>
+volume op <START:percent_target> zes <END>
+volume op <START:percent_target> zeven <END>
+volume op <START:percent_target> acht <END>
+volume op <START:percent_target> negen <END>
+volume op <START:percent_target> tien <END>

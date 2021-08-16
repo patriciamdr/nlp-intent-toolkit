@@ -48,13 +48,14 @@ public class IntentTrainer {
         return false;
     }
 
-    public static String getKeyByValue(Map<String, String[]> map, String value) {
+    public static ArrayList<String> getKeyByValue(Map<String, String[]> map, String value) {
+        ArrayList<String> results = new ArrayList<String>();
         for (Map.Entry<String, String[]> entry : map.entrySet()) {
             if (contains(entry.getValue(), value)) {
-                return entry.getKey();
+                results.add(entry.getKey());
             }
         }
-    return null;
+        return results;
     }
 
     public static void main(String[] args) throws Exception {
@@ -159,25 +160,19 @@ public class IntentTrainer {
         while ((s = System.console().readLine()) != null) {
             String[] tokens = tokenizer.tokenize(s);
             Map<String, Double> scoreMap = categorizer.scoreMap(tokens);
+            String result;
             if (scoreMap.values().stream().distinct().count() <= 1) {
-                String result = "NavigationIntent";
-                System.out.print("{ action: '" + result  + "', args: { ");
-
-                try {
-                    NameFinderME nameFinderME = nameFinderMEs.get(getKeyByValue(slotsAndDoccatsMap, result));
-                    Span[] spans = nameFinderME.find(tokens);
-                    String[] names = Span.spansToStrings(spans, tokens);
-										System.out.print(spans[spans.length - 1].getType() + ": '" + names[names.length - 1] + "' ");
-                }
-                catch (NullPointerException e) { }
-                System.out.println("} }");
+                result = "NavigationIntent";
             } else {
                 double[] outcome = categorizer.categorize(tokenizer.tokenize(s));
-                String result = categorizer.getBestCategory(outcome);
-                System.out.print("{ action: '" + result  + "', args: { ");
+                result = categorizer.getBestCategory(outcome);
+            }
 
-                try {
-                    NameFinderME nameFinderME = nameFinderMEs.get(getKeyByValue(slotsAndDoccatsMap, result));
+            System.out.print("{ action: '" + result + "', args: { ");
+            try {
+                ArrayList<String> slotKeys = getKeyByValue(slotsAndDoccatsMap, result);
+                for (String key : slotKeys) {
+                    NameFinderME nameFinderME = nameFinderMEs.get(key);
                     Span[] spans = nameFinderME.find(tokens);
                     String[] names = Span.spansToStrings(spans, tokens);
                     // add most likely target if more than one is available
@@ -188,9 +183,23 @@ public class IntentTrainer {
                         System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
                     }
                 }
-                catch (NullPointerException e) {}
-                System.out.println("} }");
+                if (result.equals("SetVolumeActionIntent")) {
+                    NameFinderME nameFinderME = nameFinderMEs.get("volume_target");
+                    Span[] spans = nameFinderME.find(tokens);
+                    String[] names = Span.spansToStrings(spans, tokens);
+                    if (spans.length >= 1) {
+                        double[] probs = nameFinderME.probs(spans);
+                        double maxProb = Arrays.stream(probs).boxed().max(Double::compareTo).get();
+                        int maxIndex = Arrays.asList(Arrays.stream(probs).boxed().toArray(Double[]::new)).indexOf(maxProb);
+                        System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
+                    }
+										nameFinderME.clearAdaptiveData();
+                }
             }
+            catch (NullPointerException e) {
+                System.out.println(e.toString());
+            }
+            System.out.println("} }");
             System.out.print(">");
         }
     }

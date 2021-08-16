@@ -1,3 +1,29 @@
+<START:nav_target> fenster <END>
+<START:nav_target> vorhang <END>
+<START:nav_target> vorhänge <END>
+<START:nav_target> bett <END>
+<START:nav_target> raum licht <END>
+<START:nav_target> raum lichter <END>
+<START:nav_target> tisch lampe <END>
+<START:nav_target> bett lampe <END>
+<START:nav_target> heater <END>
+<START:nav_target> heizung <END>
+<START:nav_target> ventilator <END>
+<START:nav_target> tür <END>
+<START:nav_target> alarm <END>
+<START:nav_target> musik <END>
+<START:nav_target> musik <END> lautstärke
+<START:nav_target> musik quelle <END>
+<START:nav_target> musik kontrolle <END>
+<START:nav_target> tv steuerung <END>
+<START:nav_target> fernseher steuerung <END>
+<START:nav_target> tv power <END>
+<START:nav_target> fernseher power <END>
+<START:nav_target> tv einstellungen <END>
+<START:nav_target> fernseher einstellungen <END>
+<START:nav_target> tv <END>
+<START:nav_target> tv <END> lautstärke
+<START:nav_target> fernseher <END> lautstärke
 das <START:nav_target> fenster <END>
 der <START:nav_target> vorhang <END>
 die <START:nav_target> vorhänge <END>
@@ -18,29 +44,76 @@ die <START:nav_target> tv steuerung <END>
 die <START:nav_target> tv power <END>
 die <START:nav_target> tv einstellungen <END>
 der <START:nav_target> tv <END>
-<START:nav_target> fenster <END>
-<START:nav_target> vorhang <END>
-<START:nav_target> vorhänge <END>
-<START:nav_target> bett <END>
-<START:nav_target> raum licht <END>
-<START:nav_target> raum lichter <END>
-<START:nav_target> tisch lampe <END>
-<START:nav_target> bett lampe <END>
-<START:nav_target> heater <END>
-<START:nav_target> heizung <END>
-<START:nav_target> ventilator <END>
-<START:nav_target> home <END>
-<START:nav_target> house mate <END>
-<START:nav_target> tür <END>
-<START:nav_target> alarm <END>
-<START:nav_target> intercom <END>
-<START:nav_target> musik <END>
-<START:nav_target> musik quelle <END>
-<START:nav_target> musik kontrolle <END>
-<START:nav_target> tv steuerung <END>
-<START:nav_target> tv power <END>
-<START:nav_target> tv einstellungen <END>
-<START:nav_target> tv <END>
+komme zurück auf <START:nav_target> fenster <END>
+komme zurück auf <START:nav_target> vorhang <END>
+komme zurück auf <START:nav_target> vorhänge <END>
+komme zurück auf <START:nav_target> bett <END>
+komme zurück auf <START:nav_target> raum licht <END>
+komme zurück auf <START:nav_target> raum lichter <END>
+komme zurück auf <START:nav_target> tisch lampe <END>
+komme zurück auf <START:nav_target> bett lampe <END>
+komme zurück auf <START:nav_target> heater <END>
+komme zurück auf <START:nav_target> heizung <END>
+komme zurück auf <START:nav_target> ventilator <END>
+komme zurück auf <START:nav_target> home <END>
+komme zurück auf <START:nav_target> house mate <END>
+komme zurück auf <START:nav_target> tür <END>
+komme zurück auf <START:nav_target> alarm <END>
+komme zurück auf <START:nav_target> intercom <END>
+komme zurück auf <START:nav_target> musik <END>
+komme zurück auf <START:nav_target> musik quelle <END>
+komme zurück auf <START:nav_target> musik kontrolle <END>
+komme zurück auf <START:nav_target> tv steuerung <END>
+komme zurück auf <START:nav_target> tv power <END>
+komme zurück auf <START:nav_target> tv einstellungen <END>
+komme zurück auf <START:nav_target> tv <END>
+gehe auf <START:nav_target> fenster <END>
+gehe auf <START:nav_target> vorhang <END>
+gehe auf <START:nav_target> vorhänge <END>
+gehe auf <START:nav_target> bett <END>
+gehe auf <START:nav_target> raum licht <END>
+gehe auf <START:nav_target> raum lichter <END>
+gehe auf <START:nav_target> tisch lampe <END>
+gehe auf <START:nav_target> bett lampe <END>
+gehe auf <START:nav_target> heater <END>
+gehe auf <START:nav_target> heizung <END>
+gehe auf <START:nav_target> ventilator <END>
+gehe auf <START:nav_target> home <END>
+gehe auf <START:nav_target> house mate <END>
+gehe auf <START:nav_target> tür <END>
+gehe auf <START:nav_target> alarm <END>
+gehe auf <START:nav_target> intercom <END>
+gehe auf <START:nav_target> musik <END>
+gehe auf <START:nav_target> musik quelle <END>
+gehe auf <START:nav_target> musik kontrolle <END>
+gehe auf <START:nav_target> tv steuerung <END>
+gehe auf <START:nav_target> tv power <END>
+gehe auf <START:nav_target> tv einstellungen <END>
+gehe auf <START:nav_target> tv <END>
+auf <START:nav_target> fenster <END>
+auf <START:nav_target> vorhang <END>
+auf <START:nav_target> vorhänge <END>
+auf <START:nav_target> bett <END>
+auf <START:nav_target> raum licht <END>
+auf <START:nav_target> raum lichter <END>
+auf <START:nav_target> tisch lampe <END>
+auf <START:nav_target> bett lampe <END>
+auf <START:nav_target> heater <END>
+auf <START:nav_target> heizung <END>
+auf <START:nav_target> ventilator <END>
+auf <START:nav_target> home <END>
+auf <START:nav_target> house mate <END>
+auf <START:nav_target> tür <END>
+auf <START:nav_target> alarm <END>
+auf <START:nav_target> intercom <END>
+auf <START:nav_target> musik <END>
+auf <START:nav_target> musik quelle <END>
+auf <START:nav_target> musik kontrolle <END>
+auf <START:nav_target> tv steuerung <END>
+auf <START:nav_target> tv power <END>
+auf <START:nav_target> tv einstellung <END>
+auf <START:nav_target> tv einstellungen <END>
+auf <START:nav_target> tv <END>
 zu <START:nav_target> fenster <END>
 zu <START:nav_target> vorhang <END>
 zu <START:nav_target> vorhänge <END>
@@ -607,6 +680,38 @@ die <START:nav_target> warn blinker <END>
 das <START:nav_target> warn blinker <END> menü
 zum <START:nav_target> warn blinker <END> menü
 der <START:nav_target> warn blinker <END>
+<START:nav_target> tv <END> lautstärke
+zur <START:nav_target> tv <END> lautstärke
+die <START:nav_target> tv <END> lautstärke
+<START:nav_target> fernseher <END> lautstärke
+zur <START:nav_target> fernseher <END> lautstärke
+die <START:nav_target> fernseher <END> lautstärke
+lautstärke des <START:nav_target> tv <END>
+zur lautstärke des <START:nav_target> tv <END>
+die lautstärke des <START:nav_target> tv <END>
+lautstärke des <START:nav_target> fernsehers <END>
+zur lautstärke des <START:nav_target> fernsehers <END>
+die lautstärke des <START:nav_target> fernsehers <END>
+<START:nav_target> musik <END> lautstärke
+zur <START:nav_target> musik <END> lautstärke
+die <START:nav_target> musik <END> lautstärke
+lautstärke des <START:nav_target> tv <END>
+lautstärke des <START:nav_target> fernsehers <END>
+<START:nav_target> tv <END> lautstärke
+<START:nav_target> fernseher <END> lautstärke
+<START:nav_target> musik <END> lautstärke
+zur lautstärke des <START:nav_target> tv <END>
+zur lautstärke des <START:nav_target> fernsehers <END>
+zur <START:nav_target> tv <END> lautstärke
+zur <START:nav_target> fernseher <END> lautstärke
+zur <START:nav_target> musik <END> lautstärke
+die lautstärke des <START:nav_target> tv <END>
+die lautstärke des <START:nav_target> fernsehers <END>
+die <START:nav_target> tv <END> lautstärke
+die <START:nav_target> fernseher <END> lautstärke
+die <START:nav_target> musik <END> lautstärke
+lautstärke der <START:nav_target> musik <END>
+die lautstärke der <START:nav_target> musik <END>
 <START:nav_target> lautstärke <END>
 zur <START:nav_target> lautstärke <END>
 die <START:nav_target> lautstärke <END>
@@ -678,9 +783,7 @@ zum <START:nav_target> tv <END>
 zum <START:nav_target> fernseher <END>
 der <START:nav_target> fernseher <END>
 <START:nav_target> android <END>
-<START:nav_target> ios <END>
 <START:nav_target> iarm <END>
-<START:nav_target> idevice <END>
 <START:nav_target> computer <END>
 der <START:nav_target> computer <END>
 zum <START:nav_target> computer <END>
@@ -716,6 +819,17 @@ zu <START:nav_target> warn blinker <END> bitte
 zu den <START:nav_target> warn blinker <END>
 zu den <START:nav_target> warn blinker <END> bitte
 zum <START:nav_target> warn blinker <END> bitte
+zu <START:nav_target> tv <END> lautstärke bitte
+zu <START:nav_target> fernseher <END> lautstärke bitte
+zu lautstärke des <START:nav_target> tv <END> bitte
+zu lautstärke des <START:nav_target> fernsehers <END> bitte
+zu <START:nav_target> musik <END> lautstärke bitte
+zu lautstärke des <START:nav_target> tv <END>
+zu lautstärke des <START:nav_target> fernsehers <END>
+zu <START:nav_target> tv <END> lautstärke
+zu <START:nav_target> fernseher <END> lautstärke
+zu <START:nav_target> musik <END> lautstärke
+zu lautstärke der <START:nav_target> musik <END> bitte
 zu <START:nav_target> lautstärke <END> bitte
 zu <START:nav_target> sprache <END> bitte
 zu <START:nav_target> sprachen <END> bitte
@@ -742,9 +856,7 @@ zu <START:nav_target> mouse zwei <END> bitte
 zu <START:nav_target> tv <END> bitte
 zu <START:nav_target> fernseher <END> bitte
 zu <START:nav_target> android <END> bitte
-zu <START:nav_target> ios <END> bitte
 zu <START:nav_target> iarm <END> bitte
-zu <START:nav_target> idevice <END> bitte
 zu <START:nav_target> computer <END> bitte
 zu <START:nav_target> kontakte <END> bitte
 zu <START:nav_target> kinova <END> bitte
@@ -772,6 +884,13 @@ bitte zum <START:nav_target> licht <END> menü
 bitte zu <START:nav_target> warn blinker <END>
 bitte zum <START:nav_target> warn blinker <END>
 bitte zu den <START:nav_target> warn blinker <END>
+bitte zu <START:nav_target> tv <END> lautstärke
+bitte zu <START:nav_target> fernseher <END> lautstärke
+bitte zu lautstärke des <START:nav_target> tv <END>
+bitte zu lautstärke des <START:nav_target> fernsehers <END>
+bitte zu <START:nav_target> musik <END> lautstärke
+bitte zur lautstärke der <START:nav_target> musik <END>
+bitte zu lautstärke der <START:nav_target> musik <END>
 bitte zu <START:nav_target> lautstärke <END>
 bitte zu <START:nav_target> sprache <END>
 bitte zu <START:nav_target> sprachen <END>
@@ -798,12 +917,176 @@ bitte zu <START:nav_target> mouse zwei <END>
 bitte zu <START:nav_target> tv <END>
 bitte zu <START:nav_target> fernseher <END>
 bitte zu <START:nav_target> android <END>
-bitte zu <START:nav_target> ios <END>
 bitte zu <START:nav_target> iarm <END>
-bitte zu <START:nav_target> idevice <END>
 bitte zu <START:nav_target> computer <END>
 bitte zu <START:nav_target> kontakte <END>
 bitte zu <START:nav_target> kinova <END>
+komme zurück auf <START:nav_target> kamera <END>
+komme zurück auf <START:nav_target> media <END>
+komme zurück auf <START:nav_target> galerie <END>
+komme zurück auf <START:nav_target> sitz <END>
+komme zurück auf <START:nav_target> fahren <END>
+komme zurück auf <START:nav_target> einstellung <END>
+komme zurück auf <START:nav_target> glass einstellungen <END>
+komme zurück auf <START:nav_target> einstellungen <END>
+komme zurück auf <START:nav_target> kalibrierung <END>
+komme zurück auf <START:nav_target> neigen <END>
+komme zurück auf <START:nav_target> nicken <END>
+komme zurück auf <START:nav_target> neigen <END> kalibrierung
+komme zurück auf <START:nav_target> nicken <END> kalibrierung
+komme zurück auf <START:nav_target> neig <END> kalibrierung
+komme zurück auf <START:nav_target> nick <END> kalibrierung
+komme zurück auf <START:nav_target> lichter <END>
+komme zurück auf <START:nav_target> lichter <END> menü
+komme zurück auf <START:nav_target> licht <END>
+komme zurück auf <START:nav_target> licht <END> menü
+komme zurück auf <START:nav_target> warn blinker <END>
+komme zurück auf <START:nav_target> warn blinker <END> menü
+komme zurück auf laustärke der <START:nav_target> musik <END>
+komme zurück auf <START:nav_target> lautstärke <END>
+komme zurück auf <START:nav_target> sprache <END>
+komme zurück auf <START:nav_target> sprachen <END>
+komme zurück auf <START:nav_target> wlan <END>
+komme zurück auf <START:nav_target> internet <END>
+komme zurück auf <START:nav_target> support <END>
+komme zurück auf <START:nav_target> app info <END>
+komme zurück auf <START:nav_target> notfall-email <END>
+komme zurück auf <START:nav_target> notfall email <END>
+komme zurück auf <START:nav_target> admin <END>
+komme zurück auf <START:nav_target> administration <END>
+komme zurück auf <START:nav_target> koppeln <END>
+komme zurück auf <START:nav_target> monitor <END>
+komme zurück auf <START:nav_target> vorhandenes handy <END>
+komme zurück auf <START:nav_target> neues handy <END>
+komme zurück auf <START:nav_target> modi <END>
+komme zurück auf <START:nav_target> basic <END>
+komme zurück auf <START:nav_target> fortgeschritten <END>
+komme zurück auf <START:nav_target> nur fahren <END>
+komme zurück auf <START:nav_target> fahr geste <END>
+komme zurück auf <START:nav_target> add ons <END>
+komme zurück auf <START:nav_target> mouse eins <END>
+komme zurück auf <START:nav_target> mouse zwei <END>
+komme zurück auf <START:nav_target> tv <END>
+komme zurück auf <START:nav_target> fernseher <END>
+komme zurück auf <START:nav_target> android <END>
+komme zurück auf <START:nav_target> iarm <END>
+komme zurück auf <START:nav_target> computer <END>
+komme zurück auf <START:nav_target> kontakte <END>
+komme zurück auf <START:nav_target> kinova <END>
+gehe auf <START:nav_target> kamera <END>
+gehe auf <START:nav_target> media <END>
+gehe auf <START:nav_target> galerie <END>
+gehe auf <START:nav_target> sitz <END>
+gehe auf <START:nav_target> fahren <END>
+gehe auf <START:nav_target> einstellung <END>
+gehe auf <START:nav_target> glass einstellungen <END>
+gehe auf <START:nav_target> einstellungen <END>
+gehe auf <START:nav_target> kalibrierung <END>
+gehe auf <START:nav_target> neigen <END>
+gehe auf <START:nav_target> nicken <END>
+gehe auf <START:nav_target> neigen <END> kalibrierung
+gehe auf <START:nav_target> nicken <END> kalibrierung
+gehe auf <START:nav_target> neig <END> kalibrierung
+gehe auf <START:nav_target> nick <END> kalibrierung
+gehe auf <START:nav_target> lichter <END>
+gehe auf <START:nav_target> lichter <END> menü
+gehe auf <START:nav_target> licht <END>
+gehe auf <START:nav_target> licht <END> menü
+gehe auf <START:nav_target> warn blinker <END>
+gehe auf <START:nav_target> warn blinker <END> menü
+gehe auf lautstärke des <START:nav_target> tv <END>
+gehe auf lautstärke des <START:nav_target> fernsehers <END>
+gehe auf <START:nav_target> tv <END> lautstärke
+gehe auf <START:nav_target> fernseher <END> lautstärke
+gehe auf <START:nav_target> musik <END> lautstärke
+gehe auf lautstärke der <START:nav_target> musik <END>
+gehe auf <START:nav_target> lautstärke <END>
+gehe auf <START:nav_target> sprache <END>
+gehe auf <START:nav_target> sprachen <END>
+gehe auf <START:nav_target> wlan <END>
+gehe auf <START:nav_target> internet <END>
+gehe auf <START:nav_target> support <END>
+gehe auf <START:nav_target> app info <END>
+gehe auf <START:nav_target> notfall-email <END>
+gehe auf <START:nav_target> notfall email <END>
+gehe auf <START:nav_target> admin <END>
+gehe auf <START:nav_target> administration <END>
+gehe auf <START:nav_target> koppeln <END>
+gehe auf <START:nav_target> monitor <END>
+gehe auf <START:nav_target> vorhandenes handy <END>
+gehe auf <START:nav_target> neues handy <END>
+gehe auf <START:nav_target> modi <END>
+gehe auf <START:nav_target> basic <END>
+gehe auf <START:nav_target> fortgeschritten <END>
+gehe auf <START:nav_target> nur fahren <END>
+gehe auf <START:nav_target> fahr geste <END>
+gehe auf <START:nav_target> add ons <END>
+gehe auf <START:nav_target> mouse eins <END>
+gehe auf <START:nav_target> mouse zwei <END>
+gehe auf <START:nav_target> tv <END>
+gehe auf <START:nav_target> fernseher <END>
+gehe auf <START:nav_target> android <END>
+gehe auf <START:nav_target> iarm <END>
+gehe auf <START:nav_target> computer <END>
+gehe auf <START:nav_target> kontakte <END>
+gehe auf <START:nav_target> kinova <END>
+auf <START:nav_target> kamera <END>
+auf <START:nav_target> media <END>
+auf <START:nav_target> galerie <END>
+auf <START:nav_target> sitz <END>
+auf <START:nav_target> fahren <END>
+auf <START:nav_target> einstellung <END>
+auf <START:nav_target> glass einstellungen <END>
+auf <START:nav_target> einstellungen <END>
+auf <START:nav_target> kalibrierung <END>
+auf <START:nav_target> neigen <END>
+auf <START:nav_target> nicken <END>
+auf <START:nav_target> neigen <END> kalibrierung
+auf <START:nav_target> nicken <END> kalibrierung
+auf <START:nav_target> neig <END> kalibrierung
+auf <START:nav_target> nick <END> kalibrierung
+auf <START:nav_target> lichter <END>
+auf <START:nav_target> lichter <END> menü
+auf <START:nav_target> licht <END>
+auf <START:nav_target> licht <END> menü
+auf <START:nav_target> warn blinker <END>
+auf <START:nav_target> warn blinker <END> menü
+auf lautstärke des <START:nav_target> tv <END>
+auf lautstärke des <START:nav_target> fernsehers <END>
+auf <START:nav_target> tv <END> lautstärke
+auf <START:nav_target> fernseher <END> lautstärke
+auf <START:nav_target> musik <END> lautstärke
+auf lautstärke der <START:nav_target> musik <END>
+auf <START:nav_target> lautstärke <END>
+auf <START:nav_target> sprache <END>
+auf <START:nav_target> sprachen <END>
+auf <START:nav_target> wlan <END>
+auf <START:nav_target> internet <END>
+auf <START:nav_target> support <END>
+auf <START:nav_target> app info <END>
+auf <START:nav_target> notfall-email <END>
+auf <START:nav_target> notfall email <END>
+auf <START:nav_target> admin <END>
+auf <START:nav_target> administration <END>
+auf <START:nav_target> koppeln <END>
+auf <START:nav_target> monitor <END>
+auf <START:nav_target> vorhandenes handy <END>
+auf <START:nav_target> neues handy <END>
+auf <START:nav_target> modi <END>
+auf <START:nav_target> basic <END>
+auf <START:nav_target> fortgeschritten <END>
+auf <START:nav_target> nur fahren <END>
+auf <START:nav_target> fahr geste <END>
+auf <START:nav_target> add ons <END>
+auf <START:nav_target> mouse eins <END>
+auf <START:nav_target> mouse zwei <END>
+auf <START:nav_target> tv <END>
+auf <START:nav_target> fernseher <END>
+auf <START:nav_target> android <END>
+auf <START:nav_target> iarm <END>
+auf <START:nav_target> computer <END>
+auf <START:nav_target> kontakte <END>
+auf <START:nav_target> kinova <END>
 zu <START:nav_target> kamera <END>
 zu <START:nav_target> media <END>
 zu <START:nav_target> galerie <END>
@@ -830,6 +1113,12 @@ zum <START:nav_target> licht <END> menü
 zu <START:nav_target> warn blinker <END>
 zum <START:nav_target> warn blinker <END>
 zu den <START:nav_target> warn blinker <END>
+zu lautstärke des <START:nav_target> tv <END>
+zu lautstärke des <START:nav_target> fernsehers <END>
+zu <START:nav_target> tv <END> lautstärke
+zu <START:nav_target> fernseher <END> lautstärke
+zu <START:nav_target> musik <END> lautstärke
+zu lautstärke der <START:nav_target> musik <END>
 zu <START:nav_target> lautstärke <END>
 zu <START:nav_target> sprache <END>
 zu <START:nav_target> sprachen <END>
@@ -856,9 +1145,7 @@ zu <START:nav_target> mouse zwei <END>
 zu <START:nav_target> tv <END>
 zu <START:nav_target> fernseher <END>
 zu <START:nav_target> android <END>
-zu <START:nav_target> ios <END>
 zu <START:nav_target> iarm <END>
-zu <START:nav_target> idevice <END>
 zu <START:nav_target> computer <END>
 zu <START:nav_target> kontakte <END>
 zu <START:nav_target> kinova <END>
@@ -900,7 +1187,13 @@ gehe zu <START:nav_target> warn blinker <END>
 gehe zu <START:nav_target> warn blinklichter <END>
 gehe zu kategorie <START:nav_target> warn blinklichter <END>
 gehe zu den <START:nav_target> warn blinklichter <END>
+gehe zu lautstärke der <START:nav_target> musik <END>
 gehe zu <START:nav_target> lautstärke <END>
+gehe zur kategorie lautstärke der <START:nav_target> musik <END>
+gehe zur kategorie die lautstärke der <START:nav_target> musik <END>
+gehe zu der kategorie die lautstärke der <START:nav_target> musik <END>
+gehe zu der kategorie lautstärke der <START:nav_target> musik <END>
+gehe zu kategorie lautstärke der <START:nav_target> musik <END>
 gehe zu kategorie <START:nav_target> lautstärke <END>
 gehe zu <START:nav_target> sprache <END>
 gehe zu kategorie <START:nav_target> sprache <END>
@@ -938,9 +1231,7 @@ gehe zu kategorie <START:nav_target> mouse zwei <END>
 gehe zu kategorie <START:nav_target> tv <END>
 gehe zu kategorie <START:nav_target> fernseher <END>
 gehe zu kategorie <START:nav_target> android <END>
-gehe zu kategorie <START:nav_target> ios <END>
 gehe zu kategorie <START:nav_target> iarm <END>
-gehe zu kategorie <START:nav_target> idevice <END>
 gehe zu kategorie <START:nav_target> computer <END>
 gehe zu kategorie <START:nav_target> kontakte <END>
 gehe zu kategorie <START:nav_target> kinova <END>
@@ -980,9 +1271,7 @@ gehe zu <START:nav_target> mouse zwei <END>
 gehe zu <START:nav_target> tv <END>
 gehe zu <START:nav_target> fernseher <END>
 gehe zu <START:nav_target> android <END>
-gehe zu <START:nav_target> ios <END>
 gehe zu <START:nav_target> iarm <END>
-gehe zu <START:nav_target> idevice <END>
 gehe zu <START:nav_target> computer <END>
 gehe zu <START:nav_target> kontakte <END>
 gehe zu <START:nav_target> kinova <END>
@@ -1010,6 +1299,10 @@ navigiere zu <START:nav_target> licht <END> menü
 navigiere zu <START:nav_target> warn blinker <END>
 navigiere zu den <START:nav_target> warn blinker <END>
 navigiere zum <START:nav_target> warn blinker <END>
+navigiere zu lautstärke der <START:nav_target> musik <END>
+navigiere zu der lautstärke der <START:nav_target> musik <END> bitte
+navigiere zur lautstärke der <START:nav_target> musik <END> bitte
+navigiere zu lautstärke der <START:nav_target> musik <END> bitte
 navigiere zu <START:nav_target> lautstärke <END>
 navigiere zu <START:nav_target> sprache <END>
 navigiere zu <START:nav_target> sprachen <END>
@@ -1040,9 +1333,7 @@ navigiere zu <START:nav_target> mouse zwei <END>
 navigiere zu <START:nav_target> tv <END>
 navigiere zu <START:nav_target> fernseher <END>
 navigiere zu <START:nav_target> android <END>
-navigiere zu <START:nav_target> ios <END>
 navigiere zu <START:nav_target> iarm <END>
-navigiere zu <START:nav_target> idevice <END>
 navigiere zu <START:nav_target> computer <END>
 navigiere zu <START:nav_target> kontakte <END>
 navigiere zu <START:nav_target> kinova <END>
@@ -1067,6 +1358,12 @@ navigiere zu kategorie <START:nav_target> lichter <END> menü
 navigiere zu kategorie <START:nav_target> licht <END>
 navigiere zu kategorie <START:nav_target> licht <END> menü
 navigiere zu kategorie <START:nav_target> warn blinker <END>
+bitte navigiere zu kategorie lautstärke der <START:nav_target> musik<END>
+navigiere zur kategorie die lautstärke der <START:nav_target> musik<END> bitte
+navigiere zu der kategorie die lautstärke der <START:nav_target> musik<END> bitte
+navigiere zu der kategorie lautstärke der <START:nav_target> musik<END> bitte
+navigiere zu kategorie lautstärke der <START:nav_target> musik<END> bitte
+navigiere zu kategorie lautstärke der <START:nav_target> musik<END>
 navigiere zu kategorie <START:nav_target> lautstärke <END>
 navigiere zu kategorie <START:nav_target> sprache <END>
 navigiere zu kategorie <START:nav_target> sprachen <END>
@@ -1097,9 +1394,7 @@ navigiere zu kategorie <START:nav_target> mouse zwei <END>
 navigiere zu kategorie <START:nav_target> tv <END>
 navigiere zu kategorie <START:nav_target> fernseher <END>
 navigiere zu kategorie <START:nav_target> android <END>
-navigiere zu kategorie <START:nav_target> ios <END>
 navigiere zu kategorie <START:nav_target> iarm <END>
-navigiere zu kategorie <START:nav_target> idevice <END>
 navigiere zu kategorie <START:nav_target> computer <END>
 navigiere zu kategorie <START:nav_target> kontakte <END>
 navigiere zu kategorie <START:nav_target> kinova <END>
@@ -1129,6 +1424,7 @@ bring mich zur kategorie <START:nav_target> lichter <END> menü
 bring mich zur kategorie <START:nav_target> licht <END>
 bring mich zur kategorie <START:nav_target> licht <END> menü
 bring mich zur kategorie <START:nav_target> warn blinker <END>
+bring mich zur kategorie lautstärke der <START:nav_target> musik <END>
 bring mich zur kategorie <START:nav_target> lautstärke <END>
 bring mich zur kategorie <START:nav_target> sprache <END>
 bring mich zur kategorie <START:nav_target> sprachen <END>
@@ -1159,9 +1455,7 @@ bring mich zur kategorie <START:nav_target> mouse zwei <END>
 bring mich zur kategorie <START:nav_target> tv <END>
 bring mich zur kategorie <START:nav_target> fernseher <END>
 bring mich zur kategorie <START:nav_target> android <END>
-bring mich zur kategorie <START:nav_target> ios <END>
 bring mich zur kategorie <START:nav_target> iarm <END>
-bring mich zur kategorie <START:nav_target> idevice <END>
 bring mich zur kategorie <START:nav_target> computer <END>
 bring mich zur kategorie <START:nav_target> kontakte <END>
 bring mich zur kategorie <START:nav_target> kinova <END>
@@ -1187,6 +1481,12 @@ bring mich zu <START:nav_target> lichter <END> menü
 bring mich zu <START:nav_target> licht <END>
 bring mich zu <START:nav_target> licht <END> menü
 bring mich zu <START:nav_target> warn blinker <END>
+bring mich zu lautstärke des <START:nav_target> tv <END>
+bring mich zu lautstärke des <START:nav_target> fernsehers <END>
+bring mich zu <START:nav_target> tv <END> lautstärke
+bring mich zu <START:nav_target> fernseher <END> lautstärke
+bring mich zu <START:nav_target> musik <END> lautstärke
+bring mich zu lautstärke der <START:nav_target> musik <END>
 bring mich zu <START:nav_target> lautstärke <END>
 bring mich zu <START:nav_target> sprache <END>
 bring mich zu <START:nav_target> sprachen <END>
@@ -1217,9 +1517,7 @@ bring mich zu <START:nav_target> mouse zwei <END>
 bring mich zu <START:nav_target> tv <END>
 bring mich zu <START:nav_target> fernseher <END>
 bring mich zu <START:nav_target> android <END>
-bring mich zu <START:nav_target> ios <END>
 bring mich zu <START:nav_target> iarm <END>
-bring mich zu <START:nav_target> idevice <END>
 bring mich zu <START:nav_target> computer <END>
 bring mich zu <START:nav_target> kontakte <END>
 bring mich zu <START:nav_target> kinova <END>
@@ -1271,6 +1569,12 @@ wähle das <START:nav_target> licht <END> menü
 wähle <START:nav_target> warn blinker <END>
 wähle die <START:nav_target> warn blinker <END>
 wähle den <START:nav_target> warn blinker <END>
+wähle lautstärke des <START:nav_target> tv <END>
+wähle lautstärke des <START:nav_target> fernsehers <END>
+wähle <START:nav_target> tv <END> lautstärke
+wähle <START:nav_target> fernseher <END> lautstärke
+wähle <START:nav_target> musik <END> lautstärke
+wähle lautstärke der <START:nav_target> musik <END>
 wähle <START:nav_target> lautstärke <END>
 wähle <START:nav_target> sprache <END>
 wähle <START:nav_target> sprachen <END>
@@ -1301,9 +1605,7 @@ wähle <START:nav_target> mouse zwei <END>
 wähle <START:nav_target> tv <END>
 wähle <START:nav_target> fernseher <END>
 wähle <START:nav_target> android <END>
-wähle <START:nav_target> ios <END>
 wähle <START:nav_target> iarm <END>
-wähle <START:nav_target> idevice <END>
 wähle <START:nav_target> computer <END>
 wähle <START:nav_target> kontakte <END>
 wähle <START:nav_target> kinova <END>
@@ -1328,6 +1630,12 @@ wähle die kategorie <START:nav_target> lichter <END> menü
 wähle die kategorie <START:nav_target> licht <END>
 wähle die kategorie <START:nav_target> licht <END> menü
 wähle die kategorie <START:nav_target> warn blinker <END>
+wähle die kategorie lautstärke des <START:nav_target> tv <END>
+wähle die kategorie lautstärke des <START:nav_target> fernsehers <END>
+wähle die kategorie <START:nav_target> tv <END> lautstärke
+wähle die kategorie <START:nav_target> fernseher <END> lautstärke
+wähle die kategorie <START:nav_target> musik <END> lautstärke
+wähle die kategorie lautstärke der <START:nav_target> musik <END>
 wähle die kategorie <START:nav_target> lautstärke <END>
 wähle die kategorie <START:nav_target> sprache <END>
 wähle die kategorie <START:nav_target> sprachen <END>
@@ -1358,9 +1666,7 @@ wähle die kategorie <START:nav_target> mouse zwei <END>
 wähle die kategorie <START:nav_target> tv <END>
 wähle die kategorie <START:nav_target> fernseher <END>
 wähle die kategorie <START:nav_target> android <END>
-wähle die kategorie <START:nav_target> ios <END>
 wähle die kategorie <START:nav_target> iarm <END>
-wähle die kategorie <START:nav_target> idevice <END>
 wähle die kategorie <START:nav_target> computer <END>
 wähle die kategorie <START:nav_target> kontakte <END>
 wähle die kategorie <START:nav_target> kinova <END>
@@ -1385,6 +1691,12 @@ wähle kategorie <START:nav_target> lichter <END> menü
 wähle kategorie <START:nav_target> licht <END>
 wähle kategorie <START:nav_target> licht <END> menü
 wähle kategorie <START:nav_target> warn blinker <END>
+wähle kategorie lautstärke des <START:nav_target> tv <END>
+wähle kategorie lautstärke des <START:nav_target> fernsehers <END>
+wähle kategorie <START:nav_target> tv <END> lautstärke
+wähle kategorie <START:nav_target> fernseher <END> lautstärke
+wähle kategorie <START:nav_target> musik <END> lautstärke
+wähle kategorie lautstärke der <START:nav_target> musik <END>
 wähle kategorie <START:nav_target> lautstärke <END>
 wähle kategorie <START:nav_target> sprache <END>
 wähle kategorie <START:nav_target> sprachen <END>
@@ -1415,9 +1727,7 @@ wähle kategorie <START:nav_target> mouse zwei <END>
 wähle kategorie <START:nav_target> tv <END>
 wähle kategorie <START:nav_target> fernseher <END>
 wähle kategorie <START:nav_target> android <END>
-wähle kategorie <START:nav_target> ios <END>
 wähle kategorie <START:nav_target> iarm <END>
-wähle kategorie <START:nav_target> idevice <END>
 wähle kategorie <START:nav_target> computer <END>
 wähle kategorie <START:nav_target> kontakte <END>
 wähle kategorie <START:nav_target> kinova <END>
@@ -1442,6 +1752,12 @@ wechsel zu <START:nav_target> lichter <END> menü
 wechsel zu <START:nav_target> licht <END>
 wechsel zu <START:nav_target> licht <END> menü
 wechsel zu <START:nav_target> warn blinker <END>
+wechsel zu lautstärke des <START:nav_target> tv <END>
+wechsel zu lautstärke des <START:nav_target> fernsehers <END>
+wechsel zu <START:nav_target> tv <END> lautstärke
+wechsel zu <START:nav_target> fernseher <END> lautstärke
+wechsel zu <START:nav_target> musik <END> lautstärke
+wechsel zu lautstärke der <START:nav_target> musik <END>
 wechsel zu <START:nav_target> lautstärke <END>
 wechsel zu <START:nav_target> sprache <END>
 wechsel zu <START:nav_target> sprachen <END>
@@ -1472,9 +1788,7 @@ wechsel zu <START:nav_target> mouse zwei <END>
 wechsel zu <START:nav_target> tv <END>
 wechsel zu <START:nav_target> fernseher <END>
 wechsel zu <START:nav_target> android <END>
-wechsel zu <START:nav_target> ios <END>
 wechsel zu <START:nav_target> iarm <END>
-wechsel zu <START:nav_target> idevice <END>
 wechsel zu <START:nav_target> computer <END>
 wechsel zu <START:nav_target> kontakte <END>
 wechsel zu <START:nav_target> kinova <END>
@@ -1499,6 +1813,12 @@ wechsel zur kategorie <START:nav_target> lichter <END> menü
 wechsel zur kategorie <START:nav_target> licht <END>
 wechsel zur kategorie <START:nav_target> licht <END> menü
 wechsel zur kategorie <START:nav_target> warn blinker <END>
+wechsel zur kategorie lautstärke des <START:nav_target> tv <END>
+wechsel zur kategorie lautstärke des <START:nav_target> fernsehers <END>
+wechsel zur kategorie <START:nav_target> tv <END> lautstärke
+wechsel zur kategorie <START:nav_target> fernseher <END> lautstärke
+wechsel zur kategorie <START:nav_target> musik <END> lautstärke
+wechsel zur kategorie lautstärke der <START:nav_target> musik <END>
 wechsel zur kategorie <START:nav_target> lautstärke <END>
 wechsel zur kategorie <START:nav_target> sprache <END>
 wechsel zur kategorie <START:nav_target> sprachen <END>
@@ -1529,9 +1849,7 @@ wechsel zur kategorie <START:nav_target> mouse zwei <END>
 wechsel zur kategorie <START:nav_target> tv <END>
 wechsel zur kategorie <START:nav_target> fernseher <END>
 wechsel zur kategorie <START:nav_target> android <END>
-wechsel zur kategorie <START:nav_target> ios <END>
 wechsel zur kategorie <START:nav_target> iarm <END>
-wechsel zur kategorie <START:nav_target> idevice <END>
 wechsel zur kategorie <START:nav_target> computer <END>
 wechsel zur kategorie <START:nav_target> kontakte <END>
 wechsel zur kategorie <START:nav_target> kinova <END>
@@ -1556,6 +1874,12 @@ zeige kategorie <START:nav_target> lichter <END> menü
 zeige kategorie <START:nav_target> licht <END>
 zeige kategorie <START:nav_target> licht <END> menü
 zeige kategorie <START:nav_target> warn blinker <END>
+zeige kategorie lautstärke des <START:nav_target> tv <END>
+zeige kategorie lautstärke des <START:nav_target> fernsehers <END>
+zeige kategorie <START:nav_target> tv <END> lautstärke
+zeige kategorie <START:nav_target> fernseher <END> lautstärke
+zeige kategorie <START:nav_target> musik <END> lautstärke
+zeige kategorie lautstärke der <START:nav_target> musik <END>
 zeige kategorie <START:nav_target> lautstärke <END>
 zeige kategorie <START:nav_target> sprache <END>
 zeige kategorie <START:nav_target> sprachen <END>
@@ -1586,9 +1910,7 @@ zeige kategorie <START:nav_target> mouse zwei <END>
 zeige kategorie <START:nav_target> tv <END>
 zeige kategorie <START:nav_target> fernseher <END>
 zeige kategorie <START:nav_target> android <END>
-zeige kategorie <START:nav_target> ios <END>
 zeige kategorie <START:nav_target> iarm <END>
-zeige kategorie <START:nav_target> idevice <END>
 zeige kategorie <START:nav_target> computer <END>
 zeige kategorie <START:nav_target> kontakte <END>
 zeige kategorie <START:nav_target> kinova <END>
@@ -1629,7 +1951,19 @@ zeige <START:nav_target> licht <END> menü
 zeige das <START:nav_target> licht <END> menü
 zeige <START:nav_target> warn blinker <END>
 zeige die <START:nav_target> warn blinker <END>
+zeige lautstärke des <START:nav_target> tv <END>
+zeige lautstärke des <START:nav_target> fernsehers <END>
+zeige <START:nav_target> tv <END> lautstärke
+zeige <START:nav_target> fernseher <END> lautstärke
+zeige <START:nav_target> musik <END> lautstärke
+zeige lautstärke der <START:nav_target> musik <END>
 zeige <START:nav_target> lautstärke <END>
+zeige die lautstärke des <START:nav_target> tv <END>
+zeige die lautstärke des <START:nav_target> fernsehers <END>
+zeige die <START:nav_target> tv <END> lautstärke
+zeige die <START:nav_target> fernseher <END> lautstärke
+zeige die <START:nav_target> musik <END> lautstärke
+zeige die lautstärke der <START:nav_target> musik <END>
 zeige die <START:nav_target> lautstärke <END>
 zeige <START:nav_target> sprache <END>
 zeige die <START:nav_target> sprache <END>
@@ -1675,19 +2009,19 @@ zeige <START:nav_target> mouse zwei <END>
 zeige <START:nav_target> tv <END>
 zeige <START:nav_target> fernseher <END>
 zeige <START:nav_target> android <END>
-zeige <START:nav_target> ios <END>
-zeige <START:nav_target> iarm <END>
-zeige <START:nav_target> idevice <END>
 zeige <START:nav_target> computer <END>
+zeige <START:nav_target> iarm <END>
 zeige den <START:nav_target> computer <END>
 zeige <START:nav_target> kontakte <END>
 zeige die <START:nav_target> kontakte <END>
 zeige <START:nav_target> kinova <END>
+auf
 zu
 zur
 zum
 zu der
 zu dem
+gehe auf
 gehe zu
 gehe zur
 gehe zum
@@ -1721,3 +2055,4 @@ wechsel zur kategorie
 wechsel zu der kategorie
 zeige kategorie
 zeige die kategorie
+komme zurück auf
