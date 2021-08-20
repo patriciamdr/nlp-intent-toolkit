@@ -1,7 +1,6 @@
 arrête
 arrêter
 bas
-baseur
 canal
 chaîne
 chanson
@@ -15,8 +14,6 @@ fermer
 fermés
 haut
 hauteur
-incline
-incliner
 joue
 jouer
 l'angle
@@ -30,7 +27,6 @@ ouverts
 passe
 passer
 pause
-pauser
 pente
 plat
 porte
@@ -44,7 +40,7 @@ rabattre
 raide
 redresse
 redresser
-releve
+relève
 relever
 rendre
 rends
@@ -66,6 +62,8 @@ termine
 terminer
 vers
 ok
+ok munevo
+ok glass
 glass
 à
 au
@@ -215,8 +213,6 @@ zéro
 munevo
 iarm
 kinova
-ok glass
-ok munevo
 hocher
 l'inclinaison
 inclinaison
@@ -3015,24 +3011,22 @@ ouvrir la catégorie télévision volume
 ouvrir la catégorie volume de la télévision
 arrête la musique
 arrêter la musique
-éteinds la musique
+éteins la musique
 éteindre la musique
 termine la musique
 terminer la musique
 romps la musique
 rompre la musique
 pause la musique
-pauser la musique
 arrête musique
 arrêter musique
-éteinds musique
+éteins musique
 éteindre musique
 termine musique
 terminer musique
 romps musique
 rompre musique
 pause musique
-pauser musique
 joue la musique
 jouer la musique
 démarrer la musique
@@ -3055,48 +3049,37 @@ continue musique
 continuer musique
 baisse le lit
 rabats le lit
-incline le lit vers le bas
-réduis la baseur du lit
 réduis l'angle du lit
 réduis la pente du lit
 réduis l'inclinaison du lit
-diminue la baseur du lit
 diminue l'angle du lit
 diminue la pente du lit
 diminue l'inclinaison du lit
-baisse la baseur du lit
 baisse l'angle du lit
 baisse la pente du lit
 baisse l'inclinaison du lit
 rends le lit plus plat
 baisser le lit
 rabattre le lit
-incliner le lit vers le bas
-réduire la baseur du lit
 réduire l'angle du lit
 réduire la pente du lit
 réduire l'inclinaison du lit
-diminuer la baseur du lit
 diminuer l'angle du lit
 diminuer la pente du lit
 diminuer l'inclinaison du lit
-baisser la baseur du lit
 baisser l'angle du lit
 baisser la pente du lit
 baisser l'inclinaison du lit
 rendre le lit plus plat
 baisse lit
 rabats lit
-incline lit vers le bas
 rends lit plus plat
 baisser lit
 rabattre lit
-incliner lit vers le bas
 rendre lit plus plat
-releve le lit
+relève le lit
 redresse le lit
 replie le lit
-incline le lit vers le haut
 augmente la hauteur du lit
 augmente l'angle du lit
 augmente la pente du lit
@@ -3114,7 +3097,6 @@ rends le lit plus raide
 relever le lit
 redresser le lit
 replier le lit
-incliner le lit vers le haut
 augmenter la hauteur du lit
 augmenter l'angle du lit
 augmenter la pente du lit
@@ -3129,15 +3111,13 @@ redresser la pente du lit
 redresser l'inclinaison du lit
 faire le lit plus haut
 rendre le lit plus raide
-releve lit
+relève lit
 redresse lit
 replie lit
-incline lit vers le haut
 fais lit plus haut
 rends lit plus raide
 relever lit
 redresser lit
 replier lit
-incliner lit vers le haut
 faire lit plus haut
 rendre lit plus raide

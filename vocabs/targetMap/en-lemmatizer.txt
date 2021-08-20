@@ -21,6 +21,7 @@ internet:wifi
 seating:seat
 picture:photo
 administration:admin
+windows:window
 curtains:curtain
 radiator:heater
 lamps:lamp

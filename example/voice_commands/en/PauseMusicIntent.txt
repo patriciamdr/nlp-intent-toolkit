@@ -2,6 +2,8 @@ pause the <START:music_target> music <END>
 pause <START:music_target> music <END>
 stop the <START:music_target> music <END>
 stop <START:music_target> music <END>
+stop playing the <START:music_target> music <END>
+stop playing <START:music_target> music <END>
 <START:music_target> music <END> off
 the <START:music_target> music <END> off
 turn the <START:music_target> music <END> off
