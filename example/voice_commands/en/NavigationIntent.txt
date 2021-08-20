@@ -512,7 +512,7 @@ please category <START:nav_target> volume <END>
 <START:nav_target> drive only <END>
 <START:nav_target> drive gesture <END>
 <START:nav_target> drive gestures <END>
-<START:nav_target> add ons <END>
+<START:nav_target> add-ons <END>
 <START:nav_target> mouse one <END>
 <START:nav_target> mouse two <END>
 volume of the <START:nav_target> tv <END>
@@ -578,7 +578,7 @@ to <START:nav_target> advanced <END>
 to <START:nav_target> drive only <END>
 to <START:nav_target> drive gesture <END>
 to <START:nav_target> drive gestures <END>
-to <START:nav_target> add ons <END>
+to <START:nav_target> add-ons <END>
 to <START:nav_target> mouse one <END>
 to <START:nav_target> mouse two <END>
 to volume of the <START:nav_target> tv <END>
@@ -636,7 +636,7 @@ go to category <START:nav_target> advanced <END>
 go to category <START:nav_target> drive only <END>
 go to category <START:nav_target> drive gesture <END>
 go to category <START:nav_target> drive gestures <END>
-go to category <START:nav_target> add ons <END>
+go to category <START:nav_target> add-ons <END>
 go to category <START:nav_target> mouse one <END>
 go to category <START:nav_target> mouse two <END>
 go to category volume of the <START:nav_target> tv <END>
@@ -692,7 +692,7 @@ go to <START:nav_target> advanced <END>
 go to <START:nav_target> drive only <END>
 go to <START:nav_target> drive gesture <END>
 go to <START:nav_target> drive gestures <END>
-go to <START:nav_target> add ons <END>
+go to <START:nav_target> add-ons <END>
 go to <START:nav_target> mouse one <END>
 go to <START:nav_target> mouse two <END>
 go to volume of the <START:nav_target> tv <END>
@@ -747,7 +747,7 @@ take me to category <START:nav_target> basic <END>
 take me to category <START:nav_target> advanced <END>
 take me to category <START:nav_target> drive only <END>
 take me to category <START:nav_target> drive gesture <END>
-take me to category <START:nav_target> add ons <END>
+take me to category <START:nav_target> add-ons <END>
 take me to category <START:nav_target> mouse one <END>
 take me to category <START:nav_target> mouse two <END>
 take me to category volume of the <START:nav_target> tv <END>
@@ -802,7 +802,7 @@ take me to <START:nav_target> basic <END>
 take me to <START:nav_target> advanced <END>
 take me to <START:nav_target> drive only <END>
 take me to <START:nav_target> drive gesture <END>
-take me to <START:nav_target> add ons <END>
+take me to <START:nav_target> add-ons <END>
 take me to <START:nav_target> mouse one <END>
 take me to <START:nav_target> mouse two <END>
 take me to volume of the <START:nav_target> tv <END>
@@ -857,7 +857,7 @@ navigate to category <START:nav_target> basic <END>
 navigate to category <START:nav_target> advanced <END>
 navigate to category <START:nav_target> drive only <END>
 navigate to category <START:nav_target> drive gesture <END>
-navigate to category <START:nav_target> add ons <END>
+navigate to category <START:nav_target> add-ons <END>
 navigate to category <START:nav_target> mouse one <END>
 navigate to category <START:nav_target> mouse two <END>
 navigate to category volume of the <START:nav_target> tv <END>
@@ -912,7 +912,7 @@ navigate to <START:nav_target> basic <END>
 navigate to <START:nav_target> advanced <END>
 navigate to <START:nav_target> drive only <END>
 navigate to <START:nav_target> drive gesture <END>
-navigate to <START:nav_target> add ons <END>
+navigate to <START:nav_target> add-ons <END>
 navigate to <START:nav_target> mouse one <END>
 navigate to <START:nav_target> mouse two <END>
 navigate to volume of the <START:nav_target> tv <END>
@@ -970,7 +970,7 @@ switch to <START:nav_target> basic <END>
 switch to <START:nav_target> advanced <END>
 switch to <START:nav_target> drive only <END>
 switch to <START:nav_target> drive gesture <END>
-switch to <START:nav_target> add ons <END>
+switch to <START:nav_target> add-ons <END>
 switch to <START:nav_target> mouse one <END>
 switch to <START:nav_target> mouse two <END>
 switch to volume of the <START:nav_target> tv <END>
@@ -1024,7 +1024,7 @@ select <START:nav_target> basic <END>
 select <START:nav_target> advanced <END>
 select <START:nav_target> drive only <END>
 select <START:nav_target> drive gesture <END>
-select <START:nav_target> add ons <END>
+select <START:nav_target> add-ons <END>
 select <START:nav_target> mouse one <END>
 select <START:nav_target> mouse two <END>
 select volume of the <START:nav_target> tv <END>
@@ -1078,7 +1078,7 @@ choose <START:nav_target> basic <END>
 choose <START:nav_target> advanced <END>
 choose <START:nav_target> drive only <END>
 choose <START:nav_target> drive gesture <END>
-choose <START:nav_target> add ons <END>
+choose <START:nav_target> add-ons <END>
 choose <START:nav_target> mouse one <END>
 choose <START:nav_target> mouse two <END>
 choose volume of the <START:nav_target> tv <END>

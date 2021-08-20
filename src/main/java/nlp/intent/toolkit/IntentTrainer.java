@@ -174,6 +174,7 @@ public class IntentTrainer {
                 for (String key : slotKeys) {
                     NameFinderME nameFinderME = nameFinderMEs.get(key);
                     Span[] spans = nameFinderME.find(tokens);
+										nameFinderME.clearAdaptiveData();
                     String[] names = Span.spansToStrings(spans, tokens);
                     // add most likely target if more than one is available
                     if (spans.length >= 1) {
@@ -186,14 +187,11 @@ public class IntentTrainer {
                 if (result.equals("SetVolumeActionIntent")) {
                     NameFinderME nameFinderME = nameFinderMEs.get("volume_target");
                     Span[] spans = nameFinderME.find(tokens);
-                    String[] names = Span.spansToStrings(spans, tokens);
-                    if (spans.length >= 1) {
-                        double[] probs = nameFinderME.probs(spans);
-                        double maxProb = Arrays.stream(probs).boxed().max(Double::compareTo).get();
-                        int maxIndex = Arrays.asList(Arrays.stream(probs).boxed().toArray(Double[]::new)).indexOf(maxProb);
-                        System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
-                    }
 										nameFinderME.clearAdaptiveData();
+                    String[] names = Span.spansToStrings(spans, tokens);
+										for (int i = 0; i <= spans.length - 1; i++) {
+                        System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
+										}
                 }
             }
             catch (NullPointerException e) {

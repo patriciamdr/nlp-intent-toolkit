@@ -10,32 +10,50 @@ ouvrir la catégorie <START:menuitem_target> lit <END>
 ouvrir la catégorie <START:menuitem_target> porte <END>
 ouvre <START:menuitem_target> musique <END>
 ouvre <START:menuitem_target> musique <END> volume
+ouvre le <START:menuitem_target> musique <END> volume
 ouvre volume de la <START:menuitem_target> musique <END>
+ouvre le volume de la <START:menuitem_target> musique <END>
 ouvre <START:menuitem_target> tv <END>
 ouvre <START:menuitem_target> télé <END>
 ouvre <START:menuitem_target> télé <END> volume
+ouvre le <START:menuitem_target> télé <END> volume
 ouvre volume du <START:menuitem_target> télé <END>
+ouvre le volume du <START:menuitem_target> télé <END>
 ouvre volume de la <START:menuitem_target> télé <END>
+ouvre le volume de la <START:menuitem_target> télé <END>
 ouvre <START:menuitem_target> téléviseur <END>
 ouvre <START:menuitem_target> téléviseur <END> volume
+ouvre le <START:menuitem_target> téléviseur <END> volume
 ouvre volume du <START:menuitem_target> téléviseur <END>
+ouvre le volume du <START:menuitem_target> téléviseur <END>
 ouvre <START:menuitem_target> télévision <END>
 ouvre <START:menuitem_target> télévision <END> volume
+ouvre le <START:menuitem_target> télévision <END> volume
 ouvre volume de la <START:menuitem_target> télévision <END>
+ouvre le volume de la <START:menuitem_target> télévision <END>
 ouvrir <START:menuitem_target> musique <END>
 ouvrir <START:menuitem_target> musique <END> volume
+ouvrir le <START:menuitem_target> musique <END> volume
 ouvrir volume de la <START:menuitem_target> musique <END>
+ouvrir le volume de la <START:menuitem_target> musique <END>
 ouvrir <START:menuitem_target> tv <END>
 ouvrir <START:menuitem_target> télé <END>
 ouvrir <START:menuitem_target> télé <END> volume
+ouvrir le <START:menuitem_target> télé <END> volume
 ouvrir volume du <START:menuitem_target> télé <END>
+ouvrir le volume du <START:menuitem_target> télé <END>
 ouvrir volume de la <START:menuitem_target> télé <END>
+ouvrir le volume de la <START:menuitem_target> télé <END>
 ouvrir <START:menuitem_target> téléviseur <END>
 ouvrir <START:menuitem_target> téléviseur <END> volume
+ouvrir le <START:menuitem_target> téléviseur <END> volume
 ouvrir volume du <START:menuitem_target> téléviseur <END>
+ouvrir le volume du <START:menuitem_target> téléviseur <END>
 ouvrir <START:menuitem_target> télévision <END>
 ouvrir <START:menuitem_target> télévision <END> volume
+ouvrir le <START:menuitem_target> télévision <END> volume
 ouvrir volume de la <START:menuitem_target> télévision <END>
+ouvrir le volume de la <START:menuitem_target> télévision <END>
 ouvre catégorie <START:menuitem_target> musique <END>
 ouvre catégorie <START:menuitem_target> musique <END> volume
 ouvre catégorie volume de la <START:menuitem_target> musique <END>
@@ -192,6 +210,7 @@ ouvrir <START:menuitem_target> réglages <END>
 ouvrir <START:menuitem_target> soutien <END>
 ouvrir <START:menuitem_target> synchronisation <END>
 ouvrir <START:menuitem_target> volume <END>
+ouvrir le <START:menuitem_target> volume <END>
 ouvrir <START:menuitem_target> kinova <END>
 ouvrir <START:menuitem_target> wifi <END>
 ouvrir <START:menuitem_target> internet <END>

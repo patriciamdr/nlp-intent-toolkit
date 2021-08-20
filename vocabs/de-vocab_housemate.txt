@@ -2,7 +2,7 @@ nicken kalibrieren
 nicken kalibrieren starten
 nicken kalibrierung starten
 kalibrierung von nicken starten
-kalibrieren nicken
+kalibriere nicken
 starte die kalibrierung von nicken
 starte kalibrierung von nicken
 starte nicken kalibrierung
@@ -13,7 +13,7 @@ neigen kalibrieren
 neigen kalibrieren starten
 neigen kalibrierung starten
 kalibrierung von neigen starten
-kalibrieren neigen
+kalibriere neigen
 starte die kalibrierung von neigen
 starte kalibrierung von neigen
 starte neigen kalibrierung
@@ -21,9 +21,9 @@ start der kalibrierung von neigen
 start kalibrierung von neigen
 start neigen kalibrierung
 bitte nicken kalibrieren
-kalibrieren bitte nicken
-bitte kalibrieren nicken
-kalibrieren nicken bitte
+kalibriere bitte nicken
+bitte kalibriere nicken
+kalibriere nicken bitte
 starte bitte die kalibrierung von nicken
 starte kalibrierung von nicken
 starte nicken kalibrierung
@@ -31,9 +31,9 @@ start der kalibrierung von nicken
 start kalibrierung von nicken
 start nicken kalibrierung
 bitte neigen kalibrieren
-kalibrieren bitte neigen
-bitte kalibrieren neigen
-kalibrieren neigen bitte
+kalibriere bitte neigen
+bitte kalibriere neigen
+kalibriere neigen bitte
 starte bitte die kalibrierung von neigen
 starte kalibrierung von neigen
 starte neigen kalibrierung
@@ -268,46 +268,46 @@ starte suche nach wlan
 scanne nach internet verbindung
 suche nach internet verbindung
 starte suche nach internet verbindung
-schalte raum licht an
-schalte das raum licht an
-schalte raum lichter an
-schalte die raum lichter an
-raum licht an
-raum lichter an
-raum licht anschalten
-raum lichter anschalten
-schalte raum licht ein
-schalte das raum licht ein
-schalte raum lichter ein
-schalte die raum lichter ein
-raum licht einschalten
-raum lichter einschalten
-mach raum licht an
-mach das raum licht an
-mach raum lichter an
-mach die raum lichter an
-raum licht anmachen
-raum lichter anmachen
-schalte bett lampe an
-schalte die bett lampe an
-bett lampe an
-bett lampe anschalten
-schalte bett lampe ein
-schalte die bett lampe ein
-bett lampe einschalten
-mach bett lampe an
-mach die bett lampe an
-bett lampe anmachen
-schalte tisch lampe an
-schalte die tisch lampe an
-tisch lampe an
-tisch lampe anschalten
-schalte tisch lampe ein
-schalte die tisch lampe ein
-tisch lampe einschalten
-mach tisch lampe an
-mach die tisch lampe an
-tisch lampe anmachen
+schalte raumlicht an
+schalte das raumlicht an
+schalte raumlichter an
+schalte die raumlichter an
+raumlicht an
+raumlichter an
+raumlicht anschalten
+raumlichter anschalten
+schalte raumlicht ein
+schalte das raumlicht ein
+schalte raumlichter ein
+schalte die raumlichter ein
+raumlicht einschalten
+raumlichter einschalten
+mach raumlicht an
+mach das raumlicht an
+mach raumlichter an
+mach die raumlichter an
+raumlicht anmachen
+raumlichter anmachen
+schalte bettlampe an
+schalte die bettlampe an
+bettlampe an
+bettlampe anschalten
+schalte bettlampe ein
+schalte die bettlampe ein
+bettlampe einschalten
+mach bettlampe an
+mach die bettlampe an
+bettlampe anmachen
+schalte tischlampe an
+schalte die tischlampe an
+tischlampe an
+tischlampe anschalten
+schalte tischlampe ein
+schalte die tischlampe ein
+tischlampe einschalten
+mach tischlampe an
+mach die tischlampe an
+tischlampe anmachen
 schalte heizung an
 schalte die heizung an
 heizung an
@@ -348,34 +348,34 @@ tv einschalten
 mach tv an
 mach den tv an
 tv anmachen
-schalte raum licht aus
-schalte das raum licht aus
-schalte raum lichter aus
-schalte die raum lichter aus
-raum licht aus
-raum lichter aus
-raum licht ausschalten
-raum lichter ausschalten
-mach raum licht aus
-mach das raum licht aus
-mach raum lichter aus
-mach die raum lichter aus
-raum licht ausmachen
-raum lichter ausmachen
-schalte bett lampe aus
-schalte die bett lampe aus
-bett lampe aus
-bett lampe ausschalten
-mach bett lampe aus
-mach die bett lampe aus
-bett lampe ausmachen
-schalte tisch lampe aus
-schalte die tisch lampe aus
-tisch lampe aus
-tisch lampe ausschalten
-mach tisch lampe aus
-mach die tisch lampe aus
-tisch lampe ausmachen
+schalte raumlicht aus
+schalte das raumlicht aus
+schalte raumlichter aus
+schalte die raumlichter aus
+raumlicht aus
+raumlichter aus
+raumlicht ausschalten
+raumlichter ausschalten
+mach raumlicht aus
+mach das raumlicht aus
+mach raumlichter aus
+mach die raumlichter aus
+raumlicht ausmachen
+raumlichter ausmachen
+schalte bettlampe aus
+schalte die bettlampe aus
+bettlampe aus
+bettlampe ausschalten
+mach bettlampe aus
+mach die bettlampe aus
+bettlampe ausmachen
+schalte tischlampe aus
+schalte die tischlampe aus
+tischlampe aus
+tischlampe ausschalten
+mach tischlampe aus
+mach die tischlampe aus
+tischlampe ausmachen
 schalte heizung aus
 schalte die heizung aus
 heizung aus
@@ -418,19 +418,19 @@ mach lichter an
 mach licht an
 licht anmachen
 lichter anmachen
-schalte warn blinker an
-schalte die warn blinker an
-schalte den warn blinker an
-warn blinker anschalten
-warn blinker an
-den warn blinker anschalten
-die warn blinker anschalten
-schalte warn blinker ein
-warn blinker einschalten
-mach warn blinker an
-mach die warn blinker an
-mach den warn blinker an
-warn blinker anmachen
+schalte warnblinker an
+schalte die warnblinker an
+schalte den warnblinker an
+warnblinker anschalten
+warnblinker an
+den warnblinker anschalten
+die warnblinker anschalten
+schalte warnblinker ein
+warnblinker einschalten
+mach warnblinker an
+mach die warnblinker an
+mach den warnblinker an
+warnblinker anmachen
 schalte lichter aus
 schalte licht aus
 licht ausschalten
@@ -441,11 +441,11 @@ mach lichter aus
 mach licht aus
 licht ausmachen
 lichter ausmachen
-schalte warn blinker aus
-warn blinker ausschalten
-warn blinker aus
-mach warn blinker aus
-warn blinker ausmachen
+schalte warnblinker aus
+warnblinker ausschalten
+warnblinker aus
+mach warnblinker aus
+warnblinker ausmachen
 reduziere die lautstärke
 verringere die lautstärke
 dreh die lautstärke herunter
@@ -984,17 +984,17 @@ das fenster
 der vorhang
 die vorhänge
 das bett
-das raum licht
-die raum lichter
-die tisch lampe
-die bett lampe
+das raumlicht
+die raumlichter
+die tischlampe
+die bettlampe
 die heizung
 der ventilator
 die tür
 der alarm
 die musik
-die musik quelle
-die musik kontrolle
+die musikquelle
+die musikkontrolle
 die tv steuerung
 die tv power
 die tv einstellungen
@@ -1003,20 +1003,20 @@ fenster
 vorhang
 vorhänge
 bett
-raum licht
-raum lichter
-tisch lampe
-bett lampe
+raumlicht
+raumlichter
+tischlampe
+bettlampe
 heizung
 ventilator
 home
-house mate
+housemate
 tür
 alarm
-inter com
+intercom
 musik
-musik quelle
-musik kontrolle
+musikquelle
+musikkontrolle
 tv steuerung
 tv power
 tv einstellungen
@@ -1025,20 +1025,20 @@ zu fenster
 zu vorhang
 zu vorhänge
 zu bett
-zu raum licht
-zu raum lichter
-zu tisch lampe
-zu bett lampe
+zu raumlicht
+zu raumlichter
+zu tischlampe
+zu bettlampe
 zu heizung
 zu ventilator
 zu home
-zu house mate
+zu housemate
 zu tür
 zu alarm
-zu inter com
+zu intercom
 zu musik
-zu musik quelle
-zu musik kontrolle
+zu musikquelle
+zu musikkontrolle
 zu tv steuerung
 zu tv power
 zu tv einstellung
@@ -1048,17 +1048,17 @@ zum fenster
 zum vorhang
 zu den vorhängen
 zum bett
-zum raum licht
-zu den raum lichtern
-zur tisch lampe
-zur bett lampe
+zum raumlicht
+zu den raumlichtern
+zur tischlampe
+zur bettlampe
 zur heizung
 zum ventilator
 zur tür
 zum alarm
 zur musik
-zur musik quelle
-zur musik kontrolle
+zur musikquelle
+zur musikkontrolle
 zur tv steuerung
 zur tv power
 zur tv einstellung
@@ -1068,20 +1068,20 @@ komme zurück auf fenster
 komme zurück auf vorhang
 komme zurück auf vorhänge
 komme zurück auf bett
-komme zurück auf raum licht
-komme zurück auf raum lichter
-komme zurück auf tisch lampe
-komme zurück auf bett lampe
+komme zurück auf raumlicht
+komme zurück auf raumlichter
+komme zurück auf tischlampe
+komme zurück auf bettlampe
 komme zurück auf heizung
 komme zurück auf ventilator
 komme zurück auf home
-komme zurück auf house mate
+komme zurück auf housemate
 komme zurück auf tür
 komme zurück auf alarm
-komme zurück auf inter com
+komme zurück auf intercom
 komme zurück auf musik
-komme zurück auf musik quelle
-komme zurück auf musik kontrolle
+komme zurück auf musikquelle
+komme zurück auf musikkontrolle
 komme zurück auf tv steuerung
 komme zurück auf tv power
 komme zurück auf tv einstellung
@@ -1091,20 +1091,20 @@ gehe auf fenster
 gehe auf vorhang
 gehe auf vorhänge
 gehe auf bett
-gehe auf raum licht
-gehe auf raum lichter
-gehe auf tisch lampe
-gehe auf bett lampe
+gehe auf raumlicht
+gehe auf raumlichter
+gehe auf tischlampe
+gehe auf bettlampe
 gehe auf heizung
 gehe auf ventilator
 gehe auf home
-gehe auf house mate
+gehe auf housemate
 gehe auf tür
 gehe auf alarm
-gehe auf inter com
+gehe auf intercom
 gehe auf musik
-gehe auf musik quelle
-gehe auf musik kontrolle
+gehe auf musikquelle
+gehe auf musikkontrolle
 gehe auf tv steuerung
 gehe auf tv power
 gehe auf tv einstellung
@@ -1114,20 +1114,20 @@ gehe zu fenster
 gehe zu vorhang
 gehe zu vorhänge
 gehe zu bett
-gehe zu raum licht
-gehe zu raum lichter
-gehe zu tisch lampe
-gehe zu bett lampe
+gehe zu raumlicht
+gehe zu raumlichter
+gehe zu tischlampe
+gehe zu bettlampe
 gehe zu heizung
 gehe zu ventilator
 gehe zu home
-gehe zu house mate
+gehe zu housemate
 gehe zu tür
 gehe zu alarm
-gehe zu inter com
+gehe zu intercom
 gehe zu musik
-gehe zu musik quelle
-gehe zu musik kontrolle
+gehe zu musikquelle
+gehe zu musikkontrolle
 gehe zu tv steuerung
 gehe zu tv power
 gehe zu tv einstellung
@@ -1137,17 +1137,17 @@ gehe zum fenster
 gehe zum vorhang
 gehe zu den vorhängen
 gehe zum bett
-gehe zum raum licht
-gehe zu den raum lichtern
-gehe zur tisch lampe
-gehe zur bett lampe
+gehe zum raumlicht
+gehe zu den raumlichtern
+gehe zur tischlampe
+gehe zur bettlampe
 gehe zur heizung
 gehe zum ventilator
 gehe zur tür
 gehe zum alarm
 gehe zur musik
-gehe zur musik quelle
-gehe zur musik kontrolle
+gehe zur musikquelle
+gehe zur musikkontrolle
 gehe zur tv steuerung
 gehe zur tv power
 gehe zur tv einstellung
@@ -1157,20 +1157,20 @@ navigiere zu fenster
 navigiere zu vorhang
 navigiere zu vorhänge
 navigiere zu bett
-navigiere zu raum licht
-navigiere zu raum lichter
-navigiere zu tisch lampe
-navigiere zu bett lampe
+navigiere zu raumlicht
+navigiere zu raumlichter
+navigiere zu tischlampe
+navigiere zu bettlampe
 navigiere zu heizung
 navigiere zu ventilator
 navigiere zu home
-navigiere zu house mate
+navigiere zu housemate
 navigiere zu tür
 navigiere zu alarm
-navigiere zu inter com
+navigiere zu intercom
 navigiere zu musik
-navigiere zu musik quelle
-navigiere zu musik kontrolle
+navigiere zu musikquelle
+navigiere zu musikkontrolle
 navigiere zu tv steuerung
 navigiere zu tv power
 navigiere zu tv einstellung
@@ -1180,17 +1180,17 @@ navigiere zum fenster
 navigiere zum vorhang
 navigiere zu den vorhängen
 navigiere zum bett
-navigiere zum raum licht
-navigiere zu den raum lichtern
-navigiere zur tisch lampe
-navigiere zur bett lampe
+navigiere zum raumlicht
+navigiere zu den raumlichtern
+navigiere zur tischlampe
+navigiere zur bettlampe
 navigiere zur heizung
 navigiere zum ventilator
 navigiere zur tür
 navigiere zum alarm
 navigiere zur musik
-navigiere zur musik quelle
-navigiere zur musik kontrolle
+navigiere zur musikquelle
+navigiere zur musikkontrolle
 navigiere zur tv steuerung
 navigiere zur tv power
 navigiere zur tv einstellung
@@ -1200,20 +1200,20 @@ bring mich zu fenster
 bring mich zu vorhang
 bring mich zu vorhänge
 bring mich zu bett
-bring mich zu raum licht
-bring mich zu raum lichter
-bring mich zu tisch lampe
-bring mich zu bett lampe
+bring mich zu raumlicht
+bring mich zu raumlichter
+bring mich zu tischlampe
+bring mich zu bettlampe
 bring mich zu heizung
 bring mich zu ventilator
 bring mich zu home
-bring mich zu house mate
+bring mich zu housemate
 bring mich zu tür
 bring mich zu alarm
-bring mich zu inter com
+bring mich zu intercom
 bring mich zu musik
-bring mich zu musik quelle
-bring mich zu musik kontrolle
+bring mich zu musikquelle
+bring mich zu musikkontrolle
 bring mich zu tv steuerung
 bring mich zu tv power
 bring mich zu tv einstellung
@@ -1223,17 +1223,17 @@ bring mich zum fenster
 bring mich zum vorhang
 bring mich zu den vorhängen
 bring mich zum bett
-bring mich zum raum licht
-bring mich zu den raum lichtern
-bring mich zur tisch lampe
-bring mich zur bett lampe
+bring mich zum raumlicht
+bring mich zu den raumlichtern
+bring mich zur tischlampe
+bring mich zur bettlampe
 bring mich zur heizung
 bring mich zum ventilator
 bring mich zur tür
 bring mich zum alarm
 bring mich zur musik
-bring mich zur musik quelle
-bring mich zur musik kontrolle
+bring mich zur musikquelle
+bring mich zur musikkontrolle
 bring mich zur tv steuerung
 bring mich zur tv power
 bring mich zur tv einstellung
@@ -1243,20 +1243,20 @@ zeige fenster
 zeige vorhang
 zeige vorhänge
 zeige bett
-zeige raum licht
-zeige raum lichter
-zeige tisch lampe
-zeige bett lampe
+zeige raumlicht
+zeige raumlichter
+zeige tischlampe
+zeige bettlampe
 zeige heizung
 zeige ventilator
 zeige home
-zeige house mate
+zeige housemate
 zeige tür
 zeige alarm
-zeige inter com
+zeige intercom
 zeige musik
-zeige musik quelle
-zeige musik kontrolle
+zeige musikquelle
+zeige musikkontrolle
 zeige tv steuerung
 zeige tv power
 zeige tv einstellungen
@@ -1265,17 +1265,17 @@ zeige das fenster
 zeige den vorhang
 zeige die vorhänge
 zeige das bett
-zeige das raum licht
-zeige die raum lichter
-zeige die tisch lampe
-zeige die bett lampe
+zeige das raumlicht
+zeige die raumlichter
+zeige die tischlampe
+zeige die bettlampe
 zeige die heizung
 zeige der ventilator
 zeige die tür
 zeige den alarm
 zeige die musik
-zeige die musik quelle
-zeige die musik kontrolle
+zeige die musikquelle
+zeige die musikkontrolle
 zeige die tv steuerung
 zeige die tv power
 zeige die tv einstellungen
@@ -1284,20 +1284,20 @@ wähle fenster
 wähle vorhang
 wähle vorhänge
 wähle bett
-wähle raum licht
-wähle raum lichter
-wähle tisch lampe
-wähle bett lampe
+wähle raumlicht
+wähle raumlichter
+wähle tischlampe
+wähle bettlampe
 wähle heizung
 wähle ventilator
 wähle home
-wähle house mate
+wähle housemate
 wähle tür
 wähle alarm
-wähle inter com
+wähle intercom
 wähle musik
-wähle musik quelle
-wähle musik kontrolle
+wähle musikquelle
+wähle musikkontrolle
 wähle tv steuerung
 wähle tv power
 wähle tv einstellungen
@@ -1306,17 +1306,17 @@ wähle das fenster
 wähle den vorhang
 wähle die vorhänge
 wähle das bett
-wähle das raum licht
-wähle die raum lichter
-wähle die tisch lampe
-wähle die bett lampe
+wähle das raumlicht
+wähle die raumlichter
+wähle die tischlampe
+wähle die bettlampe
 wähle die heizung
 wähle der ventilator
 wähle die tür
 wähle den alarm
 wähle die musik
-wähle die musik quelle
-wähle die musik kontrolle
+wähle die musikquelle
+wähle die musikkontrolle
 wähle die tv steuerung
 wähle die tv power
 wähle die tv einstellungen
@@ -1325,20 +1325,20 @@ wechsel zu fenster
 wechsel zu vorhang
 wechsel zu vorhänge
 wechsel zu bett
-wechsel zu raum licht
-wechsel zu raum lichter
-wechsel zu tisch lampe
-wechsel zu bett lampe
+wechsel zu raumlicht
+wechsel zu raumlichter
+wechsel zu tischlampe
+wechsel zu bettlampe
 wechsel zu heizung
 wechsel zu ventilator
 wechsel zu home
-wechsel zu house mate
+wechsel zu housemate
 wechsel zu tür
 wechsel zu alarm
-wechsel zu inter com
+wechsel zu intercom
 wechsel zu musik
-wechsel zu musik quelle
-wechsel zu musik kontrolle
+wechsel zu musikquelle
+wechsel zu musikkontrolle
 wechsel zu tv steuerung
 wechsel zu tv power
 wechsel zu tv einstellung
@@ -1348,17 +1348,17 @@ wechsel zum fenster
 wechsel zum vorhang
 wechsel zu den vorhängen
 wechsel zum bett
-wechsel zum raum licht
-wechsel zu den raum lichtern
-wechsel zur tisch lampe
-wechsel zur bett lampe
+wechsel zum raumlicht
+wechsel zu den raumlichtern
+wechsel zur tischlampe
+wechsel zur bettlampe
 wechsel zur heizung
 wechsel zum ventilator
 wechsel zur tür
 wechsel zum alarm
 wechsel zur musik
-wechsel zur musik quelle
-wechsel zur musik kontrolle
+wechsel zur musikquelle
+wechsel zur musikkontrolle
 wechsel zur tv steuerung
 wechsel zur tv power
 wechsel zur tv einstellung
@@ -1368,17 +1368,17 @@ die kategorie fenster
 die kategorie vorhang
 die kategorie vorhänge
 die kategorie bett
-die kategorie raum licht
-die kategorie raum lichter
-die kategorie tisch lampe
-die kategorie bett lampe
+die kategorie raumlicht
+die kategorie raumlichter
+die kategorie tischlampe
+die kategorie bettlampe
 die kategorie heizung
 die kategorie ventilator
 die kategorie tür
 die kategorie alarm
 die kategorie musik
-die kategorie musik quelle
-die kategorie musik kontrolle
+die kategorie musikquelle
+die kategorie musikkontrolle
 die kategorie tv steuerung
 die kategorie tv power
 die kategorie tv einstellungen
@@ -1387,20 +1387,20 @@ zu der kategorie fenster
 zu der kategorie vorhang
 zu der kategorie vorhänge
 zu der kategorie bett
-zu der kategorie raum licht
-zu der kategorie raum lichter
-zu der kategorie tisch lampe
-zu der kategorie bett lampe
+zu der kategorie raumlicht
+zu der kategorie raumlichter
+zu der kategorie tischlampe
+zu der kategorie bettlampe
 zu der kategorie heizung
 zu der kategorie ventilator
 zu der kategorie home
-zu der kategorie house mate
+zu der kategorie housemate
 zu der kategorie tür
 zu der kategorie alarm
-zu der kategorie inter com
+zu der kategorie intercom
 zu der kategorie musik
-zu der kategorie musik quelle
-zu der kategorie musik kontrolle
+zu der kategorie musikquelle
+zu der kategorie musikkontrolle
 zu der kategorie tv steuerung
 zu der kategorie tv power
 zu der kategorie tv einstellung
@@ -1410,20 +1410,20 @@ gehe zu der kategorie fenster
 gehe zu der kategorie vorhang
 gehe zu der kategorie vorhänge
 gehe zu der kategorie bett
-gehe zu der kategorie raum licht
-gehe zu der kategorie raum lichter
-gehe zu der kategorie tisch lampe
-gehe zu der kategorie bett lampe
+gehe zu der kategorie raumlicht
+gehe zu der kategorie raumlichter
+gehe zu der kategorie tischlampe
+gehe zu der kategorie bettlampe
 gehe zu der kategorie heizung
 gehe zu der kategorie ventilator
 gehe zu der kategorie home
-gehe zu der kategorie house mate
+gehe zu der kategorie housemate
 gehe zu der kategorie tür
 gehe zu der kategorie alarm
-gehe zu der kategorie inter com
+gehe zu der kategorie intercom
 gehe zu der kategorie musik
-gehe zu der kategorie musik quelle
-gehe zu der kategorie musik kontrolle
+gehe zu der kategorie musikquelle
+gehe zu der kategorie musikkontrolle
 gehe zu der kategorie tv steuerung
 gehe zu der kategorie tv power
 gehe zu der kategorie tv einstellung
@@ -1433,20 +1433,20 @@ navigiere zu der kategorie fenster
 navigiere zu der kategorie vorhang
 navigiere zu der kategorie vorhänge
 navigiere zu der kategorie bett
-navigiere zu der kategorie raum licht
-navigiere zu der kategorie raum lichter
-navigiere zu der kategorie tisch lampe
-navigiere zu der kategorie bett lampe
+navigiere zu der kategorie raumlicht
+navigiere zu der kategorie raumlichter
+navigiere zu der kategorie tischlampe
+navigiere zu der kategorie bettlampe
 navigiere zu der kategorie heizung
 navigiere zu der kategorie ventilator
 navigiere zu der kategorie home
-navigiere zu der kategorie house mate
+navigiere zu der kategorie housemate
 navigiere zu der kategorie tür
 navigiere zu der kategorie alarm
-navigiere zu der kategorie inter com
+navigiere zu der kategorie intercom
 navigiere zu der kategorie musik
-navigiere zu der kategorie musik quelle
-navigiere zu der kategorie musik kontrolle
+navigiere zu der kategorie musikquelle
+navigiere zu der kategorie musikkontrolle
 navigiere zu der kategorie tv steuerung
 navigiere zu der kategorie tv power
 navigiere zu der kategorie tv einstellung
@@ -1456,20 +1456,20 @@ bring mich zu der kategorie fenster
 bring mich zu der kategorie vorhang
 bring mich zu der kategorie vorhänge
 bring mich zu der kategorie bett
-bring mich zu der kategorie raum licht
-bring mich zu der kategorie raum lichter
-bring mich zu der kategorie tisch lampe
-bring mich zu der kategorie bett lampe
+bring mich zu der kategorie raumlicht
+bring mich zu der kategorie raumlichter
+bring mich zu der kategorie tischlampe
+bring mich zu der kategorie bettlampe
 bring mich zu der kategorie heizung
 bring mich zu der kategorie ventilator
 bring mich zu der kategorie home
-bring mich zu der kategorie house mate
+bring mich zu der kategorie housemate
 bring mich zu der kategorie tür
 bring mich zu der kategorie alarm
-bring mich zu der kategorie inter com
+bring mich zu der kategorie intercom
 bring mich zu der kategorie musik
-bring mich zu der kategorie musik quelle
-bring mich zu der kategorie musik kontrolle
+bring mich zu der kategorie musikquelle
+bring mich zu der kategorie musikkontrolle
 bring mich zu der kategorie tv steuerung
 bring mich zu der kategorie tv power
 bring mich zu der kategorie tv einstellung
@@ -1479,20 +1479,20 @@ zeige die kategorie fenster
 zeige die kategorie vorhang
 zeige die kategorie vorhänge
 zeige die kategorie bett
-zeige die kategorie raum licht
-zeige die kategorie raum lichter
-zeige die kategorie tisch lampe
-zeige die kategorie bett lampe
+zeige die kategorie raumlicht
+zeige die kategorie raumlichter
+zeige die kategorie tischlampe
+zeige die kategorie bettlampe
 zeige die kategorie heizung
 zeige die kategorie ventilator
 zeige die kategorie home
-zeige die kategorie house mate
+zeige die kategorie housemate
 zeige die kategorie tür
 zeige die kategorie alarm
-zeige die kategorie inter com
+zeige die kategorie intercom
 zeige die kategorie musik
-zeige die kategorie musik quelle
-zeige die kategorie musik kontrolle
+zeige die kategorie musikquelle
+zeige die kategorie musikkontrolle
 zeige die kategorie tv steuerung
 zeige die kategorie tv power
 zeige die kategorie tv einstellungen
@@ -1501,20 +1501,20 @@ wähle die kategorie fenster
 wähle die kategorie vorhang
 wähle die kategorie vorhänge
 wähle die kategorie bett
-wähle die kategorie raum licht
-wähle die kategorie raum lichter
-wähle die kategorie tisch lampe
-wähle die kategorie bett lampe
+wähle die kategorie raumlicht
+wähle die kategorie raumlichter
+wähle die kategorie tischlampe
+wähle die kategorie bettlampe
 wähle die kategorie heizung
 wähle die kategorie ventilator
 wähle die kategorie home
-wähle die kategorie house mate
+wähle die kategorie housemate
 wähle die kategorie tür
 wähle die kategorie alarm
-wähle die kategorie inter com
+wähle die kategorie intercom
 wähle die kategorie musik
-wähle die kategorie musik quelle
-wähle die kategorie musik kontrolle
+wähle die kategorie musikquelle
+wähle die kategorie musikkontrolle
 wähle die kategorie tv steuerung
 wähle die kategorie tv power
 wähle die kategorie tv einstellungen
@@ -1523,20 +1523,20 @@ wechsel zu der kategorie fenster
 wechsel zu der kategorie vorhang
 wechsel zu der kategorie vorhänge
 wechsel zu der kategorie bett
-wechsel zu der kategorie raum licht
-wechsel zu der kategorie raum lichter
-wechsel zu der kategorie tisch lampe
-wechsel zu der kategorie bett lampe
+wechsel zu der kategorie raumlicht
+wechsel zu der kategorie raumlichter
+wechsel zu der kategorie tischlampe
+wechsel zu der kategorie bettlampe
 wechsel zu der kategorie heizung
 wechsel zu der kategorie ventilator
 wechsel zu der kategorie home
-wechsel zu der kategorie house mate
+wechsel zu der kategorie housemate
 wechsel zu der kategorie tür
 wechsel zu der kategorie alarm
-wechsel zu der kategorie inter com
+wechsel zu der kategorie intercom
 wechsel zu der kategorie musik
-wechsel zu der kategorie musik quelle
-wechsel zu der kategorie musik kontrolle
+wechsel zu der kategorie musikquelle
+wechsel zu der kategorie musikkontrolle
 wechsel zu der kategorie tv steuerung
 wechsel zu der kategorie tv power
 wechsel zu der kategorie tv einstellung
@@ -1603,14 +1603,14 @@ zum licht
 licht menü
 das licht menü
 zum licht menü
-warn blinker
-zu den warn blinker
-zum warn blinker
-warn blinker menü
-die warn blinker
-das warn blinker menü
-zum warn blinker menü
-der warn blinker
+warnblinker
+zu den warnblinker
+zum warnblinker
+warnblinker menü
+die warnblinker
+das warnblinker menü
+zum warnblinker menü
+der warnblinker
 lautstärke
 zur lautstärke
 die lautstärke
@@ -1632,8 +1632,8 @@ der support
 app info
 die app info
 zur app info
-notfall email
-zur notfall email
+notfall-email
+zur notfall-email
 admin
 zum admin
 administration
@@ -1656,16 +1656,16 @@ modi
 basic
 fortgeschritten
 nur fahren
-fahr geste
+fahrgeste
 zu basic
 zu fortgeschritten
 zu nur fahren
-zu fahr geste
-zur fahr geste
-die fahr geste
-add ons
-die add ons
-zu den add ons
+zu fahrgeste
+zur fahrgeste
+die fahrgeste
+add-ons
+die add-ons
+zu den add-ons
 mouse eins
 mouse zwei
 zu mouse eins
@@ -1713,10 +1713,10 @@ zu licht bitte
 zum licht bitte
 zu licht menü bitte
 zum licht menü bitte
-zu warn blinker bitte
-zu den warn blinker
-zu den warn blinker bitte
-zum warn blinker bitte
+zu warnblinker bitte
+zu den warnblinker
+zu den warnblinker bitte
+zum warnblinker bitte
 zu lautstärke bitte
 zu sprache bitte
 zu sprachen bitte
@@ -1724,7 +1724,7 @@ zu wlan bitte
 zu internet bitte
 zu support bitte
 zu app info bitte
-zu notfall email bitte
+zu notfall-email bitte
 zu admin bitte
 zu administration bitte
 zu koppeln bitte
@@ -1735,8 +1735,8 @@ zu modi bitte
 zu basic bitte
 zu fortgeschritten bitte
 zu nur fahren bitte
-zu fahr geste bitte
-zu add ons bitte
+zu fahrgeste bitte
+zu add-ons bitte
 zu mouse eins bitte
 zu mouse zwei bitte
 zu tv bitte
@@ -1767,9 +1767,9 @@ bitte zu licht
 bitte zum licht
 bitte zu licht menü
 bitte zum licht menü
-bitte zu warn blinker
-bitte zum warn blinker
-bitte zu den warn blinker
+bitte zu warnblinker
+bitte zum warnblinker
+bitte zu den warnblinker
 bitte zu lautstärke
 bitte zu sprache
 bitte zu sprachen
@@ -1777,7 +1777,7 @@ bitte zu wlan
 bitte zu internet
 bitte zu support
 bitte zu app info
-bitte zu notfall email
+bitte zu notfall-email
 bitte zu admin
 bitte zu administration
 bitte zu koppeln
@@ -1788,8 +1788,8 @@ bitte zu modi
 bitte zu basic
 bitte zu fortgeschritten
 bitte zu nur fahren
-bitte zu fahr geste
-bitte zu add ons
+bitte zu fahrgeste
+bitte zu add-ons
 bitte zu mouse eins
 bitte zu mouse zwei
 bitte zu tv
@@ -1822,9 +1822,9 @@ zu licht
 zum licht
 zu licht menü
 zum licht menü
-zu warn blinker
-zum warn blinker
-zu den warn blinker
+zu warnblinker
+zum warnblinker
+zu den warnblinker
 zu lautstärke
 zu sprache
 zu sprachen
@@ -1832,7 +1832,7 @@ zu wlan
 zu internet
 zu support
 zu app info
-zu notfall email
+zu notfall-email
 zu admin
 zu administration
 zu koppeln
@@ -1843,8 +1843,8 @@ zu modi
 zu basic
 zu fortgeschritten
 zu nur fahren
-zu fahr geste
-zu add ons
+zu fahrgeste
+zu add-ons
 zu mouse eins
 zu mouse zwei
 zu tv
@@ -1888,10 +1888,10 @@ gehe zu licht
 gehe zu licht menü
 gehe zu kategorie licht
 gehe zu kategorie licht menü
-gehe zu warn blinker
-gehe zu warn blinklichter
-gehe zu kategorie warn blinklichter
-gehe zu den warn blinklichter
+gehe zu warnblinker
+gehe zu warnblinklichter
+gehe zu kategorie warnblinklichter
+gehe zu den warnblinklichter
 gehe zu lautstärke
 gehe zu kategorie lautstärke
 gehe zu sprache
@@ -1904,7 +1904,7 @@ gehe zu kategorie wlan
 gehe zu kategorie internet
 gehe zu kategorie support
 gehe zu kategorie app info
-gehe zu kategorie notfall email
+gehe zu kategorie notfall-email
 gehe zu kategorie sync
 gehe zu kategorie synchronisierung
 gehe zu kategorie synchronisation
@@ -1922,8 +1922,8 @@ gehe zu kategorie fortgeschritten
 gehe zum modus fortgeschritten
 gehe zu kategorie nur fahren
 gehe zum modus nur fahren
-gehe zu kategorie fahr geste
-gehe zu kategorie add ons
+gehe zu kategorie fahrgeste
+gehe zu kategorie add-ons
 gehe zu kategorie mouse eins
 gehe zu kategorie mouse zwei
 gehe zu kategorie tv
@@ -1946,7 +1946,7 @@ gehe zu kategorie niederländisch
 gehe zu internet
 gehe zu support
 gehe zu app info
-gehe zu notfall email
+gehe zu notfall-email
 gehe zu sync
 gehe zu synchronisierung
 gehe zu synchronisation
@@ -1961,8 +1961,8 @@ gehe zu modi
 gehe zu basic
 gehe zu fortgeschritten
 gehe zu nur fahren
-gehe zu fahr geste
-gehe zu add ons
+gehe zu fahrgeste
+gehe zu add-ons
 gehe zu mouse eins
 gehe zu mouse zwei
 gehe zu tv
@@ -1993,9 +1993,9 @@ navigiere zu lichter
 navigiere zu lichter menü
 navigiere zu licht
 navigiere zu licht menü
-navigiere zu warn blinker
-navigiere zu den warn blinker
-navigiere zum warn blinker
+navigiere zu warnblinker
+navigiere zu den warnblinker
+navigiere zum warnblinker
 navigiere zu lautstärke
 navigiere zu sprache
 navigiere zu sprachen
@@ -2003,7 +2003,7 @@ navigiere zu wlan
 navigiere zu internet
 navigiere zu support
 navigiere zu app info
-navigiere zu notfall email
+navigiere zu notfall-email
 navigiere zu sync
 navigiere zu synchronisierung
 navigiere zu synchronisation
@@ -2018,8 +2018,8 @@ navigiere zu modi
 navigiere zu basic
 navigiere zu fortgeschritten
 navigiere zu nur fahren
-navigiere zu fahr geste
-navigiere zu add ons
+navigiere zu fahrgeste
+navigiere zu add-ons
 navigiere zu mouse eins
 navigiere zu mouse zwei
 navigiere zu tv
@@ -2049,7 +2049,7 @@ navigiere zu kategorie lichter
 navigiere zu kategorie lichter menü
 navigiere zu kategorie licht
 navigiere zu kategorie licht menü
-navigiere zu kategorie warn blinker
+navigiere zu kategorie warnblinker
 navigiere zu kategorie lautstärke
 navigiere zu kategorie sprache
 navigiere zu kategorie sprachen
@@ -2057,7 +2057,7 @@ navigiere zu kategorie wlan
 navigiere zu kategorie internet
 navigiere zu kategorie support
 navigiere zu kategorie app info
-navigiere zu kategorie notfall email
+navigiere zu kategorie notfall-email
 navigiere zu kategorie sync
 navigiere zu kategorie synchronisierung
 navigiere zu kategorie synchronisation
@@ -2072,8 +2072,8 @@ navigiere zu kategorie modi
 navigiere zu kategorie basic
 navigiere zu kategorie fortgeschritten
 navigiere zu kategorie nur fahren
-navigiere zu kategorie fahr geste
-navigiere zu kategorie add ons
+navigiere zu kategorie fahrgeste
+navigiere zu kategorie add-ons
 navigiere zu kategorie mouse eins
 navigiere zu kategorie mouse zwei
 navigiere zu kategorie tv
@@ -2108,7 +2108,7 @@ bring mich zur kategorie lichter
 bring mich zur kategorie lichter menü
 bring mich zur kategorie licht
 bring mich zur kategorie licht menü
-bring mich zur kategorie warn blinker
+bring mich zur kategorie warnblinker
 bring mich zur kategorie lautstärke
 bring mich zur kategorie sprache
 bring mich zur kategorie sprachen
@@ -2116,7 +2116,7 @@ bring mich zur kategorie wlan
 bring mich zur kategorie internet
 bring mich zur kategorie support
 bring mich zur kategorie app info
-bring mich zur kategorie notfall email
+bring mich zur kategorie notfall-email
 bring mich zur kategorie sync
 bring mich zur kategorie synchronisierung
 bring mich zur kategorie synchronisation
@@ -2131,8 +2131,8 @@ bring mich zur kategorie modi
 bring mich zur kategorie basic
 bring mich zur kategorie fortgeschritten
 bring mich zur kategorie nur fahren
-bring mich zur kategorie fahr geste
-bring mich zur kategorie add ons
+bring mich zur kategorie fahrgeste
+bring mich zur kategorie add-ons
 bring mich zur kategorie mouse eins
 bring mich zur kategorie mouse zwei
 bring mich zur kategorie tv
@@ -2163,7 +2163,7 @@ bring mich zu lichter
 bring mich zu lichter menü
 bring mich zu licht
 bring mich zu licht menü
-bring mich zu warn blinker
+bring mich zu warnblinker
 bring mich zu lautstärke
 bring mich zu sprache
 bring mich zu sprachen
@@ -2171,7 +2171,7 @@ bring mich zu wlan
 bring mich zu internet
 bring mich zu support
 bring mich zu app info
-bring mich zu notfall email
+bring mich zu notfall-email
 bring mich zu sync
 bring mich zu synchronisierung
 bring mich zu synchronisation
@@ -2186,8 +2186,8 @@ bring mich zu modi
 bring mich zu basic
 bring mich zu fortgeschritten
 bring mich zu nur fahren
-bring mich zu fahr geste
-bring mich zu add ons
+bring mich zu fahrgeste
+bring mich zu add-ons
 bring mich zu mouse eins
 bring mich zu mouse zwei
 bring mich zu tv
@@ -2242,9 +2242,9 @@ wähle licht
 wähle das licht
 wähle licht menü
 wähle das licht menü
-wähle warn blinker
-wähle die warn blinker
-wähle den warn blinker
+wähle warnblinker
+wähle die warnblinker
+wähle den warnblinker
 wähle lautstärke
 wähle sprache
 wähle sprachen
@@ -2252,7 +2252,7 @@ wähle wlan
 wähle internet
 wähle support
 wähle app info
-wähle notfall email
+wähle notfall-email
 wähle sync
 wähle synchronisierung
 wähle synchronisation
@@ -2267,8 +2267,8 @@ wähle modi
 wähle basic
 wähle fortgeschritten
 wähle nur fahren
-wähle fahr geste
-wähle add ons
+wähle fahrgeste
+wähle add-ons
 wähle mouse eins
 wähle mouse zwei
 wähle tv
@@ -2298,7 +2298,7 @@ wähle die kategorie lichter
 wähle die kategorie lichter menü
 wähle die kategorie licht
 wähle die kategorie licht menü
-wähle die kategorie warn blinker
+wähle die kategorie warnblinker
 wähle die kategorie lautstärke
 wähle die kategorie sprache
 wähle die kategorie sprachen
@@ -2306,7 +2306,7 @@ wähle die kategorie wlan
 wähle die kategorie internet
 wähle die kategorie support
 wähle die kategorie app info
-wähle die kategorie notfall email
+wähle die kategorie notfall-email
 wähle die kategorie sync
 wähle die kategorie synchronisierung
 wähle die kategorie synchronisation
@@ -2321,8 +2321,8 @@ wähle die kategorie modi
 wähle die kategorie basic
 wähle die kategorie fortgeschritten
 wähle die kategorie nur fahren
-wähle die kategorie fahr geste
-wähle die kategorie add ons
+wähle die kategorie fahrgeste
+wähle die kategorie add-ons
 wähle die kategorie mouse eins
 wähle die kategorie mouse zwei
 wähle die kategorie tv
@@ -2352,7 +2352,7 @@ wähle kategorie lichter
 wähle kategorie lichter menü
 wähle kategorie licht
 wähle kategorie licht menü
-wähle kategorie warn blinker
+wähle kategorie warnblinker
 wähle kategorie lautstärke
 wähle kategorie sprache
 wähle kategorie sprachen
@@ -2360,7 +2360,7 @@ wähle kategorie wlan
 wähle kategorie internet
 wähle kategorie support
 wähle kategorie app info
-wähle kategorie notfall email
+wähle kategorie notfall-email
 wähle kategorie sync
 wähle kategorie synchronisierung
 wähle kategorie synchronisation
@@ -2375,8 +2375,8 @@ wähle kategorie modi
 wähle kategorie basic
 wähle kategorie fortgeschritten
 wähle kategorie nur fahren
-wähle kategorie fahr geste
-wähle kategorie add ons
+wähle kategorie fahrgeste
+wähle kategorie add-ons
 wähle kategorie mouse eins
 wähle kategorie mouse zwei
 wähle kategorie tv
@@ -2406,7 +2406,7 @@ wechsel zu lichter
 wechsel zu lichter menü
 wechsel zu licht
 wechsel zu licht menü
-wechsel zu warn blinker
+wechsel zu warnblinker
 wechsel zu lautstärke
 wechsel zu sprache
 wechsel zu sprachen
@@ -2414,7 +2414,7 @@ wechsel zu wlan
 wechsel zu internet
 wechsel zu support
 wechsel zu app info
-wechsel zu notfall email
+wechsel zu notfall-email
 wechsel zu sync
 wechsel zu synchronisierung
 wechsel zu synchronisation
@@ -2429,8 +2429,8 @@ wechsel zu modi
 wechsel zu basic
 wechsel zu fortgeschritten
 wechsel zu nur fahren
-wechsel zu fahr geste
-wechsel zu add ons
+wechsel zu fahrgeste
+wechsel zu add-ons
 wechsel zu mouse eins
 wechsel zu mouse zwei
 wechsel zu tv
@@ -2460,7 +2460,7 @@ wechsel zur kategorie lichter
 wechsel zur kategorie lichter menü
 wechsel zur kategorie licht
 wechsel zur kategorie licht menü
-wechsel zur kategorie warn blinker
+wechsel zur kategorie warnblinker
 wechsel zur kategorie lautstärke
 wechsel zur kategorie sprache
 wechsel zur kategorie sprachen
@@ -2468,7 +2468,7 @@ wechsel zur kategorie wlan
 wechsel zur kategorie internet
 wechsel zur kategorie support
 wechsel zur kategorie app info
-wechsel zur kategorie notfall email
+wechsel zur kategorie notfall-email
 wechsel zur kategorie sync
 wechsel zur kategorie synchronisierung
 wechsel zur kategorie synchronisation
@@ -2483,8 +2483,8 @@ wechsel zur kategorie modi
 wechsel zur kategorie basic
 wechsel zur kategorie fortgeschritten
 wechsel zur kategorie nur fahren
-wechsel zur kategorie fahr geste
-wechsel zur kategorie add ons
+wechsel zur kategorie fahrgeste
+wechsel zur kategorie add-ons
 wechsel zur kategorie mouse eins
 wechsel zur kategorie mouse zwei
 wechsel zur kategorie tv
@@ -2514,7 +2514,7 @@ zeige kategorie lichter
 zeige kategorie lichter menü
 zeige kategorie licht
 zeige kategorie licht menü
-zeige kategorie warn blinker
+zeige kategorie warnblinker
 zeige kategorie lautstärke
 zeige kategorie sprache
 zeige kategorie sprachen
@@ -2522,7 +2522,7 @@ zeige kategorie wlan
 zeige kategorie internet
 zeige kategorie support
 zeige kategorie app info
-zeige kategorie notfall email
+zeige kategorie notfall-email
 zeige kategorie sync
 zeige kategorie synchronisierung
 zeige kategorie synchronisation
@@ -2537,8 +2537,8 @@ zeige kategorie modi
 zeige kategorie basic
 zeige kategorie fortgeschritten
 zeige kategorie nur fahren
-zeige kategorie fahr geste
-zeige kategorie add ons
+zeige kategorie fahrgeste
+zeige kategorie add-ons
 zeige kategorie mouse eins
 zeige kategorie mouse zwei
 zeige kategorie tv
@@ -2583,8 +2583,8 @@ zeige licht
 zeige das licht
 zeige licht menü
 zeige das licht menü
-zeige warn blinker
-zeige die warn blinker
+zeige warnblinker
+zeige die warnblinker
 zeige lautstärke
 zeige die lautstärke
 zeige sprache
@@ -2599,7 +2599,7 @@ zeige support
 zeige den support
 zeige app info
 zeige die app info
-zeige notfall email
+zeige notfall-email
 zeige sync
 zeige synchronisierung
 zeige die synchronisierung
@@ -2620,10 +2620,10 @@ zeige modi
 zeige basic
 zeige fortgeschritten
 zeige nur fahren
-zeige fahr geste
-zeige die fahr geste
-zeige add ons
-zeige die add ons
+zeige fahrgeste
+zeige die fahrgeste
+zeige add-ons
+zeige die add-ons
 zeige mouse eins
 zeige mouse zwei
 zeige tv
@@ -2908,46 +2908,46 @@ tür aufmachen
 die tür auf
 die tür aufmachen
 öffne das bett
-öffne das raum licht
-öffne die raum lichter
-öffne die tisch lampe
-öffne die bett lampe
+öffne das raumlicht
+öffne die raumlichter
+öffne die tischlampe
+öffne die bettlampe
 öffne die heizung
 öffne den ventilator
 öffne den alarm
 öffne die musik
-öffne die musik quelle
-öffne die musik kontrolle
+öffne die musikquelle
+öffne die musikkontrolle
 öffne die tv steuerung
 öffne die tv power
 öffne die tv einstellungen
 öffne den tv
 öffne bett
-öffne raum licht
-öffne raum lichter
-öffne tisch lampe
-öffne bett lampe
+öffne raumlicht
+öffne raumlichter
+öffne tischlampe
+öffne bettlampe
 öffne heizung
 öffne ventilator
 öffne alarm
 öffne musik
-öffne musik quelle
-öffne musik kontrolle
+öffne musikquelle
+öffne musikkontrolle
 öffne tv steuerung
 öffne tv power
 öffne tv einstellungen
 öffne tv
 bett öffnen
-raum licht öffnen
-raum lichter öffnen
-tisch lampe öffnen
-bett lampe öffnen
+raumlicht öffnen
+raumlichter öffnen
+tischlampe öffnen
+bettlampe öffnen
 heizung öffnen
 ventilator öffnen
 alarm öffnen
 musik öffnen
-musik quelle öffnen
-musik kontrolle öffnen
+musikquelle öffnen
+musikkontrolle öffnen
 tv steuerung öffnen
 tv power öffnen
 tv einstellungen öffnen
@@ -2957,16 +2957,16 @@ tv öffnen
 öffne die kategorie vorhang
 öffne die kategorie vorhänge
 öffne die kategorie bett
-öffne die kategorie raum licht
-öffne die kategorie raum lichter
-öffne die kategorie tisch lampe
-öffne die kategorie bett lampe
+öffne die kategorie raumlicht
+öffne die kategorie raumlichter
+öffne die kategorie tischlampe
+öffne die kategorie bettlampe
 öffne die kategorie heizung
 öffne die kategorie ventilator
 öffne die kategorie alarm
 öffne die kategorie musik
-öffne die kategorie musik quelle
-öffne die kategorie musik kontrolle
+öffne die kategorie musikquelle
+öffne die kategorie musikkontrolle
 öffne die kategorie tv steuerung
 öffne die kategorie tv power
 öffne die kategorie tv einstellungen
@@ -2976,31 +2976,31 @@ tv öffnen
 öffne kategorie vorhang
 öffne kategorie vorhänge
 öffne kategorie bett
-öffne kategorie raum licht
-öffne kategorie raum lichter
-öffne kategorie tisch lampe
-öffne kategorie bett lampe
+öffne kategorie raumlicht
+öffne kategorie raumlichter
+öffne kategorie tischlampe
+öffne kategorie bettlampe
 öffne kategorie heizung
 öffne kategorie ventilator
 öffne kategorie alarm
 öffne kategorie musik
-öffne kategorie musik quelle
-öffne kategorie musik kontrolle
+öffne kategorie musikquelle
+öffne kategorie musikkontrolle
 öffne kategorie tv steuerung
 öffne kategorie tv power
 öffne kategorie tv einstellungen
 öffne kategorie tv
 die kategorie bett öffnen
-die kategorie raum licht öffnen
-die kategorie raum lichter öffnen
-die kategorie tisch lampe öffnen
-die kategorie bett lampe öffnen
+die kategorie raumlicht öffnen
+die kategorie raumlichter öffnen
+die kategorie tischlampe öffnen
+die kategorie bettlampe öffnen
 die kategorie heizung öffnen
 die kategorie ventilator öffnen
 die kategorie alarm öffnen
 die kategorie musik öffnen
-die kategorie musik quelle öffnen
-die kategorie musik kontrolle öffnen
+die kategorie musikquelle öffnen
+die kategorie musikkontrolle öffnen
 die kategorie tv steuerung öffnen
 die kategorie tv power öffnen
 die kategorie tv einstellungen öffnen
@@ -3010,16 +3010,16 @@ die kategorie tür öffnen
 die kategorie vorhang öffnen
 die kategorie vorhänge öffnen
 kategorie bett öffnen
-kategorie raum licht öffnen
-kategorie raum lichter öffnen
-kategorie tisch lampe öffnen
-kategorie bett lampe öffnen
+kategorie raumlicht öffnen
+kategorie raumlichter öffnen
+kategorie tischlampe öffnen
+kategorie bettlampe öffnen
 kategorie heizung öffnen
 kategorie ventilator öffnen
 kategorie alarm öffnen
 kategorie musik öffnen
-kategorie musik quelle öffnen
-kategorie musik kontrolle öffnen
+kategorie musikquelle öffnen
+kategorie musikkontrolle öffnen
 kategorie tv steuerung öffnen
 kategorie tv power öffnen
 kategorie tv einstellungen öffnen
@@ -3045,8 +3045,8 @@ kategorie vorhänge öffnen
 öffne lichter menü
 öffne licht
 öffne licht menü
-öffne warn blinker
-öffne warn blinker
+öffne warnblinker
+öffne warnblinker
 öffne lautstärke
 öffne sprache
 öffne sprachen
@@ -3054,7 +3054,7 @@ kategorie vorhänge öffnen
 öffne internet
 öffne support
 öffne app info
-öffne notfall email
+öffne notfall-email
 öffne sync
 öffne synchronisierung
 öffne synchronisation
@@ -3069,8 +3069,8 @@ kategorie vorhänge öffnen
 öffne basic
 öffne fortgeschritten
 öffne nur fahren
-öffne fahr geste
-öffne add ons
+öffne fahrgeste
+öffne add-ons
 öffne mouse eins
 öffne mouse eins bitte
 öffne bitte mouse eins
@@ -3103,7 +3103,7 @@ lichter öffnen
 lichter menü öffnen
 licht öffnen
 licht menü öffnen
-warn blinker öffnen
+warnblinker öffnen
 lautstärke öffnen
 sprache öffnen
 sprachen öffnen
@@ -3111,7 +3111,7 @@ wlan öffnen
 internet öffnen
 support öffnen
 app info öffnen
-notfall email öffnen
+notfall-email öffnen
 sync öffnen
 synchronisierung öffnen
 synchronisation öffnen
@@ -3126,8 +3126,8 @@ modi öffnen
 basic öffnen
 fortgeschritten öffnen
 nur fahren öffnen
-fahr geste öffnen
-add ons öffnen
+fahrgeste öffnen
+add-ons öffnen
 mouse eins öffnen
 mouse zwei öffnen
 bitte mouse eins öffnen
@@ -3157,7 +3157,7 @@ kinova öffnen
 öffne kategorie lichter menü
 öffne kategorie licht
 öffne kategorie licht menü
-öffne kategorie warn blinker
+öffne kategorie warnblinker
 öffne kategorie lautstärke
 öffne kategorie sprache
 öffne kategorie sprachen
@@ -3165,7 +3165,7 @@ kinova öffnen
 öffne kategorie internet
 öffne kategorie support
 öffne kategorie app info
-öffne kategorie notfall email
+öffne kategorie notfall-email
 öffne kategorie sync
 öffne kategorie synchronisierung
 öffne kategorie synchronisation
@@ -3183,9 +3183,9 @@ kinova öffnen
 öffne den modus fortgeschritten
 öffne kategorie nur fahren
 öffne den modus nur fahren
-öffne kategorie fahr geste
-öffne kategorie add ons
-öffne die add ons
+öffne kategorie fahrgeste
+öffne kategorie add-ons
+öffne die add-ons
 öffne kategorie mouse eins
 öffne kategorie mouse zwei
 öffne kategorie tv
@@ -3211,7 +3211,7 @@ kategorie lichter öffnen
 kategorie lichter menü öffnen
 kategorie licht öffnen
 kategorie licht menü öffnen
-kategorie warn blinker öffnen
+kategorie warnblinker öffnen
 kategorie lautstärke öffnen
 kategorie sprache öffnen
 kategorie sprachen öffnen
@@ -3219,7 +3219,7 @@ kategorie wlan öffnen
 kategorie internet öffnen
 kategorie support öffnen
 kategorie app info öffnen
-kategorie notfall email öffnen
+kategorie notfall-email öffnen
 kategorie sync öffnen
 kategorie synchronisierung öffnen
 kategorie synchronisation öffnen
@@ -3234,7 +3234,7 @@ kategorie modi öffnen
 kategorie basic öffnen
 kategorie fortgeschritten öffnen
 kategorie nur fahren öffnen
-kategorie add ons öffnen
+kategorie add-ons öffnen
 kategorie mouse eins öffnen
 kategorie mouse zwei öffnen
 kategorie tv öffnen
@@ -5755,8 +5755,8 @@ möchte
 ok
 ok munevo
 ok glass
-warn blinklicht
-warn blinklichter
+warnblinklicht
+warnblinklichter
 abspielen
 abzuspielen
 acht
@@ -5869,6 +5869,7 @@ ich
 info
 inter
 internet
+kalibriere
 kalibrieren
 kalibrierung
 kamera

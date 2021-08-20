@@ -1,4 +1,7 @@
-<START:volume_target> volume <END>
+fais baisser le <START:volume_target> volume <END>
+fais baisser <START:volume_target> volume <END>
+faire baisser le <START:volume_target> volume <END>
+faire baisser <START:volume_target> volume <END>
 baisse le <START:volume_target> volume <END>
 baisse <START:volume_target> volume <END>
 baisser le <START:volume_target> volume <END>
@@ -13,8 +16,24 @@ réduire le <START:volume_target> volume <END>
 réduire <START:volume_target> volume <END>
 <START:volume_target> volume <END> plus faible
 <START:volume_target> volume <END> plus silencieux
+fais le <START:volume_target> volume <END> plus faible
+fais le <START:volume_target> volume <END> plus silencieux
+faire le <START:volume_target> volume <END> plus faible
+faire le <START:volume_target> volume <END> plus silencieux
 faible <START:volume_target> volume <END>
 <START:volume_target> volume <END> silencieux
+le <START:volume_target> volume <END> plus faible
+le <START:volume_target> volume <END> plus silencieux
+faible le <START:volume_target> volume <END>
+le <START:volume_target> volume <END> silencieux
+fais le <START:volume_target> volume <END> plus faible s'il vous plaît
+fais le <START:volume_target> volume <END> plus silencieux s'il vous plaît
+faire le <START:volume_target> volume <END> plus faible s'il vous plaît
+faire le <START:volume_target> volume <END> plus silencieux s'il vous plaît
+fais baisser le <START:volume_target> volume <END> s'il vous plaît
+fais baisser <START:volume_target> volume <END> s'il vous plaît
+faire baisser le <START:volume_target> volume <END> s'il vous plaît
+faire baisser <START:volume_target> volume <END> s'il vous plaît
 baisse le <START:volume_target> volume <END> s'il vous plaît
 baisse <START:volume_target> volume <END> s'il vous plaît
 baisser le <START:volume_target> volume <END> s'il vous plaît
@@ -31,6 +50,18 @@ réduire <START:volume_target> volume <END> s'il vous plaît
 <START:volume_target> volume <END> plus silencieux s'il vous plaît
 faible <START:volume_target> volume <END> s'il vous plaît
 <START:volume_target> volume <END> silencieux s'il vous plaît
+le <START:volume_target> volume <END> plus faible s'il vous plaît
+le <START:volume_target> volume <END> plus silencieux s'il vous plaît
+faible le <START:volume_target> volume <END> s'il vous plaît
+le <START:volume_target> volume <END> silencieux s'il vous plaît
+s'il vous plaît fais le <START:volume_target> volume <END> plus faible
+s'il vous plaît fais le <START:volume_target> volume <END> plus silencieux
+s'il vous plaît faire le <START:volume_target> volume <END> plus faible
+s'il vous plaît faire le <START:volume_target> volume <END> plus silencieux
+s'il vous plaît fais baisser le <START:volume_target> volume <END>
+s'il vous plaît fais baisser <START:volume_target> volume <END>
+s'il vous plaît faire baisser le <START:volume_target> volume <END>
+s'il vous plaît faire baisser <START:volume_target> volume <END>
 s'il vous plaît baisse le <START:volume_target> volume <END>
 s'il vous plaît baisse <START:volume_target> volume <END>
 s'il vous plaît baisser le <START:volume_target> volume <END>
@@ -47,6 +78,10 @@ s'il vous plaît <START:volume_target> volume <END> plus faible
 s'il vous plaît <START:volume_target> volume <END> plus silencieux
 s'il vous plaît faible <START:volume_target> volume <END>
 s'il vous plaît <START:volume_target> volume <END> silencieux
+s'il vous plaît le <START:volume_target> volume <END> plus faible
+s'il vous plaît le <START:volume_target> volume <END> plus silencieux
+s'il vous plaît faible le <START:volume_target> volume <END>
+s'il vous plaît le <START:volume_target> volume <END> silencieux
 baisse le volume de la <START:volume_target> musique <END>
 baisse volume de la <START:volume_target> musique <END>
 baisse volume la <START:volume_target> musique <END>

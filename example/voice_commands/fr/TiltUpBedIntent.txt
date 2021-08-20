@@ -1,4 +1,4 @@
-releve le <START:tilt_target> lit <END>
+relève le <START:tilt_target> lit <END>
 redresse le <START:tilt_target> lit <END>
 replie le <START:tilt_target> lit <END>
 incline le <START:tilt_target> lit <END> vers le haut
@@ -34,7 +34,7 @@ redresser la pente du <START:tilt_target> lit <END>
 redresser l'inclinaison du <START:tilt_target> lit <END>
 faire le <START:tilt_target> lit <END> plus haut
 rendre le <START:tilt_target> lit <END> plus raide
-releve <START:tilt_target> lit <END>
+relève <START:tilt_target> lit <END>
 redresse <START:tilt_target> lit <END>
 replie <START:tilt_target> lit <END>
 incline <START:tilt_target> lit <END> vers le haut

@@ -1262,7 +1262,7 @@ advanced
 drive only
 drive gesture
 drive gestures
-add ons
+add-ons
 mouse one
 mouse two
 tv
@@ -1326,7 +1326,7 @@ to advanced
 to drive only
 to drive gesture
 to drive gestures
-to add ons
+to add-ons
 to mouse one
 to mouse two
 to tv
@@ -1382,7 +1382,7 @@ go to category advanced
 go to category drive only
 go to category drive gesture
 go to category drive gestures
-go to category add ons
+go to category add-ons
 go to category mouse one
 go to category mouse two
 go to category tv
@@ -1436,7 +1436,7 @@ go to advanced
 go to drive only
 go to drive gesture
 go to drive gestures
-go to add ons
+go to add-ons
 go to mouse one
 go to mouse two
 go to tv
@@ -1489,7 +1489,7 @@ take me to category basic
 take me to category advanced
 take me to category drive only
 take me to category drive gesture
-take me to category add ons
+take me to category add-ons
 take me to category mouse one
 take me to category mouse two
 take me to category tv
@@ -1542,7 +1542,7 @@ take me to basic
 take me to advanced
 take me to drive only
 take me to drive gesture
-take me to add ons
+take me to add-ons
 take me to mouse one
 take me to mouse two
 take me to tv
@@ -1595,7 +1595,7 @@ navigate to category basic
 navigate to category advanced
 navigate to category drive only
 navigate to category drive gesture
-navigate to category add ons
+navigate to category add-ons
 navigate to category mouse one
 navigate to category mouse two
 navigate to category tv
@@ -1648,7 +1648,7 @@ navigate to basic
 navigate to advanced
 navigate to drive only
 navigate to drive gesture
-navigate to add ons
+navigate to add-ons
 navigate to mouse one
 navigate to mouse two
 navigate to tv
@@ -1704,7 +1704,7 @@ switch to basic
 switch to advanced
 switch to drive only
 switch to drive gesture
-switch to add ons
+switch to add-ons
 switch to mouse one
 switch to mouse two
 switch to tv
@@ -1756,7 +1756,7 @@ select basic
 select advanced
 select drive only
 select drive gesture
-select add ons
+select add-ons
 select mouse one
 select mouse two
 select tv
@@ -1808,7 +1808,7 @@ choose basic
 choose advanced
 choose drive only
 choose drive gesture
-choose add ons
+choose add-ons
 choose mouse one
 choose mouse two
 choose tv
@@ -2199,7 +2199,7 @@ open basic
 open advanced
 open drive only
 open drive gesture
-open add ons
+open add-ons
 open mouse one
 open mouse two
 open mouse one please
@@ -2265,7 +2265,7 @@ open the mode basic
 open the mode advanced
 open the mode drive only
 open the drive gesture
-open the add ons
+open the add-ons
 open the mouse one
 open the mouse two
 open the mouse one please
@@ -3273,7 +3273,6 @@ higher level of the bed
 higher height of the bed
 higher angle of the bed
 higher incline of the bed
-smartglass
 need
 write
 ok
@@ -3412,7 +3411,6 @@ settings
 seven
 show
 six
-smartglass
 song
 source
 sources

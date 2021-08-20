@@ -1,43 +1,43 @@
-schalte <START:control_target> raum licht <END> an
-schalte das <START:control_target> raum licht <END> an
-schalte <START:control_target> raum lichter <END> an
-schalte die <START:control_target> raum lichter <END> an
-<START:control_target> raum licht <END> an
-<START:control_target> raum lichter <END> an
-<START:control_target> raum licht <END> anschalten
-<START:control_target> raum lichter <END> anschalten
-schalte <START:control_target> raum licht <END> ein
-schalte das <START:control_target> raum licht <END> ein
-schalte <START:control_target> raum lichter <END> ein
-schalte die <START:control_target> raum lichter <END> ein
-<START:control_target> raum licht <END> einschalten
-<START:control_target> raum lichter <END> einschalten
-mach <START:control_target> raum licht <END> an
-mach das <START:control_target> raum licht <END> an
-mach <START:control_target> raum lichter <END> an
-mach die <START:control_target> raum lichter <END> an
-<START:control_target> raum licht <END> anmachen
-<START:control_target> raum lichter <END> anmachen
-schalte <START:control_target> bett lampe <END> an
-schalte die <START:control_target> bett lampe <END> an
-<START:control_target> bett lampe <END> an
-<START:control_target> bett lampe <END> anschalten
-schalte <START:control_target> bett lampe <END> ein
-schalte die <START:control_target> bett lampe <END> ein
-<START:control_target> bett lampe <END> einschalten
-mach <START:control_target> bett lampe <END> an
-mach die <START:control_target> bett lampe <END> an
-<START:control_target> bett lampe <END> anmachen
-schalte <START:control_target> tisch lampe <END> an
-schalte die <START:control_target> tisch lampe <END> an
-<START:control_target> tisch lampe <END> an
-<START:control_target> tisch lampe <END> anschalten
-schalte <START:control_target> tisch lampe <END> ein
-schalte die <START:control_target> tisch lampe <END> ein
-<START:control_target> tisch lampe <END> einschalten
-mach <START:control_target> tisch lampe <END> an
-mach die <START:control_target> tisch lampe <END> an
-<START:control_target> tisch lampe <END> anmachen
+schalte <START:control_target> raumlicht <END> an
+schalte das <START:control_target> raumlicht <END> an
+schalte <START:control_target> raumlichter <END> an
+schalte die <START:control_target> raumlichter <END> an
+<START:control_target> raumlicht <END> an
+<START:control_target> raumlichter <END> an
+<START:control_target> raumlicht <END> anschalten
+<START:control_target> raumlichter <END> anschalten
+schalte <START:control_target> raumlicht <END> ein
+schalte das <START:control_target> raumlicht <END> ein
+schalte <START:control_target> raumlichter <END> ein
+schalte die <START:control_target> raumlichter <END> ein
+<START:control_target> raumlicht <END> einschalten
+<START:control_target> raumlichter <END> einschalten
+mach <START:control_target> raumlicht <END> an
+mach das <START:control_target> raumlicht <END> an
+mach <START:control_target> raumlichter <END> an
+mach die <START:control_target> raumlichter <END> an
+<START:control_target> raumlicht <END> anmachen
+<START:control_target> raumlichter <END> anmachen
+schalte <START:control_target> bettlampe <END> an
+schalte die <START:control_target> bettlampe <END> an
+<START:control_target> bettlampe <END> an
+<START:control_target> bettlampe <END> anschalten
+schalte <START:control_target> bettlampe <END> ein
+schalte die <START:control_target> bettlampe <END> ein
+<START:control_target> bettlampe <END> einschalten
+mach <START:control_target> bettlampe <END> an
+mach die <START:control_target> bettlampe <END> an
+<START:control_target> bettlampe <END> anmachen
+schalte <START:control_target> tischlampe <END> an
+schalte die <START:control_target> tischlampe <END> an
+<START:control_target> tischlampe <END> an
+<START:control_target> tischlampe <END> anschalten
+schalte <START:control_target> tischlampe <END> ein
+schalte die <START:control_target> tischlampe <END> ein
+<START:control_target> tischlampe <END> einschalten
+mach <START:control_target> tischlampe <END> an
+mach die <START:control_target> tischlampe <END> an
+<START:control_target> tischlampe <END> anmachen
 schalte <START:control_target> heater <END> an
 schalte den <START:control_target> heater <END> an
 <START:control_target> heater <END> an
@@ -88,34 +88,34 @@ schalte den <START:control_target> tv <END> ein
 mach <START:control_target> tv <END> an
 mach den <START:control_target> tv <END> an
 <START:control_target> tv <END> anmachen
-schalte <START:control_target> raum licht <END> aus
-schalte das <START:control_target> raum licht <END> aus
-schalte <START:control_target> raum lichter <END> aus
-schalte die <START:control_target> raum lichter <END> aus
-<START:control_target> raum licht <END> aus
-<START:control_target> raum lichter <END> aus
-<START:control_target> raum licht <END> ausschalten
-<START:control_target> raum lichter <END> ausschalten
-mach <START:control_target> raum licht <END> aus
-mach das <START:control_target> raum licht <END> aus
-mach <START:control_target> raum lichter <END> aus
-mach die <START:control_target> raum lichter <END> aus
-<START:control_target> raum licht <END> ausmachen
-<START:control_target> raum lichter <END> ausmachen
-schalte <START:control_target> bett lampe <END> aus
-schalte die <START:control_target> bett lampe <END> aus
-<START:control_target> bett lampe <END> aus
-<START:control_target> bett lampe <END> ausschalten
-mach <START:control_target> bett lampe <END> aus
-mach die <START:control_target> bett lampe <END> aus
-<START:control_target> bett lampe <END> ausmachen
-schalte <START:control_target> tisch lampe <END> aus
-schalte die <START:control_target> tisch lampe <END> aus
-<START:control_target> tisch lampe <END> aus
-<START:control_target> tisch lampe <END> ausschalten
-mach <START:control_target> tisch lampe <END> aus
-mach die <START:control_target> tisch lampe <END> aus
-<START:control_target> tisch lampe <END> ausmachen
+schalte <START:control_target> raumlicht <END> aus
+schalte das <START:control_target> raumlicht <END> aus
+schalte <START:control_target> raumlichter <END> aus
+schalte die <START:control_target> raumlichter <END> aus
+<START:control_target> raumlicht <END> aus
+<START:control_target> raumlichter <END> aus
+<START:control_target> raumlicht <END> ausschalten
+<START:control_target> raumlichter <END> ausschalten
+mach <START:control_target> raumlicht <END> aus
+mach das <START:control_target> raumlicht <END> aus
+mach <START:control_target> raumlichter <END> aus
+mach die <START:control_target> raumlichter <END> aus
+<START:control_target> raumlicht <END> ausmachen
+<START:control_target> raumlichter <END> ausmachen
+schalte <START:control_target> bettlampe <END> aus
+schalte die <START:control_target> bettlampe <END> aus
+<START:control_target> bettlampe <END> aus
+<START:control_target> bettlampe <END> ausschalten
+mach <START:control_target> bettlampe <END> aus
+mach die <START:control_target> bettlampe <END> aus
+<START:control_target> bettlampe <END> ausmachen
+schalte <START:control_target> tischlampe <END> aus
+schalte die <START:control_target> tischlampe <END> aus
+<START:control_target> tischlampe <END> aus
+<START:control_target> tischlampe <END> ausschalten
+mach <START:control_target> tischlampe <END> aus
+mach die <START:control_target> tischlampe <END> aus
+<START:control_target> tischlampe <END> ausmachen
 schalte <START:control_target> heater <END> aus
 schalte den <START:control_target> heater <END> aus
 <START:control_target> heater <END> aus
@@ -165,19 +165,19 @@ mach <START:control_target> lichter <END> an
 mach <START:control_target> licht <END> an
 <START:control_target> licht <END> anmachen
 <START:control_target> lichter <END> anmachen
-schalte <START:control_target> warn blinker <END> an
-schalte die <START:control_target> warn blinker <END> an
-schalte den <START:control_target> warn blinker <END> an
-<START:control_target> warn blinker <END> anschalten
-<START:control_target> warn blinker <END> an
-den <START:control_target> warn blinker <END> anschalten
-die <START:control_target> warn blinker <END> anschalten
-schalte <START:control_target> warn blinker <END> ein
-<START:control_target> warn blinker <END> einschalten
-mach <START:control_target> warn blinker <END> an
-mach die <START:control_target> warn blinker <END> an
-mach den <START:control_target> warn blinker <END> an
-<START:control_target> warn blinker <END> anmachen
+schalte <START:control_target> warnblinker <END> an
+schalte die <START:control_target> warnblinker <END> an
+schalte den <START:control_target> warnblinker <END> an
+<START:control_target> warnblinker <END> anschalten
+<START:control_target> warnblinker <END> an
+den <START:control_target> warnblinker <END> anschalten
+die <START:control_target> warnblinker <END> anschalten
+schalte <START:control_target> warnblinker <END> ein
+<START:control_target> warnblinker <END> einschalten
+mach <START:control_target> warnblinker <END> an
+mach die <START:control_target> warnblinker <END> an
+mach den <START:control_target> warnblinker <END> an
+<START:control_target> warnblinker <END> anmachen
 schalte <START:control_target> lichter <END> aus
 schalte <START:control_target> licht <END> aus
 <START:control_target> licht <END> ausschalten
@@ -188,8 +188,8 @@ mach <START:control_target> lichter <END> aus
 mach <START:control_target> licht <END> aus
 <START:control_target> licht <END> ausmachen
 <START:control_target> lichter <END> ausmachen
-schalte <START:control_target> warn blinker <END> aus
-<START:control_target> warn blinker <END> ausschalten
-<START:control_target> warn blinker <END> aus
-mach <START:control_target> warn blinker <END> aus
-<START:control_target> warn blinker <END> ausmachen
+schalte <START:control_target> warnblinker <END> aus
+<START:control_target> warnblinker <END> ausschalten
+<START:control_target> warnblinker <END> aus
+mach <START:control_target> warnblinker <END> aus
+<START:control_target> warnblinker <END> ausmachen

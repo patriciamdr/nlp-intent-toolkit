@@ -1,4 +1,4 @@
-add ons:add on
+add-ons:add-on
 nods:nod
 nodding:nod
 pairing:pair

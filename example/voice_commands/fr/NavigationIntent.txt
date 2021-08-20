@@ -5,18 +5,27 @@
 <START:nav_target> porte <END>
 <START:nav_target> musique <END>
 <START:nav_target> musique <END> volume
+le <START:nav_target> musique <END> volume
 volume de la <START:nav_target> musique <END>
+le volume de la <START:nav_target> musique <END>
 <START:nav_target> tv <END>
 <START:nav_target> télé <END>
 <START:nav_target> télé <END> volume
+le <START:nav_target> télé <END> volume
 volume du <START:nav_target> télé <END>
 volume de la <START:nav_target> télé <END>
+le volume du <START:nav_target> télé <END>
+le volume de la <START:nav_target> télé <END>
 <START:nav_target> téléviseur <END>
 <START:nav_target> téléviseur <END> volume
+le <START:nav_target> téléviseur <END> volume
 volume du <START:nav_target> téléviseur <END>
+le volume du <START:nav_target> téléviseur <END>
 <START:nav_target> télévision <END>
 <START:nav_target> télévision <END> volume
+le <START:nav_target> télévision <END> volume
 volume de la <START:nav_target> télévision <END>
+le volume de la <START:nav_target> télévision <END>
 <START:nav_target> smartphone existant <END>
 <START:nav_target> nouveau smartphone <END>
 <START:nav_target> modes <END>
@@ -35,6 +44,7 @@ volume de la <START:nav_target> télévision <END>
 <START:nav_target> soutien <END>
 <START:nav_target> synchronisation <END>
 <START:nav_target> volume <END>
+le <START:nav_target> volume <END>
 <START:nav_target> kinova <END>
 <START:nav_target> wifi <END>
 <START:nav_target> internet <END>
@@ -59,18 +69,27 @@ choisis <START:nav_target> lit <END>
 choisis <START:nav_target> porte <END>
 choisis <START:nav_target> musique <END>
 choisis <START:nav_target> musique <END> volume
+choisis le <START:nav_target> musique <END> volume
 choisis volume de la <START:nav_target> musique <END>
+choisis le volume de la <START:nav_target> musique <END>
 choisis <START:nav_target> tv <END>
 choisis <START:nav_target> télé <END>
 choisis <START:nav_target> télé <END> volume
+choisis le <START:nav_target> télé <END> volume
 choisis volume du <START:nav_target> télé <END>
+choisis le volume du <START:nav_target> télé <END>
 choisis volume de la <START:nav_target> télé <END>
+choisis le volume de la <START:nav_target> télé <END>
 choisis <START:nav_target> téléviseur <END>
 choisis <START:nav_target> téléviseur <END> volume
+choisis le <START:nav_target> téléviseur <END> volume
 choisis volume du <START:nav_target> téléviseur <END>
+choisis le volume du <START:nav_target> téléviseur <END>
 choisis <START:nav_target> télévision <END>
 choisis <START:nav_target> télévision <END> volume
+choisis le <START:nav_target> télévision <END> volume
 choisis volume de la <START:nav_target> télévision <END>
+choisis le volume de la <START:nav_target> télévision <END>
 choisis <START:nav_target> smartphone existant <END>
 choisis <START:nav_target> nouveau smartphone <END>
 choisis <START:nav_target> modes <END>
@@ -89,6 +108,7 @@ choisis <START:nav_target> réglages <END>
 choisis <START:nav_target> soutien <END>
 choisis <START:nav_target> synchronisation <END>
 choisis <START:nav_target> volume <END>
+choisis le <START:nav_target> volume <END>
 choisis <START:nav_target> kinova <END>
 choisis <START:nav_target> wifi <END>
 choisis <START:nav_target> internet <END>
@@ -113,18 +133,27 @@ choisir <START:nav_target> lit <END>
 choisir <START:nav_target> porte <END>
 choisir <START:nav_target> musique <END>
 choisir <START:nav_target> musique <END> volume
+choisir le <START:nav_target> musique <END> volume
 choisir volume de la <START:nav_target> musique <END>
+choisir le volume de la <START:nav_target> musique <END>
 choisir <START:nav_target> tv <END>
 choisir <START:nav_target> télé <END>
 choisir <START:nav_target> télé <END> volume
+choisir le <START:nav_target> télé <END> volume
 choisir volume du <START:nav_target> télé <END>
+choisir le volume du <START:nav_target> télé <END>
 choisir volume de la <START:nav_target> télé <END>
+choisir le volume de la <START:nav_target> télé <END>
 choisir <START:nav_target> téléviseur <END>
 choisir <START:nav_target> téléviseur <END> volume
+choisir le <START:nav_target> téléviseur <END> volume
 choisir volume du <START:nav_target> téléviseur <END>
+choisir le volume du <START:nav_target> téléviseur <END>
 choisir <START:nav_target> télévision <END>
 choisir <START:nav_target> télévision <END> volume
+choisir le <START:nav_target> télévision <END> volume
 choisir volume de la <START:nav_target> télévision <END>
+choisir le volume de la <START:nav_target> télévision <END>
 choisir <START:nav_target> smartphone existant <END>
 choisir <START:nav_target> nouveau smartphone <END>
 choisir <START:nav_target> modes <END>
@@ -143,6 +172,7 @@ choisir <START:nav_target> réglages <END>
 choisir <START:nav_target> soutien <END>
 choisir <START:nav_target> synchronisation <END>
 choisir <START:nav_target> volume <END>
+choisir le <START:nav_target> volume <END>
 choisir <START:nav_target> kinova <END>
 choisir <START:nav_target> wifi <END>
 choisir <START:nav_target> internet <END>
@@ -245,18 +275,27 @@ sélectionne <START:nav_target> lit <END>
 sélectionne <START:nav_target> porte <END>
 sélectionne <START:nav_target> musique <END>
 sélectionne <START:nav_target> musique <END> volume
+sélectionne le <START:nav_target> musique <END> volume
 sélectionne volume de la <START:nav_target> musique <END>
+sélectionne le volume de la <START:nav_target> musique <END>
 sélectionne <START:nav_target> tv <END>
 sélectionne <START:nav_target> télé <END>
 sélectionne <START:nav_target> télé <END> volume
+sélectionne le <START:nav_target> télé <END> volume
 sélectionne volume du <START:nav_target> télé <END>
+sélectionne le volume du <START:nav_target> télé <END>
 sélectionne volume de la <START:nav_target> télé <END>
+sélectionne le volume de la <START:nav_target> télé <END>
 sélectionne <START:nav_target> téléviseur <END>
 sélectionne <START:nav_target> téléviseur <END> volume
+sélectionne le <START:nav_target> téléviseur <END> volume
 sélectionne volume du <START:nav_target> téléviseur <END>
+sélectionne le volume du <START:nav_target> téléviseur <END>
 sélectionne <START:nav_target> télévision <END>
 sélectionne <START:nav_target> télévision <END> volume
+sélectionne le <START:nav_target> télévision <END> volume
 sélectionne volume de la <START:nav_target> télévision <END>
+sélectionne le volume de la <START:nav_target> télévision <END>
 sélectionner <START:nav_target> fenêtre <END>
 sélectionner <START:nav_target> rideau <END>
 sélectionner <START:nav_target> rideaux <END>
@@ -264,18 +303,27 @@ sélectionner <START:nav_target> lit <END>
 sélectionner <START:nav_target> porte <END>
 sélectionner <START:nav_target> musique <END>
 sélectionner <START:nav_target> musique <END> volume
+sélectionner le <START:nav_target> musique <END> volume
 sélectionner volume de la <START:nav_target> musique <END>
+sélectionner le volume de la <START:nav_target> musique <END>
 sélectionner <START:nav_target> tv <END>
 sélectionner <START:nav_target> télé <END>
 sélectionner <START:nav_target> télé <END> volume
+sélectionner le <START:nav_target> télé <END> volume
 sélectionner volume du <START:nav_target> télé <END>
+sélectionner le volume du <START:nav_target> télé <END>
 sélectionner volume de la <START:nav_target> télé <END>
+sélectionner le volume de la <START:nav_target> télé <END>
 sélectionner <START:nav_target> téléviseur <END>
 sélectionner <START:nav_target> téléviseur <END> volume
+sélectionner le <START:nav_target> téléviseur <END> volume
 sélectionner volume du <START:nav_target> téléviseur <END>
+sélectionner le volume du <START:nav_target> téléviseur <END>
 sélectionner <START:nav_target> télévision <END>
 sélectionner <START:nav_target> télévision <END> volume
+sélectionner le <START:nav_target> télévision <END> volume
 sélectionner volume de la <START:nav_target> télévision <END>
+sélectionner le volume de la <START:nav_target> télévision <END>
 sélectionner <START:nav_target> smartphone existant <END>
 sélectionner <START:nav_target> nouveau smartphone <END>
 sélectionner <START:nav_target> modes <END>
@@ -294,6 +342,7 @@ sélectionner <START:nav_target> réglages <END>
 sélectionner <START:nav_target> soutien <END>
 sélectionner <START:nav_target> synchronisation <END>
 sélectionner <START:nav_target> volume <END>
+sélectionner le <START:nav_target> volume <END>
 sélectionner <START:nav_target> kinova <END>
 sélectionner <START:nav_target> wifi <END>
 sélectionner <START:nav_target> internet <END>
@@ -329,6 +378,7 @@ sélectionne <START:nav_target> réglages <END>
 sélectionne <START:nav_target> soutien <END>
 sélectionne <START:nav_target> synchronisation <END>
 sélectionne <START:nav_target> volume <END>
+sélectionne le <START:nav_target> volume <END>
 sélectionne <START:nav_target> kinova <END>
 sélectionne <START:nav_target> wifi <END>
 sélectionne <START:nav_target> internet <END>

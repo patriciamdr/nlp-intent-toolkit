@@ -15,7 +15,8 @@ musical:musique
 suivante:prochaine
 suivant:prochaine
 prochain:prochaine
-prochain:prochaine
 précédent:précédente
 fenêtres:fenêtre
 rideaux:rideau
+actualisation:synchronisation
+l'actualisation:synchronisation

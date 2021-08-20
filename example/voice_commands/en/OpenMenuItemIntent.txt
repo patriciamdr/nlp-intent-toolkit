@@ -122,7 +122,7 @@ open <START:menuitem_target> basic <END>
 open <START:menuitem_target> advanced <END>
 open <START:menuitem_target> drive only <END>
 open <START:menuitem_target> drive gesture <END>
-open <START:menuitem_target> add ons <END>
+open <START:menuitem_target> add-ons <END>
 open <START:menuitem_target> mouse one <END>
 open <START:menuitem_target> mouse two <END>
 open <START:menuitem_target> mouse one <END> please
@@ -190,7 +190,7 @@ open the mode <START:menuitem_target> basic <END>
 open the mode <START:menuitem_target> advanced <END>
 open the mode <START:menuitem_target> drive only <END>
 open the <START:menuitem_target> drive gesture <END>
-open the <START:menuitem_target> add ons <END>
+open the <START:menuitem_target> add-ons <END>
 open the <START:menuitem_target> mouse one <END>
 open the <START:menuitem_target> mouse two <END>
 open the <START:menuitem_target> mouse one <END> please

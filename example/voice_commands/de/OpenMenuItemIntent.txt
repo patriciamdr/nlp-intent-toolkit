@@ -1,118 +1,118 @@
 öffne das <START:menuitem_target> bett <END>
-öffne das <START:menuitem_target> raum licht <END>
-öffne die <START:menuitem_target> raum lichter <END>
-öffne die <START:menuitem_target> tisch lampe <END>
-öffne die <START:menuitem_target> bett lampe <END>
+öffne das <START:menuitem_target> raumlicht <END>
+öffne die <START:menuitem_target> raumlichter <END>
+öffne die <START:menuitem_target> tischlampe <END>
+öffne die <START:menuitem_target> bettlampe <END>
 öffne den <START:menuitem_target> heater <END>
 öffne die <START:menuitem_target> heizung <END>
 öffne den <START:menuitem_target> ventilator <END>
 öffne den <START:menuitem_target> alarm <END>
 öffne die <START:menuitem_target> musik <END>
-öffne die <START:menuitem_target> musik quelle <END>
-öffne die <START:menuitem_target> musik kontrolle <END>
+öffne die <START:menuitem_target> musikquelle <END>
+öffne die <START:menuitem_target> musikkontrolle <END>
 öffne die <START:menuitem_target> tv steuerung <END>
 öffne die <START:menuitem_target> tv power <END>
 öffne die <START:menuitem_target> tv einstellungen <END>
 öffne den <START:menuitem_target> tv <END>
 öffne <START:menuitem_target> home <END>
-öffne <START:menuitem_target> house mate <END>
+öffne <START:menuitem_target> housemate <END>
 öffne <START:menuitem_target> intercom <END>
 öffne <START:menuitem_target> bett <END>
-öffne <START:menuitem_target> raum licht <END>
-öffne <START:menuitem_target> raum lichter <END>
-öffne <START:menuitem_target> tisch lampe <END>
-öffne <START:menuitem_target> bett lampe <END>
+öffne <START:menuitem_target> raumlicht <END>
+öffne <START:menuitem_target> raumlichter <END>
+öffne <START:menuitem_target> tischlampe <END>
+öffne <START:menuitem_target> bettlampe <END>
 öffne <START:menuitem_target> heater <END>
 öffne <START:menuitem_target> heizung <END>
 öffne <START:menuitem_target> ventilator <END>
 öffne <START:menuitem_target> alarm <END>
 öffne <START:menuitem_target> musik <END>
-öffne <START:menuitem_target> musik quelle <END>
-öffne <START:menuitem_target> musik kontrolle <END>
+öffne <START:menuitem_target> musikquelle <END>
+öffne <START:menuitem_target> musikkontrolle <END>
 öffne <START:menuitem_target> tv steuerung <END>
 öffne <START:menuitem_target> tv power <END>
 öffne <START:menuitem_target> tv einstellungen <END>
 öffne <START:menuitem_target> tv <END>
 <START:menuitem_target> home <END> öffnen
-<START:menuitem_target> house mate <END> öffnen
+<START:menuitem_target> housemate <END> öffnen
 <START:menuitem_target> intercom <END> öffnen
 <START:menuitem_target> bett <END> öffnen
-<START:menuitem_target> raum licht <END> öffnen
-<START:menuitem_target> raum lichter <END> öffnen
-<START:menuitem_target> tisch lampe <END> öffnen
-<START:menuitem_target> bett lampe <END> öffnen
+<START:menuitem_target> raumlicht <END> öffnen
+<START:menuitem_target> raumlichter <END> öffnen
+<START:menuitem_target> tischlampe <END> öffnen
+<START:menuitem_target> bettlampe <END> öffnen
 <START:menuitem_target> heater <END> öffnen
 <START:menuitem_target> heizung <END> öffnen
 <START:menuitem_target> ventilator <END> öffnen
 <START:menuitem_target> alarm <END> öffnen
 <START:menuitem_target> musik <END> öffnen
-<START:menuitem_target> musik quelle <END> öffnen
-<START:menuitem_target> musik kontrolle <END> öffnen
+<START:menuitem_target> musikquelle <END> öffnen
+<START:menuitem_target> musikkontrolle <END> öffnen
 <START:menuitem_target> tv steuerung <END> öffnen
 <START:menuitem_target> tv power <END> öffnen
 <START:menuitem_target> tv einstellungen <END> öffnen
 <START:menuitem_target> tv <END> öffnen
 öffne die kategorie <START:menuitem_target> home <END>
-öffne die kategorie <START:menuitem_target> house mate <END>
+öffne die kategorie <START:menuitem_target> housemate <END>
 öffne die kategorie <START:menuitem_target> intercom <END>
 öffne die kategorie <START:menuitem_target> fenster <END>
 öffne die kategorie <START:menuitem_target> tür <END>
 öffne die kategorie <START:menuitem_target> vorhang <END>
 öffne die kategorie <START:menuitem_target> vorhänge <END>
 öffne die kategorie <START:menuitem_target> bett <END>
-öffne die kategorie <START:menuitem_target> raum licht <END>
-öffne die kategorie <START:menuitem_target> raum lichter <END>
-öffne die kategorie <START:menuitem_target> tisch lampe <END>
-öffne die kategorie <START:menuitem_target> bett lampe <END>
+öffne die kategorie <START:menuitem_target> raumlicht <END>
+öffne die kategorie <START:menuitem_target> raumlichter <END>
+öffne die kategorie <START:menuitem_target> tischlampe <END>
+öffne die kategorie <START:menuitem_target> bettlampe <END>
 öffne die kategorie <START:menuitem_target> heater <END>
 öffne die kategorie <START:menuitem_target> heizung <END>
 öffne die kategorie <START:menuitem_target> ventilator <END>
 öffne die kategorie <START:menuitem_target> alarm <END>
 öffne die kategorie <START:menuitem_target> musik <END>
-öffne die kategorie <START:menuitem_target> musik quelle <END>
-öffne die kategorie <START:menuitem_target> musik kontrolle <END>
+öffne die kategorie <START:menuitem_target> musikquelle <END>
+öffne die kategorie <START:menuitem_target> musikkontrolle <END>
 öffne die kategorie <START:menuitem_target> tv steuerung <END>
 öffne die kategorie <START:menuitem_target> tv power <END>
 öffne die kategorie <START:menuitem_target> tv einstellungen <END>
 öffne die kategorie <START:menuitem_target> tv <END>
 öffne kategorie <START:menuitem_target> home <END>
-öffne kategorie <START:menuitem_target> house mate <END>
+öffne kategorie <START:menuitem_target> housemate <END>
 öffne kategorie <START:menuitem_target> intercom <END>
 öffne kategorie <START:menuitem_target> fenster <END>
 öffne kategorie <START:menuitem_target> tür <END>
 öffne kategorie <START:menuitem_target> vorhang <END>
 öffne kategorie <START:menuitem_target> vorhänge <END>
 öffne kategorie <START:menuitem_target> bett <END>
-öffne kategorie <START:menuitem_target> raum licht <END>
-öffne kategorie <START:menuitem_target> raum lichter <END>
-öffne kategorie <START:menuitem_target> tisch lampe <END>
-öffne kategorie <START:menuitem_target> bett lampe <END>
+öffne kategorie <START:menuitem_target> raumlicht <END>
+öffne kategorie <START:menuitem_target> raumlichter <END>
+öffne kategorie <START:menuitem_target> tischlampe <END>
+öffne kategorie <START:menuitem_target> bettlampe <END>
 öffne kategorie <START:menuitem_target> heater <END>
 öffne kategorie <START:menuitem_target> heizung <END>
 öffne kategorie <START:menuitem_target> ventilator <END>
 öffne kategorie <START:menuitem_target> alarm <END>
 öffne kategorie <START:menuitem_target> musik <END>
-öffne kategorie <START:menuitem_target> musik quelle <END>
-öffne kategorie <START:menuitem_target> musik kontrolle <END>
+öffne kategorie <START:menuitem_target> musikquelle <END>
+öffne kategorie <START:menuitem_target> musikkontrolle <END>
 öffne kategorie <START:menuitem_target> tv steuerung <END>
 öffne kategorie <START:menuitem_target> tv power <END>
 öffne kategorie <START:menuitem_target> tv einstellungen <END>
 öffne kategorie <START:menuitem_target> tv <END>
 die kategorie <START:menuitem_target> home <END> öffnen
-die kategorie <START:menuitem_target> house mate <END> öffnen
+die kategorie <START:menuitem_target> housemate <END> öffnen
 die kategorie <START:menuitem_target> intercom <END> öffnen
 die kategorie <START:menuitem_target> bett <END> öffnen
-die kategorie <START:menuitem_target> raum licht <END> öffnen
-die kategorie <START:menuitem_target> raum lichter <END> öffnen
-die kategorie <START:menuitem_target> tisch lampe <END> öffnen
-die kategorie <START:menuitem_target> bett lampe <END> öffnen
+die kategorie <START:menuitem_target> raumlicht <END> öffnen
+die kategorie <START:menuitem_target> raumlichter <END> öffnen
+die kategorie <START:menuitem_target> tischlampe <END> öffnen
+die kategorie <START:menuitem_target> bettlampe <END> öffnen
 die kategorie <START:menuitem_target> heater <END> öffnen
 die kategorie <START:menuitem_target> heizung <END> öffnen
 die kategorie <START:menuitem_target> ventilator <END> öffnen
 die kategorie <START:menuitem_target> alarm <END> öffnen
 die kategorie <START:menuitem_target> musik <END> öffnen
-die kategorie <START:menuitem_target> musik quelle <END> öffnen
-die kategorie <START:menuitem_target> musik kontrolle <END> öffnen
+die kategorie <START:menuitem_target> musikquelle <END> öffnen
+die kategorie <START:menuitem_target> musikkontrolle <END> öffnen
 die kategorie <START:menuitem_target> tv steuerung <END> öffnen
 die kategorie <START:menuitem_target> tv power <END> öffnen
 die kategorie <START:menuitem_target> tv einstellungen <END> öffnen
@@ -122,20 +122,20 @@ die kategorie <START:menuitem_target> tür <END> öffnen
 die kategorie <START:menuitem_target> vorhang <END> öffnen
 die kategorie <START:menuitem_target> vorhänge <END> öffnen
 kategorie <START:menuitem_target> home <END> öffnen
-kategorie <START:menuitem_target> house mate <END> öffnen
+kategorie <START:menuitem_target> housemate <END> öffnen
 kategorie <START:menuitem_target> intercom <END> öffnen
 kategorie <START:menuitem_target> bett <END> öffnen
-kategorie <START:menuitem_target> raum licht <END> öffnen
-kategorie <START:menuitem_target> raum lichter <END> öffnen
-kategorie <START:menuitem_target> tisch lampe <END> öffnen
-kategorie <START:menuitem_target> bett lampe <END> öffnen
+kategorie <START:menuitem_target> raumlicht <END> öffnen
+kategorie <START:menuitem_target> raumlichter <END> öffnen
+kategorie <START:menuitem_target> tischlampe <END> öffnen
+kategorie <START:menuitem_target> bettlampe <END> öffnen
 kategorie <START:menuitem_target> heater <END> öffnen
 kategorie <START:menuitem_target> heizung <END> öffnen
 kategorie <START:menuitem_target> ventilator <END> öffnen
 kategorie <START:menuitem_target> alarm <END> öffnen
 kategorie <START:menuitem_target> musik <END> öffnen
-kategorie <START:menuitem_target> musik quelle <END> öffnen
-kategorie <START:menuitem_target> musik kontrolle <END> öffnen
+kategorie <START:menuitem_target> musikquelle <END> öffnen
+kategorie <START:menuitem_target> musikkontrolle <END> öffnen
 kategorie <START:menuitem_target> tv steuerung <END> öffnen
 kategorie <START:menuitem_target> tv power <END> öffnen
 kategorie <START:menuitem_target> tv einstellungen <END> öffnen
@@ -161,8 +161,8 @@ kategorie <START:menuitem_target> vorhänge <END> öffnen
 öffne <START:menuitem_target> lichter <END> menü
 öffne <START:menuitem_target> licht <END>
 öffne <START:menuitem_target> licht <END> menü
-öffne <START:menuitem_target> warn blinker <END>
-öffne <START:menuitem_target> warn blinker <END>
+öffne <START:menuitem_target> warnblinker <END>
+öffne <START:menuitem_target> warnblinker <END>
 öffne <START:menuitem_target> lautstärke <END>
 öffne <START:menuitem_target> sprache <END>
 öffne <START:menuitem_target> sprachen <END>
@@ -171,7 +171,6 @@ kategorie <START:menuitem_target> vorhänge <END> öffnen
 öffne <START:menuitem_target> support <END>
 öffne <START:menuitem_target> app info <END>
 öffne <START:menuitem_target> notfall-email <END>
-öffne <START:menuitem_target> notfall email <END>
 öffne <START:menuitem_target> sync <END>
 öffne <START:menuitem_target> synchronisierung <END>
 öffne <START:menuitem_target> synchronisation <END>
@@ -186,8 +185,8 @@ kategorie <START:menuitem_target> vorhänge <END> öffnen
 öffne <START:menuitem_target> basic <END>
 öffne <START:menuitem_target> fortgeschritten <END>
 öffne <START:menuitem_target> nur fahren <END>
-öffne <START:menuitem_target> fahr geste <END>
-öffne <START:menuitem_target> add ons <END>
+öffne <START:menuitem_target> fahrgeste <END>
+öffne <START:menuitem_target> add-ons <END>
 öffne <START:menuitem_target> mouse eins <END>
 öffne <START:menuitem_target> mouse eins <END> bitte
 öffne bitte <START:menuitem_target> mouse eins <END>
@@ -222,7 +221,7 @@ bitte öffne <START:menuitem_target> mouse zwei <END>
 <START:menuitem_target> lichter <END> menü öffnen
 <START:menuitem_target> licht <END> öffnen
 <START:menuitem_target> licht <END> menü öffnen
-<START:menuitem_target> warn blinker <END> öffnen
+<START:menuitem_target> warnblinker <END> öffnen
 <START:menuitem_target> lautstärke <END> öffnen
 <START:menuitem_target> sprache <END> öffnen
 <START:menuitem_target> sprachen <END> öffnen
@@ -230,7 +229,6 @@ bitte öffne <START:menuitem_target> mouse zwei <END>
 <START:menuitem_target> internet <END> öffnen
 <START:menuitem_target> support <END> öffnen
 <START:menuitem_target> app info <END> öffnen
-<START:menuitem_target> notfall email <END> öffnen
 <START:menuitem_target> notfall-email <END> öffnen
 <START:menuitem_target> sync <END> öffnen
 <START:menuitem_target> synchronisierung <END> öffnen
@@ -246,8 +244,8 @@ bitte öffne <START:menuitem_target> mouse zwei <END>
 <START:menuitem_target> basic <END> öffnen
 <START:menuitem_target> fortgeschritten <END> öffnen
 <START:menuitem_target> nur fahren <END> öffnen
-<START:menuitem_target> fahr geste <END> öffnen
-<START:menuitem_target> add ons <END> öffnen
+<START:menuitem_target> fahrgeste <END> öffnen
+<START:menuitem_target> add-ons <END> öffnen
 <START:menuitem_target> mouse eins <END> öffnen
 <START:menuitem_target> mouse zwei <END> öffnen
 bitte <START:menuitem_target> mouse eins <END> öffnen
@@ -279,7 +277,7 @@ bitte <START:menuitem_target> mouse zwei <END> öffnen
 öffne kategorie <START:menuitem_target> lichter <END> menü
 öffne kategorie <START:menuitem_target> licht <END>
 öffne kategorie <START:menuitem_target> licht <END> menü
-öffne kategorie <START:menuitem_target> warn blinker <END>
+öffne kategorie <START:menuitem_target> warnblinker <END>
 öffne kategorie <START:menuitem_target> lautstärke <END>
 öffne kategorie <START:menuitem_target> sprache <END>
 öffne kategorie <START:menuitem_target> sprachen <END>
@@ -288,7 +286,6 @@ bitte <START:menuitem_target> mouse zwei <END> öffnen
 öffne kategorie <START:menuitem_target> support <END>
 öffne kategorie <START:menuitem_target> app info <END>
 öffne kategorie <START:menuitem_target> notfall-email <END>
-öffne kategorie <START:menuitem_target> notfall email <END>
 öffne kategorie <START:menuitem_target> sync <END>
 öffne kategorie <START:menuitem_target> synchronisierung <END>
 öffne kategorie <START:menuitem_target> synchronisation <END>
@@ -306,9 +303,9 @@ bitte <START:menuitem_target> mouse zwei <END> öffnen
 öffne den modus <START:menuitem_target> fortgeschritten <END>
 öffne kategorie <START:menuitem_target> nur fahren <END>
 öffne den modus <START:menuitem_target> nur fahren <END>
-öffne kategorie <START:menuitem_target> fahr geste <END>
-öffne kategorie <START:menuitem_target> add ons <END>
-öffne die <START:menuitem_target> add ons <END>
+öffne kategorie <START:menuitem_target> fahrgeste <END>
+öffne kategorie <START:menuitem_target> add-ons <END>
+öffne die <START:menuitem_target> add-ons <END>
 öffne kategorie <START:menuitem_target> mouse eins <END>
 öffne kategorie <START:menuitem_target> mouse zwei <END>
 öffne kategorie <START:menuitem_target> tv <END>
@@ -336,7 +333,7 @@ kategorie <START:menuitem_target> lichter <END> öffnen
 kategorie <START:menuitem_target> lichter <END> menü öffnen
 kategorie <START:menuitem_target> licht <END> öffnen
 kategorie <START:menuitem_target> licht <END> menü öffnen
-kategorie <START:menuitem_target> warn blinker <END> öffnen
+kategorie <START:menuitem_target> warnblinker <END> öffnen
 kategorie <START:menuitem_target> lautstärke <END> öffnen
 kategorie <START:menuitem_target> sprache <END> öffnen
 kategorie <START:menuitem_target> sprachen <END> öffnen
@@ -344,7 +341,6 @@ kategorie <START:menuitem_target> wlan <END> öffnen
 kategorie <START:menuitem_target> internet <END> öffnen
 kategorie <START:menuitem_target> support <END> öffnen
 kategorie <START:menuitem_target> app info <END> öffnen
-kategorie <START:menuitem_target> notfall email <END> öffnen
 kategorie <START:menuitem_target> notfall-email <END> öffnen
 kategorie <START:menuitem_target> sync <END> öffnen
 kategorie <START:menuitem_target> synchronisierung <END> öffnen
@@ -360,8 +356,8 @@ kategorie <START:menuitem_target> modi <END> öffnen
 kategorie <START:menuitem_target> basic <END> öffnen
 kategorie <START:menuitem_target> fortgeschritten <END> öffnen
 kategorie <START:menuitem_target> nur fahren <END> öffnen
-kategorie <START:menuitem_target> fahr geste <END> öffnen
-kategorie <START:menuitem_target> add ons <END> öffnen
+kategorie <START:menuitem_target> fahrgeste <END> öffnen
+kategorie <START:menuitem_target> add-ons <END> öffnen
 kategorie <START:menuitem_target> mouse eins <END> öffnen
 kategorie <START:menuitem_target> mouse zwei <END> öffnen
 kategorie <START:menuitem_target> tv <END> öffnen
