@@ -20,3 +20,4 @@ fenêtres:fenêtre
 rideaux:rideau
 actualisation:synchronisation
 l'actualisation:synchronisation
+gestes:geste

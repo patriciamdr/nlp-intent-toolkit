@@ -1,306 +1,306 @@
-open <START:menuitem_target> room light <END>
-open <START:menuitem_target> table lamp <END>
-open <START:menuitem_target> heater <END>
-open <START:menuitem_target> bed lamp <END>
-open <START:menuitem_target> fan <END>
-open <START:menuitem_target> home <END>
-open <START:menuitem_target> housemate <END>
-open <START:menuitem_target> door <END>
+open
+open <START:menuitem_target> add-ons <END>
+open <START:menuitem_target> admin <END>
+open <START:menuitem_target> advanced <END>
 open <START:menuitem_target> alarm <END>
+open <START:menuitem_target> alarm <END> category
+open <START:menuitem_target> alarm <END> menu item
+open <START:menuitem_target> android <END>
+open <START:menuitem_target> app info <END>
+open <START:menuitem_target> basic <END>
+open <START:menuitem_target> bed <END> category
+open <START:menuitem_target> bed <END> menu item
+open <START:menuitem_target> bed lamp <END>
+open <START:menuitem_target> bed lamp <END> category
+open <START:menuitem_target> bed lamp <END> menu item
+open <START:menuitem_target> calibration <END>
+open <START:menuitem_target> camera <END>
+open <START:menuitem_target> computer <END>
+open <START:menuitem_target> contacts <END>
+open <START:menuitem_target> control <END>
+open <START:menuitem_target> curtain <END> category
+open <START:menuitem_target> curtain <END> menu item
+open <START:menuitem_target> curtains <END> category
+open <START:menuitem_target> curtains <END> menu item
+open <START:menuitem_target> door <END>
+open <START:menuitem_target> door <END> category
+open <START:menuitem_target> door <END> menu item
+open <START:menuitem_target> drive <END>
+open <START:menuitem_target> drive gesture <END>
+open <START:menuitem_target> drive only <END>
+open <START:menuitem_target> dutch <END>
+open <START:menuitem_target> emergency email <END>
+open <START:menuitem_target> english <END>
+open <START:menuitem_target> existing phone <END>
+open <START:menuitem_target> fan <END>
+open <START:menuitem_target> fan <END> category
+open <START:menuitem_target> fan <END> menu item
+open <START:menuitem_target> french <END>
+open <START:menuitem_target> gallery <END>
+open <START:menuitem_target> german <END>
+open <START:menuitem_target> glass settings <END>
+open <START:menuitem_target> hazard light <END>
+open <START:menuitem_target> hazard light <END> menu
+open <START:menuitem_target> hazard lights <END>
+open <START:menuitem_target> hazard lights <END> menu
+open <START:menuitem_target> heater <END>
+open <START:menuitem_target> heater <END> category
+open <START:menuitem_target> heater <END> menu item
+open <START:menuitem_target> home <END>
+open <START:menuitem_target> home <END> category
+open <START:menuitem_target> home <END> menu item
+open <START:menuitem_target> housemate <END>
+open <START:menuitem_target> housemate <END> category
+open <START:menuitem_target> housemate <END> menu item
+open <START:menuitem_target> iarm <END>
+open <START:menuitem_target> idevice <END>
 open <START:menuitem_target> intercom <END>
+open <START:menuitem_target> intercom <END> category
+open <START:menuitem_target> intercom <END> menu item
+open <START:menuitem_target> internet <END>
+open <START:menuitem_target> ios <END>
+open <START:menuitem_target> kinova <END>
+open <START:menuitem_target> language <END>
+open <START:menuitem_target> languages <END>
+open <START:menuitem_target> light <END>
+open <START:menuitem_target> light <END> menu
+open <START:menuitem_target> lights <END>
+open <START:menuitem_target> lights <END> menu
+open <START:menuitem_target> media <END>
+open <START:menuitem_target> modes <END>
+open <START:menuitem_target> monitor <END>
+open <START:menuitem_target> mouse 1 <END>
+open <START:menuitem_target> mouse 1 <END> please
+open <START:menuitem_target> mouse 2 <END>
+open <START:menuitem_target> mouse 2 <END> please
 open <START:menuitem_target> music <END>
-open <START:menuitem_target> music source <END>
-open <START:menuitem_target> music sources <END>
+open <START:menuitem_target> music <END> category
+open <START:menuitem_target> music <END> menu item
 open <START:menuitem_target> music control <END>
+open <START:menuitem_target> music control <END> category
+open <START:menuitem_target> music control <END> menu item
+open <START:menuitem_target> music source <END>
+open <START:menuitem_target> music source <END> category
+open <START:menuitem_target> music source <END> menu item
+open <START:menuitem_target> music sources <END>
+open <START:menuitem_target> music sources <END> category
+open <START:menuitem_target> music sources <END> menu item
+open <START:menuitem_target> new phone <END>
+open <START:menuitem_target> nod <END>
+open <START:menuitem_target> nod <END> calibration
+open <START:menuitem_target> nods <END>
+open <START:menuitem_target> nods <END> calibration
+open <START:menuitem_target> pair <END>
+open <START:menuitem_target> room light <END>
+open <START:menuitem_target> room light <END> category
+open <START:menuitem_target> room light <END> menu item
+open <START:menuitem_target> seat <END>
+open <START:menuitem_target> seat <END> position
+open <START:menuitem_target> settings <END>
+open <START:menuitem_target> support <END>
+open <START:menuitem_target> sync <END>
+open <START:menuitem_target> table lamp <END>
+open <START:menuitem_target> table lamp <END> category
+open <START:menuitem_target> table lamp <END> menu item
+open <START:menuitem_target> tilt <END>
+open <START:menuitem_target> tilt <END> calibration
+open <START:menuitem_target> tilts <END>
+open <START:menuitem_target> tilts <END> calibration
+open <START:menuitem_target> tv <END>
+open <START:menuitem_target> tv <END> category
+open <START:menuitem_target> tv <END> menu item
 open <START:menuitem_target> tv control <END>
+open <START:menuitem_target> tv control <END> category
+open <START:menuitem_target> tv control <END> menu item
 open <START:menuitem_target> tv power <END>
+open <START:menuitem_target> tv power <END> category
+open <START:menuitem_target> tv power <END> menu item
 open <START:menuitem_target> tv settings <END>
-open the <START:menuitem_target> room light <END>
-open the <START:menuitem_target> table lamp <END>
-open the <START:menuitem_target> heater <END>
-open the <START:menuitem_target> bed lamp <END>
-open the <START:menuitem_target> fan <END>
-open the <START:menuitem_target> home <END>
-open the <START:menuitem_target> housemate <END>
-open the <START:menuitem_target> door <END>
-open the <START:menuitem_target> alarm <END>
-open the <START:menuitem_target> intercom <END>
-open the <START:menuitem_target> music <END>
-open the <START:menuitem_target> music source <END>
-open the <START:menuitem_target> music sources <END>
-open the <START:menuitem_target> music control <END>
-open the <START:menuitem_target> tv control <END>
-open the <START:menuitem_target> tv power <END>
-open the <START:menuitem_target> tv settings <END>
-open the category <START:menuitem_target> window <END>
-open the category <START:menuitem_target> windows <END>
-open the category <START:menuitem_target> curtain <END>
-open the category <START:menuitem_target> curtains <END>
-open the category <START:menuitem_target> bed <END>
-open the category <START:menuitem_target> room light <END>
-open the category <START:menuitem_target> table lamp <END>
-open the category <START:menuitem_target> heater <END>
-open the category <START:menuitem_target> bed lamp <END>
-open the category <START:menuitem_target> fan <END>
-open the category <START:menuitem_target> home <END>
-open the category <START:menuitem_target> housemate <END>
-open the category <START:menuitem_target> door <END>
-open the category <START:menuitem_target> alarm <END>
-open the category <START:menuitem_target> intercom <END>
-open the category <START:menuitem_target> music <END>
-open the category <START:menuitem_target> music source <END>
-open the category <START:menuitem_target> music sources <END>
-open the category <START:menuitem_target> music control <END>
-open the category <START:menuitem_target> tv control <END>
-open the category <START:menuitem_target> tv power <END>
-open the category <START:menuitem_target> tv settings <END>
-open the category <START:menuitem_target> tv <END>
-open category <START:menuitem_target> window <END>
-open category <START:menuitem_target> windows <END>
+open <START:menuitem_target> tv settings <END> category
+open <START:menuitem_target> tv settings <END> menu item
+open <START:menuitem_target> volume <END>
+open <START:menuitem_target> wifi <END>
+open <START:menuitem_target> window <END> category
+open <START:menuitem_target> window <END> menu item
+open <START:menuitem_target> windows <END> category
+open <START:menuitem_target> windows <END> menu item
+open category
+open category <START:menuitem_target> alarm <END>
+open category <START:menuitem_target> bed <END>
+open category <START:menuitem_target> bed lamp <END>
 open category <START:menuitem_target> curtain <END>
 open category <START:menuitem_target> curtains <END>
-open category <START:menuitem_target> bed <END>
-open category <START:menuitem_target> room light <END>
-open category <START:menuitem_target> table lamp <END>
-open category <START:menuitem_target> heater <END>
-open category <START:menuitem_target> bed lamp <END>
+open category <START:menuitem_target> door <END>
 open category <START:menuitem_target> fan <END>
+open category <START:menuitem_target> heater <END>
 open category <START:menuitem_target> home <END>
 open category <START:menuitem_target> housemate <END>
-open category <START:menuitem_target> door <END>
-open category <START:menuitem_target> alarm <END>
 open category <START:menuitem_target> intercom <END>
 open category <START:menuitem_target> music <END>
+open category <START:menuitem_target> music control <END>
 open category <START:menuitem_target> music source <END>
 open category <START:menuitem_target> music sources <END>
-open category <START:menuitem_target> music control <END>
+open category <START:menuitem_target> room light <END>
+open category <START:menuitem_target> table lamp <END>
+open category <START:menuitem_target> tv <END>
 open category <START:menuitem_target> tv control <END>
 open category <START:menuitem_target> tv power <END>
 open category <START:menuitem_target> tv settings <END>
-open category <START:menuitem_target> tv <END>
-open <START:menuitem_target> camera <END>
-open <START:menuitem_target> media <END>
-open <START:menuitem_target> gallery <END>
-open <START:menuitem_target> seat <END>
-open <START:menuitem_target> seat <END> position
-open <START:menuitem_target> drive <END>
-open <START:menuitem_target> settings <END>
-open <START:menuitem_target> glass settings <END>
-open <START:menuitem_target> calibration <END>
-open <START:menuitem_target> tilt <END>
-open <START:menuitem_target> nods <END>
-open <START:menuitem_target> tilts <END>
-open <START:menuitem_target> nod <END>
-open <START:menuitem_target> tilt <END> calibration
-open <START:menuitem_target> nods <END> calibration
-open <START:menuitem_target> tilts <END> calibration
-open <START:menuitem_target> nod <END> calibration
-open <START:menuitem_target> lights <END>
-open <START:menuitem_target> lights <END> menu
-open <START:menuitem_target> light <END>
-open <START:menuitem_target> light <END> menu
-open <START:menuitem_target> hazard lights <END>
-open <START:menuitem_target> hazard lights <END> menu
-open <START:menuitem_target> hazard light <END>
-open <START:menuitem_target> hazard light <END> menu
-open <START:menuitem_target> volume <END>
-open <START:menuitem_target> language <END>
-open <START:menuitem_target> languages <END>
-open <START:menuitem_target> wifi <END>
-open <START:menuitem_target> internet <END>
-open <START:menuitem_target> support <END>
-open <START:menuitem_target> sync <END>
-open <START:menuitem_target> app info <END>
-open <START:menuitem_target> emergency email <END>
-open <START:menuitem_target> admin <END>
-open <START:menuitem_target> pair <END>
-open <START:menuitem_target> monitor <END>
-open <START:menuitem_target> existing phone <END>
-open <START:menuitem_target> new phone <END>
-open <START:menuitem_target> modes <END>
-open <START:menuitem_target> basic <END>
-open <START:menuitem_target> advanced <END>
-open <START:menuitem_target> drive only <END>
-open <START:menuitem_target> drive gesture <END>
-open <START:menuitem_target> add-ons <END>
-open <START:menuitem_target> mouse one <END>
-open <START:menuitem_target> mouse two <END>
-open <START:menuitem_target> mouse one <END> please
-open <START:menuitem_target> mouse two <END> please
-please open <START:menuitem_target> mouse one <END>
-please open <START:menuitem_target> mouse two <END>
-open <START:menuitem_target> tv <END>
-open <START:menuitem_target> android <END>
-open <START:menuitem_target> ios <END>
-open <START:menuitem_target> computer <END>
-open <START:menuitem_target> control <END>
-open <START:menuitem_target> contacts <END>
-open <START:menuitem_target> iarm <END>
-open <START:menuitem_target> idevice <END>
-open <START:menuitem_target> kinova <END>
-open <START:menuitem_target> english <END>
-open <START:menuitem_target> german <END>
-open <START:menuitem_target> french <END>
-open <START:menuitem_target> dutch <END>
-open
-open the
-open category
-open the category
-open the <START:menuitem_target> camera <END>
-open the <START:menuitem_target> media <END>
-open the <START:menuitem_target> gallery <END>
-open the <START:menuitem_target> seat <END>
-open the <START:menuitem_target> seat <END> position
-open the <START:menuitem_target> drive <END>
-open the <START:menuitem_target> settings <END>
-open the <START:menuitem_target> glass settings <END>
-open the <START:menuitem_target> calibration <END>
-open the <START:menuitem_target> tilt <END>
-open the <START:menuitem_target> nods <END>
-open the <START:menuitem_target> tilts <END>
-open the <START:menuitem_target> nod <END>
-open the <START:menuitem_target> tilt <END> calibration
-open the <START:menuitem_target> nods <END> calibration
-open the <START:menuitem_target> tilts <END> calibration
-open the <START:menuitem_target> nod <END> calibration
-open the <START:menuitem_target> lights <END>
-open the <START:menuitem_target> lights <END> menu
-open the <START:menuitem_target> light <END>
-open the <START:menuitem_target> light <END> menu
-open the <START:menuitem_target> hazard lights <END>
-open the <START:menuitem_target> hazard lights <END> menu
-open the <START:menuitem_target> hazard light <END>
-open the <START:menuitem_target> hazard light <END> menu
-open the <START:menuitem_target> volume <END>
-open the <START:menuitem_target> language <END>
-open the <START:menuitem_target> languages <END>
-open the <START:menuitem_target> wifi <END>
-open the <START:menuitem_target> internet <END>
-open the <START:menuitem_target> support <END>
-open the <START:menuitem_target> sync <END>
-open the <START:menuitem_target> app info <END>
-open the <START:menuitem_target> emergency email <END>
-open the <START:menuitem_target> admin <END>
-open the <START:menuitem_target> pair <END>
-open the <START:menuitem_target> monitor <END>
-open the <START:menuitem_target> existing phone <END>
-open the <START:menuitem_target> new phone <END>
-open the <START:menuitem_target> modes <END>
-open the mode <START:menuitem_target> basic <END>
-open the mode <START:menuitem_target> advanced <END>
-open the mode <START:menuitem_target> drive only <END>
-open the <START:menuitem_target> drive gesture <END>
-open the <START:menuitem_target> add-ons <END>
-open the <START:menuitem_target> mouse one <END>
-open the <START:menuitem_target> mouse two <END>
-open the <START:menuitem_target> mouse one <END> please
-open the <START:menuitem_target> mouse two <END> please
-please open the <START:menuitem_target> mouse one <END>
-please open the <START:menuitem_target> mouse two <END>
-open the <START:menuitem_target> tv <END>
-open the <START:menuitem_target> computer <END>
-open the <START:menuitem_target> control <END>
-open the <START:menuitem_target> contacts <END>
-open the <START:menuitem_target> iarm <END>
-open the <START:menuitem_target> idevice <END>
-open the <START:menuitem_target> kinova <END>
-open the language <START:menuitem_target> english <END>
-open the language <START:menuitem_target> german <END>
-open the language <START:menuitem_target> french <END>
-open the language <START:menuitem_target> dutch <END>
-open language <START:menuitem_target> english <END>
-open language <START:menuitem_target> german <END>
-open language <START:menuitem_target> french <END>
+open category <START:menuitem_target> window <END>
+open category <START:menuitem_target> windows <END>
 open language <START:menuitem_target> dutch <END>
-open the menu item <START:menuitem_target> window <END>
-open the menu item <START:menuitem_target> windows <END>
-open the menu item <START:menuitem_target> curtain <END>
-open the menu item <START:menuitem_target> curtains <END>
-open the menu item <START:menuitem_target> bed <END>
-open the menu item <START:menuitem_target> room light <END>
-open the menu item <START:menuitem_target> table lamp <END>
-open the menu item <START:menuitem_target> heater <END>
-open the menu item <START:menuitem_target> bed lamp <END>
-open the menu item <START:menuitem_target> fan <END>
-open the menu item <START:menuitem_target> home <END>
-open the menu item <START:menuitem_target> housemate <END>
-open the menu item <START:menuitem_target> door <END>
-open the menu item <START:menuitem_target> alarm <END>
-open the menu item <START:menuitem_target> intercom <END>
-open the menu item <START:menuitem_target> music <END>
-open the menu item <START:menuitem_target> music source <END>
-open the menu item <START:menuitem_target> music sources <END>
-open the menu item <START:menuitem_target> music control <END>
-open the menu item <START:menuitem_target> tv control <END>
-open the menu item <START:menuitem_target> tv power <END>
-open the menu item <START:menuitem_target> tv settings <END>
-open the menu item <START:menuitem_target> tv <END>
-open menu item <START:menuitem_target> window <END>
-open menu item <START:menuitem_target> windows <END>
+open language <START:menuitem_target> english <END>
+open language <START:menuitem_target> french <END>
+open language <START:menuitem_target> german <END>
+open menu item <START:menuitem_target> alarm <END>
+open menu item <START:menuitem_target> bed <END>
+open menu item <START:menuitem_target> bed lamp <END>
 open menu item <START:menuitem_target> curtain <END>
 open menu item <START:menuitem_target> curtains <END>
-open menu item <START:menuitem_target> bed <END>
-open menu item <START:menuitem_target> room light <END>
-open menu item <START:menuitem_target> table lamp <END>
-open menu item <START:menuitem_target> heater <END>
-open menu item <START:menuitem_target> bed lamp <END>
+open menu item <START:menuitem_target> door <END>
 open menu item <START:menuitem_target> fan <END>
+open menu item <START:menuitem_target> heater <END>
 open menu item <START:menuitem_target> home <END>
 open menu item <START:menuitem_target> housemate <END>
-open menu item <START:menuitem_target> door <END>
-open menu item <START:menuitem_target> alarm <END>
 open menu item <START:menuitem_target> intercom <END>
 open menu item <START:menuitem_target> music <END>
+open menu item <START:menuitem_target> music control <END>
 open menu item <START:menuitem_target> music source <END>
 open menu item <START:menuitem_target> music sources <END>
-open menu item <START:menuitem_target> music control <END>
+open menu item <START:menuitem_target> room light <END>
+open menu item <START:menuitem_target> table lamp <END>
+open menu item <START:menuitem_target> tv <END>
 open menu item <START:menuitem_target> tv control <END>
 open menu item <START:menuitem_target> tv power <END>
 open menu item <START:menuitem_target> tv settings <END>
-open menu item <START:menuitem_target> tv <END>
-open <START:menuitem_target> window <END> menu item
-open <START:menuitem_target> windows <END> menu item
-open <START:menuitem_target> curtain <END> menu item
-open <START:menuitem_target> curtains <END> menu item
-open <START:menuitem_target> bed <END> menu item
-open <START:menuitem_target> room light <END> menu item
-open <START:menuitem_target> table lamp <END> menu item
-open <START:menuitem_target> heater <END> menu item
-open <START:menuitem_target> bed lamp <END> menu item
-open <START:menuitem_target> fan <END> menu item
-open <START:menuitem_target> home <END> menu item
-open <START:menuitem_target> housemate <END> menu item
-open <START:menuitem_target> door <END> menu item
-open <START:menuitem_target> alarm <END> menu item
-open <START:menuitem_target> intercom <END> menu item
-open <START:menuitem_target> music <END> menu item
-open <START:menuitem_target> music source <END> menu item
-open <START:menuitem_target> music sources <END> menu item
-open <START:menuitem_target> music control <END> menu item
-open <START:menuitem_target> tv control <END> menu item
-open <START:menuitem_target> tv power <END> menu item
-open <START:menuitem_target> tv settings <END> menu item
-open <START:menuitem_target> tv <END> menu item
-open <START:menuitem_target> window <END> category
-open <START:menuitem_target> windows <END> category
-open <START:menuitem_target> curtain <END> category
-open <START:menuitem_target> curtains <END> category
-open <START:menuitem_target> bed <END> category
-open <START:menuitem_target> room light <END> category
-open <START:menuitem_target> table lamp <END> category
-open <START:menuitem_target> heater <END> category
-open <START:menuitem_target> bed lamp <END> category
-open <START:menuitem_target> fan <END> category
-open <START:menuitem_target> home <END> category
-open <START:menuitem_target> housemate <END> category
-open <START:menuitem_target> door <END> category
-open <START:menuitem_target> alarm <END> category
-open <START:menuitem_target> intercom <END> category
-open <START:menuitem_target> music <END> category
-open <START:menuitem_target> music source <END> category
-open <START:menuitem_target> music sources <END> category
-open <START:menuitem_target> music control <END> category
-open <START:menuitem_target> tv control <END> category
-open <START:menuitem_target> tv power <END> category
-open <START:menuitem_target> tv settings <END> category
-open <START:menuitem_target> tv <END> category
+open menu item <START:menuitem_target> window <END>
+open menu item <START:menuitem_target> windows <END>
+open the
+open the <START:menuitem_target> add-ons <END>
+open the <START:menuitem_target> admin <END>
+open the <START:menuitem_target> alarm <END>
+open the <START:menuitem_target> app info <END>
+open the <START:menuitem_target> bed lamp <END>
+open the <START:menuitem_target> calibration <END>
+open the <START:menuitem_target> camera <END>
+open the <START:menuitem_target> computer <END>
+open the <START:menuitem_target> contacts <END>
+open the <START:menuitem_target> control <END>
+open the <START:menuitem_target> door <END>
+open the <START:menuitem_target> drive <END>
+open the <START:menuitem_target> drive gesture <END>
+open the <START:menuitem_target> emergency email <END>
+open the <START:menuitem_target> existing phone <END>
+open the <START:menuitem_target> fan <END>
+open the <START:menuitem_target> gallery <END>
+open the <START:menuitem_target> glass settings <END>
+open the <START:menuitem_target> hazard light <END>
+open the <START:menuitem_target> hazard light <END> menu
+open the <START:menuitem_target> hazard lights <END>
+open the <START:menuitem_target> hazard lights <END> menu
+open the <START:menuitem_target> heater <END>
+open the <START:menuitem_target> home <END>
+open the <START:menuitem_target> housemate <END>
+open the <START:menuitem_target> iarm <END>
+open the <START:menuitem_target> idevice <END>
+open the <START:menuitem_target> intercom <END>
+open the <START:menuitem_target> internet <END>
+open the <START:menuitem_target> kinova <END>
+open the <START:menuitem_target> language <END>
+open the <START:menuitem_target> languages <END>
+open the <START:menuitem_target> light <END>
+open the <START:menuitem_target> light <END> menu
+open the <START:menuitem_target> lights <END>
+open the <START:menuitem_target> lights <END> menu
+open the <START:menuitem_target> media <END>
+open the <START:menuitem_target> modes <END>
+open the <START:menuitem_target> monitor <END>
+open the <START:menuitem_target> mouse 1 <END>
+open the <START:menuitem_target> mouse 1 <END> please
+open the <START:menuitem_target> mouse 2 <END>
+open the <START:menuitem_target> mouse 2 <END> please
+open the <START:menuitem_target> music <END>
+open the <START:menuitem_target> music control <END>
+open the <START:menuitem_target> music source <END>
+open the <START:menuitem_target> music sources <END>
+open the <START:menuitem_target> new phone <END>
+open the <START:menuitem_target> nod <END>
+open the <START:menuitem_target> nod <END> calibration
+open the <START:menuitem_target> nods <END>
+open the <START:menuitem_target> nods <END> calibration
+open the <START:menuitem_target> pair <END>
+open the <START:menuitem_target> room light <END>
+open the <START:menuitem_target> seat <END>
+open the <START:menuitem_target> seat <END> position
+open the <START:menuitem_target> settings <END>
+open the <START:menuitem_target> support <END>
+open the <START:menuitem_target> sync <END>
+open the <START:menuitem_target> table lamp <END>
+open the <START:menuitem_target> tilt <END>
+open the <START:menuitem_target> tilt <END> calibration
+open the <START:menuitem_target> tilts <END>
+open the <START:menuitem_target> tilts <END> calibration
+open the <START:menuitem_target> tv <END>
+open the <START:menuitem_target> tv control <END>
+open the <START:menuitem_target> tv power <END>
+open the <START:menuitem_target> tv settings <END>
+open the <START:menuitem_target> volume <END>
+open the <START:menuitem_target> wifi <END>
+open the category
+open the category <START:menuitem_target> alarm <END>
+open the category <START:menuitem_target> bed <END>
+open the category <START:menuitem_target> bed lamp <END>
+open the category <START:menuitem_target> curtain <END>
+open the category <START:menuitem_target> curtains <END>
+open the category <START:menuitem_target> door <END>
+open the category <START:menuitem_target> fan <END>
+open the category <START:menuitem_target> heater <END>
+open the category <START:menuitem_target> home <END>
+open the category <START:menuitem_target> housemate <END>
+open the category <START:menuitem_target> intercom <END>
+open the category <START:menuitem_target> music <END>
+open the category <START:menuitem_target> music control <END>
+open the category <START:menuitem_target> music source <END>
+open the category <START:menuitem_target> music sources <END>
+open the category <START:menuitem_target> room light <END>
+open the category <START:menuitem_target> table lamp <END>
+open the category <START:menuitem_target> tv <END>
+open the category <START:menuitem_target> tv control <END>
+open the category <START:menuitem_target> tv power <END>
+open the category <START:menuitem_target> tv settings <END>
+open the category <START:menuitem_target> window <END>
+open the category <START:menuitem_target> windows <END>
+open the language <START:menuitem_target> dutch <END>
+open the language <START:menuitem_target> english <END>
+open the language <START:menuitem_target> french <END>
+open the language <START:menuitem_target> german <END>
+open the menu item <START:menuitem_target> alarm <END>
+open the menu item <START:menuitem_target> bed <END>
+open the menu item <START:menuitem_target> bed lamp <END>
+open the menu item <START:menuitem_target> curtain <END>
+open the menu item <START:menuitem_target> curtains <END>
+open the menu item <START:menuitem_target> door <END>
+open the menu item <START:menuitem_target> fan <END>
+open the menu item <START:menuitem_target> heater <END>
+open the menu item <START:menuitem_target> home <END>
+open the menu item <START:menuitem_target> housemate <END>
+open the menu item <START:menuitem_target> intercom <END>
+open the menu item <START:menuitem_target> music <END>
+open the menu item <START:menuitem_target> music control <END>
+open the menu item <START:menuitem_target> music source <END>
+open the menu item <START:menuitem_target> music sources <END>
+open the menu item <START:menuitem_target> room light <END>
+open the menu item <START:menuitem_target> table lamp <END>
+open the menu item <START:menuitem_target> tv <END>
+open the menu item <START:menuitem_target> tv control <END>
+open the menu item <START:menuitem_target> tv power <END>
+open the menu item <START:menuitem_target> tv settings <END>
+open the menu item <START:menuitem_target> window <END>
+open the menu item <START:menuitem_target> windows <END>
+open the mode <START:menuitem_target> advanced <END>
+open the mode <START:menuitem_target> basic <END>
+open the mode <START:menuitem_target> drive only <END>
+please open <START:menuitem_target> mouse 1 <END>
+please open <START:menuitem_target> mouse 2 <END>
+please open the <START:menuitem_target> mouse 1 <END>
+please open the <START:menuitem_target> mouse 2 <END>

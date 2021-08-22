@@ -34,10 +34,14 @@ actualise application
 actualise appareil
 actualiser application
 actualiser appareil
-mets l'appareil à jour
-mets l'application à jour
-mets appareil à jour
-mets application à jour
+mets à jour l'appareil
+mets à jour l'application
+mets à jour appareil
+mets à jour application
+mettre à jour l'appareil
+mettre à jour l'application
+mettre à jour appareil
+mettre à jour application
 commence actualisation
 commence actualisation de l'application
 commence actualisation des applications

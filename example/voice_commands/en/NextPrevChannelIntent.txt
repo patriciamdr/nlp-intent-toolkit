@@ -1,120 +1,120 @@
+<START:next_prev_target> next <END> channel
+<START:next_prev_target> next <END> program
 <START:next_prev_target> previous <END> channel
-the <START:next_prev_target> previous <END> channel
-to <START:next_prev_target> previous <END> channel
-to the <START:next_prev_target> previous <END> channel
+<START:next_prev_target> previous <END> program
 back to <START:next_prev_target> previous <END> channel
+back to <START:next_prev_target> previous <END> program
 back to the <START:next_prev_target> previous <END> channel
-go to <START:next_prev_target> previous <END> channel
-go to the <START:next_prev_target> previous <END> channel
-go back to <START:next_prev_target> previous <END> channel
-go back to the <START:next_prev_target> previous <END> channel
-change to <START:next_prev_target> previous <END> channel
+back to the <START:next_prev_target> previous <END> program
 change back to <START:next_prev_target> previous <END> channel
-change to the <START:next_prev_target> previous <END> channel
+change back to <START:next_prev_target> previous <END> program
 change back to the <START:next_prev_target> previous <END> channel
+change back to the <START:next_prev_target> previous <END> program
+change further to <START:next_prev_target> next <END> channel
+change further to <START:next_prev_target> next <END> program
+change further to the <START:next_prev_target> next <END> channel
+change further to the <START:next_prev_target> next <END> program
+change to <START:next_prev_target> next <END> channel
+change to <START:next_prev_target> next <END> program
+change to <START:next_prev_target> previous <END> channel
+change to <START:next_prev_target> previous <END> program
+change to the <START:next_prev_target> next <END> channel
+change to the <START:next_prev_target> next <END> program
+change to the <START:next_prev_target> previous <END> channel
+change to the <START:next_prev_target> previous <END> program
+continue further to <START:next_prev_target> next <END> channel
+continue further to <START:next_prev_target> next <END> program
+continue further to the <START:next_prev_target> next <END> channel
+continue further to the <START:next_prev_target> next <END> program
+continue to <START:next_prev_target> next <END> channel
+continue to <START:next_prev_target> next <END> program
+continue to the <START:next_prev_target> next <END> channel
+continue to the <START:next_prev_target> next <END> program
+forward to <START:next_prev_target> next <END> channel
+forward to <START:next_prev_target> next <END> program
+forward to the <START:next_prev_target> next <END> channel
+forward to the <START:next_prev_target> next <END> program
+go ahead to <START:next_prev_target> next <END> channel
+go ahead to <START:next_prev_target> next <END> program
+go ahead to the <START:next_prev_target> next <END> channel
+go ahead to the <START:next_prev_target> next <END> program
+go back to <START:next_prev_target> previous <END> channel
+go back to <START:next_prev_target> previous <END> program
+go back to the <START:next_prev_target> previous <END> channel
+go back to the <START:next_prev_target> previous <END> program
+go forward to <START:next_prev_target> next <END> channel
+go forward to <START:next_prev_target> next <END> program
+go forward to the <START:next_prev_target> next <END> channel
+go forward to the <START:next_prev_target> next <END> program
+go further to <START:next_prev_target> next <END> channel
+go further to <START:next_prev_target> next <END> program
+go further to the <START:next_prev_target> next <END> channel
+go further to the <START:next_prev_target> next <END> program
+go to <START:next_prev_target> next <END> channel
+go to <START:next_prev_target> next <END> program
+go to <START:next_prev_target> previous <END> channel
+go to <START:next_prev_target> previous <END> program
+go to the <START:next_prev_target> next <END> channel
+go to the <START:next_prev_target> next <END> program
+go to the <START:next_prev_target> previous <END> channel
+go to the <START:next_prev_target> previous <END> program
+move on to <START:next_prev_target> next <END> channel
+move on to <START:next_prev_target> next <END> program
+move on to the <START:next_prev_target> next <END> channel
+move on to the <START:next_prev_target> next <END> program
+proceed to <START:next_prev_target> next <END> channel
+proceed to <START:next_prev_target> next <END> program
+proceed to the <START:next_prev_target> next <END> channel
+proceed to the <START:next_prev_target> next <END> program
+return to <START:next_prev_target> previous <END> channel
+return to <START:next_prev_target> previous <END> program
+return to the <START:next_prev_target> previous <END> channel
+return to the <START:next_prev_target> previous <END> program
+select <START:next_prev_target> next <END> channel
+select <START:next_prev_target> next <END> program
 select <START:next_prev_target> previous <END> channel
 select <START:next_prev_target> previous <END> channel again
-select the <START:next_prev_target> previous <END> channel
-select the <START:next_prev_target> previous <END> channel again
-switch to <START:next_prev_target> previous <END> channel
-switch back to <START:next_prev_target> previous <END> channel
-switch to the <START:next_prev_target> previous <END> channel
-switch back to the <START:next_prev_target> previous <END> channel
-show <START:next_prev_target> previous <END> channel
-show <START:next_prev_target> previous <END> channel again
-show the <START:next_prev_target> previous <END> channel
-show the <START:next_prev_target> previous <END> channel again
-return to <START:next_prev_target> previous <END> channel
-return to the <START:next_prev_target> previous <END> channel
-<START:next_prev_target> next <END> channel
-the <START:next_prev_target> next <END> channel
-to <START:next_prev_target> next <END> channel
-to the <START:next_prev_target> next <END> channel
-go to <START:next_prev_target> next <END> channel
-go to the <START:next_prev_target> next <END> channel
-go ahead to <START:next_prev_target> next <END> channel
-go ahead to the <START:next_prev_target> next <END> channel
-move on to <START:next_prev_target> next <END> channel
-move on to the <START:next_prev_target> next <END> channel
-go further to <START:next_prev_target> next <END> channel
-go further to the <START:next_prev_target> next <END> channel
-go forward to <START:next_prev_target> next <END> channel
-go forward to the <START:next_prev_target> next <END> channel
-forward to <START:next_prev_target> next <END> channel
-forward to the <START:next_prev_target> next <END> channel
-continue to <START:next_prev_target> next <END> channel
-continue to the <START:next_prev_target> next <END> channel
-continue further to <START:next_prev_target> next <END> channel
-continue further to the <START:next_prev_target> next <END> channel
-proceed to <START:next_prev_target> next <END> channel
-proceed to the <START:next_prev_target> next <END> channel
-change to <START:next_prev_target> next <END> channel
-change to the <START:next_prev_target> next <END> channel
-change further to <START:next_prev_target> next <END> channel
-change further to the <START:next_prev_target> next <END> channel
-select <START:next_prev_target> next <END> channel
-select the <START:next_prev_target> next <END> channel
-switch to <START:next_prev_target> next <END> channel
-switch to the <START:next_prev_target> next <END> channel
-show <START:next_prev_target> next <END> channel
-show the <START:next_prev_target> next <END> channel
-<START:next_prev_target> previous <END> program
-the <START:next_prev_target> previous <END> program
-to <START:next_prev_target> previous <END> program
-to the <START:next_prev_target> previous <END> program
-back to <START:next_prev_target> previous <END> program
-back to the <START:next_prev_target> previous <END> program
-go to <START:next_prev_target> previous <END> program
-go to the <START:next_prev_target> previous <END> program
-go back to <START:next_prev_target> previous <END> program
-go back to the <START:next_prev_target> previous <END> program
-change to <START:next_prev_target> previous <END> program
-change back to <START:next_prev_target> previous <END> program
-change to the <START:next_prev_target> previous <END> program
-change back to the <START:next_prev_target> previous <END> program
 select <START:next_prev_target> previous <END> program
 select <START:next_prev_target> previous <END> program again
+select the <START:next_prev_target> next <END> channel
+select the <START:next_prev_target> next <END> program
+select the <START:next_prev_target> previous <END> channel
+select the <START:next_prev_target> previous <END> channel again
 select the <START:next_prev_target> previous <END> program
 select the <START:next_prev_target> previous <END> program again
-switch to <START:next_prev_target> previous <END> program
-switch back to <START:next_prev_target> previous <END> program
-switch to the <START:next_prev_target> previous <END> program
-switch back to the <START:next_prev_target> previous <END> program
+show <START:next_prev_target> next <END> channel
+show <START:next_prev_target> next <END> program
+show <START:next_prev_target> previous <END> channel
+show <START:next_prev_target> previous <END> channel again
 show <START:next_prev_target> previous <END> program
 show <START:next_prev_target> previous <END> program again
+show the <START:next_prev_target> next <END> channel
+show the <START:next_prev_target> next <END> program
+show the <START:next_prev_target> previous <END> channel
+show the <START:next_prev_target> previous <END> channel again
 show the <START:next_prev_target> previous <END> program
 show the <START:next_prev_target> previous <END> program again
-return to <START:next_prev_target> previous <END> program
-return to the <START:next_prev_target> previous <END> program
-<START:next_prev_target> next <END> program
-the <START:next_prev_target> next <END> program
-to <START:next_prev_target> next <END> program
-to the <START:next_prev_target> next <END> program
-go to <START:next_prev_target> next <END> program
-go to the <START:next_prev_target> next <END> program
-go ahead to <START:next_prev_target> next <END> program
-go ahead to the <START:next_prev_target> next <END> program
-move on to <START:next_prev_target> next <END> program
-move on to the <START:next_prev_target> next <END> program
-go further to <START:next_prev_target> next <END> program
-go further to the <START:next_prev_target> next <END> program
-go forward to <START:next_prev_target> next <END> program
-go forward to the <START:next_prev_target> next <END> program
-forward to <START:next_prev_target> next <END> program
-forward to the <START:next_prev_target> next <END> program
-continue to <START:next_prev_target> next <END> program
-continue to the <START:next_prev_target> next <END> program
-continue further to <START:next_prev_target> next <END> program
-continue further to the <START:next_prev_target> next <END> program
-proceed to <START:next_prev_target> next <END> program
-proceed to the <START:next_prev_target> next <END> program
-change to <START:next_prev_target> next <END> program
-change to the <START:next_prev_target> next <END> program
-change further to <START:next_prev_target> next <END> program
-change further to the <START:next_prev_target> next <END> program
-select <START:next_prev_target> next <END> program
-select the <START:next_prev_target> next <END> program
+switch back to <START:next_prev_target> previous <END> channel
+switch back to <START:next_prev_target> previous <END> program
+switch back to the <START:next_prev_target> previous <END> channel
+switch back to the <START:next_prev_target> previous <END> program
+switch to <START:next_prev_target> next <END> channel
 switch to <START:next_prev_target> next <END> program
+switch to <START:next_prev_target> previous <END> channel
+switch to <START:next_prev_target> previous <END> program
+switch to the <START:next_prev_target> next <END> channel
 switch to the <START:next_prev_target> next <END> program
-show <START:next_prev_target> next <END> program
-show the <START:next_prev_target> next <END> program
+switch to the <START:next_prev_target> previous <END> channel
+switch to the <START:next_prev_target> previous <END> program
+the <START:next_prev_target> next <END> channel
+the <START:next_prev_target> next <END> program
+the <START:next_prev_target> previous <END> channel
+the <START:next_prev_target> previous <END> program
+to <START:next_prev_target> next <END> channel
+to <START:next_prev_target> next <END> program
+to <START:next_prev_target> previous <END> channel
+to <START:next_prev_target> previous <END> program
+to the <START:next_prev_target> next <END> channel
+to the <START:next_prev_target> next <END> program
+to the <START:next_prev_target> previous <END> channel
+to the <START:next_prev_target> previous <END> program

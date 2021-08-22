@@ -768,14 +768,14 @@ die <START:nav_target> fahrgeste <END>
 <START:nav_target> add-ons <END>
 die <START:nav_target> add-ons <END>
 zu den <START:nav_target> add-ons <END>
-<START:nav_target> mouse eins <END>
-<START:nav_target> mouse zwei <END>
-zu <START:nav_target> mouse eins <END>
-zu <START:nav_target> mouse zwei <END>
-<START:nav_target> mouse eins <END> bitte
-<START:nav_target> mouse zwei <END> bitte
-bitte <START:nav_target> mouse eins <END>
-bitte <START:nav_target> mouse zwei <END>
+<START:nav_target> mouse 1 <END>
+<START:nav_target> mouse 2 <END>
+zu <START:nav_target> mouse 1 <END>
+zu <START:nav_target> mouse 2 <END>
+<START:nav_target> mouse 1 <END> bitte
+<START:nav_target> mouse 2 <END> bitte
+bitte <START:nav_target> mouse 1 <END>
+bitte <START:nav_target> mouse 2 <END>
 <START:nav_target> tv <END>
 der <START:nav_target> tv <END>
 zum <START:nav_target> tv <END>
@@ -850,8 +850,8 @@ zu <START:nav_target> fortgeschritten <END> bitte
 zu <START:nav_target> nur fahren <END> bitte
 zu <START:nav_target> fahrgeste <END> bitte
 zu <START:nav_target> add-ons <END> bitte
-zu <START:nav_target> mouse eins <END> bitte
-zu <START:nav_target> mouse zwei <END> bitte
+zu <START:nav_target> mouse 1 <END> bitte
+zu <START:nav_target> mouse 2 <END> bitte
 zu <START:nav_target> tv <END> bitte
 zu <START:nav_target> fernseher <END> bitte
 zu <START:nav_target> android <END> bitte
@@ -910,8 +910,8 @@ bitte zu <START:nav_target> fortgeschritten <END>
 bitte zu <START:nav_target> nur fahren <END>
 bitte zu <START:nav_target> fahrgeste <END>
 bitte zu <START:nav_target> add-ons <END>
-bitte zu <START:nav_target> mouse eins <END>
-bitte zu <START:nav_target> mouse zwei <END>
+bitte zu <START:nav_target> mouse 1 <END>
+bitte zu <START:nav_target> mouse 2 <END>
 bitte zu <START:nav_target> tv <END>
 bitte zu <START:nav_target> fernseher <END>
 bitte zu <START:nav_target> android <END>
@@ -961,8 +961,8 @@ komme zurück auf <START:nav_target> fortgeschritten <END>
 komme zurück auf <START:nav_target> nur fahren <END>
 komme zurück auf <START:nav_target> fahrgeste <END>
 komme zurück auf <START:nav_target> add-ons <END>
-komme zurück auf <START:nav_target> mouse eins <END>
-komme zurück auf <START:nav_target> mouse zwei <END>
+komme zurück auf <START:nav_target> mouse 1 <END>
+komme zurück auf <START:nav_target> mouse 2 <END>
 komme zurück auf <START:nav_target> tv <END>
 komme zurück auf <START:nav_target> fernseher <END>
 komme zurück auf <START:nav_target> android <END>
@@ -1017,8 +1017,8 @@ gehe auf <START:nav_target> fortgeschritten <END>
 gehe auf <START:nav_target> nur fahren <END>
 gehe auf <START:nav_target> fahrgeste <END>
 gehe auf <START:nav_target> add-ons <END>
-gehe auf <START:nav_target> mouse eins <END>
-gehe auf <START:nav_target> mouse zwei <END>
+gehe auf <START:nav_target> mouse 1 <END>
+gehe auf <START:nav_target> mouse 2 <END>
 gehe auf <START:nav_target> tv <END>
 gehe auf <START:nav_target> fernseher <END>
 gehe auf <START:nav_target> android <END>
@@ -1073,8 +1073,8 @@ auf <START:nav_target> fortgeschritten <END>
 auf <START:nav_target> nur fahren <END>
 auf <START:nav_target> fahrgeste <END>
 auf <START:nav_target> add-ons <END>
-auf <START:nav_target> mouse eins <END>
-auf <START:nav_target> mouse zwei <END>
+auf <START:nav_target> mouse 1 <END>
+auf <START:nav_target> mouse 2 <END>
 auf <START:nav_target> tv <END>
 auf <START:nav_target> fernseher <END>
 auf <START:nav_target> android <END>
@@ -1134,8 +1134,8 @@ zu <START:nav_target> fortgeschritten <END>
 zu <START:nav_target> nur fahren <END>
 zu <START:nav_target> fahrgeste <END>
 zu <START:nav_target> add-ons <END>
-zu <START:nav_target> mouse eins <END>
-zu <START:nav_target> mouse zwei <END>
+zu <START:nav_target> mouse 1 <END>
+zu <START:nav_target> mouse 2 <END>
 zu <START:nav_target> tv <END>
 zu <START:nav_target> fernseher <END>
 zu <START:nav_target> android <END>
@@ -1219,8 +1219,8 @@ gehe zu kategorie <START:nav_target> nur fahren <END>
 gehe zum modus <START:nav_target> nur fahren <END>
 gehe zu kategorie <START:nav_target> fahrgeste <END>
 gehe zu kategorie <START:nav_target> add-ons <END>
-gehe zu kategorie <START:nav_target> mouse eins <END>
-gehe zu kategorie <START:nav_target> mouse zwei <END>
+gehe zu kategorie <START:nav_target> mouse 1 <END>
+gehe zu kategorie <START:nav_target> mouse 2 <END>
 gehe zu kategorie <START:nav_target> tv <END>
 gehe zu kategorie <START:nav_target> fernseher <END>
 gehe zu kategorie <START:nav_target> android <END>
@@ -1258,8 +1258,8 @@ gehe zu <START:nav_target> fortgeschritten <END>
 gehe zu <START:nav_target> nur fahren <END>
 gehe zu <START:nav_target> fahrgeste <END>
 gehe zu <START:nav_target> add-ons <END>
-gehe zu <START:nav_target> mouse eins <END>
-gehe zu <START:nav_target> mouse zwei <END>
+gehe zu <START:nav_target> mouse 1 <END>
+gehe zu <START:nav_target> mouse 2 <END>
 gehe zu <START:nav_target> tv <END>
 gehe zu <START:nav_target> fernseher <END>
 gehe zu <START:nav_target> android <END>
@@ -1319,8 +1319,8 @@ navigiere zu <START:nav_target> fortgeschritten <END>
 navigiere zu <START:nav_target> nur fahren <END>
 navigiere zu <START:nav_target> fahrgeste <END>
 navigiere zu <START:nav_target> add-ons <END>
-navigiere zu <START:nav_target> mouse eins <END>
-navigiere zu <START:nav_target> mouse zwei <END>
+navigiere zu <START:nav_target> mouse 1 <END>
+navigiere zu <START:nav_target> mouse 2 <END>
 navigiere zu <START:nav_target> tv <END>
 navigiere zu <START:nav_target> fernseher <END>
 navigiere zu <START:nav_target> android <END>
@@ -1379,8 +1379,8 @@ navigiere zu kategorie <START:nav_target> fortgeschritten <END>
 navigiere zu kategorie <START:nav_target> nur fahren <END>
 navigiere zu kategorie <START:nav_target> fahrgeste <END>
 navigiere zu kategorie <START:nav_target> add-ons <END>
-navigiere zu kategorie <START:nav_target> mouse eins <END>
-navigiere zu kategorie <START:nav_target> mouse zwei <END>
+navigiere zu kategorie <START:nav_target> mouse 1 <END>
+navigiere zu kategorie <START:nav_target> mouse 2 <END>
 navigiere zu kategorie <START:nav_target> tv <END>
 navigiere zu kategorie <START:nav_target> fernseher <END>
 navigiere zu kategorie <START:nav_target> android <END>
@@ -1439,8 +1439,8 @@ bring mich zur kategorie <START:nav_target> fortgeschritten <END>
 bring mich zur kategorie <START:nav_target> nur fahren <END>
 bring mich zur kategorie <START:nav_target> fahrgeste <END>
 bring mich zur kategorie <START:nav_target> add-ons <END>
-bring mich zur kategorie <START:nav_target> mouse eins <END>
-bring mich zur kategorie <START:nav_target> mouse zwei <END>
+bring mich zur kategorie <START:nav_target> mouse 1 <END>
+bring mich zur kategorie <START:nav_target> mouse 2 <END>
 bring mich zur kategorie <START:nav_target> tv <END>
 bring mich zur kategorie <START:nav_target> fernseher <END>
 bring mich zur kategorie <START:nav_target> android <END>
@@ -1500,8 +1500,8 @@ bring mich zu <START:nav_target> fortgeschritten <END>
 bring mich zu <START:nav_target> nur fahren <END>
 bring mich zu <START:nav_target> fahrgeste <END>
 bring mich zu <START:nav_target> add-ons <END>
-bring mich zu <START:nav_target> mouse eins <END>
-bring mich zu <START:nav_target> mouse zwei <END>
+bring mich zu <START:nav_target> mouse 1 <END>
+bring mich zu <START:nav_target> mouse 2 <END>
 bring mich zu <START:nav_target> tv <END>
 bring mich zu <START:nav_target> fernseher <END>
 bring mich zu <START:nav_target> android <END>
@@ -1587,8 +1587,8 @@ wähle <START:nav_target> fortgeschritten <END>
 wähle <START:nav_target> nur fahren <END>
 wähle <START:nav_target> fahrgeste <END>
 wähle <START:nav_target> add-ons <END>
-wähle <START:nav_target> mouse eins <END>
-wähle <START:nav_target> mouse zwei <END>
+wähle <START:nav_target> mouse 1 <END>
+wähle <START:nav_target> mouse 2 <END>
 wähle <START:nav_target> tv <END>
 wähle <START:nav_target> fernseher <END>
 wähle <START:nav_target> android <END>
@@ -1647,8 +1647,8 @@ wähle die kategorie <START:nav_target> fortgeschritten <END>
 wähle die kategorie <START:nav_target> nur fahren <END>
 wähle die kategorie <START:nav_target> fahrgeste <END>
 wähle die kategorie <START:nav_target> add-ons <END>
-wähle die kategorie <START:nav_target> mouse eins <END>
-wähle die kategorie <START:nav_target> mouse zwei <END>
+wähle die kategorie <START:nav_target> mouse 1 <END>
+wähle die kategorie <START:nav_target> mouse 2 <END>
 wähle die kategorie <START:nav_target> tv <END>
 wähle die kategorie <START:nav_target> fernseher <END>
 wähle die kategorie <START:nav_target> android <END>
@@ -1707,8 +1707,8 @@ wähle kategorie <START:nav_target> fortgeschritten <END>
 wähle kategorie <START:nav_target> nur fahren <END>
 wähle kategorie <START:nav_target> fahrgeste <END>
 wähle kategorie <START:nav_target> add-ons <END>
-wähle kategorie <START:nav_target> mouse eins <END>
-wähle kategorie <START:nav_target> mouse zwei <END>
+wähle kategorie <START:nav_target> mouse 1 <END>
+wähle kategorie <START:nav_target> mouse 2 <END>
 wähle kategorie <START:nav_target> tv <END>
 wähle kategorie <START:nav_target> fernseher <END>
 wähle kategorie <START:nav_target> android <END>
@@ -1767,8 +1767,8 @@ wechsel zu <START:nav_target> fortgeschritten <END>
 wechsel zu <START:nav_target> nur fahren <END>
 wechsel zu <START:nav_target> fahrgeste <END>
 wechsel zu <START:nav_target> add-ons <END>
-wechsel zu <START:nav_target> mouse eins <END>
-wechsel zu <START:nav_target> mouse zwei <END>
+wechsel zu <START:nav_target> mouse 1 <END>
+wechsel zu <START:nav_target> mouse 2 <END>
 wechsel zu <START:nav_target> tv <END>
 wechsel zu <START:nav_target> fernseher <END>
 wechsel zu <START:nav_target> android <END>
@@ -1827,8 +1827,8 @@ wechsel zur kategorie <START:nav_target> fortgeschritten <END>
 wechsel zur kategorie <START:nav_target> nur fahren <END>
 wechsel zur kategorie <START:nav_target> fahrgeste <END>
 wechsel zur kategorie <START:nav_target> add-ons <END>
-wechsel zur kategorie <START:nav_target> mouse eins <END>
-wechsel zur kategorie <START:nav_target> mouse zwei <END>
+wechsel zur kategorie <START:nav_target> mouse 1 <END>
+wechsel zur kategorie <START:nav_target> mouse 2 <END>
 wechsel zur kategorie <START:nav_target> tv <END>
 wechsel zur kategorie <START:nav_target> fernseher <END>
 wechsel zur kategorie <START:nav_target> android <END>
@@ -1887,8 +1887,8 @@ zeige kategorie <START:nav_target> fortgeschritten <END>
 zeige kategorie <START:nav_target> nur fahren <END>
 zeige kategorie <START:nav_target> fahrgeste <END>
 zeige kategorie <START:nav_target> add-ons <END>
-zeige kategorie <START:nav_target> mouse eins <END>
-zeige kategorie <START:nav_target> mouse zwei <END>
+zeige kategorie <START:nav_target> mouse 1 <END>
+zeige kategorie <START:nav_target> mouse 2 <END>
 zeige kategorie <START:nav_target> tv <END>
 zeige kategorie <START:nav_target> fernseher <END>
 zeige kategorie <START:nav_target> android <END>
@@ -1985,8 +1985,8 @@ zeige <START:nav_target> fahrgeste <END>
 zeige die <START:nav_target> fahrgeste <END>
 zeige <START:nav_target> add-ons <END>
 zeige die <START:nav_target> add-ons <END>
-zeige <START:nav_target> mouse eins <END>
-zeige <START:nav_target> mouse zwei <END>
+zeige <START:nav_target> mouse 1 <END>
+zeige <START:nav_target> mouse 2 <END>
 zeige <START:nav_target> tv <END>
 zeige <START:nav_target> fernseher <END>
 zeige <START:nav_target> android <END>

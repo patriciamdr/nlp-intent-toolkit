@@ -1,3348 +1,1132 @@
-calibrate nods
-calibrate nod
-let's calibrate nods
-let's calibrate nod
-let's start nod calibration
-let's start nods calibration
-calibrate tilt
-calibrate tilts
-let's calibrate tilt
-let's calibrate tilts
-let's start tilt calibration
-let's start tilts calibration
-start nods calibration
-start nod calibration
-start tilt calibration
-start tilts calibration
-start calibration of nods
-start calibration of nod
-start calibration for nods
-start calibration for nod
-start calibration of tilts
-start calibration of tilt
-start calibration for tilts
-start calibration for tilt
-change to german
-change to english
-change to dutch
-change to french
-change language german
-change language english
-change language dutch
-change language french
-change language to german
-change language to english
-change language to dutch
-change language to french
-select german
-select english
-select dutch
-select french
-set language german
-set language english
-set language dutch
-set language french
-set language to german
-set language to english
-set language to dutch
-set language to french
-set the language german
-set the language english
-set the language dutch
-set the language french
-set the language to german
-set the language to english
-set the language to dutch
-set the language to french
-let's speak german
-let's speak english
-let's speak dutch
-let's speak french
-choose german
-choose english
-choose dutch
-choose french
-choose language german
-choose language english
-choose language dutch
-choose language french
-switch to german
-switch to english
-switch to dutch
-switch to french
-switch language to german
-switch language to english
-switch language to dutch
-switch language to french
-please german
-please english
-please dutch
-please french
-german please
-english please
-dutch please
-french please
-select german
-select english
-select dutch
-select french
-change language
-change language to
-set language
-set language to
-set the language
-set the language to
-let's speak
-choose language
-switch language to
-close the window
-close the windows
-close window
-close windows
-closed window
-closed windows
-window closed
-windows closed
-window close
-windows close
-close the curtain
-close the curtains
-close curtain
-closed curtains
-closed curtain
-close curtains
-curtain closed
-curtains closed
-curtain close
-curtains close
-close the door
-close door
-closed door
-door closed
-door close
-close the window now
-close the windows now
-close window now
-close windows now
-closed window now
-closed windows now
-window closed now
-windows closed now
-window close now
-windows close now
-close the curtain now
-close the curtains now
-close curtain now
-closed curtains now
-closed curtain now
-close curtains now
-curtain closed now
-curtains closed now
-curtain close now
-curtains close now
-close the door now
-close door now
-closed door now
-door closed now
-door close now
-please close the window now
-please close the windows now
-please close window now
-please close windows now
-please closed window now
-please closed windows now
-please window closed now
-please windows closed now
-please window close now
-please windows close now
-please close the curtain now
-please close the curtains now
-please close curtain now
-please closed curtains now
-please closed curtain now
-please close curtains now
-please curtain closed now
-please curtains closed now
-please curtain close now
-please curtains close now
-please close the door now
-please close door now
-please closed door now
-please door closed now
-please door close now
-please close the window
-please close the windows
-please close window
-please close windows
-please closed window
-please closed windows
-please window closed
-please windows closed
-please window close
-please windows close
-please close the curtain
-please close the curtains
-please close curtain
-please closed curtains
-please closed curtain
-please close curtains
-please curtain closed
-please curtains closed
-please curtain close
-please curtains close
-please close the door
-please close door
-please closed door
-please door closed
-please door close
-close the window please
-close the windows please
-close window please
-close windows please
-closed window please
-closed windows please
-window closed please
-windows closed please
-window close please
-windows close please
-close the curtain please
-close the curtains please
-close curtain please
-closed curtains please
-closed curtain please
-close curtains please
-curtain closed please
-curtains closed please
-curtain close please
-curtains close please
-close the door please
-close door please
-closed door please
-door closed please
-door close please
-connect wifi
-connect to wifi
-establish wifi connection
-establish a wifi connection
-establish connection to wifi
-establish an connection to wifi
-set up wifi connection
-connect to internet
-connect to the internet
-establish internet connection
-establish an internet connection
-establish connection to internet
-establish an connection to internet
-establish an connection to the internet
-establish connection to the internet
-set up internet connection
-scan for wifi
-search for wifi
-start search for wifi
-start searching for wifi
-scan for internet connection
-search for internet connection
-start search for internet connection
-start searching for internet connection
-connect
-connect to
-connect to the
-establish connection
-establish a connection
-establish an connection
-establish connection to
-establish a connection to
-establish an connection to
-establish connection to the
-establish a connection to the
-establish an connection to the
-set up connection
-connect to the
-scan for connection
-search for connection
-start search for connection
-start searching for connection
-turn the room light on
-turn the room lights on
-turn room light on
-turn room lights on
-turn on the room light
-turn on the room lights
-turn on room light
-turn on room lights
-room light on
-room lights on
-switch on room light
-switch on room lights
-switch on the room light
-switch on the room lights
-switch the room light on
-switch the room lights on
-switch room light on
-switch room lights on
-turn the room light off
-turn the room lights off
-turn room light off
-turn room lights off
-turn off the room light
-turn off the room lights
-turn off room light
-turn off room lights
-room light off
-room lights off
-switch off room light
-switch off room lights
-switch off the room light
-switch off the room lights
-switch the room light off
-switch the room lights off
-switch room light off
-switch room lights off
-turn the table lamp on
-turn the table lamps on
-turn table lamp on
-turn table lamps on
-turn on the table lamp
-turn on the table lamps
-turn on table lamp
-turn on table lamps
-table lamp on
-table lamps on
-switch on table lamp
-switch on table lamps
-switch on the table lamp
-switch on the table lamps
-switch the table lamp on
-switch the table lamps on
-switch table lamp on
-switch table lamps on
-turn the table lamp off
-turn the table lamps off
-turn table lamp off
-turn table lamps off
-turn off the table lamp
-turn off the table lamps
-turn off table lamp
-turn off table lamps
-table lamp off
-table lamps off
-switch off table lamp
-switch off table lamps
-switch off the table lamp
-switch off the table lamps
-switch the table lamp off
-switch the table lamps off
-switch table lamp off
-switch table lamps off
-turn the bed lamp on
-turn the bed lamps on
-turn bed lamp on
-turn bed lamps on
-turn on the bed lamp
-turn on the bed lamps
-turn on bed lamp
-turn on bed lamps
-bed lamp on
-bed lamps on
-switch on bed lamp
-switch on bed lamps
-switch on the bed lamp
-switch on the bed lamps
-switch the bed lamp on
-switch the bed lamps on
-switch bed lamp on
-switch bed lamps on
-turn the bed lamp off
-turn the bed lamps off
-turn bed lamp off
-turn bed lamps off
-turn off the bed lamp
-turn off the bed lamps
-turn off bed lamp
-turn off bed lamps
-bed lamp off
-bed lamps off
-switch off bed lamp
-switch off bed lamps
-switch off the bed lamp
-switch off the bed lamps
-switch the bed lamp off
-switch the bed lamps off
-switch bed lamp off
-switch bed lamps off
-turn the heater on
-turn heater on
-turn on the heater
-turn on heater
-heater on
-switch on heater
-switch on the heater
-switch the heater on
-switch heater on
-turn the heater off
-turn heater off
-turn off the heater
-turn off heater
-heater off
-switch off heater
-switch off the heater
-switch the heater off
-switch heater off
-turn the radiator on
-turn radiator on
-turn on the radiator
-turn on radiator
-radiator on
-switch on radiator
-switch on the radiator
-switch the radiator on
-switch radiator on
-turn the radiator off
-turn radiator off
-turn off the radiator
-turn off radiator
-radiator off
-switch off radiator
-switch off the radiator
-switch the radiator off
-switch radiator off
-turn the fan on
-turn fan on
-turn on the fan
-turn on fan
-fan on
-switch on fan
-switch on the fan
-switch the fan on
-switch fan on
-turn the fan off
-turn fan off
-turn off the fan
-turn off fan
-fan off
-switch off fan
-switch off the fan
-switch the fan off
-switch fan off
-turn the alarm on
-turn alarm on
-turn on the alarm
-turn on alarm
-alarm on
-switch on alarm
-switch on the alarm
-switch the alarm on
-switch alarm on
-turn the alarm off
-turn alarm off
-turn off the alarm
-turn off alarm
-alarm off
-switch off alarm
-switch off the alarm
-switch the alarm off
-switch alarm off
-turn the tv on
-turn tv on
-turn on the tv
-turn on tv
-tv on
-switch on tv
-switch on the tv
-switch the tv on
-switch tv on
-turn the tv off
-turn tv off
-turn off the tv
-turn off tv
-tv off
-switch off tv
-switch off the tv
-switch the tv off
-switch tv off
-turn on lights
-turn on the lights
-turn on light
-turn on the light
-turn on hazard lights
-turn on the hazard lights
-turn on hazard light
-turn on the hazard light
-turn the lights on
-turn the light on
-turn the hazard lights on
-turn the hazard light on
-turn lights on
-turn light on
-turn hazard lights on
-turn hazard light on
-lights on
-light on
-hazard lights on
-hazard light on
-turn off lights
-turn off the lights
-turn off light
-turn off the light
-turn off hazard lights
-turn off the hazard lights
-turn off hazard light
-turn off the hazard light
-turn the lights off
-turn the light off
-turn the hazard lights off
-turn the hazard light off
-turn lights off
-turn light off
-turn hazard lights off
-turn hazard light off
-lights off
-light off
-hazard lights off
-hazard light off
-switch off lights
-switch off the lights
-switch off light
-switch off the light
-switch off hazard lights
-switch off the hazard lights
-switch off hazard light
-switch off the hazard light
-switch the lights off
-switch the light off
-switch the hazard lights off
-switch the hazard light off
-switch lights off
-switch light off
-switch hazard lights off
-switch hazard light off
-switch on lights
-switch on the lights
-switch on light
-switch on the light
-switch on hazard lights
-switch on the hazard lights
-switch on hazard light
-switch on the hazard light
-switch the lights on
-switch the light on
-switch the hazard lights on
-switch the hazard light on
-switch lights on
-switch light on
-switch hazard lights on
-switch hazard light on
-decrease the tv volume
-decrease the volume of the tv
-decrease the volume of tv
-decrease the volume tv
-decrease tv volume
-turn down the tv volume
-turn down tv volume
-turn the tv volume down
-turn tv volume down
-reduce the tv volume
-reduce tv volume
-lower the tv volume
-lower tv volume
-tv volume lower
-lower the tv volume
-decrease the music volume
-decrease the volume of the music
-decrease the volume of music
-decrease the volume music
-decrease music volume
-turn down the music volume
-turn down music volume
-turn the music volume down
-turn music volume down
-reduce the music volume
-reduce music volume
-lower the music volume
-lower music volume
-music volume lower
-lower the music volume
-decrease volume tv
-decrease volume of tv
-decrease volume of the tv
-turn down the volume tv
-turn down the volume of tv
-turn down the volume of the tv
-turn down volume tv
-turn down volume of tv
-turn down volume of the tv
-turn the volume tv down
-turn the volume of tv down
-turn the volume of the tv down
-turn volume tv down
-turn volume of tv down
-turn volume of the tv down
-reduce the volume tv
-reduce the volume of tv
-reduce the volume of the tv
-reduce volume tv
-reduce volume of tv
-reduce volume of the tv
-lower the volume tv
-lower the volume of tv
-lower the volume of the tv
-lower volume tv
-lower volume of tv
-lower volume of the tv
-volume tv lower
-volume of tv lower
-volume of the tv lower
-lower the volume tv
-lower the volume of tv
-lower the volume of the tv
-decrease volume music
-decrease volume of music
-decrease volume of the music
-turn down the volume music
-turn down the volume of music
-turn down the volume of the music
-turn down volume music
-turn down volume of music
-turn down volume of the music
-turn the volume music down
-turn the volume of music down
-turn the volume of the music down
-turn volume music down
-turn volume of music down
-turn volume of the music down
-reduce the volume music
-reduce the volume of music
-reduce the volume of the music
-reduce volume music
-reduce volume of music
-reduce volume of the music
-lower the volume music
-lower the volume of music
-lower the volume of the music
-lower volume music
-lower volume of music
-lower volume of the music
-volume music lower
-volume of music lower
-volume of the music lower
-lower the volume music
-lower the volume of music
-lower the volume of the music
-turn down the volume
-turn down volume
-turn the volume down
-turn volume down
-volume down
-decrease volume
-decrease the volume
-reduce volume
-reduce the volume
-lower volume
-volume lower
-lower the volume
-please turn down the volume
-please turn down volume
-please turn the volume down
-please turn volume down
-please volume down
-please decrease volume
-please decrease the volume
-please reduce volume
-please reduce the volume
-please lower volume
-please volume lower
-please lower the volume
-turn down the volume please
-turn down volume please
-turn the volume down please
-turn volume down please
-volume down please
-decrease volume please
-decrease the volume please
-reduce volume please
-reduce the volume please
-lower volume please
-volume lower please
-lower the volume please
-turn down
-turn down the
-decrease
-decrease the
-reduce
-reduce the
-lower
-lower the
-increase the tv volume
-increase the volume of the tv
-increase the volume of tv
-increase the volume tv
-increase tv volume
-turn up the tv volume
-turn up tv volume
-turn the tv volume up
-turn tv volume up
-raise the tv volume
-raise tv volume
-higher the tv volume
-higher tv volume
-tv volume higher
-higher the tv volume
-increase the music volume
-increase the volume of the music
-increase the volume of music
-increase the volume music
-increase music volume
-turn up the music volume
-turn up music volume
-turn the music volume up
-turn music volume up
-raise the music volume
-raise music volume
-higher the music volume
-higher music volume
-music volume higher
-higher the music volume
-increase volume tv
-increase volume of tv
-increase volume of the tv
-turn up the volume tv
-turn up the volume of tv
-turn up the volume of the tv
-turn up volume tv
-turn up volume of tv
-turn up volume of the tv
-turn the volume tv up
-turn the volume of tv up
-turn the volume of the tv up
-turn volume tv up
-turn volume of tv up
-turn volume of the tv up
-raise the volume tv
-raise the volume of tv
-raise the volume of the tv
-raise volume tv
-raise volume of tv
-raise volume of the tv
-higher the volume tv
-higher the volume of tv
-higher the volume of the tv
-higher volume tv
-higher volume of tv
-higher volume of the tv
-volume tv higher
-volume of tv higher
-volume of the tv higher
-higher the volume tv
-higher the volume of tv
-higher the volume of the tv
-increase volume music
-increase volume of music
-increase volume of the music
-turn up the volume music
-turn up the volume of music
-turn up the volume of the music
-turn up volume music
-turn up volume of music
-turn up volume of the music
-turn the volume music up
-turn the volume of music up
-turn the volume of the music up
-turn volume music up
-turn volume of music up
-turn volume of the music up
-raise the volume music
-raise the volume of music
-raise the volume of the music
-raise volume music
-raise volume of music
-raise volume of the music
-higher the volume music
-higher the volume of music
-higher the volume of the music
-higher volume music
-higher volume of music
-higher volume of the music
-volume music higher
-volume of music higher
-volume of the music higher
-higher the volume music
-higher the volume of music
-higher the volume of the music
-turn up the volume
-turn up volume
-turn the volume up
-turn volume up
-volume up
-increase volume
-increase the volume
-raise volume
-raise the volume
-higher volume
-higher the volume
-volume higher
-please turn up the volume
-please turn up volume
-please turn the volume up
-please turn volume up
-please volume up
-please increase volume
-please raise volume
-please higher volume
-please increase the volume
-please raise the volume
-please higher the volume
-please volume higher
-turn up the volume please
-turn up volume please
-turn the volume up please
-turn volume up please
-volume up please
-increase volume please
-raise volume please
-higher volume please
-increase the volume please
-raise the volume please
-higher the volume please
-volume higher please
-turn up
-turn up the
-increase
-increase the
-raise
-raise the
-higher
-higher the
-go to window
-go to curtain
-go to curtains
-go to bed
-go to room light
-go to room lights
-go to table lamp
-go to table lamps
-go to bed lamps
-go to bed lamp
-go to heater
-go to fan
-go to home
-go to housemate
-go to door
-go to alarm
-go to intercom
-go to music
-go to music source
-go to music sources
-go to music control
-go to tv control
-go to tv power
-go to tv settings
-go to tv
-go to category window
-go to category curtain
-go to category curtains
-go to category bed
-go to category room light
-go to category room lights
-go to category table lamps
-go to category bed lamps
-go to category table lamp
-go to category bed lamp
-go to category heater
-go to category fan
-go to category home
-go to category housemate
-go to category door
-go to category alarm
-go to category intercom
-go to category music
-go to category music source
-go to category music sources
-go to category music control
-go to category tv control
-go to category tv power
-go to category tv settings
-go to category tv
-navigate to window
-navigate to curtain
-navigate to curtains
-navigate to bed
-navigate to room light
-navigate to room lights
-navigate to table lamps
-navigate to bed lamps
-navigate to table lamp
-navigate to bed lamp
-navigate to heater
-navigate to fan
-navigate to home
-navigate to housemate
-navigate to door
-navigate to alarm
-navigate to intercom
-navigate to music
-navigate to music source
-navigate to music sources
-navigate to music control
-navigate to tv control
-navigate to tv power
-navigate to tv settings
-navigate to tv
-navigate to category window
-navigate to category curtain
-navigate to category curtains
-navigate to category bed
-navigate to category room light
-navigate to category room lights
-navigate to category table lamps
-navigate to category bed lamps
-navigate to category table lamp
-navigate to category bed lamp
-navigate to category heater
-navigate to category fan
-navigate to category home
-navigate to category housemate
-navigate to category door
-navigate to category alarm
-navigate to category intercom
-navigate to category music
-navigate to category music source
-navigate to category music sources
-navigate to category music control
-navigate to category tv control
-navigate to category tv power
-navigate to category tv settings
-navigate to category tv
-take me to window
-take me to curtain
-take me to curtains
-take me to bed
-take me to room light
-take me to room lights
-take me to table lamps
-take me to bed lamps
-take me to table lamp
-take me to bed lamp
-take me to heater
-take me to fan
-take me to home
-take me to housemate
-take me to door
-take me to alarm
-take me to intercom
-take me to music
-take me to music source
-take me to music sources
-take me to music control
-take me to tv control
-take me to tv power
-take me to tv settings
-take me to tv
-take me to category window
-take me to category curtain
-take me to category curtains
-take me to category bed
-take me to category room light
-take me to category room lights
-take me to category table lamps
-take me to category bed lamps
-take me to category table lamp
-take me to category bed lamp
-take me to category heater
-take me to category fan
-take me to category home
-take me to category housemate
-take me to category door
-take me to category alarm
-take me to category intercom
-take me to category music
-take me to category music source
-take me to category music sources
-take me to category music control
-take me to category tv control
-take me to category tv power
-take me to category tv settings
-take me to category tv
-switch to window
-switch to curtain
-switch to curtains
-switch to bed
-switch to room light
-switch to room lights
-switch to table lamps
-switch to bed lamps
-switch to table lamp
-switch to bed lamp
-switch to heater
-switch to fan
-switch to home
-switch to housemate
-switch to door
-switch to alarm
-switch to intercom
-switch to music
-switch to music source
-switch to music sources
-switch to music control
-switch to tv control
-switch to tv power
-switch to tv settings
-switch to tv
-switch to category window
-switch to category curtain
-switch to category curtains
-switch to category bed
-switch to category room light
-switch to category room lights
-switch to category table lamps
-switch to category bed lamps
-switch to category table lamp
-switch to category bed lamp
-switch to category heater
-switch to category fan
-switch to category home
-switch to category housemate
-switch to category door
-switch to category alarm
-switch to category intercom
-switch to category music
-switch to category music source
-switch to category music sources
-switch to category music control
-switch to category tv control
-switch to category tv power
-switch to category tv settings
-switch to category tv
-choose window
-choose curtain
-choose curtains
-choose bed
-choose room light
-choose room lights
-choose table lamps
-choose bed lamps
-choose table lamp
-choose bed lamp
-choose heater
-choose fan
-choose home
-choose housemate
-choose door
-choose alarm
-choose intercom
-choose music
-choose music source
-choose music sources
-choose music control
-choose tv control
-choose tv power
-choose tv settings
-choose tv
-choose category window
-choose category curtain
-choose category curtains
-choose category bed
-choose category room light
-choose category room lights
-choose category table lamps
-choose category bed lamps
-choose category table lamp
-choose category bed lamp
-choose category heater
-choose category fan
-choose category home
-choose category housemate
-choose category door
-choose category alarm
-choose category intercom
-choose category music
-choose category music source
-choose category music sources
-choose category music control
-choose category tv control
-choose category tv power
-choose category tv settings
-choose category tv
-select window
-select curtain
-select curtains
-select bed
-select room light
-select room lights
-select table lamps
-select bed lamps
-select table lamp
-select bed lamp
-select heater
-select fan
-select home
-select housemate
-select door
-select alarm
-select intercom
-select music
-select music source
-select music sources
-select music control
-select tv control
-select tv power
-select tv settings
-select tv
-select category window
-select category curtain
-select category curtains
-select category bed
-select category room light
-select category room lights
-select category table lamps
-select category bed lamps
-select category table lamp
-select category bed lamp
-select category heater
-select category fan
-select category home
-select category housemate
-select category door
-select category alarm
-select category intercom
-select category music
-select category music source
-select category music sources
-select category music control
-select category tv control
-select category tv power
-select category tv settings
-select category tv
-to window
-to curtain
-to curtains
-to bed
-to room light
-to room lights
-to table lamps
-to bed lamps
-to table lamp
-to bed lamp
-to heater
-to fan
-to home
-to housemate
-to door
-to alarm
-to intercom
-to music
-to music source
-to music sources
-to music control
-to tv control
-to tv power
-to tv settings
-to tv
-to category window
-to category curtain
-to category curtains
-to category bed
-to category room light
-to category room lights
-to category table lamps
-to category table lamp
-to category heater
-to category bed lamps
-to category bed lamp
-to category fan
-to category home
-to category housemate
-to category door
-to category alarm
-to category intercom
-to category music
-to category music source
-to category music sources
-to category music control
-to category tv control
-to category tv power
-to category tv settings
-to category tv
-category window
-category curtain
-category curtains
-category bed
-category room light
-category room lights
-category table lamps
-category table lamp
-category heater
-category bed lamps
-category bed lamp
-category fan
-category home
-category housemate
-category door
-category alarm
-category intercom
-category music
-category music source
-category music sources
-category music control
-category tv control
-category tv power
-category tv settings
-category tv
-window
-curtain
-curtains
-bed
-room light
-room lights
-table lamps
-table lamp
-heater
-bed lamps
-bed lamp
-fan
-home
-housemate
-door
-alarm
-intercom
-music
-music source
-music sources
-music control
-tv control
-tv power
-tv settings
-tv
-camera
-media
-gallery
-seat
-seat position
-drive
-settings
-glass settings
-calibration
-tilt
-nods
-tilts
-nod
-tilts calibration
-tilt calibration
-nods calibration
-nod calibration
-lights
-lights menu
-light
-light menu
-hazard lights
-hazard lights menu
-hazard light
-hazard light menu
-volume
-category volume
-volume category
-volume category please
-please volume
-please category volume
-volume please
-language
-languages
-wifi
-internet
-support
-app info
-emergency email
-admin
-pair
-monitor
-existing phone
-new phone
-modes
-basic
-advanced
-drive only
-drive gesture
-drive gestures
-add-ons
-mouse one
-mouse two
-tv
-android
-computer
-control
-contacts
-iarm
-kinova
-language please
-languages please
-please language
-please languages
-to camera
-to media
-to gallery
-to seat
-to seat position
-to drive
-to settings
-to glass settings
-to calibration
-to tilt
-to nods
-to tilts
-to nod
-to tilts calibration
-to tilt calibration
-to nods calibration
-to nod calibration
-to lights
-to lights menu
-to light
-to light menu
-to hazard lights
-to hazard lights menu
-to hazard light
-to hazard light menu
-to volume
-to category volume
-to volume category
-to volume category please
-to please volume
-to please category volume
-to volume please
-to language
-to languages
-to wifi
-to internet
-to support
-to app info
-to emergency email
-to admin
-to pair
-to monitor
-to existing phone
-to new phone
-to modes
-to basic
-to advanced
-to drive only
-to drive gesture
-to drive gestures
-to add-ons
-to mouse one
-to mouse two
-to tv
-to android
-to computer
-to control
-to contacts
-to iarm
-to kinova
-go to category camera
-go to category media
-go to category gallery
-go to category seat
-go to category seat position
-go to category drive
-go to category settings
-go to the settings
-go to category glass settings
-go to the glass settings
-go to category calibration
-go to category tilt
-go to category nods
-go to category tilts
-go to category nod
-go to category tilts calibration
-go to category tilt calibration
-go to category nods calibration
-go to category nod calibration
-go to category lights
-go to the lights
-go to the lights menu
-go to category light
-go to category hazard lights
-go to the hazard lights
-go to the hazard lights menu
-go to category hazard light
-go to category volume
-go to category language
-go to category languages
-go to category wifi
-go to category internet
-go to category support
-go to category app info
-go to category emergency email
-go to category admin
-go to category pair
-go to category monitor
-go to category existing phone
-go to category new phone
-go to category modes
-go to category basic
-go to category advanced
-go to category drive only
-go to category drive gesture
-go to category drive gestures
-go to category add-ons
-go to category mouse one
-go to category mouse two
-go to category tv
-go to category android
-go to category computer
-go to category control
-go to category contacts
-go to category iarm
-go to category kinova
-go to camera
-go to media
-go to gallery
-go to seat
-go to seat position
-go to drive
-go to settings
-go to glass settings
-go to calibration
-go to tilt
-go to nods
-go to tilts
-go to nod
-go to tilts calibration
-go to tilt calibration
-go to nods calibration
-go to nod calibration
-go to lights
-go to lights menu
-go to light
-go to light menu
-go to hazard lights
-go to hazard lights menu
-go to hazard light
-go to hazard light menu
-go to volume
-go to language
-go to languages
-go to wifi
-go to internet
-go to support
-go to app info
-go to emergency email
-go to admin
-go to pair
-go to monitor
-go to existing phone
-go to new phone
-go to modes
-go to basic
-go to advanced
-go to drive only
-go to drive gesture
-go to drive gestures
-go to add-ons
-go to mouse one
-go to mouse two
-go to tv
-go to android
-go to computer
-go to control
-go to contacts
-go to iarm
-go to kinova
-go to english
-go to german
-go to dutch
-go to french
-take me to category camera
-take me to category media
-take me to category gallery
-take me to category seat
-take me to category seat position
-take me to category drive
-take me to category settings
-take me to category glass settings
-take me to category calibration
-take me to category tilt
-take me to category nods
-take me to category tilts
-take me to category nod
-take me to category tilts calibration
-take me to category tilt calibration
-take me to category nods calibration
-take me to category nod calibration
-take me to category lights
-take me to category light
-take me to category hazard lights
-take me to category hazard light
-take me to category volume
-take me to category language
-take me to category languages
-take me to category wifi
-take me to category internet
-take me to category support
-take me to category app info
-take me to category emergency email
-take me to category admin
-take me to category pair
-take me to category monitor
-take me to category existing phone
-take me to category new phone
-take me to category modes
-take me to category basic
-take me to category advanced
-take me to category drive only
-take me to category drive gesture
-take me to category add-ons
-take me to category mouse one
-take me to category mouse two
-take me to category tv
-take me to category android
-take me to category computer
-take me to category control
-take me to category contacts
-take me to category iarm
-take me to category kinova
-take me to camera
-take me to media
-take me to gallery
-take me to seat
-take me to seat position
-take me to drive
-take me to settings
-take me to glass settings
-take me to calibration
-take me to tilt
-take me to nods
-take me to tilts
-take me to nod
-take me to tilts calibration
-take me to tilt calibration
-take me to nods calibration
-take me to nod calibration
-take me to lights
-take me to lights menu
-take me to light
-take me to light menu
-take me to hazard lights
-take me to hazard lights menu
-take me to hazard light
-take me to hazard light menu
-take me to volume
-take me to language
-take me to languages
-take me to wifi
-take me to internet
-take me to support
-take me to app info
-take me to emergency email
-take me to admin
-take me to pair
-take me to monitor
-take me to existing phone
-take me to new phone
-take me to modes
-take me to basic
-take me to advanced
-take me to drive only
-take me to drive gesture
-take me to add-ons
-take me to mouse one
-take me to mouse two
-take me to tv
-take me to android
-take me to computer
-take me to control
-take me to contacts
-take me to iarm
-take me to kinova
-take me to english
-take me to german
-take me to dutch
-take me to french
-navigate to category camera
-navigate to category media
-navigate to category gallery
-navigate to category seat
-navigate to category seat position
-navigate to category drive
-navigate to category settings
-navigate to category glass settings
-navigate to category calibration
-navigate to category tilt
-navigate to category nods
-navigate to category tilts
-navigate to category nod
-navigate to category tilts calibration
-navigate to category tilt calibration
-navigate to category nods calibration
-navigate to category nod calibration
-navigate to category lights
-navigate to category light
-navigate to category hazard lights
-navigate to category hazard light
-navigate to category volume
-navigate to category language
-navigate to category languages
-navigate to category wifi
-navigate to category internet
-navigate to category support
-navigate to category app info
-navigate to category emergency email
-navigate to category admin
-navigate to category pair
-navigate to category monitor
-navigate to category existing phone
-navigate to category new phone
-navigate to category modes
-navigate to category basic
-navigate to category advanced
-navigate to category drive only
-navigate to category drive gesture
-navigate to category add-ons
-navigate to category mouse one
-navigate to category mouse two
-navigate to category tv
-navigate to category android
-navigate to category computer
-navigate to category control
-navigate to category contacts
-navigate to category iarm
-navigate to category kinova
-navigate to camera
-navigate to media
-navigate to gallery
-navigate to seat
-navigate to seat position
-navigate to drive
-navigate to settings
-navigate to glass settings
-navigate to calibration
-navigate to tilt
-navigate to nods
-navigate to tilts
-navigate to nod
-navigate to tilts calibration
-navigate to tilt calibration
-navigate to nods calibration
-navigate to nod calibration
-navigate to lights
-navigate to lights menu
-navigate to light
-navigate to light menu
-navigate to hazard lights
-navigate to hazard lights menu
-navigate to hazard light
-navigate to hazard light menu
-navigate to volume
-navigate to language
-navigate to languages
-navigate to wifi
-navigate to internet
-navigate to support
-navigate to app info
-navigate to emergency email
-navigate to admin
-navigate to pair
-navigate to monitor
-navigate to existing phone
-navigate to new phone
-navigate to modes
-navigate to basic
-navigate to advanced
-navigate to drive only
-navigate to drive gesture
-navigate to add-ons
-navigate to mouse one
-navigate to mouse two
-navigate to tv
-navigate to android
-navigate to computer
-navigate to control
-navigate to contacts
-navigate to iarm
-navigate to kinova
-navigate to english
-navigate to german
-navigate to dutch
-navigate to french
-switch to camera
-switch to media
-switch to gallery
-switch to seat
-switch to drive
-switch to settings
-switch to glass settings
-switch to calibration
-switch to tilts
-switch to tilt
-switch to nods
-switch to nod
-switch to tilts calibration
-switch to tilt calibration
-switch to nods calibration
-switch to nod calibration
-switch to lights
-switch to lights menu
-switch to light
-switch to light menu
-switch to hazard lights
-switch to hazard lights menu
-switch to hazard light
-switch to hazard light menu
-switch to volume
-switch to languages
-switch to language
-switch to wifi
-switch to internet
-switch to support
-switch to app info
-switch to emergency email
-switch to admin
-switch to pair
-switch to monitor
-switch to existing phone
-switch to new phone
-switch to modes
-switch to basic
-switch to advanced
-switch to drive only
-switch to drive gesture
-switch to add-ons
-switch to mouse one
-switch to mouse two
-switch to tv
-switch to android
-switch to computer
-switch to control
-switch to contacts
-switch to iarm
-switch to kinova
-select camera
-select media
-select gallery
-select seat
-select drive
-select settings
-select glass settings
-select calibration
-select tilts
-select tilt
-select nods
-select nod
-select tilts calibration
-select tilt calibration
-select nods calibration
-select nod calibration
-select lights
-select lights menu
-select light
-select light menu
-select hazard lights
-select hazard lights menu
-select hazard light
-select hazard light menu
-select volume
-select languages
-select language
-select wifi
-select internet
-select support
-select app info
-select emergency email
-select admin
-select pair
-select monitor
-select existing phone
-select new phone
-select modes
-select basic
-select advanced
-select drive only
-select drive gesture
-select add-ons
-select mouse one
-select mouse two
-select tv
-select android
-select computer
-select control
-select contacts
-select iarm
-select kinova
-choose camera
-choose media
-choose gallery
-choose seat
-choose drive
-choose settings
-choose glass settings
-choose calibration
-choose tilts
-choose tilt
-choose nods
-choose nod
-choose tilts calibration
-choose tilt calibration
-choose nods calibration
-choose nod calibration
-choose lights
-choose lights menu
-choose light
-choose light menu
-choose hazard lights
-choose hazard lights menu
-choose hazard light
-choose hazard light menu
-choose volume
-choose languages
-choose language
-choose wifi
-choose internet
-choose support
-choose app info
-choose emergency email
-choose admin
-choose pair
-choose monitor
-choose existing phone
-choose new phone
-choose modes
-choose basic
-choose advanced
-choose drive only
-choose drive gesture
-choose add-ons
-choose mouse one
-choose mouse two
-choose tv
-choose android
-choose computer
-choose control
-choose contacts
-choose iarm
-choose kinova
-go to
-navigate to
-take me to
-go to category
-navigate to category
-take me to category
-switch to category
-choose category
-select category
-category
-to
-previous channel
-the previous channel
-to previous channel
-to the previous channel
-back to previous channel
-back to the previous channel
-go to previous channel
-go to the previous channel
-go back to previous channel
-go back to the previous channel
-change to previous channel
-change back to previous channel
-change to the previous channel
-change back to the previous channel
-select previous channel
-select previous channel again
-select the previous channel
-select the previous channel again
-switch to previous channel
-switch back to previous channel
-switch to the previous channel
-switch back to the previous channel
-show previous channel
-show previous channel again
-show the previous channel
-show the previous channel again
-return to previous channel
-return to the previous channel
-next channel
-the next channel
-to next channel
-to the next channel
-go to next channel
-go to the next channel
-go ahead to next channel
-go ahead to the next channel
-move on to next channel
-move on to the next channel
-go further to next channel
-go further to the next channel
-go forward to next channel
-go forward to the next channel
-forward to next channel
-forward to the next channel
-continue to next channel
-continue to the next channel
-continue further to next channel
-continue further to the next channel
-proceed to next channel
-proceed to the next channel
-change to next channel
-change to the next channel
-change further to next channel
-change further to the next channel
-select next channel
-select the next channel
-switch to next channel
-switch to the next channel
-show next channel
-show the next channel
-previous song
-the previous song
-to previous song
-to the previous song
-choose previous song
-choose the previous song
-back to previous song
-back to the previous song
-go to previous song
-go to the previous song
-go back to previous song
-go back to the previous song
-go to previously played song
-go to the previously played song
-go back to previously played song
-go back to the previously played song
-change to previous song
-change back to previous song
-change to the previous song
-change back to the previous song
-select previous song
-select previous song again
-select the previous song
-select the previous song again
-switch to previous song
-switch back to previous song
-switch to the previous song
-switch back to the previous song
-play previous song
-play previous song again
-play the previous song
-play the previous song again
-return to previous song
-return to the previous song
-next song
-the next song
-choose next song
-choose the next song
-to next song
-to the next song
-go to next song
-go to the next song
-go ahead to next song
-go ahead to the next song
-move on to next song
-move on to the next song
-go further to next song
-go further to the next song
-go forward to next song
-go forward to the next song
-forward to next song
-forward to the next song
-continue to next song
-continue to the next song
-continue further to next song
-continue further to the next song
-proceed to next song
-proceed to the next song
-change to next song
-change to the next song
-change further to next song
-change further to the next song
-select next song
-select the next song
-switch to next song
-switch to the next song
-play next song
-play the next song
-play next song again
-play the next song again
-the window open
-window open
-the window opened
-window opened
-open window
-the windows open
-windows open
-the windows opened
-windows opened
-open windows
-open the windows
-open curtain
-open curtains
-open the curtain
-open the curtains
-the curtain open
-curtain open
-the curtain opened
-curtain opened
-the curtains open
-curtains open
-the curtains opened
-curtains opened
-the door opened
-door opened
-the door open
-door open
-open door
-open the door
-please the window open
-please window open
-please the window opened
-please window opened
-please open window
-please the windows open
-please windows open
-please the windows opened
-please windows opened
-please open windows
-please open the windows
-please open curtain
-please open curtains
-please open the curtain
-please open the curtains
-please the curtain open
-please curtain open
-please the curtain opened
-please curtain opened
-please the curtains open
-please curtains open
-please the curtains opened
-please curtains opened
-please the door opened
-please door opened
-please the door open
-please door open
-please open door
-please open the door
-please the window open now
-please window open now
-please the window opened now
-please window opened now
-please open window now
-please the windows open now
-please windows open now
-please the windows opened now
-please windows opened now
-please open windows now
-please open the windows now
-please open curtain now
-please open curtains now
-please open the curtain now
-please open the curtains now
-please the curtain open now
-please curtain open now
-please the curtain opened now
-please curtain opened now
-please the curtains open now
-please curtains open now
-please the curtains opened now
-please curtains opened now
-please the door opened now
-please door opened now
-please the door open now
-please door open now
-please open door now
-please open the door now
-the window open now
-window open now
-the window opened now
-window opened now
-open window now
-the windows open now
-windows open now
-the windows opened now
-windows opened now
-open windows now
-open the windows now
-open curtain now
-open curtains now
-open the curtain now
-open the curtains now
-the curtain open now
-curtain open now
-the curtain opened now
-curtain opened now
-the curtains open now
-curtains open now
-the curtains opened now
-curtains opened now
-the door opened now
-door opened now
-the door open now
-door open now
-open door now
-open the door now
-open room light
-open table lamp
-open heater
-open bed lamp
-open fan
-open home
-open housemate
-open door
-open alarm
-open intercom
-open music
-open music source
-open music sources
-open music control
-open tv control
-open tv power
-open tv settings
-open the room light
-open the table lamp
-open the heater
-open the bed lamp
-open the fan
-open the home
-open the housemate
-open the door
-open the alarm
-open the intercom
-open the music
-open the music source
-open the music sources
-open the music control
-open the tv control
-open the tv power
-open the tv settings
-open the category window
-open the category windows
-open the category curtain
-open the category curtains
-open the category bed
-open the category room light
-open the category table lamp
-open the category heater
-open the category bed lamp
-open the category fan
-open the category home
-open the category housemate
-open the category door
-open the category alarm
-open the category intercom
-open the category music
-open the category music source
-open the category music sources
-open the category music control
-open the category tv control
-open the category tv power
-open the category tv settings
-open the category tv
-open category window
-open category windows
-open category curtain
-open category curtains
-open category bed
-open category room light
-open category table lamp
-open category heater
-open category bed lamp
-open category fan
-open category home
-open category housemate
-open category door
-open category alarm
-open category intercom
-open category music
-open category music source
-open category music sources
-open category music control
-open category tv control
-open category tv power
-open category tv settings
-open category tv
-open camera
-open media
-open gallery
-open seat
-open seat position
-open drive
-open settings
-open glass settings
-open calibration
-open tilt
-open nods
-open tilts
-open nod
-open tilt calibration
-open nods calibration
-open tilts calibration
-open nod calibration
-open lights
-open lights menu
-open light
-open light menu
-open hazard lights
-open hazard lights menu
-open hazard light
-open hazard light menu
-open volume
-open language
-open languages
-open wifi
-open internet
-open support
-open sync
-open app info
-open emergency email
-open admin
-open pair
-open monitor
-open existing phone
-open new phone
-open modes
-open basic
-open advanced
-open drive only
-open drive gesture
-open add-ons
-open mouse one
-open mouse two
-open mouse one please
-open mouse two please
-please open mouse one
-please open mouse two
-open tv
-open android
-open computer
-open control
-open contacts
-open iarm
-open kinova
-open english
-open german
-open french
-open dutch
-open
-open the
-open category
-open the category
-open the camera
-open the media
-open the gallery
-open the seat
-open the seat position
-open the drive
-open the settings
-open the glass settings
-open the calibration
-open the tilt
-open the nods
-open the tilts
-open the nod
-open the tilt calibration
-open the nods calibration
-open the tilts calibration
-open the nod calibration
-open the lights
-open the lights menu
-open the light
-open the light menu
-open the hazard lights
-open the hazard lights menu
-open the hazard light
-open the hazard light menu
-open the volume
-open the language
-open the languages
-open the wifi
-open the internet
-open the support
-open the sync
-open the app info
-open the emergency email
-open the admin
-open the pair
-open the monitor
-open the existing phone
-open the new phone
-open the modes
-open the mode basic
-open the mode advanced
-open the mode drive only
-open the drive gesture
-open the add-ons
-open the mouse one
-open the mouse two
-open the mouse one please
-open the mouse two please
-please open the mouse one
-please open the mouse two
-open the tv
-open the computer
-open the control
-open the contacts
-open the iarm
-open the kinova
-open the language english
-open the language german
-open the language french
-open the language dutch
-open language english
-open language german
-open language french
-open language dutch
-open the menu item window
-open the menu item windows
-open the menu item curtain
-open the menu item curtains
-open the menu item bed
-open the menu item room light
-open the menu item table lamp
-open the menu item heater
-open the menu item bed lamp
-open the menu item fan
-open the menu item home
-open the menu item housemate
-open the menu item door
-open the menu item alarm
-open the menu item intercom
-open the menu item music
-open the menu item music source
-open the menu item music sources
-open the menu item music control
-open the menu item tv control
-open the menu item tv power
-open the menu item tv settings
-open the menu item tv
-open menu item window
-open menu item windows
-open menu item curtain
-open menu item curtains
-open menu item bed
-open menu item room light
-open menu item table lamp
-open menu item heater
-open menu item bed lamp
-open menu item fan
-open menu item home
-open menu item housemate
-open menu item door
-open menu item alarm
-open menu item intercom
-open menu item music
-open menu item music source
-open menu item music sources
-open menu item music control
-open menu item tv control
-open menu item tv power
-open menu item tv settings
-open menu item tv
-open window menu item
-open windows menu item
-open curtain menu item
-open curtains menu item
-open bed menu item
-open room light menu item
-open table lamp menu item
-open heater menu item
-open bed lamp menu item
-open fan menu item
-open home menu item
-open housemate menu item
-open door menu item
-open alarm menu item
-open intercom menu item
-open music menu item
-open music source menu item
-open music sources menu item
-open music control menu item
-open tv control menu item
-open tv power menu item
-open tv settings menu item
-open tv menu item
-open window category
-open windows category
-open curtain category
-open curtains category
-open bed category
-open room light category
-open table lamp category
-open heater category
-open bed lamp category
-open fan category
-open home category
-open housemate category
-open door category
-open alarm category
-open intercom category
-open music category
-open music source category
-open music sources category
-open music control category
-open tv control category
-open tv power category
-open tv settings category
-open tv category
-pause the music
-pause music
-stop the music
-stop music
-music off
-the music off
-turn the music off
-turn music off
-turn off the music
-turn off music
-end music
-end the music
-terminate music
-terminate the music
-switch music off
-switch the music off
-switch off the music
-switch off music
-turn out the music
-turn the music out
-turn music out
-turn out music
-make photo
-make picture
-take photo
-take picture
-make a photo
-make a picture
-take a photo
-take a picture
-photo please
-picture please
-play music
-play the music
-begin music
-begin the music
-begin playing music
-begin playing the music
-start the music
-start music
-start playing the music
-start playing music
-continue playing the music
-continue playing music
-continue music
-continue the music
-turn the music on
-turn music on
-turn on music
-turn on the music
-music on
-the music on
-switch on the music
-switch on music
-switch the music on
-switch music on
-start off the music
-start off music
-change music volume to zero
-change music volume to one
-change music volume to two
-change music volume to three
-change music volume to four
-change music volume to five
-change music volume to six
-change music volume to seven
-change music volume to eight
-change music volume to nine
-change music volume to ten
-change the music volume to zero
-change the music volume to one
-change the music volume to two
-change the music volume to three
-change the music volume to four
-change the music volume to five
-change the music volume to six
-change the music volume to seven
-change the music volume to eight
-change the music volume to nine
-change the music volume to ten
-set music volume to zero
-set music volume to one
-set music volume to two
-set music volume to three
-set music volume to four
-set music volume to five
-set music volume to six
-set music volume to seven
-set music volume to eight
-set music volume to nine
-set music volume to ten
-set the music volume to zero
-set the music volume to one
-set the music volume to two
-set the music volume to three
-set the music volume to four
-set the music volume to five
-set the music volume to six
-set the music volume to seven
-set the music volume to eight
-set the music volume to nine
-set the music volume to ten
-music volume to zero
-music volume to one
-music volume to two
-music volume to three
-music volume to four
-music volume to five
-music volume to six
-music volume to seven
-music volume to eight
-music volume to nine
-music volume to ten
-music volume zero
-music volume one
-music volume two
-music volume three
-music volume four
-music volume five
-music volume six
-music volume seven
-music volume eight
-music volume nine
-music volume ten
-set music volume
-set the music volume
-set music volume to
-set the music volume to
-change music volume
-change the music volume
-change music volume to
-change the music volume to
-music volume to
-change volume of the music to zero
-change volume of the music to one
-change volume of the music to two
-change volume of the music to three
-change volume of the music to four
-change volume of the music to five
-change volume of the music to six
-change volume of the music to seven
-change volume of the music to eight
-change volume of the music to nine
-change volume of the music to ten
-change the volume of the music to zero
-change the volume of the music to one
-change the volume of the music to two
-change the volume of the music to three
-change the volume of the music to four
-change the volume of the music to five
-change the volume of the music to six
-change the volume of the music to seven
-change the volume of the music to eight
-change the volume of the music to nine
-change the volume of the music to ten
-set volume of the music to zero
-set volume of the music to one
-set volume of the music to two
-set volume of the music to three
-set volume of the music to four
-set volume of the music to five
-set volume of the music to six
-set volume of the music to seven
-set volume of the music to eight
-set volume of the music to nine
-set volume of the music to ten
-set the volume of the music to zero
-set the volume of the music to one
-set the volume of the music to two
-set the volume of the music to three
-set the volume of the music to four
-set the volume of the music to five
-set the volume of the music to six
-set the volume of the music to seven
-set the volume of the music to eight
-set the volume of the music to nine
-set the volume of the music to ten
-volume of the music zero
-volume of the music one
-volume of the music two
-volume of the music three
-volume of the music four
-volume of the music five
-volume of the music six
-volume of the music seven
-volume of the music eight
-volume of the music nine
-volume of the music ten
-volume of the music to zero
-volume of the music to one
-volume of the music to two
-volume of the music to three
-volume of the music to four
-volume of the music to five
-volume of the music to six
-volume of the music to seven
-volume of the music to eight
-volume of the music to nine
-volume of the music to ten
-set volume of the music
-set the volume of the music
-set volume of the music to
-set the volume of the music to
-change volume of the music
-change the volume of the music
-change volume of the music to
-change the volume of the music to
-volume of the music to
-change volume of music to zero
-change volume of music to one
-change volume of music to two
-change volume of music to three
-change volume of music to four
-change volume of music to five
-change volume of music to six
-change volume of music to seven
-change volume of music to eight
-change volume of music to nine
-change volume of music to ten
-change the volume of music to zero
-change the volume of music to one
-change the volume of music to two
-change the volume of music to three
-change the volume of music to four
-change the volume of music to five
-change the volume of music to six
-change the volume of music to seven
-change the volume of music to eight
-change the volume of music to nine
-change the volume of music to ten
-set volume of music to zero
-set volume of music to one
-set volume of music to two
-set volume of music to three
-set volume of music to four
-set volume of music to five
-set volume of music to six
-set volume of music to seven
-set volume of music to eight
-set volume of music to nine
-set volume of music to ten
-set the volume of music to zero
-set the volume of music to one
-set the volume of music to two
-set the volume of music to three
-set the volume of music to four
-set the volume of music to five
-set the volume of music to six
-set the volume of music to seven
-set the volume of music to eight
-set the volume of music to nine
-set the volume of music to ten
-volume of music to zero
-volume of music to one
-volume of music to two
-volume of music to three
-volume of music to four
-volume of music to five
-volume of music to six
-volume of music to seven
-volume of music to eight
-volume of music to nine
-volume of music to ten
-volume of music zero
-volume of music one
-volume of music two
-volume of music three
-volume of music four
-volume of music five
-volume of music six
-volume of music seven
-volume of music eight
-volume of music nine
-volume of music ten
-set volume of music
-set the volume of music
-set volume of music to
-set the volume of music to
-change volume of music
-change the volume of music
-change volume of music to
-change the volume of music to
-volume of music to
-change tv volume to zero
-change tv volume to one
-change tv volume to two
-change tv volume to three
-change tv volume to four
-change tv volume to five
-change tv volume to six
-change tv volume to seven
-change tv volume to eight
-change tv volume to nine
-change tv volume to ten
-change the tv volume to zero
-change the tv volume to one
-change the tv volume to two
-change the tv volume to three
-change the tv volume to four
-change the tv volume to five
-change the tv volume to six
-change the tv volume to seven
-change the tv volume to eight
-change the tv volume to nine
-change the tv volume to ten
-set tv volume to zero
-set tv volume to one
-set tv volume to two
-set tv volume to three
-set tv volume to four
-set tv volume to five
-set tv volume to six
-set tv volume to seven
-set tv volume to eight
-set tv volume to nine
-set tv volume to ten
-set the tv volume to zero
-set the tv volume to one
-set the tv volume to two
-set the tv volume to three
-set the tv volume to four
-set the tv volume to five
-set the tv volume to six
-set the tv volume to seven
-set the tv volume to eight
-set the tv volume to nine
-set the tv volume to ten
-tv volume zero
-tv volume one
-tv volume two
-tv volume three
-tv volume four
-tv volume five
-tv volume six
-tv volume seven
-tv volume eight
-tv volume nine
-tv volume ten
-tv volume to zero
-tv volume to one
-tv volume to two
-tv volume to three
-tv volume to four
-tv volume to five
-tv volume to six
-tv volume to seven
-tv volume to eight
-tv volume to nine
-tv volume to ten
-set tv volume
-set the tv volume
-set tv volume to
-set the tv volume to
-change tv volume
-change the tv volume
-change tv volume to
-change the tv volume to
-tv volume to
-change volume of the tv to zero
-change volume of the tv to one
-change volume of the tv to two
-change volume of the tv to three
-change volume of the tv to four
-change volume of the tv to five
-change volume of the tv to six
-change volume of the tv to seven
-change volume of the tv to eight
-change volume of the tv to nine
-change volume of the tv to ten
-change the volume of the tv to zero
-change the volume of the tv to one
-change the volume of the tv to two
-change the volume of the tv to three
-change the volume of the tv to four
-change the volume of the tv to five
-change the volume of the tv to six
-change the volume of the tv to seven
-change the volume of the tv to eight
-change the volume of the tv to nine
-change the volume of the tv to ten
-set volume of the tv to zero
-set volume of the tv to one
-set volume of the tv to two
-set volume of the tv to three
-set volume of the tv to four
-set volume of the tv to five
-set volume of the tv to six
-set volume of the tv to seven
-set volume of the tv to eight
-set volume of the tv to nine
-set volume of the tv to ten
-set the volume of the tv to zero
-set the volume of the tv to one
-set the volume of the tv to two
-set the volume of the tv to three
-set the volume of the tv to four
-set the volume of the tv to five
-set the volume of the tv to six
-set the volume of the tv to seven
-set the volume of the tv to eight
-set the volume of the tv to nine
-set the volume of the tv to ten
-change volume of tv to zero
-change volume of tv to one
-change volume of tv to two
-change volume of tv to three
-change volume of tv to four
-change volume of tv to five
-change volume of tv to six
-change volume of tv to seven
-change volume of tv to eight
-change volume of tv to nine
-change volume of tv to ten
-change the volume of tv to three
-change the volume of tv to zero
-change the volume of tv to one
-change the volume of tv to two
-change the volume of tv to four
-change the volume of tv to five
-change the volume of tv to six
-change the volume of tv to seven
-change the volume of tv to eight
-change the volume of tv to nine
-change the volume of tv to ten
-set volume of tv to zero
-set volume of tv to one
-set volume of tv to two
-set volume of tv to three
-set volume of tv to four
-set volume of tv to five
-set volume of tv to six
-set volume of tv to seven
-set volume of tv to eight
-set volume of tv to nine
-set volume of tv to ten
-set the volume of tv to zero
-set the volume of tv to one
-set the volume of tv to two
-set the volume of tv to three
-set the volume of tv to four
-set the volume of tv to five
-set the volume of tv to six
-set the volume of tv to seven
-set the volume of tv to eight
-set the volume of tv to nine
-set the volume of tv to ten
-volume of tv zero
-volume of tv one
-volume of tv two
-volume of tv three
-volume of tv four
-volume of tv five
-volume of tv six
-volume of tv seven
-volume of tv eight
-volume of tv nine
-volume of tv ten
-volume of tv to zero
-volume of tv to one
-volume of tv to two
-volume of tv to three
-volume of tv to four
-volume of tv to five
-volume of tv to six
-volume of tv to seven
-volume of tv to eight
-volume of tv to nine
-volume of tv to ten
-set volume of tv
-set the volume of tv
-set volume of tv to
-set the volume of tv to
-change volume of tv
-change the volume of tv
-change volume of tv to
-change the volume of tv to
-volume of tv to
-change volume to zero
-change volume to one
-change volume to two
-change volume to three
-change volume to four
-change volume to five
-change volume to six
-change volume to seven
-change volume to eight
-change volume to nine
-change volume to ten
-change the volume to zero
-change the volume to one
-change the volume to two
-change the volume to three
-change the volume to four
-change the volume to five
-change the volume to six
-change the volume to seven
-change the volume to eight
-change the volume to nine
-change the volume to ten
-set volume to zero
-set volume to one
-set volume to two
-set volume to three
-set volume to four
-set volume to five
-set volume to six
-set volume to seven
-set volume to eight
-set volume to nine
-set volume to ten
-set the volume to zero
-set the volume to one
-set the volume to two
-set the volume to three
-set the volume to four
-set the volume to five
-set the volume to six
-set the volume to seven
-set the volume to eight
-set the volume to nine
-set the volume to ten
-volume zero
-volume one
-volume two
-volume three
-volume four
-volume five
-volume six
-volume seven
-volume eight
-volume nine
-volume ten
-volume to zero
-volume to one
-volume to two
-volume to three
-volume to four
-volume to five
-volume to six
-volume to seven
-volume to eight
-volume to nine
-volume to ten
-set volume
-set the volume
-set volume to
-set the volume to
-change volume
-change the volume
-change volume to
-change the volume to
-volume to
-sync
-sync now
-start sync
-start sync now
-do sync
-do sync now
-sync app
-sync device
-sync glass
-app sync
-device sync
-glass sync
-syncing
-start syncing
-start syncing now
-do syncing
-do syncing now
-syncing app
-syncing glass
-syncing device
-app syncing
-glass syncing
-device syncing
-synchronize
-synchronize now
-start synchronize
-start synchronize now
-do synchronize
-do synchronize now
-synchronize app
-synchronize glass
-synchronize device
-app synchronize
-glass synchronize
-device synchronize
-synchronise
-synchronise now
-synchronise app
-synchronise glass
-synchronise device
-app synchronise
-glass synchronise
-device synchronise
-start synchronise
-start synchronise now
-do synchronise
-do synchronise now
-synchronization
-synchronization app
-synchronization glass
-synchronization device
-device synchronization
-app synchronization
-glass synchronization
-start synchronization
-start synchronization now
-do synchronization
-do synchronization now
-synchronisation
-synchronisation app
-synchronisation glass
-synchronisation device
-app synchronisation
-glass synchronisation
-device synchronisation
-start synchronisation
-start synchronisation now
-do synchronisation
-do synchronisation now
-synchronizing
-synchronizing app
-synchronizing glass
-synchronizing device
-app synchronizing
-glass synchronizing
-device synchronizing
-start synchronizing
-start synchronizing now
-do synchronizing
-do synchronizing now
-synchronising
-synchronising app
-synchronising glass
-synchronising device
-app synchronising
-glass synchronising
-device synchronising
-start synchronising
-start synchronising now
-do synchronising
-do synchronising now
-update
-update now
-update app
-update glass
-update device
-app update
-glass update
-device update
-start update
-start update now
-do update
-do update now
-updating
-updating app
-updating glass
-updating device
-app updating
-glass updating
-device updating
-start updating
-start updating now
-do updating
-do updating now
-start the sync
-do the sync
-sync the app
-sync the device
-sync the glass
-start the syncing
-do the syncing
-syncing the app
-syncing the glass
-syncing the device
-start the synchronize
-do the synchronize
-synchronize the app
-synchronize the glass
-synchronize the device
-synchronise the app
-synchronise the glass
-synchronise the device
-start the synchronise
-do the synchronise
-synchronization the app
-synchronization the glass
-synchronization the device
-start the synchronization
-do the synchronization
-synchronisation the app
-synchronisation the glass
-synchronisation the device
-start the synchronisation
-do the synchronisation
-synchronizing the app
-synchronizing the glass
-synchronizing the device
-start the synchronizing
-do the synchronizing
-synchronising the app
-synchronising the glass
-synchronising the device
-start the synchronising
-do the synchronising
-update the app
-update the glass
-update the device
-start the update
-do the update
-updating the app
-updating the glass
-updating the device
-start the updating
-do the updating
-let's sync
-let's sync now
-let's synchronise
-let's synchronize
-let's start synchronization
-let's do synchronization
-let's start synchronisation
-let's do synchronisation
-let's start synchronizing
-let's do synchronizing
-let's start synchronising
-let's do synchronising
-let's update
-let's start update
-let's do update
-let's start updating
-let's do updating
-let's synchronise
-let's synchronize
-let's start synchronization
-let's do synchronization
-let's start synchronisation
-let's do synchronisation
-let's start synchronizing
-let's do synchronizing
-let's start synchronising
-let's do synchronising
-tilt the bed down
-tilt bed down
-tilt down the bed
-tilt down bed
-bed down tilt
-bed tilt down
-level the bed down
-level bed down
-level down the bed
-level down bed
-bed down level
-bed level down
-decrease bed
-decrease the bed
-decrease bed tilt
-decrease bed level
-decrease bed height
-decrease bed incline
-decrease bed angle
-decrease the bed tilt
-decrease the bed level
-decrease the bed height
-decrease the bed incline
-decrease the bed angle
-decrease tilt of bed
-decrease level of bed
-decrease height of bed
-decrease angle of bed
-decrease incline of bed
-decrease tilt of the bed
-decrease level of the bed
-decrease height of the bed
-decrease angle of the bed
-decrease incline of the bed
-reduce bed tilt
-reduce bed level
-reduce bed height
-reduce bed incline
-reduce bed angle
-reduce the bed tilt
-reduce the bed level
-reduce the bed height
-reduce the bed incline
-reduce the bed angle
-reduce tilt of bed
-reduce level of bed
-reduce height of bed
-reduce angle of bed
-reduce incline of bed
-reduce tilt of the bed
-reduce level of the bed
-reduce height of the bed
-reduce angle of the bed
-reduce incline of the bed
-lower bed
-lower the bed
-lower bed tilt
-lower bed level
-lower bed height
-lower bed incline
-lower bed angle
-lower the bed tilt
-lower the bed level
-lower the bed height
-lower the bed incline
-lower the bed angle
-lower tilt of bed
-lower level of bed
-lower height of bed
-lower angle of bed
-lower incline of bed
-lower tilt of the bed
-lower level of the bed
-lower height of the bed
-lower angle of the bed
-lower incline of the bed
-tilt the bed up
-tilt bed up
-tilt up the bed
-tilt up bed
-bed up tilt
-bed tilt up
-level the bed up
-level bed up
-level up the bed
-level up bed
-bed up level
-bed level up
-increase bed
-increase the bed
-increase bed tilt
-increase bed level
-increase bed height
-increase bed incline
-increase bed angle
-increase the bed tilt
-increase the bed level
-increase the bed height
-increase the bed incline
-increase the bed angle
-increase tilt of bed
-increase level of bed
-increase height of bed
-increase angle of bed
-increase incline of bed
-increase tilt of the bed
-increase level of the bed
-increase height of the bed
-increase angle of the bed
-increase incline of the bed
-raise bed tilt
-raise bed level
-raise bed height
-raise bed incline
-raise bed angle
-raise the bed tilt
-raise the bed level
-raise the bed height
-raise the bed incline
-raise the bed angle
-raise tilt of bed
-raise level of bed
-raise height of bed
-raise angle of bed
-raise incline of bed
-raise tilt of the bed
-raise level of the bed
-raise height of the bed
-raise angle of the bed
-raise incline of the bed
-higher bed
-higher the bed
-higher bed tilt
-higher bed level
-higher bed height
-higher bed incline
-higher bed angle
-higher the bed tilt
-higher the bed level
-higher the bed height
-higher the bed incline
-higher the bed angle
-higher tilt of bed
-higher level of bed
-higher height of bed
-higher angle of bed
-higher incline of bed
-higher tilt of the bed
-higher level of the bed
-higher height of the bed
-higher angle of the bed
-higher incline of the bed
-need
-write
-ok
-ok munevo
-ok glass
-glass
+0
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
 add
+add-ons
 admin
 advanced
 again
 ahead
 alarm
+alarm off
+alarm on
 android
 angle
 app
+app info
+app sync
+app synchronisation
+app synchronise
+app synchronising
+app synchronization
+app synchronize
+app synchronizing
+app syncing
+app update
+app updating
 back
+back to previous channel
+back to previous song
+back to the previous channel
+back to the previous song
 basic
 bed
+bed down level
+bed down tilt
+bed lamp
+bed lamp off
+bed lamp on
+bed lamps
+bed lamps off
+bed lamps on
+bed level down
+bed level up
+bed tilt down
+bed tilt up
+bed up level
+bed up tilt
 begin
+begin music
+begin playing music
+begin playing the music
+begin the music
 calibrate
+calibrate nod
+calibrate nods
+calibrate tilt
+calibrate tilts
 calibration
 camera
 category
+category alarm
+category bed
+category bed lamp
+category bed lamps
+category curtain
+category curtains
+category door
+category fan
+category heater
+category home
+category housemate
+category intercom
+category music
+category music control
+category music source
+category music sources
+category room light
+category room lights
+category table lamp
+category table lamps
+category tv
+category tv control
+category tv power
+category tv settings
+category volume
+category window
 change
+change back to previous channel
+change back to previous song
+change back to the previous channel
+change back to the previous song
+change further to next channel
+change further to next song
+change further to the next channel
+change further to the next song
+change language
+change language dutch
+change language english
+change language french
+change language german
+change language to
+change language to dutch
+change language to english
+change language to french
+change language to german
+change music volume
+change music volume 0
+change music volume 1
+change music volume 10
+change music volume 2
+change music volume 3
+change music volume 4
+change music volume 5
+change music volume 6
+change music volume 7
+change music volume 8
+change music volume 9
+change music volume to
+change music volume to 0
+change music volume to 1
+change music volume to 10
+change music volume to 2
+change music volume to 3
+change music volume to 4
+change music volume to 5
+change music volume to 6
+change music volume to 7
+change music volume to 8
+change music volume to 9
+change the music volume
+change the music volume 0
+change the music volume 1
+change the music volume 10
+change the music volume 2
+change the music volume 3
+change the music volume 4
+change the music volume 5
+change the music volume 6
+change the music volume 7
+change the music volume 8
+change the music volume 9
+change the music volume to
+change the music volume to 0
+change the music volume to 1
+change the music volume to 10
+change the music volume to 2
+change the music volume to 3
+change the music volume to 4
+change the music volume to 5
+change the music volume to 6
+change the music volume to 7
+change the music volume to 8
+change the music volume to 9
+change the tv volume
+change the tv volume 0
+change the tv volume 1
+change the tv volume 10
+change the tv volume 2
+change the tv volume 3
+change the tv volume 4
+change the tv volume 5
+change the tv volume 6
+change the tv volume 7
+change the tv volume 8
+change the tv volume 9
+change the tv volume to
+change the tv volume to 0
+change the tv volume to 1
+change the tv volume to 10
+change the tv volume to 2
+change the tv volume to 3
+change the tv volume to 4
+change the tv volume to 5
+change the tv volume to 6
+change the tv volume to 7
+change the tv volume to 8
+change the tv volume to 9
+change the volume
+change the volume 0
+change the volume 1
+change the volume 10
+change the volume 2
+change the volume 3
+change the volume 4
+change the volume 5
+change the volume 6
+change the volume 7
+change the volume 8
+change the volume 9
+change the volume of music
+change the volume of music 0
+change the volume of music 1
+change the volume of music 10
+change the volume of music 2
+change the volume of music 3
+change the volume of music 4
+change the volume of music 5
+change the volume of music 6
+change the volume of music 7
+change the volume of music 8
+change the volume of music 9
+change the volume of music to
+change the volume of music to 0
+change the volume of music to 1
+change the volume of music to 10
+change the volume of music to 2
+change the volume of music to 3
+change the volume of music to 4
+change the volume of music to 5
+change the volume of music to 6
+change the volume of music to 7
+change the volume of music to 8
+change the volume of music to 9
+change the volume of the music
+change the volume of the music 0
+change the volume of the music 1
+change the volume of the music 10
+change the volume of the music 2
+change the volume of the music 3
+change the volume of the music 4
+change the volume of the music 5
+change the volume of the music 6
+change the volume of the music 7
+change the volume of the music 8
+change the volume of the music 9
+change the volume of the music to
+change the volume of the music to 0
+change the volume of the music to 1
+change the volume of the music to 10
+change the volume of the music to 2
+change the volume of the music to 3
+change the volume of the music to 4
+change the volume of the music to 5
+change the volume of the music to 6
+change the volume of the music to 7
+change the volume of the music to 8
+change the volume of the music to 9
+change the volume of the tv
+change the volume of the tv 0
+change the volume of the tv 1
+change the volume of the tv 10
+change the volume of the tv 2
+change the volume of the tv 3
+change the volume of the tv 4
+change the volume of the tv 5
+change the volume of the tv 6
+change the volume of the tv 7
+change the volume of the tv 8
+change the volume of the tv 9
+change the volume of the tv to
+change the volume of the tv to 0
+change the volume of the tv to 1
+change the volume of the tv to 10
+change the volume of the tv to 2
+change the volume of the tv to 3
+change the volume of the tv to 4
+change the volume of the tv to 5
+change the volume of the tv to 6
+change the volume of the tv to 7
+change the volume of the tv to 8
+change the volume of the tv to 9
+change the volume of tv
+change the volume of tv 0
+change the volume of tv 1
+change the volume of tv 10
+change the volume of tv 2
+change the volume of tv 3
+change the volume of tv 4
+change the volume of tv 5
+change the volume of tv 6
+change the volume of tv 7
+change the volume of tv 8
+change the volume of tv 9
+change the volume of tv to
+change the volume of tv to 0
+change the volume of tv to 1
+change the volume of tv to 10
+change the volume of tv to 2
+change the volume of tv to 3
+change the volume of tv to 4
+change the volume of tv to 5
+change the volume of tv to 6
+change the volume of tv to 7
+change the volume of tv to 8
+change the volume of tv to 9
+change the volume to
+change the volume to 0
+change the volume to 1
+change the volume to 10
+change the volume to 2
+change the volume to 3
+change the volume to 4
+change the volume to 5
+change the volume to 6
+change the volume to 7
+change the volume to 8
+change the volume to 9
+change to dutch
+change to english
+change to french
+change to german
+change to next channel
+change to next song
+change to previous channel
+change to previous song
+change to the next channel
+change to the next song
+change to the previous channel
+change to the previous song
+change tv volume
+change tv volume 0
+change tv volume 1
+change tv volume 10
+change tv volume 2
+change tv volume 3
+change tv volume 4
+change tv volume 5
+change tv volume 6
+change tv volume 7
+change tv volume 8
+change tv volume 9
+change tv volume to
+change tv volume to 0
+change tv volume to 1
+change tv volume to 10
+change tv volume to 2
+change tv volume to 3
+change tv volume to 4
+change tv volume to 5
+change tv volume to 6
+change tv volume to 7
+change tv volume to 8
+change tv volume to 9
+change volume
+change volume 0
+change volume 1
+change volume 10
+change volume 2
+change volume 3
+change volume 4
+change volume 5
+change volume 6
+change volume 7
+change volume 8
+change volume 9
+change volume of music
+change volume of music 0
+change volume of music 1
+change volume of music 10
+change volume of music 2
+change volume of music 3
+change volume of music 4
+change volume of music 5
+change volume of music 6
+change volume of music 7
+change volume of music 8
+change volume of music 9
+change volume of music to
+change volume of music to 0
+change volume of music to 1
+change volume of music to 10
+change volume of music to 2
+change volume of music to 3
+change volume of music to 4
+change volume of music to 5
+change volume of music to 6
+change volume of music to 7
+change volume of music to 8
+change volume of music to 9
+change volume of the music
+change volume of the music 0
+change volume of the music 1
+change volume of the music 10
+change volume of the music 2
+change volume of the music 3
+change volume of the music 4
+change volume of the music 5
+change volume of the music 6
+change volume of the music 7
+change volume of the music 8
+change volume of the music 9
+change volume of the music to
+change volume of the music to 0
+change volume of the music to 1
+change volume of the music to 10
+change volume of the music to 2
+change volume of the music to 3
+change volume of the music to 4
+change volume of the music to 5
+change volume of the music to 6
+change volume of the music to 7
+change volume of the music to 8
+change volume of the music to 9
+change volume of the tv
+change volume of the tv 0
+change volume of the tv 1
+change volume of the tv 10
+change volume of the tv 2
+change volume of the tv 3
+change volume of the tv 4
+change volume of the tv 5
+change volume of the tv 6
+change volume of the tv 7
+change volume of the tv 8
+change volume of the tv 9
+change volume of the tv to
+change volume of the tv to 0
+change volume of the tv to 1
+change volume of the tv to 10
+change volume of the tv to 2
+change volume of the tv to 3
+change volume of the tv to 4
+change volume of the tv to 5
+change volume of the tv to 6
+change volume of the tv to 7
+change volume of the tv to 8
+change volume of the tv to 9
+change volume of tv
+change volume of tv 0
+change volume of tv 1
+change volume of tv 10
+change volume of tv 2
+change volume of tv 3
+change volume of tv 4
+change volume of tv 5
+change volume of tv 6
+change volume of tv 7
+change volume of tv 8
+change volume of tv 9
+change volume of tv to
+change volume of tv to 0
+change volume of tv to 1
+change volume of tv to 10
+change volume of tv to 2
+change volume of tv to 3
+change volume of tv to 4
+change volume of tv to 5
+change volume of tv to 6
+change volume of tv to 7
+change volume of tv to 8
+change volume of tv to 9
+change volume to
+change volume to 0
+change volume to 1
+change volume to 10
+change volume to 2
+change volume to 3
+change volume to 4
+change volume to 5
+change volume to 6
+change volume to 7
+change volume to 8
+change volume to 9
 channel
 choose
+choose add-ons
+choose admin
+choose advanced
+choose alarm
+choose android
+choose app info
+choose basic
+choose bed
+choose bed lamp
+choose bed lamps
+choose calibration
+choose camera
+choose category
+choose category alarm
+choose category bed
+choose category bed lamp
+choose category bed lamps
+choose category curtain
+choose category curtains
+choose category door
+choose category fan
+choose category heater
+choose category home
+choose category housemate
+choose category intercom
+choose category music
+choose category music control
+choose category music source
+choose category music sources
+choose category room light
+choose category room lights
+choose category table lamp
+choose category table lamps
+choose category tv
+choose category tv control
+choose category tv power
+choose category tv settings
+choose category window
+choose computer
+choose contacts
+choose control
+choose curtain
+choose curtains
+choose door
+choose drive
+choose drive gesture
+choose drive only
+choose dutch
+choose emergency email
+choose english
+choose existing phone
+choose fan
+choose french
+choose gallery
+choose german
+choose glass settings
+choose hazard light
+choose hazard light menu
+choose hazard lights
+choose hazard lights menu
+choose heater
+choose home
+choose housemate
+choose iarm
+choose intercom
+choose internet
+choose kinova
+choose language
+choose language dutch
+choose language english
+choose language french
+choose language german
+choose languages
+choose light
+choose light menu
+choose lights
+choose lights menu
+choose media
+choose modes
+choose monitor
+choose mouse 1
+choose mouse 2
+choose music
+choose music control
+choose music source
+choose music sources
+choose new phone
+choose next song
+choose nod
+choose nod calibration
+choose nods
+choose nods calibration
+choose pair
+choose previous song
+choose room light
+choose room lights
+choose seat
+choose settings
+choose support
+choose table lamp
+choose table lamps
+choose the next song
+choose the previous song
+choose tilt
+choose tilt calibration
+choose tilts
+choose tilts calibration
+choose tv
+choose tv control
+choose tv power
+choose tv settings
+choose volume
+choose wifi
+choose window
 close
+close curtain
+close curtain now
+close curtain please
+close curtains
+close curtains now
+close curtains please
+close door
+close door now
+close door please
+close the curtain
+close the curtain now
+close the curtain please
+close the curtains
+close the curtains now
+close the curtains please
+close the door
+close the door now
+close the door please
+close the window
+close the window now
+close the window please
+close the windows
+close the windows now
+close the windows please
+close window
+close window now
+close window please
+close windows
+close windows now
+close windows please
 closed
+closed curtain
+closed curtain now
+closed curtain please
+closed curtains
+closed curtains now
+closed curtains please
+closed door
+closed door now
+closed door please
+closed window
+closed window now
+closed window please
+closed windows
+closed windows now
+closed windows please
 computer
 connect
+connect to
+connect to internet
+connect to the
+connect to the internet
+connect to wifi
+connect wifi
 connection
 contacts
 continue
+continue further to next channel
+continue further to next song
+continue further to the next channel
+continue further to the next song
+continue music
+continue playing music
+continue playing the music
+continue the music
+continue to next channel
+continue to next song
+continue to the next channel
+continue to the next song
 control
 curtain
+curtain close
+curtain close now
+curtain close please
+curtain closed
+curtain closed now
+curtain closed please
+curtain open
+curtain open now
+curtain opened
+curtain opened now
 curtains
+curtains close
+curtains close now
+curtains close please
+curtains closed
+curtains closed now
+curtains closed please
+curtains open
+curtains open now
+curtains opened
+curtains opened now
 decrease
+decrease angle of bed
+decrease angle of the bed
+decrease bed
+decrease bed angle
+decrease bed height
+decrease bed incline
+decrease bed level
+decrease bed tilt
+decrease height of bed
+decrease height of the bed
+decrease incline of bed
+decrease incline of the bed
+decrease level of bed
+decrease level of the bed
+decrease music volume
+decrease the
+decrease the bed
+decrease the bed angle
+decrease the bed height
+decrease the bed incline
+decrease the bed level
+decrease the bed tilt
+decrease the music volume
+decrease the tv volume
+decrease the volume
+decrease the volume music
+decrease the volume of music
+decrease the volume of the music
+decrease the volume of the tv
+decrease the volume of tv
+decrease the volume please
+decrease the volume tv
+decrease tilt of bed
+decrease tilt of the bed
+decrease tv volume
+decrease volume
+decrease volume music
+decrease volume of music
+decrease volume of the music
+decrease volume of the tv
+decrease volume of tv
+decrease volume please
+decrease volume tv
 device
+device sync
+device synchronisation
+device synchronise
+device synchronising
+device synchronization
+device synchronize
+device synchronizing
+device syncing
+device update
+device updating
+do sync
+do sync now
+do synchronisation
+do synchronisation now
+do synchronise
+do synchronise now
+do synchronising
+do synchronising now
+do synchronization
+do synchronization now
+do synchronize
+do synchronize now
+do synchronizing
+do synchronizing now
+do syncing
+do syncing now
+do the sync
+do the synchronisation
+do the synchronise
+do the synchronising
+do the synchronization
+do the synchronize
+do the synchronizing
+do the syncing
+do the update
+do the updating
+do update
+do update now
+do updating
+do updating now
 door
+door close
+door close now
+door close please
+door closed
+door closed now
+door closed please
+door open
+door open now
+door opened
+door opened now
 down
 drive
+drive gesture
+drive gestures
+drive only
 dutch
-eight
+dutch please
 email
 emergency
+emergency email
 end
+end music
+end the music
 english
+english please
 establish
+establish a connection
+establish a connection to
+establish a connection to the
+establish a wifi connection
+establish an connection
+establish an connection to
+establish an connection to internet
+establish an connection to the
+establish an connection to the internet
+establish an connection to wifi
+establish an internet connection
+establish connection
+establish connection to
+establish connection to internet
+establish connection to the
+establish connection to the internet
+establish connection to wifi
+establish internet connection
+establish wifi connection
 existing
+existing phone
 fan
-five
+fan off
+fan on
 for
 forward
-four
+forward to next channel
+forward to next song
+forward to the next channel
+forward to the next song
 french
+french please
 further
 gallery
 german
+german please
 gesture
 gestures
 glass
-hazard
-heater
+glass settings
+glass sync
+glass synchronisation
+glass synchronise
+glass synchronising
+glass synchronization
+glass synchronize
+glass synchronizing
+glass syncing
+glass update
+glass updating
+go ahead to next channel
+go ahead to next song
+go ahead to the next channel
+go ahead to the next song
+go back to previous channel
+go back to previous song
+go back to previously played song
+go back to the previous channel
+go back to the previous song
+go back to the previously played song
+go forward to next channel
+go forward to next song
+go forward to the next channel
+go forward to the next song
+go further to next channel
+go further to next song
+go further to the next channel
+go further to the next song
+go to
+go to add-ons
+go to admin
+go to advanced
+go to alarm
+go to android
+go to app info
+go to basic
+go to bed
+go to bed lamp
+go to bed lamps
+go to calibration
+go to camera
+go to category
+go to category add-ons
+go to category admin
+go to category advanced
+go to category alarm
+go to category android
+go to category app info
+go to category basic
+go to category bed
+go to category bed lamp
+go to category bed lamps
+go to category calibration
+go to category camera
+go to category computer
+go to category contacts
+go to category control
+go to category curtain
+go to category curtains
+go to category door
+go to category drive
+go to category drive gesture
+go to category drive gestures
+go to category drive only
+go to category emergency email
+go to category existing phone
+go to category fan
+go to category gallery
+go to category glass settings
+go to category hazard light
+go to category hazard lights
+go to category heater
+go to category home
+go to category housemate
+go to category iarm
+go to category intercom
+go to category internet
+go to category kinova
+go to category language
+go to category languages
+go to category light
+go to category lights
+go to category media
+go to category modes
+go to category monitor
+go to category mouse 1
+go to category mouse 2
+go to category music
+go to category music control
+go to category music source
+go to category music sources
+go to category new phone
+go to category nod
+go to category nod calibration
+go to category nods
+go to category nods calibration
+go to category pair
+go to category room light
+go to category room lights
+go to category seat
+go to category seat position
+go to category settings
+go to category support
+go to category table lamp
+go to category table lamps
+go to category tilt
+go to category tilt calibration
+go to category tilts
+go to category tilts calibration
+go to category tv
+go to category tv control
+go to category tv power
+go to category tv settings
+go to category volume
+go to category wifi
+go to category window
+go to computer
+go to contacts
+go to control
+go to curtain
+go to curtains
+go to door
+go to drive
+go to drive gesture
+go to drive gestures
+go to drive only
+go to dutch
+go to emergency email
+go to english
+go to existing phone
+go to fan
+go to french
+go to gallery
+go to german
+go to glass settings
+go to hazard light
+go to hazard light menu
+go to hazard lights
+go to hazard lights menu
+go to heater
+go to home
+go to housemate
+go to iarm
+go to intercom
+go to internet
+go to kinova
+go to language
+go to languages
+go to light
+go to light menu
+go to lights
+go to lights menu
+go to media
+go to modes
+go to monitor
+go to mouse 1
+go to mouse 2
+go to music
+go to music control
+go to music source
+go to music sources
+go to new phone
+go to next channel
+go to next song
+go to nod
+go to nod calibration
+go to nods
+go to nods calibration
+go to pair
+go to previous channel
+go to previous song
+go to previously played song
+go to room light
+go to room lights
+go to seat
+go to seat position
+go to settings
+go to support
+go to table lamp
+go to table lamps
+go to the glass settings
+go to the hazard lights
+go to the hazard lights menu
+go to the lights
+go to the lights menu
+go to the next channel
+go to the next song
+go to the previous channel
+go to the previous song
+go to the previously played song
+go to the settings
+go to tilt
+go to tilt calibration
+go to tilts
+go to tilts calibration
+go to tv
+go to tv control
+go to tv power
+go to tv settings
+go to volume
+go to wifi
+go to window
 height
+hazard
+hazard light
+hazard light menu
+hazard light off
+hazard light on
+hazard lights
+hazard lights menu
+hazard lights off
+hazard lights on
+heater
+heater off
+heater on
 higher
+higher angle of bed
+higher angle of the bed
+higher bed
+higher bed angle
+higher bed height
+higher bed incline
+higher bed level
+higher bed tilt
+higher height of bed
+higher height of the bed
+higher incline of bed
+higher incline of the bed
+higher level of bed
+higher level of the bed
+higher music volume
+higher the
+higher the bed
+higher the bed angle
+higher the bed height
+higher the bed incline
+higher the bed level
+higher the bed tilt
+higher the music volume
+higher the tv volume
+higher the volume
+higher the volume music
+higher the volume of music
+higher the volume of the music
+higher the volume of the tv
+higher the volume of tv
+higher the volume please
+higher the volume tv
+higher tilt of bed
+higher tilt of the bed
+higher tv volume
+higher volume
+higher volume music
+higher volume of music
+higher volume of the music
+higher volume of the tv
+higher volume of tv
+higher volume please
+higher volume tv
 home
 housemate
 iarm
 incline
 increase
+increase angle of bed
+increase angle of the bed
+increase bed
+increase bed angle
+increase bed height
+increase bed incline
+increase bed level
+increase bed tilt
+increase height of bed
+increase height of the bed
+increase incline of bed
+increase incline of the bed
+increase level of bed
+increase level of the bed
+increase music volume
+increase the
+increase the bed
+increase the bed angle
+increase the bed height
+increase the bed incline
+increase the bed level
+increase the bed tilt
+increase the music volume
+increase the tv volume
+increase the volume
+increase the volume music
+increase the volume of music
+increase the volume of the music
+increase the volume of the tv
+increase the volume of tv
+increase the volume please
+increase the volume tv
+increase tilt of bed
+increase tilt of the bed
+increase tv volume
+increase volume
+increase volume music
+increase volume of music
+increase volume of the music
+increase volume of the tv
+increase volume of tv
+increase volume please
+increase volume tv
 info
 intercom
 internet
@@ -3351,516 +1135,2531 @@ kinova
 lamp
 lamps
 language
+language please
 languages
+languages please
 let's
+let's calibrate nod
+let's calibrate nods
+let's calibrate tilt
+let's calibrate tilts
+let's do synchronisation
+let's do synchronising
+let's do synchronization
+let's do synchronizing
+let's do update
+let's do updating
+let's speak
+let's speak dutch
+let's speak english
+let's speak french
+let's speak german
+let's start nod calibration
+let's start nods calibration
+let's start synchronisation
+let's start synchronising
+let's start synchronization
+let's start synchronizing
+let's start tilt calibration
+let's start tilts calibration
+let's start update
+let's start updating
+let's sync
+let's sync now
+let's synchronise
+let's synchronize
+let's update
 level
+level bed down
+level bed up
+level down bed
+level down the bed
+level the bed down
+level the bed up
+level up bed
+level up the bed
 light
+light menu
+light off
+light on
 lights
+lights menu
+lights off
+lights on
 lower
+lower angle of bed
+lower angle of the bed
+lower bed
+lower bed angle
+lower bed height
+lower bed incline
+lower bed level
+lower bed tilt
+lower height of bed
+lower height of the bed
+lower incline of bed
+lower incline of the bed
+lower level of bed
+lower level of the bed
+lower music volume
+lower the
+lower the bed
+lower the bed angle
+lower the bed height
+lower the bed incline
+lower the bed level
+lower the bed tilt
+lower the music volume
+lower the tv volume
+lower the volume
+lower the volume music
+lower the volume of music
+lower the volume of the music
+lower the volume of the tv
+lower the volume of tv
+lower the volume please
+lower the volume tv
+lower tilt of bed
+lower tilt of the bed
+lower tv volume
+lower volume
+lower volume music
+lower volume of music
+lower volume of the music
+lower volume of the tv
+lower volume of tv
+lower volume please
+lower volume tv
 make
+make a photo
+make a picture
+make photo
+make picture
 media
 menu
 mode
 modes
 monitor
 mouse
+mouse 1
+mouse 2
 move
+move on to next channel
+move on to next song
+move on to the next channel
+move on to the next song
 munevo
 music
+music control
+music off
+music on
+music source
+music sources
+music volume 0
+music volume 1
+music volume 10
+music volume 2
+music volume 3
+music volume 4
+music volume 5
+music volume 6
+music volume 7
+music volume 8
+music volume 9
+music volume higher
+music volume lower
+music volume to
+music volume to 0
+music volume to 1
+music volume to 10
+music volume to 2
+music volume to 3
+music volume to 4
+music volume to 5
+music volume to 6
+music volume to 7
+music volume to 8
+music volume to 9
 navigate
+navigate to
+navigate to add-ons
+navigate to admin
+navigate to advanced
+navigate to alarm
+navigate to android
+navigate to app info
+navigate to basic
+navigate to bed
+navigate to bed lamp
+navigate to bed lamps
+navigate to calibration
+navigate to camera
+navigate to category
+navigate to category add-ons
+navigate to category admin
+navigate to category advanced
+navigate to category alarm
+navigate to category android
+navigate to category app info
+navigate to category basic
+navigate to category bed
+navigate to category bed lamp
+navigate to category bed lamps
+navigate to category calibration
+navigate to category camera
+navigate to category computer
+navigate to category contacts
+navigate to category control
+navigate to category curtain
+navigate to category curtains
+navigate to category door
+navigate to category drive
+navigate to category drive gesture
+navigate to category drive only
+navigate to category emergency email
+navigate to category existing phone
+navigate to category fan
+navigate to category gallery
+navigate to category glass settings
+navigate to category hazard light
+navigate to category hazard lights
+navigate to category heater
+navigate to category home
+navigate to category housemate
+navigate to category iarm
+navigate to category intercom
+navigate to category internet
+navigate to category kinova
+navigate to category language
+navigate to category languages
+navigate to category light
+navigate to category lights
+navigate to category media
+navigate to category modes
+navigate to category monitor
+navigate to category mouse 1
+navigate to category mouse 2
+navigate to category music
+navigate to category music control
+navigate to category music source
+navigate to category music sources
+navigate to category new phone
+navigate to category nod
+navigate to category nod calibration
+navigate to category nods
+navigate to category nods calibration
+navigate to category pair
+navigate to category room light
+navigate to category room lights
+navigate to category seat
+navigate to category seat position
+navigate to category settings
+navigate to category support
+navigate to category table lamp
+navigate to category table lamps
+navigate to category tilt
+navigate to category tilt calibration
+navigate to category tilts
+navigate to category tilts calibration
+navigate to category tv
+navigate to category tv control
+navigate to category tv power
+navigate to category tv settings
+navigate to category volume
+navigate to category wifi
+navigate to category window
+navigate to computer
+navigate to contacts
+navigate to control
+navigate to curtain
+navigate to curtains
+navigate to door
+navigate to drive
+navigate to drive gesture
+navigate to drive only
+navigate to dutch
+navigate to emergency email
+navigate to english
+navigate to existing phone
+navigate to fan
+navigate to french
+navigate to gallery
+navigate to german
+navigate to glass settings
+navigate to hazard light
+navigate to hazard light menu
+navigate to hazard lights
+navigate to hazard lights menu
+navigate to heater
+navigate to home
+navigate to housemate
+navigate to iarm
+navigate to intercom
+navigate to internet
+navigate to kinova
+navigate to language
+navigate to languages
+navigate to light
+navigate to light menu
+navigate to lights
+navigate to lights menu
+navigate to media
+navigate to modes
+navigate to monitor
+navigate to mouse 1
+navigate to mouse 2
+navigate to music
+navigate to music control
+navigate to music source
+navigate to music sources
+navigate to new phone
+navigate to nod
+navigate to nod calibration
+navigate to nods
+navigate to nods calibration
+navigate to pair
+navigate to room light
+navigate to room lights
+navigate to seat
+navigate to seat position
+navigate to settings
+navigate to support
+navigate to table lamp
+navigate to table lamps
+navigate to tilt
+navigate to tilt calibration
+navigate to tilts
+navigate to tilts calibration
+navigate to tv
+navigate to tv control
+navigate to tv power
+navigate to tv settings
+navigate to volume
+navigate to wifi
+navigate to window
 need
 new
+new phone
 next
-nine
+next channel
+next song
 nod
+nod calibration
 nods
+nods calibration
 now
 off
-one
+ok
+ok glass
+ok munevo
 only
 ons
 open
+open add-ons
+open admin
+open advanced
+open alarm
+open alarm category
+open alarm menu item
+open android
+open app info
+open basic
+open bed category
+open bed lamp
+open bed lamp category
+open bed lamp menu item
+open bed menu item
+open calibration
+open camera
+open category
+open category alarm
+open category bed
+open category bed lamp
+open category curtain
+open category curtains
+open category door
+open category fan
+open category heater
+open category home
+open category housemate
+open category intercom
+open category music
+open category music control
+open category music source
+open category music sources
+open category room light
+open category table lamp
+open category tv
+open category tv control
+open category tv power
+open category tv settings
+open category window
+open category windows
+open computer
+open contacts
+open control
+open curtain
+open curtain category
+open curtain menu item
+open curtain now
+open curtains
+open curtains category
+open curtains menu item
+open curtains now
+open door
+open door category
+open door menu item
+open door now
+open drive
+open drive gesture
+open drive only
+open dutch
+open emergency email
+open english
+open existing phone
+open fan
+open fan category
+open fan menu item
+open french
+open gallery
+open german
+open glass settings
+open hazard light
+open hazard light menu
+open hazard lights
+open hazard lights menu
+open heater
+open heater category
+open heater menu item
+open home
+open home category
+open home menu item
+open housemate
+open housemate category
+open housemate menu item
+open iarm
+open intercom
+open intercom category
+open intercom menu item
+open internet
+open kinova
+open language
+open language dutch
+open language english
+open language french
+open language german
+open languages
+open light
+open light menu
+open lights
+open lights menu
+open media
+open menu item alarm
+open menu item bed
+open menu item bed lamp
+open menu item curtain
+open menu item curtains
+open menu item door
+open menu item fan
+open menu item heater
+open menu item home
+open menu item housemate
+open menu item intercom
+open menu item music
+open menu item music control
+open menu item music source
+open menu item music sources
+open menu item room light
+open menu item table lamp
+open menu item tv
+open menu item tv control
+open menu item tv power
+open menu item tv settings
+open menu item window
+open menu item windows
+open modes
+open monitor
+open mouse 1
+open mouse 1 please
+open mouse 2
+open mouse 2 please
+open music
+open music category
+open music control
+open music control category
+open music control menu item
+open music menu item
+open music source
+open music source category
+open music source menu item
+open music sources
+open music sources category
+open music sources menu item
+open new phone
+open nod
+open nod calibration
+open nods
+open nods calibration
+open pair
+open room light
+open room light category
+open room light menu item
+open seat
+open seat position
+open settings
+open support
+open sync
+open table lamp
+open table lamp category
+open table lamp menu item
+open the
+open the add-ons
+open the admin
+open the alarm
+open the app info
+open the bed lamp
+open the calibration
+open the camera
+open the category
+open the category alarm
+open the category bed
+open the category bed lamp
+open the category curtain
+open the category curtains
+open the category door
+open the category fan
+open the category heater
+open the category home
+open the category housemate
+open the category intercom
+open the category music
+open the category music control
+open the category music source
+open the category music sources
+open the category room light
+open the category table lamp
+open the category tv
+open the category tv control
+open the category tv power
+open the category tv settings
+open the category window
+open the category windows
+open the computer
+open the contacts
+open the control
+open the curtain
+open the curtain now
+open the curtains
+open the curtains now
+open the door
+open the door now
+open the drive
+open the drive gesture
+open the emergency email
+open the existing phone
+open the fan
+open the gallery
+open the glass settings
+open the hazard light
+open the hazard light menu
+open the hazard lights
+open the hazard lights menu
+open the heater
+open the home
+open the housemate
+open the iarm
+open the intercom
+open the internet
+open the kinova
+open the language
+open the language dutch
+open the language english
+open the language french
+open the language german
+open the languages
+open the light
+open the light menu
+open the lights
+open the lights menu
+open the media
+open the menu item alarm
+open the menu item bed
+open the menu item bed lamp
+open the menu item curtain
+open the menu item curtains
+open the menu item door
+open the menu item fan
+open the menu item heater
+open the menu item home
+open the menu item housemate
+open the menu item intercom
+open the menu item music
+open the menu item music control
+open the menu item music source
+open the menu item music sources
+open the menu item room light
+open the menu item table lamp
+open the menu item tv
+open the menu item tv control
+open the menu item tv power
+open the menu item tv settings
+open the menu item window
+open the menu item windows
+open the mode advanced
+open the mode basic
+open the mode drive only
+open the modes
+open the monitor
+open the mouse 1
+open the mouse 1 please
+open the mouse 2
+open the mouse 2 please
+open the music
+open the music control
+open the music source
+open the music sources
+open the new phone
+open the nod
+open the nod calibration
+open the nods
+open the nods calibration
+open the pair
+open the room light
+open the seat
+open the seat position
+open the settings
+open the support
+open the sync
+open the table lamp
+open the tilt
+open the tilt calibration
+open the tilts
+open the tilts calibration
+open the tv
+open the tv control
+open the tv power
+open the tv settings
+open the volume
+open the wifi
+open the windows
+open the windows now
+open tilt
+open tilt calibration
+open tilts
+open tilts calibration
+open tv
+open tv category
+open tv control
+open tv control category
+open tv control menu item
+open tv menu item
+open tv power
+open tv power category
+open tv power menu item
+open tv settings
+open tv settings category
+open tv settings menu item
+open volume
+open wifi
+open window
+open window category
+open window menu item
+open window now
+open windows
+open windows category
+open windows menu item
+open windows now
 opened
 out
 pair
 pause
+pause music
+pause the music
 phone
 photo
+photo please
 picture
+picture please
 play
+play music
+play next song
+play next song again
+play previous song
+play previous song again
+play the music
+play the next song
+play the next song again
+play the previous song
+play the previous song again
 played
 playing
 please
+please category volume
+please close curtain
+please close curtain now
+please close curtains
+please close curtains now
+please close door
+please close door now
+please close the curtain
+please close the curtain now
+please close the curtains
+please close the curtains now
+please close the door
+please close the door now
+please close the window
+please close the window now
+please close the windows
+please close the windows now
+please close window
+please close window now
+please close windows
+please close windows now
+please closed curtain
+please closed curtain now
+please closed curtains
+please closed curtains now
+please closed door
+please closed door now
+please closed window
+please closed window now
+please closed windows
+please closed windows now
+please curtain close
+please curtain close now
+please curtain closed
+please curtain closed now
+please curtain open
+please curtain open now
+please curtain opened
+please curtain opened now
+please curtains close
+please curtains close now
+please curtains closed
+please curtains closed now
+please curtains open
+please curtains open now
+please curtains opened
+please curtains opened now
+please decrease the volume
+please decrease volume
+please door close
+please door close now
+please door closed
+please door closed now
+please door open
+please door open now
+please door opened
+please door opened now
+please dutch
+please english
+please french
+please german
+please higher the volume
+please higher volume
+please increase the volume
+please increase volume
+please language
+please languages
+please lower the volume
+please lower volume
+please open curtain
+please open curtain now
+please open curtains
+please open curtains now
+please open door
+please open door now
+please open mouse 1
+please open mouse 2
+please open the curtain
+please open the curtain now
+please open the curtains
+please open the curtains now
+please open the door
+please open the door now
+please open the mouse 1
+please open the mouse 2
+please open the windows
+please open the windows now
+please open window
+please open window now
+please open windows
+please open windows now
+please raise the volume
+please raise volume
+please reduce the volume
+please reduce volume
+please the curtain open
+please the curtain open now
+please the curtain opened
+please the curtain opened now
+please the curtains open
+please the curtains open now
+please the curtains opened
+please the curtains opened now
+please the door open
+please the door open now
+please the door opened
+please the door opened now
+please the window open
+please the window open now
+please the window opened
+please the window opened now
+please the windows open
+please the windows open now
+please the windows opened
+please the windows opened now
+please turn down the volume
+please turn down volume
+please turn the volume down
+please turn the volume up
+please turn up the volume
+please turn up volume
+please turn volume down
+please turn volume up
+please volume
+please volume down
+please volume higher
+please volume lower
+please volume up
+please window close
+please window close now
+please window closed
+please window closed now
+please window open
+please window open now
+please window opened
+please window opened now
+please windows close
+please windows close now
+please windows closed
+please windows closed now
+please windows open
+please windows open now
+please windows opened
+please windows opened now
 position
 power
 previous
+previous channel
+previous song
 previously
 proceed
+proceed to next channel
+proceed to next song
+proceed to the next channel
+proceed to the next song
 radiator
+radiator off
+radiator on
 raise
+raise angle of bed
+raise angle of the bed
+raise bed angle
+raise bed height
+raise bed incline
+raise bed level
+raise bed tilt
+raise height of bed
+raise height of the bed
+raise incline of bed
+raise incline of the bed
+raise level of bed
+raise level of the bed
+raise music volume
+raise the
+raise the bed angle
+raise the bed height
+raise the bed incline
+raise the bed level
+raise the bed tilt
+raise the music volume
+raise the tv volume
+raise the volume
+raise the volume music
+raise the volume of music
+raise the volume of the music
+raise the volume of the tv
+raise the volume of tv
+raise the volume please
+raise the volume tv
+raise tilt of bed
+raise tilt of the bed
+raise tv volume
+raise volume
+raise volume music
+raise volume of music
+raise volume of the music
+raise volume of the tv
+raise volume of tv
+raise volume please
+raise volume tv
 reduce
+reduce angle of bed
+reduce angle of the bed
+reduce bed angle
+reduce bed height
+reduce bed incline
+reduce bed level
+reduce bed tilt
+reduce height of bed
+reduce height of the bed
+reduce incline of bed
+reduce incline of the bed
+reduce level of bed
+reduce level of the bed
+reduce music volume
+reduce the
+reduce the bed angle
+reduce the bed height
+reduce the bed incline
+reduce the bed level
+reduce the bed tilt
+reduce the music volume
+reduce the tv volume
+reduce the volume
+reduce the volume music
+reduce the volume of music
+reduce the volume of the music
+reduce the volume of the tv
+reduce the volume of tv
+reduce the volume please
+reduce the volume tv
+reduce tilt of bed
+reduce tilt of the bed
+reduce tv volume
+reduce volume
+reduce volume music
+reduce volume of music
+reduce volume of the music
+reduce volume of the tv
+reduce volume of tv
+reduce volume please
+reduce volume tv
 return
+return to previous channel
+return to previous song
+return to the previous channel
+return to the previous song
 room
+room light
+room light off
+room light on
+room lights
+room lights off
+room lights on
 scan
+scan for connection
+scan for internet connection
+scan for wifi
 search
+search for connection
+search for internet connection
+search for wifi
 searching
 seat
+seat position
 select
+select add-ons
+select admin
+select advanced
+select alarm
+select android
+select app info
+select basic
+select bed
+select bed lamp
+select bed lamps
+select calibration
+select camera
+select category
+select category alarm
+select category bed
+select category bed lamp
+select category bed lamps
+select category curtain
+select category curtains
+select category door
+select category fan
+select category heater
+select category home
+select category housemate
+select category intercom
+select category music
+select category music control
+select category music source
+select category music sources
+select category room light
+select category room lights
+select category table lamp
+select category table lamps
+select category tv
+select category tv control
+select category tv power
+select category tv settings
+select category window
+select computer
+select contacts
+select control
+select curtain
+select curtains
+select door
+select drive
+select drive gesture
+select drive only
+select dutch
+select emergency email
+select english
+select existing phone
+select fan
+select french
+select gallery
+select german
+select glass settings
+select hazard light
+select hazard light menu
+select hazard lights
+select hazard lights menu
+select heater
+select home
+select housemate
+select iarm
+select intercom
+select internet
+select kinova
+select language
+select languages
+select light
+select light menu
+select lights
+select lights menu
+select media
+select modes
+select monitor
+select mouse 1
+select mouse 2
+select music
+select music control
+select music source
+select music sources
+select new phone
+select next channel
+select next song
+select nod
+select nod calibration
+select nods
+select nods calibration
+select pair
+select previous channel
+select previous channel again
+select previous song
+select previous song again
+select room light
+select room lights
+select seat
+select settings
+select support
+select table lamp
+select table lamps
+select the next channel
+select the next song
+select the previous channel
+select the previous channel again
+select the previous song
+select the previous song again
+select tilt
+select tilt calibration
+select tilts
+select tilts calibration
+select tv
+select tv control
+select tv power
+select tv settings
+select volume
+select wifi
+select window
 set
+set language
+set language dutch
+set language english
+set language french
+set language german
+set language to
+set language to dutch
+set language to english
+set language to french
+set language to german
+set music volume
+set music volume 0
+set music volume 1
+set music volume 10
+set music volume 2
+set music volume 3
+set music volume 4
+set music volume 5
+set music volume 6
+set music volume 7
+set music volume 8
+set music volume 9
+set music volume to
+set music volume to 0
+set music volume to 1
+set music volume to 10
+set music volume to 2
+set music volume to 3
+set music volume to 4
+set music volume to 5
+set music volume to 6
+set music volume to 7
+set music volume to 8
+set music volume to 9
+set the language
+set the language dutch
+set the language english
+set the language french
+set the language german
+set the language to
+set the language to dutch
+set the language to english
+set the language to french
+set the language to german
+set the music volume
+set the music volume 0
+set the music volume 1
+set the music volume 10
+set the music volume 2
+set the music volume 3
+set the music volume 4
+set the music volume 5
+set the music volume 6
+set the music volume 7
+set the music volume 8
+set the music volume 9
+set the music volume to
+set the music volume to 0
+set the music volume to 1
+set the music volume to 10
+set the music volume to 2
+set the music volume to 3
+set the music volume to 4
+set the music volume to 5
+set the music volume to 6
+set the music volume to 7
+set the music volume to 8
+set the music volume to 9
+set the tv volume
+set the tv volume 0
+set the tv volume 1
+set the tv volume 10
+set the tv volume 2
+set the tv volume 3
+set the tv volume 4
+set the tv volume 5
+set the tv volume 6
+set the tv volume 7
+set the tv volume 8
+set the tv volume 9
+set the tv volume to
+set the tv volume to 0
+set the tv volume to 1
+set the tv volume to 10
+set the tv volume to 2
+set the tv volume to 3
+set the tv volume to 4
+set the tv volume to 5
+set the tv volume to 6
+set the tv volume to 7
+set the tv volume to 8
+set the tv volume to 9
+set the volume
+set the volume 0
+set the volume 1
+set the volume 10
+set the volume 2
+set the volume 3
+set the volume 4
+set the volume 5
+set the volume 6
+set the volume 7
+set the volume 8
+set the volume 9
+set the volume of music
+set the volume of music 0
+set the volume of music 1
+set the volume of music 10
+set the volume of music 2
+set the volume of music 3
+set the volume of music 4
+set the volume of music 5
+set the volume of music 6
+set the volume of music 7
+set the volume of music 8
+set the volume of music 9
+set the volume of music to
+set the volume of music to 0
+set the volume of music to 1
+set the volume of music to 10
+set the volume of music to 2
+set the volume of music to 3
+set the volume of music to 4
+set the volume of music to 5
+set the volume of music to 6
+set the volume of music to 7
+set the volume of music to 8
+set the volume of music to 9
+set the volume of the music
+set the volume of the music 0
+set the volume of the music 1
+set the volume of the music 10
+set the volume of the music 2
+set the volume of the music 3
+set the volume of the music 4
+set the volume of the music 5
+set the volume of the music 6
+set the volume of the music 7
+set the volume of the music 8
+set the volume of the music 9
+set the volume of the music to
+set the volume of the music to 0
+set the volume of the music to 1
+set the volume of the music to 10
+set the volume of the music to 2
+set the volume of the music to 3
+set the volume of the music to 4
+set the volume of the music to 5
+set the volume of the music to 6
+set the volume of the music to 7
+set the volume of the music to 8
+set the volume of the music to 9
+set the volume of the tv
+set the volume of the tv 0
+set the volume of the tv 1
+set the volume of the tv 10
+set the volume of the tv 2
+set the volume of the tv 3
+set the volume of the tv 4
+set the volume of the tv 5
+set the volume of the tv 6
+set the volume of the tv 7
+set the volume of the tv 8
+set the volume of the tv 9
+set the volume of the tv to
+set the volume of the tv to 0
+set the volume of the tv to 1
+set the volume of the tv to 10
+set the volume of the tv to 2
+set the volume of the tv to 3
+set the volume of the tv to 4
+set the volume of the tv to 5
+set the volume of the tv to 6
+set the volume of the tv to 7
+set the volume of the tv to 8
+set the volume of the tv to 9
+set the volume of tv
+set the volume of tv 0
+set the volume of tv 1
+set the volume of tv 10
+set the volume of tv 2
+set the volume of tv 3
+set the volume of tv 4
+set the volume of tv 5
+set the volume of tv 6
+set the volume of tv 7
+set the volume of tv 8
+set the volume of tv 9
+set the volume of tv to
+set the volume of tv to 0
+set the volume of tv to 1
+set the volume of tv to 10
+set the volume of tv to 2
+set the volume of tv to 3
+set the volume of tv to 4
+set the volume of tv to 5
+set the volume of tv to 6
+set the volume of tv to 7
+set the volume of tv to 8
+set the volume of tv to 9
+set the volume to
+set the volume to 0
+set the volume to 1
+set the volume to 10
+set the volume to 2
+set the volume to 3
+set the volume to 4
+set the volume to 5
+set the volume to 6
+set the volume to 7
+set the volume to 8
+set the volume to 9
+set tv volume
+set tv volume 0
+set tv volume 1
+set tv volume 10
+set tv volume 2
+set tv volume 3
+set tv volume 4
+set tv volume 5
+set tv volume 6
+set tv volume 7
+set tv volume 8
+set tv volume 9
+set tv volume to
+set tv volume to 0
+set tv volume to 1
+set tv volume to 10
+set tv volume to 2
+set tv volume to 3
+set tv volume to 4
+set tv volume to 5
+set tv volume to 6
+set tv volume to 7
+set tv volume to 8
+set tv volume to 9
+set up connection
+set up internet connection
+set up wifi connection
+set volume
+set volume 0
+set volume 1
+set volume 10
+set volume 2
+set volume 3
+set volume 4
+set volume 5
+set volume 6
+set volume 7
+set volume 8
+set volume 9
+set volume of music
+set volume of music 0
+set volume of music 1
+set volume of music 10
+set volume of music 2
+set volume of music 3
+set volume of music 4
+set volume of music 5
+set volume of music 6
+set volume of music 7
+set volume of music 8
+set volume of music 9
+set volume of music to
+set volume of music to 0
+set volume of music to 1
+set volume of music to 10
+set volume of music to 2
+set volume of music to 3
+set volume of music to 4
+set volume of music to 5
+set volume of music to 6
+set volume of music to 7
+set volume of music to 8
+set volume of music to 9
+set volume of the music
+set volume of the music 0
+set volume of the music 1
+set volume of the music 10
+set volume of the music 2
+set volume of the music 3
+set volume of the music 4
+set volume of the music 5
+set volume of the music 6
+set volume of the music 7
+set volume of the music 8
+set volume of the music 9
+set volume of the music to
+set volume of the music to 0
+set volume of the music to 1
+set volume of the music to 10
+set volume of the music to 2
+set volume of the music to 3
+set volume of the music to 4
+set volume of the music to 5
+set volume of the music to 6
+set volume of the music to 7
+set volume of the music to 8
+set volume of the music to 9
+set volume of the tv
+set volume of the tv 0
+set volume of the tv 1
+set volume of the tv 10
+set volume of the tv 2
+set volume of the tv 3
+set volume of the tv 4
+set volume of the tv 5
+set volume of the tv 6
+set volume of the tv 7
+set volume of the tv 8
+set volume of the tv 9
+set volume of the tv to
+set volume of the tv to 0
+set volume of the tv to 1
+set volume of the tv to 10
+set volume of the tv to 2
+set volume of the tv to 3
+set volume of the tv to 4
+set volume of the tv to 5
+set volume of the tv to 6
+set volume of the tv to 7
+set volume of the tv to 8
+set volume of the tv to 9
+set volume of tv
+set volume of tv 0
+set volume of tv 1
+set volume of tv 10
+set volume of tv 2
+set volume of tv 3
+set volume of tv 4
+set volume of tv 5
+set volume of tv 6
+set volume of tv 7
+set volume of tv 8
+set volume of tv 9
+set volume of tv to
+set volume of tv to 0
+set volume of tv to 1
+set volume of tv to 10
+set volume of tv to 2
+set volume of tv to 3
+set volume of tv to 4
+set volume of tv to 5
+set volume of tv to 6
+set volume of tv to 7
+set volume of tv to 8
+set volume of tv to 9
+set volume to
+set volume to 0
+set volume to 1
+set volume to 10
+set volume to 2
+set volume to 3
+set volume to 4
+set volume to 5
+set volume to 6
+set volume to 7
+set volume to 8
+set volume to 9
 settings
-seven
 show
-six
+show next channel
+show previous channel
+show previous channel again
+show the next channel
+show the previous channel
+show the previous channel again
 song
 source
 sources
 speak
 start
+start calibration for nod
+start calibration for nods
+start calibration for tilt
+start calibration for tilts
+start calibration of nod
+start calibration of nods
+start calibration of tilt
+start calibration of tilts
+start music
+start nod calibration
+start nods calibration
+start off music
+start off the music
+start playing music
+start playing the music
+start search for connection
+start search for internet connection
+start search for wifi
+start searching for connection
+start searching for internet connection
+start searching for wifi
+start sync
+start sync now
+start synchronisation
+start synchronisation now
+start synchronise
+start synchronise now
+start synchronising
+start synchronising now
+start synchronization
+start synchronization now
+start synchronize
+start synchronize now
+start synchronizing
+start synchronizing now
+start syncing
+start syncing now
+start the music
+start the sync
+start the synchronisation
+start the synchronise
+start the synchronising
+start the synchronization
+start the synchronize
+start the synchronizing
+start the syncing
+start the update
+start the updating
+start tilt calibration
+start tilts calibration
+start update
+start update now
+start updating
+start updating now
 stop
+stop music
+stop the music
 support
 switch
+switch alarm off
+switch alarm on
+switch back to previous channel
+switch back to previous song
+switch back to the previous channel
+switch back to the previous song
+switch bed lamp off
+switch bed lamp on
+switch bed lamps off
+switch bed lamps on
+switch fan off
+switch fan on
+switch hazard light off
+switch hazard light on
+switch hazard lights off
+switch hazard lights on
+switch heater off
+switch heater on
+switch language to
+switch language to dutch
+switch language to english
+switch language to french
+switch language to german
+switch light off
+switch light on
+switch lights off
+switch lights on
+switch music off
+switch music on
+switch off alarm
+switch off bed lamp
+switch off bed lamps
+switch off fan
+switch off hazard light
+switch off hazard lights
+switch off heater
+switch off light
+switch off lights
+switch off music
+switch off radiator
+switch off room light
+switch off room lights
+switch off table lamp
+switch off table lamps
+switch off the alarm
+switch off the bed lamp
+switch off the bed lamps
+switch off the fan
+switch off the hazard light
+switch off the hazard lights
+switch off the heater
+switch off the light
+switch off the lights
+switch off the music
+switch off the radiator
+switch off the room light
+switch off the room lights
+switch off the table lamp
+switch off the table lamps
+switch off the tv
+switch off tv
+switch on alarm
+switch on bed lamp
+switch on bed lamps
+switch on fan
+switch on hazard light
+switch on hazard lights
+switch on heater
+switch on light
+switch on lights
+switch on music
+switch on radiator
+switch on room light
+switch on room lights
+switch on table lamp
+switch on table lamps
+switch on the alarm
+switch on the bed lamp
+switch on the bed lamps
+switch on the fan
+switch on the hazard light
+switch on the hazard lights
+switch on the heater
+switch on the light
+switch on the lights
+switch on the music
+switch on the radiator
+switch on the room light
+switch on the room lights
+switch on the table lamp
+switch on the table lamps
+switch on the tv
+switch on tv
+switch radiator off
+switch radiator on
+switch room light off
+switch room light on
+switch room lights off
+switch room lights on
+switch table lamp off
+switch table lamp on
+switch table lamps off
+switch table lamps on
+switch the alarm off
+switch the alarm on
+switch the bed lamp off
+switch the bed lamp on
+switch the bed lamps off
+switch the bed lamps on
+switch the fan off
+switch the fan on
+switch the hazard light off
+switch the hazard light on
+switch the hazard lights off
+switch the hazard lights on
+switch the heater off
+switch the heater on
+switch the light off
+switch the light on
+switch the lights off
+switch the lights on
+switch the music off
+switch the music on
+switch the radiator off
+switch the radiator on
+switch the room light off
+switch the room light on
+switch the room lights off
+switch the room lights on
+switch the table lamp off
+switch the table lamp on
+switch the table lamps off
+switch the table lamps on
+switch the tv off
+switch the tv on
+switch to add-ons
+switch to admin
+switch to advanced
+switch to alarm
+switch to android
+switch to app info
+switch to basic
+switch to bed
+switch to bed lamp
+switch to bed lamps
+switch to calibration
+switch to camera
+switch to category
+switch to category alarm
+switch to category bed
+switch to category bed lamp
+switch to category bed lamps
+switch to category curtain
+switch to category curtains
+switch to category door
+switch to category fan
+switch to category heater
+switch to category home
+switch to category housemate
+switch to category intercom
+switch to category music
+switch to category music control
+switch to category music source
+switch to category music sources
+switch to category room light
+switch to category room lights
+switch to category table lamp
+switch to category table lamps
+switch to category tv
+switch to category tv control
+switch to category tv power
+switch to category tv settings
+switch to category window
+switch to computer
+switch to contacts
+switch to control
+switch to curtain
+switch to curtains
+switch to door
+switch to drive
+switch to drive gesture
+switch to drive only
+switch to dutch
+switch to emergency email
+switch to english
+switch to existing phone
+switch to fan
+switch to french
+switch to gallery
+switch to german
+switch to glass settings
+switch to hazard light
+switch to hazard light menu
+switch to hazard lights
+switch to hazard lights menu
+switch to heater
+switch to home
+switch to housemate
+switch to iarm
+switch to intercom
+switch to internet
+switch to kinova
+switch to language
+switch to languages
+switch to light
+switch to light menu
+switch to lights
+switch to lights menu
+switch to media
+switch to modes
+switch to monitor
+switch to mouse 1
+switch to mouse 2
+switch to music
+switch to music control
+switch to music source
+switch to music sources
+switch to new phone
+switch to next channel
+switch to next song
+switch to nod
+switch to nod calibration
+switch to nods
+switch to nods calibration
+switch to pair
+switch to previous channel
+switch to previous song
+switch to room light
+switch to room lights
+switch to seat
+switch to settings
+switch to support
+switch to table lamp
+switch to table lamps
+switch to the next channel
+switch to the next song
+switch to the previous channel
+switch to the previous song
+switch to tilt
+switch to tilt calibration
+switch to tilts
+switch to tilts calibration
+switch to tv
+switch to tv control
+switch to tv power
+switch to tv settings
+switch to volume
+switch to wifi
+switch to window
+switch tv off
+switch tv on
 sync
+sync app
+sync device
+sync glass
+sync now
+sync the app
+sync the device
+sync the glass
 synchronisation
+synchronisation app
+synchronisation device
+synchronisation glass
+synchronisation the app
+synchronisation the device
+synchronisation the glass
 synchronise
+synchronise app
+synchronise device
+synchronise glass
+synchronise now
+synchronise the app
+synchronise the device
+synchronise the glass
 synchronising
+synchronising app
+synchronising device
+synchronising glass
+synchronising the app
+synchronising the device
+synchronising the glass
 synchronization
+synchronization app
+synchronization device
+synchronization glass
+synchronization the app
+synchronization the device
+synchronization the glass
 synchronize
+synchronize app
+synchronize device
+synchronize glass
+synchronize now
+synchronize the app
+synchronize the device
+synchronize the glass
 synchronizing
+synchronizing app
+synchronizing device
+synchronizing glass
+synchronizing the app
+synchronizing the device
+synchronizing the glass
 syncing
+syncing app
+syncing device
+syncing glass
+syncing the app
+syncing the device
+syncing the glass
 table
+table lamp
+table lamp off
+table lamp on
+table lamps
+table lamps off
+table lamps on
 take
-ten
+take a photo
+take a picture
+take me to
+take me to add-ons
+take me to admin
+take me to advanced
+take me to alarm
+take me to android
+take me to app info
+take me to basic
+take me to bed
+take me to bed lamp
+take me to bed lamps
+take me to calibration
+take me to camera
+take me to category
+take me to category add-ons
+take me to category admin
+take me to category advanced
+take me to category alarm
+take me to category android
+take me to category app info
+take me to category basic
+take me to category bed
+take me to category bed lamp
+take me to category bed lamps
+take me to category calibration
+take me to category camera
+take me to category computer
+take me to category contacts
+take me to category control
+take me to category curtain
+take me to category curtains
+take me to category door
+take me to category drive
+take me to category drive gesture
+take me to category drive only
+take me to category emergency email
+take me to category existing phone
+take me to category fan
+take me to category gallery
+take me to category glass settings
+take me to category hazard light
+take me to category hazard lights
+take me to category heater
+take me to category home
+take me to category housemate
+take me to category iarm
+take me to category intercom
+take me to category internet
+take me to category kinova
+take me to category language
+take me to category languages
+take me to category light
+take me to category lights
+take me to category media
+take me to category modes
+take me to category monitor
+take me to category mouse 1
+take me to category mouse 2
+take me to category music
+take me to category music control
+take me to category music source
+take me to category music sources
+take me to category new phone
+take me to category nod
+take me to category nod calibration
+take me to category nods
+take me to category nods calibration
+take me to category pair
+take me to category room light
+take me to category room lights
+take me to category seat
+take me to category seat position
+take me to category settings
+take me to category support
+take me to category table lamp
+take me to category table lamps
+take me to category tilt
+take me to category tilt calibration
+take me to category tilts
+take me to category tilts calibration
+take me to category tv
+take me to category tv control
+take me to category tv power
+take me to category tv settings
+take me to category volume
+take me to category wifi
+take me to category window
+take me to computer
+take me to contacts
+take me to control
+take me to curtain
+take me to curtains
+take me to door
+take me to drive
+take me to drive gesture
+take me to drive only
+take me to dutch
+take me to emergency email
+take me to english
+take me to existing phone
+take me to fan
+take me to french
+take me to gallery
+take me to german
+take me to glass settings
+take me to hazard light
+take me to hazard light menu
+take me to hazard lights
+take me to hazard lights menu
+take me to heater
+take me to home
+take me to housemate
+take me to iarm
+take me to intercom
+take me to internet
+take me to kinova
+take me to language
+take me to languages
+take me to light
+take me to light menu
+take me to lights
+take me to lights menu
+take me to media
+take me to modes
+take me to monitor
+take me to mouse 1
+take me to mouse 2
+take me to music
+take me to music control
+take me to music source
+take me to music sources
+take me to new phone
+take me to nod
+take me to nod calibration
+take me to nods
+take me to nods calibration
+take me to pair
+take me to room light
+take me to room lights
+take me to seat
+take me to seat position
+take me to settings
+take me to support
+take me to table lamp
+take me to table lamps
+take me to tilt
+take me to tilt calibration
+take me to tilts
+take me to tilts calibration
+take me to tv
+take me to tv control
+take me to tv power
+take me to tv settings
+take me to volume
+take me to wifi
+take me to window
+take photo
+take picture
 terminate
+terminate music
+terminate the music
 the
-three
+the curtain open
+the curtain open now
+the curtain opened
+the curtain opened now
+the curtains open
+the curtains open now
+the curtains opened
+the curtains opened now
+the door open
+the door open now
+the door opened
+the door opened now
+the music off
+the music on
+the next channel
+the next song
+the previous channel
+the previous song
+the window open
+the window open now
+the window opened
+the window opened now
+the windows open
+the windows open now
+the windows opened
+the windows opened now
 tilt
+tilt bed down
+tilt bed up
+tilt calibration
+tilt down bed
+tilt down the bed
+tilt the bed down
+tilt the bed up
+tilt up bed
+tilt up the bed
 tilts
+tilts calibration
+to
+to add-ons
+to admin
+to advanced
+to alarm
+to android
+to app info
+to basic
+to bed
+to bed lamp
+to bed lamps
+to calibration
+to camera
+to category alarm
+to category bed
+to category bed lamp
+to category bed lamps
+to category curtain
+to category curtains
+to category door
+to category fan
+to category heater
+to category home
+to category housemate
+to category intercom
+to category music
+to category music control
+to category music source
+to category music sources
+to category room light
+to category room lights
+to category table lamp
+to category table lamps
+to category tv
+to category tv control
+to category tv power
+to category tv settings
+to category volume
+to category window
+to computer
+to contacts
+to control
+to curtain
+to curtains
+to door
+to drive
+to drive gesture
+to drive gestures
+to drive only
+to emergency email
+to existing phone
+to fan
+to gallery
+to glass settings
+to hazard light
+to hazard light menu
+to hazard lights
+to hazard lights menu
+to heater
+to home
+to housemate
+to iarm
+to intercom
+to internet
+to kinova
+to language
+to languages
+to light
+to light menu
+to lights
+to lights menu
+to media
+to modes
+to monitor
+to mouse 1
+to mouse 2
+to music
+to music control
+to music source
+to music sources
+to new phone
+to next channel
+to next song
+to nod
+to nod calibration
+to nods
+to nods calibration
+to pair
+to please category volume
+to please volume
+to previous channel
+to previous song
+to room light
+to room lights
+to seat
+to seat position
+to settings
+to support
+to table lamp
+to table lamps
+to the next channel
+to the next song
+to the previous channel
+to the previous song
+to tilt
+to tilt calibration
+to tilts
+to tilts calibration
+to tv
+to tv control
+to tv power
+to tv settings
+to volume
+to volume category
+to volume category please
+to volume please
+to wifi
+to window
 turn
-two
+turn alarm off
+turn alarm on
+turn bed lamp off
+turn bed lamp on
+turn bed lamps off
+turn bed lamps on
+turn down
+turn down music volume
+turn down the
+turn down the music volume
+turn down the tv volume
+turn down the volume
+turn down the volume music
+turn down the volume of music
+turn down the volume of the music
+turn down the volume of the tv
+turn down the volume of tv
+turn down the volume please
+turn down the volume tv
+turn down tv volume
+turn down volume
+turn down volume music
+turn down volume of music
+turn down volume of the music
+turn down volume of the tv
+turn down volume of tv
+turn down volume please
+turn down volume tv
+turn fan off
+turn fan on
+turn hazard light off
+turn hazard light on
+turn hazard lights off
+turn hazard lights on
+turn heater off
+turn heater on
+turn light off
+turn light on
+turn lights off
+turn lights on
+turn music off
+turn music on
+turn music out
+turn music volume down
+turn music volume up
+turn off alarm
+turn off bed lamp
+turn off bed lamps
+turn off fan
+turn off hazard light
+turn off hazard lights
+turn off heater
+turn off light
+turn off lights
+turn off music
+turn off radiator
+turn off room light
+turn off room lights
+turn off table lamp
+turn off table lamps
+turn off the alarm
+turn off the bed lamp
+turn off the bed lamps
+turn off the fan
+turn off the hazard light
+turn off the hazard lights
+turn off the heater
+turn off the light
+turn off the lights
+turn off the music
+turn off the radiator
+turn off the room light
+turn off the room lights
+turn off the table lamp
+turn off the table lamps
+turn off the tv
+turn off tv
+turn on alarm
+turn on bed lamp
+turn on bed lamps
+turn on fan
+turn on hazard light
+turn on hazard lights
+turn on heater
+turn on light
+turn on lights
+turn on music
+turn on radiator
+turn on room light
+turn on room lights
+turn on table lamp
+turn on table lamps
+turn on the alarm
+turn on the bed lamp
+turn on the bed lamps
+turn on the fan
+turn on the hazard light
+turn on the hazard lights
+turn on the heater
+turn on the light
+turn on the lights
+turn on the music
+turn on the radiator
+turn on the room light
+turn on the room lights
+turn on the table lamp
+turn on the table lamps
+turn on the tv
+turn on tv
+turn out music
+turn out the music
+turn radiator off
+turn radiator on
+turn room light off
+turn room light on
+turn room lights off
+turn room lights on
+turn table lamp off
+turn table lamp on
+turn table lamps off
+turn table lamps on
+turn the alarm off
+turn the alarm on
+turn the bed lamp off
+turn the bed lamp on
+turn the bed lamps off
+turn the bed lamps on
+turn the fan off
+turn the fan on
+turn the hazard light off
+turn the hazard light on
+turn the hazard lights off
+turn the hazard lights on
+turn the heater off
+turn the heater on
+turn the light off
+turn the light on
+turn the lights off
+turn the lights on
+turn the music off
+turn the music on
+turn the music out
+turn the music volume down
+turn the music volume up
+turn the radiator off
+turn the radiator on
+turn the room light off
+turn the room light on
+turn the room lights off
+turn the room lights on
+turn the table lamp off
+turn the table lamp on
+turn the table lamps off
+turn the table lamps on
+turn the tv off
+turn the tv on
+turn the tv volume down
+turn the tv volume up
+turn the volume down
+turn the volume down please
+turn the volume music down
+turn the volume music up
+turn the volume of music down
+turn the volume of music up
+turn the volume of the music down
+turn the volume of the music up
+turn the volume of the tv down
+turn the volume of the tv up
+turn the volume of tv down
+turn the volume of tv up
+turn the volume tv down
+turn the volume tv up
+turn the volume up
+turn the volume up please
+turn tv off
+turn tv on
+turn tv volume down
+turn tv volume up
+turn up
+turn up music volume
+turn up the
+turn up the music volume
+turn up the tv volume
+turn up the volume
+turn up the volume music
+turn up the volume of music
+turn up the volume of the music
+turn up the volume of the tv
+turn up the volume of tv
+turn up the volume please
+turn up the volume tv
+turn up tv volume
+turn up volume
+turn up volume music
+turn up volume of music
+turn up volume of the music
+turn up volume of the tv
+turn up volume of tv
+turn up volume please
+turn up volume tv
+turn volume down
+turn volume down please
+turn volume music down
+turn volume music up
+turn volume of music down
+turn volume of music up
+turn volume of the music down
+turn volume of the music up
+turn volume of the tv down
+turn volume of the tv up
+turn volume of tv down
+turn volume of tv up
+turn volume tv down
+turn volume tv up
+turn volume up
+turn volume up please
+tv
+tv control
+tv off
+tv on
+tv power
+tv settings
+tv volume 0
+tv volume 1
+tv volume 10
+tv volume 2
+tv volume 3
+tv volume 4
+tv volume 5
+tv volume 6
+tv volume 7
+tv volume 8
+tv volume 9
+tv volume higher
+tv volume lower
+tv volume to
+tv volume to 0
+tv volume to 1
+tv volume to 10
+tv volume to 2
+tv volume to 3
+tv volume to 4
+tv volume to 5
+tv volume to 6
+tv volume to 7
+tv volume to 8
+tv volume to 9
 update
+update app
+update device
+update glass
+update now
+update the app
+update the device
+update the glass
 updating
+updating app
+updating device
+updating glass
+updating the app
+updating the device
+updating the glass
 volume
+volume 0
+volume 1
+volume 10
+volume 2
+volume 3
+volume 4
+volume 5
+volume 6
+volume 7
+volume 8
+volume 9
+volume category
+volume category please
+volume down
+volume down please
+volume higher
+volume higher please
+volume lower
+volume lower please
+volume music higher
+volume music lower
+volume of music 0
+volume of music 1
+volume of music 10
+volume of music 2
+volume of music 3
+volume of music 4
+volume of music 5
+volume of music 6
+volume of music 7
+volume of music 8
+volume of music 9
+volume of music higher
+volume of music lower
+volume of music to
+volume of music to 0
+volume of music to 1
+volume of music to 10
+volume of music to 2
+volume of music to 3
+volume of music to 4
+volume of music to 5
+volume of music to 6
+volume of music to 7
+volume of music to 8
+volume of music to 9
+volume of the music 0
+volume of the music 1
+volume of the music 10
+volume of the music 2
+volume of the music 3
+volume of the music 4
+volume of the music 5
+volume of the music 6
+volume of the music 7
+volume of the music 8
+volume of the music 9
+volume of the music higher
+volume of the music lower
+volume of the music to
+volume of the music to 0
+volume of the music to 1
+volume of the music to 10
+volume of the music to 2
+volume of the music to 3
+volume of the music to 4
+volume of the music to 5
+volume of the music to 6
+volume of the music to 7
+volume of the music to 8
+volume of the music to 9
+volume of the tv 0
+volume of the tv 1
+volume of the tv 10
+volume of the tv 2
+volume of the tv 3
+volume of the tv 4
+volume of the tv 5
+volume of the tv 6
+volume of the tv 7
+volume of the tv 8
+volume of the tv 9
+volume of the tv higher
+volume of the tv lower
+volume of the tv to
+volume of tv 0
+volume of tv 1
+volume of tv 10
+volume of tv 2
+volume of tv 3
+volume of tv 4
+volume of tv 5
+volume of tv 6
+volume of tv 7
+volume of tv 8
+volume of tv 9
+volume of tv higher
+volume of tv lower
+volume of tv to
+volume of tv to 0
+volume of tv to 1
+volume of tv to 10
+volume of tv to 2
+volume of tv to 3
+volume of tv to 4
+volume of tv to 5
+volume of tv to 6
+volume of tv to 7
+volume of tv to 8
+volume of tv to 9
+volume please
+volume to
+volume to 0
+volume to 1
+volume to 10
+volume to 2
+volume to 3
+volume to 4
+volume to 5
+volume to 6
+volume to 7
+volume to 8
+volume to 9
+volume tv higher
+volume tv lower
+volume up
+volume up please
 wifi
 window
+window close
+window close now
+window close please
+window closed
+window closed now
+window closed please
+window open
+window open now
+window opened
+window opened now
 windows
+windows close
+windows close now
+windows close please
+windows closed
+windows closed now
+windows closed please
+windows open
+windows open now
+windows opened
+windows opened now
 write
-zero
-change music volume zero
-change music volume one
-change music volume two
-change music volume three
-change music volume four
-change music volume five
-change music volume six
-change music volume seven
-change music volume eight
-change music volume nine
-change music volume ten
-change the music volume zero
-change the music volume one
-change the music volume two
-change the music volume three
-change the music volume four
-change the music volume five
-change the music volume six
-change the music volume seven
-change the music volume eight
-change the music volume nine
-change the music volume ten
-set music volume zero
-set music volume one
-set music volume two
-set music volume three
-set music volume four
-set music volume five
-set music volume six
-set music volume seven
-set music volume eight
-set music volume nine
-set music volume ten
-set the music volume zero
-set the music volume one
-set the music volume two
-set the music volume three
-set the music volume four
-set the music volume five
-set the music volume six
-set the music volume seven
-set the music volume eight
-set the music volume nine
-set the music volume ten
-change volume of the music zero
-change volume of the music one
-change volume of the music two
-change volume of the music three
-change volume of the music four
-change volume of the music five
-change volume of the music six
-change volume of the music seven
-change volume of the music eight
-change volume of the music nine
-change volume of the music ten
-change the volume of the music zero
-change the volume of the music one
-change the volume of the music two
-change the volume of the music three
-change the volume of the music four
-change the volume of the music five
-change the volume of the music six
-change the volume of the music seven
-change the volume of the music eight
-change the volume of the music nine
-change the volume of the music ten
-set volume of the music zero
-set volume of the music one
-set volume of the music two
-set volume of the music three
-set volume of the music four
-set volume of the music five
-set volume of the music six
-set volume of the music seven
-set volume of the music eight
-set volume of the music nine
-set volume of the music ten
-set the volume of the music zero
-set the volume of the music one
-set the volume of the music two
-set the volume of the music three
-set the volume of the music four
-set the volume of the music five
-set the volume of the music six
-set the volume of the music seven
-set the volume of the music eight
-set the volume of the music nine
-set the volume of the music ten
-set volume of the music
-set the volume of the music
-set volume of the music to
-set the volume of the music to
-change volume of the music
-change the volume of the music
-change volume of the music to
-change the volume of the music to
-volume of the music to
-change volume of music zero
-change volume of music one
-change volume of music two
-change volume of music three
-change volume of music four
-change volume of music five
-change volume of music six
-change volume of music seven
-change volume of music eight
-change volume of music nine
-change volume of music ten
-change the volume of music zero
-change the volume of music one
-change the volume of music two
-change the volume of music three
-change the volume of music four
-change the volume of music five
-change the volume of music six
-change the volume of music seven
-change the volume of music eight
-change the volume of music nine
-change the volume of music ten
-set volume of music zero
-set volume of music one
-set volume of music two
-set volume of music three
-set volume of music four
-set volume of music five
-set volume of music six
-set volume of music seven
-set volume of music eight
-set volume of music nine
-set volume of music ten
-set the volume of music zero
-set the volume of music one
-set the volume of music two
-set the volume of music three
-set the volume of music four
-set the volume of music five
-set the volume of music six
-set the volume of music seven
-set the volume of music eight
-set the volume of music nine
-set the volume of music ten
-volume of music zero
-volume of music one
-volume of music two
-volume of music three
-volume of music four
-volume of music five
-volume of music six
-volume of music seven
-volume of music eight
-volume of music nine
-volume of music ten
-volume of music zero
-volume of music one
-volume of music two
-volume of music three
-volume of music four
-volume of music five
-volume of music six
-volume of music seven
-volume of music eight
-volume of music nine
-volume of music ten
-set volume of music
-set the volume of music
-set volume of music to
-set the volume of music to
-change volume of music
-change the volume of music
-change volume of music to
-change the volume of music to
-volume of music to
-change tv volume zero
-change tv volume one
-change tv volume two
-change tv volume three
-change tv volume four
-change tv volume five
-change tv volume six
-change tv volume seven
-change tv volume eight
-change tv volume nine
-change tv volume ten
-change the tv volume zero
-change the tv volume one
-change the tv volume two
-change the tv volume three
-change the tv volume four
-change the tv volume five
-change the tv volume six
-change the tv volume seven
-change the tv volume eight
-change the tv volume nine
-change the tv volume ten
-set tv volume zero
-set tv volume one
-set tv volume two
-set tv volume three
-set tv volume four
-set tv volume five
-set tv volume six
-set tv volume seven
-set tv volume eight
-set tv volume nine
-set tv volume ten
-set the tv volume zero
-set the tv volume one
-set the tv volume two
-set the tv volume three
-set the tv volume four
-set the tv volume five
-set the tv volume six
-set the tv volume seven
-set the tv volume eight
-set the tv volume nine
-set the tv volume ten
-set tv volume
-set the tv volume
-set tv volume to
-set the tv volume to
-change tv volume
-change the tv volume
-change tv volume to
-change the tv volume to
-tv volume to
-change volume of the tv zero
-change volume of the tv one
-change volume of the tv two
-change volume of the tv three
-change volume of the tv four
-change volume of the tv five
-change volume of the tv six
-change volume of the tv seven
-change volume of the tv eight
-change volume of the tv nine
-change volume of the tv ten
-change the volume of the tv zero
-change the volume of the tv one
-change the volume of the tv two
-change the volume of the tv three
-change the volume of the tv four
-change the volume of the tv five
-change the volume of the tv six
-change the volume of the tv seven
-change the volume of the tv eight
-change the volume of the tv nine
-change the volume of the tv ten
-set volume of the tv zero
-set volume of the tv one
-set volume of the tv two
-set volume of the tv three
-set volume of the tv four
-set volume of the tv five
-set volume of the tv six
-set volume of the tv seven
-set volume of the tv eight
-set volume of the tv nine
-set volume of the tv ten
-set the volume of the tv zero
-set the volume of the tv one
-set the volume of the tv two
-set the volume of the tv three
-set the volume of the tv four
-set the volume of the tv five
-set the volume of the tv six
-set the volume of the tv seven
-set the volume of the tv eight
-set the volume of the tv nine
-set the volume of the tv ten
-volume of the tv zero
-volume of the tv one
-volume of the tv two
-volume of the tv three
-volume of the tv four
-volume of the tv five
-volume of the tv six
-volume of the tv seven
-volume of the tv eight
-volume of the tv nine
-volume of the tv ten
-volume of the tv zero
-volume of the tv one
-volume of the tv two
-volume of the tv three
-volume of the tv four
-volume of the tv five
-volume of the tv six
-volume of the tv seven
-volume of the tv eight
-volume of the tv nine
-volume of the tv ten
-set volume of the tv
-set the volume of the tv
-set volume of the tv to
-set the volume of the tv to
-change volume of the tv
-change the volume of the tv
-change volume of the tv to
-change the volume of the tv to
-volume of the tv to
-change volume of tv zero
-change volume of tv one
-change volume of tv two
-change volume of tv three
-change volume of tv four
-change volume of tv five
-change volume of tv six
-change volume of tv seven
-change volume of tv eight
-change volume of tv nine
-change volume of tv ten
-change the volume of tv three
-change the volume of tv zero
-change the volume of tv one
-change the volume of tv two
-change the volume of tv four
-change the volume of tv five
-change the volume of tv six
-change the volume of tv seven
-change the volume of tv eight
-change the volume of tv nine
-change the volume of tv ten
-set volume of tv zero
-set volume of tv one
-set volume of tv two
-set volume of tv three
-set volume of tv four
-set volume of tv five
-set volume of tv six
-set volume of tv seven
-set volume of tv eight
-set volume of tv nine
-set volume of tv ten
-set the volume of tv zero
-set the volume of tv one
-set the volume of tv two
-set the volume of tv three
-set the volume of tv four
-set the volume of tv five
-set the volume of tv six
-set the volume of tv seven
-set the volume of tv eight
-set the volume of tv nine
-set the volume of tv ten
-volume of tv zero
-volume of tv one
-volume of tv two
-volume of tv three
-volume of tv four
-volume of tv five
-volume of tv six
-volume of tv seven
-volume of tv eight
-volume of tv nine
-volume of tv ten
-volume of tv zero
-volume of tv one
-volume of tv two
-volume of tv three
-volume of tv four
-volume of tv five
-volume of tv six
-volume of tv seven
-volume of tv eight
-volume of tv nine
-volume of tv ten
-set volume of tv
-set the volume of tv
-set volume of tv to
-set the volume of tv to
-change volume of tv
-change the volume of tv
-change volume of tv to
-change the volume of tv to
-volume of tv to
-change volume zero
-change volume one
-change volume two
-change volume three
-change volume four
-change volume five
-change volume six
-change volume seven
-change volume eight
-change volume nine
-change volume ten
-change the volume zero
-change the volume one
-change the volume two
-change the volume three
-change the volume four
-change the volume five
-change the volume six
-change the volume seven
-change the volume eight
-change the volume nine
-change the volume ten
-set volume zero
-set volume one
-set volume two
-set volume three
-set volume four
-set volume five
-set volume six
-set volume seven
-set volume eight
-set volume nine
-set volume ten
-set the volume zero
-set the volume one
-set the volume two
-set the volume three
-set the volume four
-set the volume five
-set the volume six
-set the volume seven
-set the volume eight
-set the volume nine
-set the volume ten

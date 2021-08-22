@@ -1,110 +1,110 @@
-change volume <START:percent_target> zero <END>
-change volume <START:percent_target> one <END>
-change volume <START:percent_target> two <END>
-change volume <START:percent_target> three <END>
-change volume <START:percent_target> four <END>
-change volume <START:percent_target> five <END>
-change volume <START:percent_target> six <END>
-change volume <START:percent_target> seven <END>
-change volume <START:percent_target> eight <END>
-change volume <START:percent_target> nine <END>
-change volume <START:percent_target> ten <END>
-change the volume <START:percent_target> zero <END>
-change the volume <START:percent_target> one <END>
-change the volume <START:percent_target> two <END>
-change the volume <START:percent_target> three <END>
-change the volume <START:percent_target> four <END>
-change the volume <START:percent_target> five <END>
-change the volume <START:percent_target> six <END>
-change the volume <START:percent_target> seven <END>
-change the volume <START:percent_target> eight <END>
-change the volume <START:percent_target> nine <END>
-change the volume <START:percent_target> ten <END>
-set volume <START:percent_target> zero <END>
-set volume <START:percent_target> one <END>
-set volume <START:percent_target> two <END>
-set volume <START:percent_target> three <END>
-set volume <START:percent_target> four <END>
-set volume <START:percent_target> five <END>
-set volume <START:percent_target> six <END>
-set volume <START:percent_target> seven <END>
-set volume <START:percent_target> eight <END>
-set volume <START:percent_target> nine <END>
-set volume <START:percent_target> ten <END>
-set the volume <START:percent_target> zero <END>
-set the volume <START:percent_target> one <END>
-set the volume <START:percent_target> two <END>
-set the volume <START:percent_target> three <END>
-set the volume <START:percent_target> four <END>
-set the volume <START:percent_target> five <END>
-set the volume <START:percent_target> six <END>
-set the volume <START:percent_target> seven <END>
-set the volume <START:percent_target> eight <END>
-set the volume <START:percent_target> nine <END>
-set the volume <START:percent_target> ten <END>
-volume <START:percent_target> zero <END>
-volume <START:percent_target> one <END>
-volume <START:percent_target> two <END>
-volume <START:percent_target> three <END>
-volume <START:percent_target> four <END>
-volume <START:percent_target> five <END>
-volume <START:percent_target> six <END>
-volume <START:percent_target> seven <END>
-volume <START:percent_target> eight <END>
-volume <START:percent_target> nine <END>
-volume <START:percent_target> ten <END>
-change volume to <START:percent_target> zero <END>
-change volume to <START:percent_target> one <END>
-change volume to <START:percent_target> two <END>
-change volume to <START:percent_target> three <END>
-change volume to <START:percent_target> four <END>
-change volume to <START:percent_target> five <END>
-change volume to <START:percent_target> six <END>
-change volume to <START:percent_target> seven <END>
-change volume to <START:percent_target> eight <END>
-change volume to <START:percent_target> nine <END>
-change volume to <START:percent_target> ten <END>
-change the volume to <START:percent_target> zero <END>
-change the volume to <START:percent_target> one <END>
-change the volume to <START:percent_target> two <END>
-change the volume to <START:percent_target> three <END>
-change the volume to <START:percent_target> four <END>
-change the volume to <START:percent_target> five <END>
-change the volume to <START:percent_target> six <END>
-change the volume to <START:percent_target> seven <END>
-change the volume to <START:percent_target> eight <END>
-change the volume to <START:percent_target> nine <END>
-change the volume to <START:percent_target> ten <END>
-set volume to <START:percent_target> zero <END>
-set volume to <START:percent_target> one <END>
-set volume to <START:percent_target> two <END>
-set volume to <START:percent_target> three <END>
-set volume to <START:percent_target> four <END>
-set volume to <START:percent_target> five <END>
-set volume to <START:percent_target> six <END>
-set volume to <START:percent_target> seven <END>
-set volume to <START:percent_target> eight <END>
-set volume to <START:percent_target> nine <END>
-set volume to <START:percent_target> ten <END>
-set the volume to <START:percent_target> zero <END>
-set the volume to <START:percent_target> one <END>
-set the volume to <START:percent_target> two <END>
-set the volume to <START:percent_target> three <END>
-set the volume to <START:percent_target> four <END>
-set the volume to <START:percent_target> five <END>
-set the volume to <START:percent_target> six <END>
-set the volume to <START:percent_target> seven <END>
-set the volume to <START:percent_target> eight <END>
-set the volume to <START:percent_target> nine <END>
-set the volume to <START:percent_target> ten <END>
-volume to <START:percent_target> zero <END>
-volume to <START:percent_target> one <END>
-volume to <START:percent_target> two <END>
-volume to <START:percent_target> three <END>
-volume to <START:percent_target> four <END>
-volume to <START:percent_target> five <END>
-volume to <START:percent_target> six <END>
-volume to <START:percent_target> seven <END>
-volume to <START:percent_target> eight <END>
-volume to <START:percent_target> nine <END>
-volume to <START:percent_target> ten <END>
+change volume <START:percent_target> 0 <END>
+change volume <START:percent_target> 1 <END>
+change volume <START:percent_target> 2 <END>
+change volume <START:percent_target> 3 <END>
+change volume <START:percent_target> 4 <END>
+change volume <START:percent_target> 5 <END>
+change volume <START:percent_target> 6 <END>
+change volume <START:percent_target> 7 <END>
+change volume <START:percent_target> 8 <END>
+change volume <START:percent_target> 9 <END>
+change volume <START:percent_target> 10 <END>
+change the volume <START:percent_target> 0 <END>
+change the volume <START:percent_target> 1 <END>
+change the volume <START:percent_target> 2 <END>
+change the volume <START:percent_target> 3 <END>
+change the volume <START:percent_target> 4 <END>
+change the volume <START:percent_target> 5 <END>
+change the volume <START:percent_target> 6 <END>
+change the volume <START:percent_target> 7 <END>
+change the volume <START:percent_target> 8 <END>
+change the volume <START:percent_target> 9 <END>
+change the volume <START:percent_target> 10 <END>
+set volume <START:percent_target> 0 <END>
+set volume <START:percent_target> 1 <END>
+set volume <START:percent_target> 2 <END>
+set volume <START:percent_target> 3 <END>
+set volume <START:percent_target> 4 <END>
+set volume <START:percent_target> 5 <END>
+set volume <START:percent_target> 6 <END>
+set volume <START:percent_target> 7 <END>
+set volume <START:percent_target> 8 <END>
+set volume <START:percent_target> 9 <END>
+set volume <START:percent_target> 10 <END>
+set the volume <START:percent_target> 0 <END>
+set the volume <START:percent_target> 1 <END>
+set the volume <START:percent_target> 2 <END>
+set the volume <START:percent_target> 3 <END>
+set the volume <START:percent_target> 4 <END>
+set the volume <START:percent_target> 5 <END>
+set the volume <START:percent_target> 6 <END>
+set the volume <START:percent_target> 7 <END>
+set the volume <START:percent_target> 8 <END>
+set the volume <START:percent_target> 9 <END>
+set the volume <START:percent_target> 10 <END>
+volume <START:percent_target> 0 <END>
+volume <START:percent_target> 1 <END>
+volume <START:percent_target> 2 <END>
+volume <START:percent_target> 3 <END>
+volume <START:percent_target> 4 <END>
+volume <START:percent_target> 5 <END>
+volume <START:percent_target> 6 <END>
+volume <START:percent_target> 7 <END>
+volume <START:percent_target> 8 <END>
+volume <START:percent_target> 9 <END>
+volume <START:percent_target> 10 <END>
+change volume to <START:percent_target> 0 <END>
+change volume to <START:percent_target> 1 <END>
+change volume to <START:percent_target> 2 <END>
+change volume to <START:percent_target> 3 <END>
+change volume to <START:percent_target> 4 <END>
+change volume to <START:percent_target> 5 <END>
+change volume to <START:percent_target> 6 <END>
+change volume to <START:percent_target> 7 <END>
+change volume to <START:percent_target> 8 <END>
+change volume to <START:percent_target> 9 <END>
+change volume to <START:percent_target> 10 <END>
+change the volume to <START:percent_target> 0 <END>
+change the volume to <START:percent_target> 1 <END>
+change the volume to <START:percent_target> 2 <END>
+change the volume to <START:percent_target> 3 <END>
+change the volume to <START:percent_target> 4 <END>
+change the volume to <START:percent_target> 5 <END>
+change the volume to <START:percent_target> 6 <END>
+change the volume to <START:percent_target> 7 <END>
+change the volume to <START:percent_target> 8 <END>
+change the volume to <START:percent_target> 9 <END>
+change the volume to <START:percent_target> 10 <END>
+set volume to <START:percent_target> 0 <END>
+set volume to <START:percent_target> 1 <END>
+set volume to <START:percent_target> 2 <END>
+set volume to <START:percent_target> 3 <END>
+set volume to <START:percent_target> 4 <END>
+set volume to <START:percent_target> 5 <END>
+set volume to <START:percent_target> 6 <END>
+set volume to <START:percent_target> 7 <END>
+set volume to <START:percent_target> 8 <END>
+set volume to <START:percent_target> 9 <END>
+set volume to <START:percent_target> 10 <END>
+set the volume to <START:percent_target> 0 <END>
+set the volume to <START:percent_target> 1 <END>
+set the volume to <START:percent_target> 2 <END>
+set the volume to <START:percent_target> 3 <END>
+set the volume to <START:percent_target> 4 <END>
+set the volume to <START:percent_target> 5 <END>
+set the volume to <START:percent_target> 6 <END>
+set the volume to <START:percent_target> 7 <END>
+set the volume to <START:percent_target> 8 <END>
+set the volume to <START:percent_target> 9 <END>
+set the volume to <START:percent_target> 10 <END>
+volume to <START:percent_target> 0 <END>
+volume to <START:percent_target> 1 <END>
+volume to <START:percent_target> 2 <END>
+volume to <START:percent_target> 3 <END>
+volume to <START:percent_target> 4 <END>
+volume to <START:percent_target> 5 <END>
+volume to <START:percent_target> 6 <END>
+volume to <START:percent_target> 7 <END>
+volume to <START:percent_target> 8 <END>
+volume to <START:percent_target> 9 <END>
+volume to <START:percent_target> 10 <END>
