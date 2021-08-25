@@ -1,195 +1,212 @@
-schalte <START:control_target> raumlicht <END> an
-schalte das <START:control_target> raumlicht <END> an
-schalte <START:control_target> raumlichter <END> an
-schalte die <START:control_target> raumlichter <END> an
-<START:control_target> raumlicht <END> an
-<START:control_target> raumlichter <END> an
-<START:control_target> raumlicht <END> anschalten
-<START:control_target> raumlichter <END> anschalten
-schalte <START:control_target> raumlicht <END> ein
-schalte das <START:control_target> raumlicht <END> ein
-schalte <START:control_target> raumlichter <END> ein
-schalte die <START:control_target> raumlichter <END> ein
-<START:control_target> raumlicht <END> einschalten
-<START:control_target> raumlichter <END> einschalten
-mach <START:control_target> raumlicht <END> an
-mach das <START:control_target> raumlicht <END> an
-mach <START:control_target> raumlichter <END> an
-mach die <START:control_target> raumlichter <END> an
-<START:control_target> raumlicht <END> anmachen
-<START:control_target> raumlichter <END> anmachen
-schalte <START:control_target> bettlampe <END> an
-schalte die <START:control_target> bettlampe <END> an
-<START:control_target> bettlampe <END> an
-<START:control_target> bettlampe <END> anschalten
-schalte <START:control_target> bettlampe <END> ein
-schalte die <START:control_target> bettlampe <END> ein
-<START:control_target> bettlampe <END> einschalten
-mach <START:control_target> bettlampe <END> an
-mach die <START:control_target> bettlampe <END> an
-<START:control_target> bettlampe <END> anmachen
-schalte <START:control_target> tischlampe <END> an
-schalte die <START:control_target> tischlampe <END> an
-<START:control_target> tischlampe <END> an
-<START:control_target> tischlampe <END> anschalten
-schalte <START:control_target> tischlampe <END> ein
-schalte die <START:control_target> tischlampe <END> ein
-<START:control_target> tischlampe <END> einschalten
-mach <START:control_target> tischlampe <END> an
-mach die <START:control_target> tischlampe <END> an
-<START:control_target> tischlampe <END> anmachen
-schalte <START:control_target> heater <END> an
-schalte den <START:control_target> heater <END> an
-<START:control_target> heater <END> an
-<START:control_target> heater <END> anschalten
-schalte <START:control_target> heater <END> ein
-schalte den <START:control_target> heater <END> ein
-<START:control_target> heater <END> einschalten
-mach <START:control_target> heater <END> an
-mach den <START:control_target> heater <END> an
-<START:control_target> heater <END> anmachen
-schalte <START:control_target> heizung <END> an
-schalte die <START:control_target> heizung <END> an
-<START:control_target> heizung <END> an
-<START:control_target> heizung <END> anschalten
-schalte <START:control_target> heizung <END> ein
-schalte die <START:control_target> heizung <END> ein
-<START:control_target> heizung <END> einschalten
-mach <START:control_target> heizung <END> an
-mach die <START:control_target> heizung <END> an
-<START:control_target> heizung <END> anmachen
-schalte <START:control_target> ventilator <END> an
-schalte den <START:control_target> ventilator <END> an
-<START:control_target> ventilator <END> an
-<START:control_target> ventilator <END> anschalten
-schalte <START:control_target> ventilator <END> ein
-schalte den <START:control_target> ventilator <END> ein
-<START:control_target> ventilator <END> einschalten
-mach <START:control_target> ventilator <END> an
-mach den <START:control_target> ventilator <END> an
-<START:control_target> ventilator <END> anmachen
-schalte <START:control_target> alarm <END> an
-schalte den <START:control_target> alarm <END> an
 <START:control_target> alarm <END> an
-<START:control_target> alarm <END> anschalten
-schalte <START:control_target> alarm <END> ein
-schalte den <START:control_target> alarm <END> ein
-<START:control_target> alarm <END> einschalten
-mach <START:control_target> alarm <END> an
-mach den <START:control_target> alarm <END> an
 <START:control_target> alarm <END> anmachen
-schalte <START:control_target> tv <END> an
-schalte den <START:control_target> tv <END> an
-<START:control_target> tv <END> an
-<START:control_target> tv <END> anschalten
-schalte <START:control_target> tv <END> ein
-schalte den <START:control_target> tv <END> ein
-<START:control_target> tv <END> einschalten
-mach <START:control_target> tv <END> an
-mach den <START:control_target> tv <END> an
-<START:control_target> tv <END> anmachen
-schalte <START:control_target> raumlicht <END> aus
-schalte das <START:control_target> raumlicht <END> aus
-schalte <START:control_target> raumlichter <END> aus
-schalte die <START:control_target> raumlichter <END> aus
-<START:control_target> raumlicht <END> aus
-<START:control_target> raumlichter <END> aus
-<START:control_target> raumlicht <END> ausschalten
-<START:control_target> raumlichter <END> ausschalten
-mach <START:control_target> raumlicht <END> aus
-mach das <START:control_target> raumlicht <END> aus
-mach <START:control_target> raumlichter <END> aus
-mach die <START:control_target> raumlichter <END> aus
-<START:control_target> raumlicht <END> ausmachen
-<START:control_target> raumlichter <END> ausmachen
-schalte <START:control_target> bettlampe <END> aus
-schalte die <START:control_target> bettlampe <END> aus
-<START:control_target> bettlampe <END> aus
-<START:control_target> bettlampe <END> ausschalten
-mach <START:control_target> bettlampe <END> aus
-mach die <START:control_target> bettlampe <END> aus
-<START:control_target> bettlampe <END> ausmachen
-schalte <START:control_target> tischlampe <END> aus
-schalte die <START:control_target> tischlampe <END> aus
-<START:control_target> tischlampe <END> aus
-<START:control_target> tischlampe <END> ausschalten
-mach <START:control_target> tischlampe <END> aus
-mach die <START:control_target> tischlampe <END> aus
-<START:control_target> tischlampe <END> ausmachen
-schalte <START:control_target> heater <END> aus
-schalte den <START:control_target> heater <END> aus
-<START:control_target> heater <END> aus
-<START:control_target> heater <END> ausschalten
-mach <START:control_target> heater <END> aus
-mach den <START:control_target> heater <END> aus
-<START:control_target> heater <END> ausmachen
-schalte <START:control_target> heizung <END> aus
-schalte die <START:control_target> heizung <END> aus
-<START:control_target> heizung <END> aus
-<START:control_target> heizung <END> ausschalten
-mach <START:control_target> heizung <END> aus
-mach die <START:control_target> heizung <END> aus
-<START:control_target> heizung <END> ausmachen
-schalte <START:control_target> ventilator <END> aus
-schalte den <START:control_target> ventilator <END> aus
-<START:control_target> ventilator <END> aus
-<START:control_target> ventilator <END> ausschalten
-mach <START:control_target> ventilator <END> aus
-mach den <START:control_target> ventilator <END> aus
-<START:control_target> ventilator <END> ausmachen
-schalte <START:control_target> alarm <END> aus
-schalte den <START:control_target> alarm <END> aus
+<START:control_target> alarm <END> anschalten
 <START:control_target> alarm <END> aus
-<START:control_target> alarm <END> ausschalten
-mach <START:control_target> alarm <END> aus
-mach den <START:control_target> alarm <END> aus
 <START:control_target> alarm <END> ausmachen
-schalte <START:control_target> tv <END> aus
-schalte den <START:control_target> tv <END> aus
-<START:control_target> tv <END> aus
-<START:control_target> tv <END> ausschalten
-mach <START:control_target> tv <END> aus
-mach den <START:control_target> tv <END> aus
-<START:control_target> tv <END> ausmachen
-schalte <START:control_target> lichter <END> an
-schalte <START:control_target> licht <END> an
-<START:control_target> licht <END> anschalten
-<START:control_target> lichter <END> anschalten
+<START:control_target> alarm <END> ausschalten
+<START:control_target> alarm <END> einschalten
+<START:control_target> bettlampe <END> an
+<START:control_target> bettlampe <END> anmachen
+<START:control_target> bettlampe <END> anschalten
+<START:control_target> bettlampe <END> aus
+<START:control_target> bettlampe <END> ausmachen
+<START:control_target> bettlampe <END> ausschalten
+<START:control_target> bettlampe <END> einschalten
+<START:control_target> fernseher <END> an
+<START:control_target> fernseher <END> anmachen
+<START:control_target> fernseher <END> anschalten
+<START:control_target> fernseher <END> aus
+<START:control_target> fernseher <END> ausmachen
+<START:control_target> fernseher <END> ausschalten
+<START:control_target> fernseher <END> einschalten
+<START:control_target> heater <END> an
+<START:control_target> heater <END> anmachen
+<START:control_target> heater <END> anschalten
+<START:control_target> heater <END> aus
+<START:control_target> heater <END> ausmachen
+<START:control_target> heater <END> ausschalten
+<START:control_target> heater <END> einschalten
+<START:control_target> heizung <END> an
+<START:control_target> heizung <END> anmachen
+<START:control_target> heizung <END> anschalten
+<START:control_target> heizung <END> aus
+<START:control_target> heizung <END> ausmachen
+<START:control_target> heizung <END> ausschalten
+<START:control_target> heizung <END> einschalten
 <START:control_target> licht <END> an
-<START:control_target> lichter <END> an
-schalte <START:control_target> lichter <END> ein
-schalte <START:control_target> licht <END> ein
-<START:control_target> licht <END> einschalten
-<START:control_target> lichter <END> einschalten
-mach <START:control_target> lichter <END> an
-mach <START:control_target> licht <END> an
 <START:control_target> licht <END> anmachen
+<START:control_target> licht <END> anschalten
+<START:control_target> licht <END> aus
+<START:control_target> licht <END> ausmachen
+<START:control_target> licht <END> ausschalten
+<START:control_target> licht <END> einschalten
+<START:control_target> lichter <END> an
 <START:control_target> lichter <END> anmachen
-schalte <START:control_target> warnblinker <END> an
-schalte die <START:control_target> warnblinker <END> an
-schalte den <START:control_target> warnblinker <END> an
-<START:control_target> warnblinker <END> anschalten
+<START:control_target> lichter <END> anschalten
+<START:control_target> lichter <END> aus
+<START:control_target> lichter <END> ausmachen
+<START:control_target> lichter <END> ausschalten
+<START:control_target> lichter <END> einschalten
+<START:control_target> raumlicht <END> an
+<START:control_target> raumlicht <END> anmachen
+<START:control_target> raumlicht <END> anschalten
+<START:control_target> raumlicht <END> aus
+<START:control_target> raumlicht <END> ausmachen
+<START:control_target> raumlicht <END> ausschalten
+<START:control_target> raumlicht <END> einschalten
+<START:control_target> raumlichter <END> an
+<START:control_target> raumlichter <END> anmachen
+<START:control_target> raumlichter <END> anschalten
+<START:control_target> raumlichter <END> aus
+<START:control_target> raumlichter <END> ausmachen
+<START:control_target> raumlichter <END> ausschalten
+<START:control_target> raumlichter <END> einschalten
+<START:control_target> tischlampe <END> an
+<START:control_target> tischlampe <END> anmachen
+<START:control_target> tischlampe <END> anschalten
+<START:control_target> tischlampe <END> aus
+<START:control_target> tischlampe <END> ausmachen
+<START:control_target> tischlampe <END> ausschalten
+<START:control_target> tischlampe <END> einschalten
+<START:control_target> tv <END> an
+<START:control_target> tv <END> anmachen
+<START:control_target> tv <END> anschalten
+<START:control_target> tv <END> aus
+<START:control_target> tv <END> ausmachen
+<START:control_target> tv <END> ausschalten
+<START:control_target> tv <END> einschalten
+<START:control_target> ventilator <END> an
+<START:control_target> ventilator <END> anmachen
+<START:control_target> ventilator <END> anschalten
+<START:control_target> ventilator <END> aus
+<START:control_target> ventilator <END> ausmachen
+<START:control_target> ventilator <END> ausschalten
+<START:control_target> ventilator <END> einschalten
 <START:control_target> warnblinker <END> an
+<START:control_target> warnblinker <END> anmachen
+<START:control_target> warnblinker <END> anschalten
+<START:control_target> warnblinker <END> aus
+<START:control_target> warnblinker <END> ausmachen
+<START:control_target> warnblinker <END> ausschalten
+<START:control_target> warnblinker <END> einschalten
 den <START:control_target> warnblinker <END> anschalten
 die <START:control_target> warnblinker <END> anschalten
-schalte <START:control_target> warnblinker <END> ein
-<START:control_target> warnblinker <END> einschalten
-mach <START:control_target> warnblinker <END> an
-mach die <START:control_target> warnblinker <END> an
-mach den <START:control_target> warnblinker <END> an
-<START:control_target> warnblinker <END> anmachen
-schalte <START:control_target> lichter <END> aus
-schalte <START:control_target> licht <END> aus
-<START:control_target> licht <END> ausschalten
-<START:control_target> lichter <END> ausschalten
-<START:control_target> licht <END> aus
-<START:control_target> lichter <END> aus
-mach <START:control_target> lichter <END> aus
+mach <START:control_target> alarm <END> an
+mach <START:control_target> alarm <END> aus
+mach <START:control_target> bettlampe <END> an
+mach <START:control_target> bettlampe <END> aus
+mach <START:control_target> fernseher <END> an
+mach <START:control_target> fernseher <END> aus
+mach <START:control_target> heater <END> an
+mach <START:control_target> heater <END> aus
+mach <START:control_target> heizung <END> an
+mach <START:control_target> heizung <END> aus
+mach <START:control_target> licht <END> an
 mach <START:control_target> licht <END> aus
-<START:control_target> licht <END> ausmachen
-<START:control_target> lichter <END> ausmachen
-schalte <START:control_target> warnblinker <END> aus
-<START:control_target> warnblinker <END> ausschalten
-<START:control_target> warnblinker <END> aus
+mach <START:control_target> lichter <END> an
+mach <START:control_target> lichter <END> aus
+mach <START:control_target> raumlicht <END> an
+mach <START:control_target> raumlicht <END> aus
+mach <START:control_target> raumlichter <END> an
+mach <START:control_target> raumlichter <END> aus
+mach <START:control_target> tischlampe <END> an
+mach <START:control_target> tischlampe <END> aus
+mach <START:control_target> tv <END> an
+mach <START:control_target> tv <END> aus
+mach <START:control_target> ventilator <END> an
+mach <START:control_target> ventilator <END> aus
+mach <START:control_target> warnblinker <END> an
 mach <START:control_target> warnblinker <END> aus
-<START:control_target> warnblinker <END> ausmachen
+mach das <START:control_target> raumlicht <END> an
+mach das <START:control_target> raumlicht <END> aus
+mach den <START:control_target> alarm <END> an
+mach den <START:control_target> alarm <END> aus
+mach den <START:control_target> fernseher <END> an
+mach den <START:control_target> fernseher <END> aus
+mach den <START:control_target> heater <END> an
+mach den <START:control_target> heater <END> aus
+mach den <START:control_target> tv <END> an
+mach den <START:control_target> tv <END> aus
+mach den <START:control_target> ventilator <END> an
+mach den <START:control_target> ventilator <END> aus
+mach den <START:control_target> warnblinker <END> an
+mach die <START:control_target> bettlampe <END> an
+mach die <START:control_target> bettlampe <END> aus
+mach die <START:control_target> heizung <END> an
+mach die <START:control_target> heizung <END> aus
+mach die <START:control_target> raumlichter <END> an
+mach die <START:control_target> raumlichter <END> aus
+mach die <START:control_target> tischlampe <END> an
+mach die <START:control_target> tischlampe <END> aus
+mach die <START:control_target> warnblinker <END> an
+schalte <START:control_target> alarm <END> an
+schalte <START:control_target> alarm <END> aus
+schalte <START:control_target> alarm <END> ein
+schalte <START:control_target> bettlampe <END> an
+schalte <START:control_target> bettlampe <END> aus
+schalte <START:control_target> bettlampe <END> ein
+schalte <START:control_target> fernseher <END> an
+schalte <START:control_target> fernseher <END> aus
+schalte <START:control_target> fernseher <END> ein
+schalte <START:control_target> heater <END> an
+schalte <START:control_target> heater <END> aus
+schalte <START:control_target> heater <END> ein
+schalte <START:control_target> heizung <END> an
+schalte <START:control_target> heizung <END> aus
+schalte <START:control_target> heizung <END> ein
+schalte <START:control_target> licht <END> an
+schalte <START:control_target> licht <END> aus
+schalte <START:control_target> licht <END> ein
+schalte <START:control_target> lichter <END> an
+schalte <START:control_target> lichter <END> aus
+schalte <START:control_target> lichter <END> ein
+schalte <START:control_target> raumlicht <END> an
+schalte <START:control_target> raumlicht <END> aus
+schalte <START:control_target> raumlicht <END> ein
+schalte <START:control_target> raumlichter <END> an
+schalte <START:control_target> raumlichter <END> aus
+schalte <START:control_target> raumlichter <END> ein
+schalte <START:control_target> tischlampe <END> an
+schalte <START:control_target> tischlampe <END> aus
+schalte <START:control_target> tischlampe <END> ein
+schalte <START:control_target> tv <END> an
+schalte <START:control_target> tv <END> aus
+schalte <START:control_target> tv <END> ein
+schalte <START:control_target> ventilator <END> an
+schalte <START:control_target> ventilator <END> aus
+schalte <START:control_target> ventilator <END> ein
+schalte <START:control_target> warnblinker <END> an
+schalte <START:control_target> warnblinker <END> aus
+schalte <START:control_target> warnblinker <END> ein
+schalte das <START:control_target> raumlicht <END> an
+schalte das <START:control_target> raumlicht <END> aus
+schalte das <START:control_target> raumlicht <END> ein
+schalte den <START:control_target> alarm <END> an
+schalte den <START:control_target> alarm <END> aus
+schalte den <START:control_target> alarm <END> ein
+schalte den <START:control_target> fernseher <END> an
+schalte den <START:control_target> fernseher <END> aus
+schalte den <START:control_target> fernseher <END> ein
+schalte den <START:control_target> heater <END> an
+schalte den <START:control_target> heater <END> aus
+schalte den <START:control_target> heater <END> ein
+schalte den <START:control_target> tv <END> an
+schalte den <START:control_target> tv <END> aus
+schalte den <START:control_target> tv <END> ein
+schalte den <START:control_target> ventilator <END> an
+schalte den <START:control_target> ventilator <END> aus
+schalte den <START:control_target> ventilator <END> ein
+schalte den <START:control_target> warnblinker <END> an
+schalte die <START:control_target> bettlampe <END> an
+schalte die <START:control_target> bettlampe <END> aus
+schalte die <START:control_target> bettlampe <END> ein
+schalte die <START:control_target> heizung <END> an
+schalte die <START:control_target> heizung <END> aus
+schalte die <START:control_target> heizung <END> ein
+schalte die <START:control_target> raumlichter <END> an
+schalte die <START:control_target> raumlichter <END> aus
+schalte die <START:control_target> raumlichter <END> ein
+schalte die <START:control_target> tischlampe <END> an
+schalte die <START:control_target> tischlampe <END> aus
+schalte die <START:control_target> tischlampe <END> ein
+schalte die <START:control_target> warnblinker <END> an
