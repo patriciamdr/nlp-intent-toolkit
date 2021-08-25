@@ -352,3 +352,17 @@ volume <START:volume_target> téléviseur <END> plus fort
 volume <START:volume_target> téléviseur <END> plus élevé
 fort volume <START:volume_target> téléviseur <END>
 volume <START:volume_target> téléviseur <END> élevé
+changer le <START:volume_target> volume <END> à
+changer <START:volume_target> volume <END> à
+change le <START:volume_target> volume <END> à
+change <START:volume_target> volume <END> à
+mets le <START:volume_target> volume <END> à
+mets <START:volume_target> volume <END> à
+modifie <START:volume_target> volume <END> à
+modifie le <START:volume_target> volume <END> à
+régler le <START:volume_target> volume <END> à
+régler <START:volume_target> volume <END> à
+régle le <START:volume_target> volume <END> à
+régle <START:volume_target> volume <END> à
+<START:volume_target> volume <END> à
+le <START:volume_target> volume <END> à

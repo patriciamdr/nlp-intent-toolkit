@@ -189,9 +189,15 @@ public class IntentTrainer {
                     Span[] spans = nameFinderME.find(tokens);
 										nameFinderME.clearAdaptiveData();
                     String[] names = Span.spansToStrings(spans, tokens);
-										for (int i = 0; i <= spans.length - 1; i++) {
-                        System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
-										}
+                    if (spans.length >= 1) {
+                        double[] probs = nameFinderME.probs(spans);
+                        double maxProb = Arrays.stream(probs).boxed().max(Double::compareTo).get();
+                        int maxIndex = Arrays.asList(Arrays.stream(probs).boxed().toArray(Double[]::new)).indexOf(maxProb);
+                        System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
+                    }
+										// for (int i = 0; i <= spans.length - 1; i++) {
+                    //     System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
+										// }
                 }
             }
             catch (NullPointerException e) {

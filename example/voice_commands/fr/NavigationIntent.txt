@@ -11,7 +11,11 @@
 <START:nav_target> email d'urgence <END>
 <START:nav_target> fenêtre <END>
 <START:nav_target> fenêtres <END>
+<START:nav_target> feux <END>
+<START:nav_target> feux de <END>
 <START:nav_target> feux de détresse <END>
+<START:nav_target> de détresse <END>
+<START:nav_target> détresse <END>
 <START:nav_target> galerie <END>
 <START:nav_target> geste de conduite <END>
 <START:nav_target> gestes de conduite <END>
