@@ -1011,6 +1011,7 @@ heizung
 ventilator
 home
 housemate
+housemate app
 tür
 alarm
 intercom
@@ -1033,6 +1034,7 @@ zu heizung
 zu ventilator
 zu home
 zu housemate
+zu housemate app
 zu tür
 zu alarm
 zu intercom
@@ -1076,6 +1078,7 @@ komme zurück auf heizung
 komme zurück auf ventilator
 komme zurück auf home
 komme zurück auf housemate
+komme zurück auf housemate app
 komme zurück auf tür
 komme zurück auf alarm
 komme zurück auf intercom
@@ -1099,6 +1102,7 @@ gehe auf heizung
 gehe auf ventilator
 gehe auf home
 gehe auf housemate
+gehe auf housemate app
 gehe auf tür
 gehe auf alarm
 gehe auf intercom
@@ -1122,6 +1126,7 @@ gehe zu heizung
 gehe zu ventilator
 gehe zu home
 gehe zu housemate
+gehe zu housemate app
 gehe zu tür
 gehe zu alarm
 gehe zu intercom
@@ -1165,6 +1170,7 @@ navigiere zu heizung
 navigiere zu ventilator
 navigiere zu home
 navigiere zu housemate
+navigiere zu housemate app
 navigiere zu tür
 navigiere zu alarm
 navigiere zu intercom
@@ -1208,6 +1214,7 @@ bring mich zu heizung
 bring mich zu ventilator
 bring mich zu home
 bring mich zu housemate
+bring mich zu housemate app
 bring mich zu tür
 bring mich zu alarm
 bring mich zu intercom
@@ -1251,6 +1258,7 @@ zeige heizung
 zeige ventilator
 zeige home
 zeige housemate
+zeige housemate app
 zeige tür
 zeige alarm
 zeige intercom
@@ -1292,6 +1300,7 @@ wähle heizung
 wähle ventilator
 wähle home
 wähle housemate
+wähle housemate app
 wähle tür
 wähle alarm
 wähle intercom
@@ -1333,6 +1342,7 @@ wechsel zu heizung
 wechsel zu ventilator
 wechsel zu home
 wechsel zu housemate
+wechsel zu housemate app
 wechsel zu tür
 wechsel zu alarm
 wechsel zu intercom
@@ -1395,6 +1405,7 @@ zu der kategorie heizung
 zu der kategorie ventilator
 zu der kategorie home
 zu der kategorie housemate
+zu der kategorie housemate app
 zu der kategorie tür
 zu der kategorie alarm
 zu der kategorie intercom
@@ -1418,6 +1429,7 @@ gehe zu der kategorie heizung
 gehe zu der kategorie ventilator
 gehe zu der kategorie home
 gehe zu der kategorie housemate
+gehe zu der kategorie housemate app
 gehe zu der kategorie tür
 gehe zu der kategorie alarm
 gehe zu der kategorie intercom
@@ -1441,6 +1453,7 @@ navigiere zu der kategorie heizung
 navigiere zu der kategorie ventilator
 navigiere zu der kategorie home
 navigiere zu der kategorie housemate
+navigiere zu der kategorie housemate app
 navigiere zu der kategorie tür
 navigiere zu der kategorie alarm
 navigiere zu der kategorie intercom
@@ -1464,6 +1477,7 @@ bring mich zu der kategorie heizung
 bring mich zu der kategorie ventilator
 bring mich zu der kategorie home
 bring mich zu der kategorie housemate
+bring mich zu der kategorie housemate app
 bring mich zu der kategorie tür
 bring mich zu der kategorie alarm
 bring mich zu der kategorie intercom
@@ -1487,6 +1501,7 @@ zeige die kategorie heizung
 zeige die kategorie ventilator
 zeige die kategorie home
 zeige die kategorie housemate
+zeige die kategorie housemate app
 zeige die kategorie tür
 zeige die kategorie alarm
 zeige die kategorie intercom
@@ -1509,6 +1524,7 @@ wähle die kategorie heizung
 wähle die kategorie ventilator
 wähle die kategorie home
 wähle die kategorie housemate
+wähle die kategorie housemate app
 wähle die kategorie tür
 wähle die kategorie alarm
 wähle die kategorie intercom
@@ -1531,6 +1547,7 @@ wechsel zu der kategorie heizung
 wechsel zu der kategorie ventilator
 wechsel zu der kategorie home
 wechsel zu der kategorie housemate
+wechsel zu der kategorie housemate app
 wechsel zu der kategorie tür
 wechsel zu der kategorie alarm
 wechsel zu der kategorie intercom

@@ -32,6 +32,7 @@
 <START:nav_target> heater <END>
 <START:nav_target> home <END>
 <START:nav_target> housemate <END>
+<START:nav_target> housemate app <END>
 <START:nav_target> iarm <END>
 <START:nav_target> intercom <END>
 <START:nav_target> internet <END>
@@ -95,6 +96,7 @@ category <START:nav_target> fan <END>
 category <START:nav_target> heater <END>
 category <START:nav_target> home <END>
 category <START:nav_target> housemate <END>
+category <START:nav_target> housemate app <END>
 category <START:nav_target> intercom <END>
 category <START:nav_target> music <END>
 category <START:nav_target> music <END> volume
@@ -146,6 +148,7 @@ choose <START:nav_target> hazard lights <END> menu
 choose <START:nav_target> heater <END>
 choose <START:nav_target> home <END>
 choose <START:nav_target> housemate <END>
+choose <START:nav_target> housemate app <END>
 choose <START:nav_target> iarm <END>
 choose <START:nav_target> intercom <END>
 choose <START:nav_target> internet <END>
@@ -203,6 +206,7 @@ choose category <START:nav_target> fan <END>
 choose category <START:nav_target> heater <END>
 choose category <START:nav_target> home <END>
 choose category <START:nav_target> housemate <END>
+choose category <START:nav_target> housemate app <END>
 choose category <START:nav_target> intercom <END>
 choose category <START:nav_target> music <END>
 choose category <START:nav_target> music <END> volume
@@ -262,6 +266,7 @@ go to <START:nav_target> hazard lights <END> menu
 go to <START:nav_target> heater <END>
 go to <START:nav_target> home <END>
 go to <START:nav_target> housemate <END>
+go to <START:nav_target> housemate app <END>
 go to <START:nav_target> iarm <END>
 go to <START:nav_target> intercom <END>
 go to <START:nav_target> internet <END>
@@ -341,6 +346,7 @@ go to category <START:nav_target> hazard lights <END>
 go to category <START:nav_target> heater <END>
 go to category <START:nav_target> home <END>
 go to category <START:nav_target> housemate <END>
+go to category <START:nav_target> housemate app <END>
 go to category <START:nav_target> iarm <END>
 go to category <START:nav_target> intercom <END>
 go to category <START:nav_target> internet <END>
@@ -433,6 +439,7 @@ navigate to <START:nav_target> hazard lights <END> menu
 navigate to <START:nav_target> heater <END>
 navigate to <START:nav_target> home <END>
 navigate to <START:nav_target> housemate <END>
+navigate to <START:nav_target> housemate app <END>
 navigate to <START:nav_target> iarm <END>
 navigate to <START:nav_target> intercom <END>
 navigate to <START:nav_target> internet <END>
@@ -511,6 +518,7 @@ navigate to category <START:nav_target> hazard lights <END>
 navigate to category <START:nav_target> heater <END>
 navigate to category <START:nav_target> home <END>
 navigate to category <START:nav_target> housemate <END>
+navigate to category <START:nav_target> housemate app <END>
 navigate to category <START:nav_target> iarm <END>
 navigate to category <START:nav_target> intercom <END>
 navigate to category <START:nav_target> internet <END>
@@ -596,6 +604,7 @@ select <START:nav_target> hazard lights <END> menu
 select <START:nav_target> heater <END>
 select <START:nav_target> home <END>
 select <START:nav_target> housemate <END>
+select <START:nav_target> housemate app <END>
 select <START:nav_target> iarm <END>
 select <START:nav_target> intercom <END>
 select <START:nav_target> internet <END>
@@ -653,6 +662,7 @@ select category <START:nav_target> fan <END>
 select category <START:nav_target> heater <END>
 select category <START:nav_target> home <END>
 select category <START:nav_target> housemate <END>
+select category <START:nav_target> housemate app <END>
 select category <START:nav_target> intercom <END>
 select category <START:nav_target> music <END>
 select category <START:nav_target> music <END> volume
@@ -706,6 +716,7 @@ switch to <START:nav_target> hazard lights <END> menu
 switch to <START:nav_target> heater <END>
 switch to <START:nav_target> home <END>
 switch to <START:nav_target> housemate <END>
+switch to <START:nav_target> housemate app <END>
 switch to <START:nav_target> iarm <END>
 switch to <START:nav_target> intercom <END>
 switch to <START:nav_target> internet <END>
@@ -763,6 +774,7 @@ switch to category <START:nav_target> fan <END>
 switch to category <START:nav_target> heater <END>
 switch to category <START:nav_target> home <END>
 switch to category <START:nav_target> housemate <END>
+switch to category <START:nav_target> housemate app <END>
 switch to category <START:nav_target> intercom <END>
 switch to category <START:nav_target> music <END>
 switch to category <START:nav_target> music <END> volume
@@ -821,6 +833,7 @@ take me to <START:nav_target> hazard lights <END> menu
 take me to <START:nav_target> heater <END>
 take me to <START:nav_target> home <END>
 take me to <START:nav_target> housemate <END>
+take me to <START:nav_target> housemate app <END>
 take me to <START:nav_target> iarm <END>
 take me to <START:nav_target> intercom <END>
 take me to <START:nav_target> internet <END>
@@ -899,6 +912,7 @@ take me to category <START:nav_target> hazard lights <END>
 take me to category <START:nav_target> heater <END>
 take me to category <START:nav_target> home <END>
 take me to category <START:nav_target> housemate <END>
+take me to category <START:nav_target> housemate app <END>
 take me to category <START:nav_target> iarm <END>
 take me to category <START:nav_target> intercom <END>
 take me to category <START:nav_target> internet <END>
@@ -982,6 +996,7 @@ to <START:nav_target> hazard lights <END> menu
 to <START:nav_target> heater <END>
 to <START:nav_target> home <END>
 to <START:nav_target> housemate <END>
+to <START:nav_target> housemate app <END>
 to <START:nav_target> iarm <END>
 to <START:nav_target> intercom <END>
 to <START:nav_target> internet <END>
@@ -1042,6 +1057,7 @@ to category <START:nav_target> fan <END>
 to category <START:nav_target> heater <END>
 to category <START:nav_target> home <END>
 to category <START:nav_target> housemate <END>
+to category <START:nav_target> housemate app <END>
 to category <START:nav_target> intercom <END>
 to category <START:nav_target> music <END>
 to category <START:nav_target> music <END> volume

@@ -58,6 +58,7 @@ komme zurück auf <START:nav_target> heizung <END>
 komme zurück auf <START:nav_target> ventilator <END>
 komme zurück auf <START:nav_target> home <END>
 komme zurück auf <START:nav_target> housemate <END>
+komme zurück auf <START:nav_target> housemate app <END>
 komme zurück auf <START:nav_target> tür <END>
 komme zurück auf <START:nav_target> alarm <END>
 komme zurück auf <START:nav_target> intercom <END>
@@ -81,6 +82,7 @@ gehe auf <START:nav_target> heizung <END>
 gehe auf <START:nav_target> ventilator <END>
 gehe auf <START:nav_target> home <END>
 gehe auf <START:nav_target> housemate <END>
+gehe auf <START:nav_target> housemate app <END>
 gehe auf <START:nav_target> tür <END>
 gehe auf <START:nav_target> alarm <END>
 gehe auf <START:nav_target> intercom <END>
@@ -104,6 +106,7 @@ auf <START:nav_target> heizung <END>
 auf <START:nav_target> ventilator <END>
 auf <START:nav_target> home <END>
 auf <START:nav_target> housemate <END>
+auf <START:nav_target> housemate app <END>
 auf <START:nav_target> tür <END>
 auf <START:nav_target> alarm <END>
 auf <START:nav_target> intercom <END>
@@ -128,6 +131,7 @@ zu <START:nav_target> heizung <END>
 zu <START:nav_target> ventilator <END>
 zu <START:nav_target> home <END>
 zu <START:nav_target> housemate <END>
+zu <START:nav_target> housemate app <END>
 zu <START:nav_target> tür <END>
 zu <START:nav_target> alarm <END>
 zu <START:nav_target> intercom <END>
@@ -173,6 +177,7 @@ gehe zu <START:nav_target> heizung <END>
 gehe zu <START:nav_target> ventilator <END>
 gehe zu <START:nav_target> home <END>
 gehe zu <START:nav_target> housemate <END>
+gehe zu <START:nav_target> housemate app <END>
 gehe zu <START:nav_target> tür <END>
 gehe zu <START:nav_target> alarm <END>
 gehe zu <START:nav_target> intercom <END>
@@ -218,6 +223,7 @@ navigiere zu <START:nav_target> heizung <END>
 navigiere zu <START:nav_target> ventilator <END>
 navigiere zu <START:nav_target> home <END>
 navigiere zu <START:nav_target> housemate <END>
+navigiere zu <START:nav_target> housemate app <END>
 navigiere zu <START:nav_target> tür <END>
 navigiere zu <START:nav_target> alarm <END>
 navigiere zu <START:nav_target> intercom <END>
@@ -263,6 +269,7 @@ bring mich zu <START:nav_target> heizung <END>
 bring mich zu <START:nav_target> ventilator <END>
 bring mich zu <START:nav_target> home <END>
 bring mich zu <START:nav_target> housemate <END>
+bring mich zu <START:nav_target> housemate app <END>
 bring mich zu <START:nav_target> tür <END>
 bring mich zu <START:nav_target> alarm <END>
 bring mich zu <START:nav_target> intercom <END>
@@ -308,6 +315,7 @@ zeige <START:nav_target> heizung <END>
 zeige <START:nav_target> ventilator <END>
 zeige <START:nav_target> home <END>
 zeige <START:nav_target> housemate <END>
+zeige <START:nav_target> housemate app <END>
 zeige <START:nav_target> tür <END>
 zeige <START:nav_target> alarm <END>
 zeige <START:nav_target> intercom <END>
@@ -351,6 +359,7 @@ wähle <START:nav_target> heizung <END>
 wähle <START:nav_target> ventilator <END>
 wähle <START:nav_target> home <END>
 wähle <START:nav_target> housemate <END>
+wähle <START:nav_target> housemate app <END>
 wähle <START:nav_target> tür <END>
 wähle <START:nav_target> alarm <END>
 wähle <START:nav_target> intercom <END>
@@ -394,6 +403,7 @@ wechsel zu <START:nav_target> heizung <END>
 wechsel zu <START:nav_target> ventilator <END>
 wechsel zu <START:nav_target> home <END>
 wechsel zu <START:nav_target> housemate <END>
+wechsel zu <START:nav_target> housemate app <END>
 wechsel zu <START:nav_target> tür <END>
 wechsel zu <START:nav_target> alarm <END>
 wechsel zu <START:nav_target> intercom <END>
@@ -459,6 +469,7 @@ zu der kategorie <START:nav_target> heizung <END>
 zu der kategorie <START:nav_target> ventilator <END>
 zu der kategorie <START:nav_target> home <END>
 zu der kategorie <START:nav_target> housemate <END>
+zu der kategorie <START:nav_target> housemate app <END>
 zu der kategorie <START:nav_target> tür <END>
 zu der kategorie <START:nav_target> alarm <END>
 zu der kategorie <START:nav_target> intercom <END>
@@ -483,6 +494,7 @@ gehe zu der kategorie <START:nav_target> heizung <END>
 gehe zu der kategorie <START:nav_target> ventilator <END>
 gehe zu der kategorie <START:nav_target> home <END>
 gehe zu der kategorie <START:nav_target> housemate <END>
+gehe zu der kategorie <START:nav_target> housemate app <END>
 gehe zu der kategorie <START:nav_target> tür <END>
 gehe zu der kategorie <START:nav_target> alarm <END>
 gehe zu der kategorie <START:nav_target> intercom <END>
@@ -507,6 +519,7 @@ navigiere zu der kategorie <START:nav_target> heizung <END>
 navigiere zu der kategorie <START:nav_target> ventilator <END>
 navigiere zu der kategorie <START:nav_target> home <END>
 navigiere zu der kategorie <START:nav_target> housemate <END>
+navigiere zu der kategorie <START:nav_target> housemate app <END>
 navigiere zu der kategorie <START:nav_target> tür <END>
 navigiere zu der kategorie <START:nav_target> alarm <END>
 navigiere zu der kategorie <START:nav_target> intercom <END>
@@ -531,6 +544,7 @@ bring mich zu der kategorie <START:nav_target> heizung <END>
 bring mich zu der kategorie <START:nav_target> ventilator <END>
 bring mich zu der kategorie <START:nav_target> home <END>
 bring mich zu der kategorie <START:nav_target> housemate <END>
+bring mich zu der kategorie <START:nav_target> housemate app <END>
 bring mich zu der kategorie <START:nav_target> tür <END>
 bring mich zu der kategorie <START:nav_target> alarm <END>
 bring mich zu der kategorie <START:nav_target> intercom <END>
@@ -555,6 +569,7 @@ zeige die kategorie <START:nav_target> heizung <END>
 zeige die kategorie <START:nav_target> ventilator <END>
 zeige die kategorie <START:nav_target> home <END>
 zeige die kategorie <START:nav_target> housemate <END>
+zeige die kategorie <START:nav_target> housemate app <END>
 zeige die kategorie <START:nav_target> tür <END>
 zeige die kategorie <START:nav_target> alarm <END>
 zeige die kategorie <START:nav_target> intercom <END>
@@ -578,6 +593,7 @@ wähle die kategorie <START:nav_target> heizung <END>
 wähle die kategorie <START:nav_target> ventilator <END>
 wähle die kategorie <START:nav_target> home <END>
 wähle die kategorie <START:nav_target> housemate <END>
+wähle die kategorie <START:nav_target> housemate app <END>
 wähle die kategorie <START:nav_target> tür <END>
 wähle die kategorie <START:nav_target> alarm <END>
 wähle die kategorie <START:nav_target> intercom <END>
@@ -601,6 +617,7 @@ wechsel zu der kategorie <START:nav_target> heizung <END>
 wechsel zu der kategorie <START:nav_target> ventilator <END>
 wechsel zu der kategorie <START:nav_target> home <END>
 wechsel zu der kategorie <START:nav_target> housemate <END>
+wechsel zu der kategorie <START:nav_target> housemate app <END>
 wechsel zu der kategorie <START:nav_target> tür <END>
 wechsel zu der kategorie <START:nav_target> alarm <END>
 wechsel zu der kategorie <START:nav_target> intercom <END>

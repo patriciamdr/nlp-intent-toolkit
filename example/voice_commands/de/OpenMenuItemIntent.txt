@@ -16,6 +16,7 @@
 öffne den <START:menuitem_target> tv <END>
 öffne <START:menuitem_target> home <END>
 öffne <START:menuitem_target> housemate <END>
+öffne <START:menuitem_target> housemate app <END>
 öffne <START:menuitem_target> intercom <END>
 öffne <START:menuitem_target> bett <END>
 öffne <START:menuitem_target> raumlicht <END>
@@ -35,6 +36,7 @@
 öffne <START:menuitem_target> tv <END>
 <START:menuitem_target> home <END> öffnen
 <START:menuitem_target> housemate <END> öffnen
+<START:menuitem_target> housemate app <END> öffnen
 <START:menuitem_target> intercom <END> öffnen
 <START:menuitem_target> bett <END> öffnen
 <START:menuitem_target> raumlicht <END> öffnen
@@ -54,6 +56,7 @@
 <START:menuitem_target> tv <END> öffnen
 öffne die kategorie <START:menuitem_target> home <END>
 öffne die kategorie <START:menuitem_target> housemate <END>
+öffne die kategorie <START:menuitem_target> housemate app <END>
 öffne die kategorie <START:menuitem_target> intercom <END>
 öffne die kategorie <START:menuitem_target> fenster <END>
 öffne die kategorie <START:menuitem_target> tür <END>
@@ -77,6 +80,7 @@
 öffne die kategorie <START:menuitem_target> tv <END>
 öffne kategorie <START:menuitem_target> home <END>
 öffne kategorie <START:menuitem_target> housemate <END>
+öffne kategorie <START:menuitem_target> housemate app <END>
 öffne kategorie <START:menuitem_target> intercom <END>
 öffne kategorie <START:menuitem_target> fenster <END>
 öffne kategorie <START:menuitem_target> tür <END>
@@ -100,6 +104,7 @@
 öffne kategorie <START:menuitem_target> tv <END>
 die kategorie <START:menuitem_target> home <END> öffnen
 die kategorie <START:menuitem_target> housemate <END> öffnen
+die kategorie <START:menuitem_target> housemate app <END> öffnen
 die kategorie <START:menuitem_target> intercom <END> öffnen
 die kategorie <START:menuitem_target> bett <END> öffnen
 die kategorie <START:menuitem_target> raumlicht <END> öffnen
@@ -123,6 +128,7 @@ die kategorie <START:menuitem_target> vorhang <END> öffnen
 die kategorie <START:menuitem_target> vorhänge <END> öffnen
 kategorie <START:menuitem_target> home <END> öffnen
 kategorie <START:menuitem_target> housemate <END> öffnen
+kategorie <START:menuitem_target> housemate app <END> öffnen
 kategorie <START:menuitem_target> intercom <END> öffnen
 kategorie <START:menuitem_target> bett <END> öffnen
 kategorie <START:menuitem_target> raumlicht <END> öffnen
