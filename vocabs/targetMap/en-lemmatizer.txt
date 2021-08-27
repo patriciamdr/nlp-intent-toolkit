@@ -27,4 +27,4 @@ radiator:heater
 lamps:lamp
 sources:source
 setting:settings
-previously:previous
+program:channel

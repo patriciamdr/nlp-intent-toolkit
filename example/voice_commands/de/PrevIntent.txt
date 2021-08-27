@@ -1,0 +1,95 @@
+das vorherige <START:next_prev_target> lied <END>
+das vorherige <START:next_prev_target> programm <END>
+der vorherige <START:next_prev_target> kanal <END>
+der vorherige <START:next_prev_target> sender <END>
+der vorherige <START:next_prev_target> song <END>
+fahre mit dem vorherigen <START:next_prev_target> kanal <END> fort
+fahre mit dem vorherigen <START:next_prev_target> lied <END> fort
+fahre mit dem vorherigen <START:next_prev_target> programm <END> fort
+fahre mit dem vorherigen <START:next_prev_target> sender <END> fort
+fahre mit dem vorherigen <START:next_prev_target> song <END> fort
+gehe zum vorherigen <START:next_prev_target> kanal <END>
+gehe zum vorherigen <START:next_prev_target> lied <END>
+gehe zum vorherigen <START:next_prev_target> programm <END>
+gehe zum vorherigen <START:next_prev_target> sender <END>
+gehe zum vorherigen <START:next_prev_target> song <END>
+gehe zurück zum vorherigen <START:next_prev_target> kanal <END>
+gehe zurück zum vorherigen <START:next_prev_target> lied <END>
+gehe zurück zum vorherigen <START:next_prev_target> programm <END>
+gehe zurück zum vorherigen <START:next_prev_target> sender <END>
+gehe zurück zum vorherigen <START:next_prev_target> song <END>
+schalte auf das vorherige <START:next_prev_target> lied <END>
+schalte auf das vorherige <START:next_prev_target> programm <END>
+schalte auf den vorherigen <START:next_prev_target> kanal <END>
+schalte auf den vorherigen <START:next_prev_target> sender <END>
+schalte auf den vorherigen <START:next_prev_target> song <END>
+schalte zum vorherigen <START:next_prev_target> kanal <END>
+schalte zum vorherigen <START:next_prev_target> lied <END>
+schalte zum vorherigen <START:next_prev_target> programm <END>
+schalte zum vorherigen <START:next_prev_target> sender <END>
+schalte zum vorherigen <START:next_prev_target> song <END>
+spiele das vorherige <START:next_prev_target> lied <END>
+spiele das vorherige <START:next_prev_target> lied <END> ab
+spiele den vorherigen <START:next_prev_target> song <END>
+spiele den vorherigen <START:next_prev_target> song <END> ab
+spiele vorherigen <START:next_prev_target> song <END>
+spiele vorherigen <START:next_prev_target> song <END> ab
+spiele vorheriges <START:next_prev_target> lied <END>
+spiele vorheriges <START:next_prev_target> lied <END> ab
+vorherigen <START:next_prev_target> song <END> spielen
+vorheriger <START:next_prev_target> kanal <END>
+vorheriger <START:next_prev_target> sender <END>
+vorheriger <START:next_prev_target> song <END>
+vorheriges <START:next_prev_target> lied <END>
+vorheriges <START:next_prev_target> lied <END> spielen
+vorheriges <START:next_prev_target> programm <END>
+wechsel zu vorheriger <START:next_prev_target> kanal <END>
+wechsel zu vorheriger <START:next_prev_target> sender <END>
+wechsel zu vorheriger <START:next_prev_target> song <END>
+wechsel zu vorheriges <START:next_prev_target> lied <END>
+wechsel zu vorheriges <START:next_prev_target> programm <END>
+wechsel zum vorherigen <START:next_prev_target> kanal <END>
+wechsel zum vorherigen <START:next_prev_target> lied <END>
+wechsel zum vorherigen <START:next_prev_target> programm <END>
+wechsel zum vorherigen <START:next_prev_target> sender <END>
+wechsel zum vorherigen <START:next_prev_target> song <END>
+weiter mit vorherigem <START:next_prev_target> kanal <END>
+weiter mit vorherigem <START:next_prev_target> lied <END>
+weiter mit vorherigem <START:next_prev_target> programm <END>
+weiter mit vorherigem <START:next_prev_target> sender <END>
+weiter mit vorherigem <START:next_prev_target> song <END>
+wähle das vorherige <START:next_prev_target> lied <END>
+wähle das vorherige <START:next_prev_target> programm <END>
+wähle den vorherigen <START:next_prev_target> kanal <END>
+wähle den vorherigen <START:next_prev_target> sender <END>
+wähle den vorherigen <START:next_prev_target> song <END>
+wähle vorherigen <START:next_prev_target> kanal <END>
+wähle vorherigen <START:next_prev_target> sender <END>
+wähle vorherigen <START:next_prev_target> song <END>
+wähle vorheriges <START:next_prev_target> lied <END>
+wähle vorheriges <START:next_prev_target> programm <END>
+zeige das vorherige <START:next_prev_target> programm <END>
+zeige den vorherigen <START:next_prev_target> kanal <END>
+zeige den vorherigen <START:next_prev_target> sender <END>
+zeige vorherigen <START:next_prev_target> kanal <END>
+zeige vorherigen <START:next_prev_target> sender <END>
+zeige vorheriges <START:next_prev_target> programm <END>
+zum vorherigen <START:next_prev_target> kanal <END>
+zum vorherigen <START:next_prev_target> kanal <END> gehen
+zum vorherigen <START:next_prev_target> kanal <END> schalten
+zum vorherigen <START:next_prev_target> kanal <END> wechseln
+zum vorherigen <START:next_prev_target> lied <END>
+zum vorherigen <START:next_prev_target> programm <END>
+zum vorherigen <START:next_prev_target> programm <END> gehen
+zum vorherigen <START:next_prev_target> programm <END> schalten
+zum vorherigen <START:next_prev_target> programm <END> wechseln
+zum vorherigen <START:next_prev_target> sender <END>
+zum vorherigen <START:next_prev_target> sender <END> gehen
+zum vorherigen <START:next_prev_target> sender <END> schalten
+zum vorherigen <START:next_prev_target> sender <END> wechseln
+zum vorherigen <START:next_prev_target> song <END>
+zurück zum vorherigen <START:next_prev_target> kanal <END>
+zurück zum vorherigen <START:next_prev_target> lied <END>
+zurück zum vorherigen <START:next_prev_target> programm <END>
+zurück zum vorherigen <START:next_prev_target> sender <END>
+zurück zum vorherigen <START:next_prev_target> song <END>

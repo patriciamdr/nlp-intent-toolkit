@@ -1,3 +1,14 @@
+0
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
 actualisation
 actualise
 actualise appareil
@@ -17,7 +28,6 @@ aller
 aller au calibrage
 aller au email d'urgence
 aller au geste de conduite
-aller aux gestes de conduite
 aller au lit
 aller au musique volume
 aller au nouveau smartphone
@@ -33,6 +43,7 @@ aller au wifi
 aller aux ajouts
 aller aux fenêtres
 aller aux feux de détresse
+aller aux gestes de conduite
 aller aux lumières
 aller aux modes
 aller aux médias
@@ -103,7 +114,6 @@ aller à la catégorie langue
 aller à la catégorie le calibrage
 aller à la catégorie le email d'urgence
 aller à la catégorie le geste de conduite
-aller à la catégorie les gestes de conduite
 aller à la catégorie le nouveau smartphone
 aller à la catégorie le siège
 aller à la catégorie le soutien
@@ -111,6 +121,7 @@ aller à la catégorie le volume
 aller à la catégorie le wifi
 aller à la catégorie les ajouts
 aller à la catégorie les feux de détresse
+aller à la catégorie les gestes de conduite
 aller à la catégorie les lumières
 aller à la catégorie les modes
 aller à la catégorie les médias
@@ -120,8 +131,8 @@ aller à la catégorie lumière
 aller à la catégorie lumières
 aller à la catégorie modes
 aller à la catégorie monitor
-aller à la catégorie mouse 2
 aller à la catégorie mouse 1
+aller à la catégorie mouse 2
 aller à la catégorie médias
 aller à la catégorie nouveau smartphone
 aller à la catégorie néerlandais
@@ -160,8 +171,8 @@ aller à lumière
 aller à lumières
 aller à modes
 aller à monitor
-aller à mouse 2
 aller à mouse 1
+aller à mouse 2
 aller à musique
 aller à musique volume
 aller à médias
@@ -514,7 +525,6 @@ change de catégorie en langue
 change de catégorie en le calibrage
 change de catégorie en le email d'urgence
 change de catégorie en le geste de conduite
-change de catégorie en les gestes de conduite
 change de catégorie en le nouveau smartphone
 change de catégorie en le siège
 change de catégorie en le soutien
@@ -522,6 +532,7 @@ change de catégorie en le volume
 change de catégorie en le wifi
 change de catégorie en les ajouts
 change de catégorie en les feux de détresse
+change de catégorie en les gestes de conduite
 change de catégorie en les lumières
 change de catégorie en les modes
 change de catégorie en les médias
@@ -531,8 +542,8 @@ change de catégorie en lumière
 change de catégorie en lumières
 change de catégorie en modes
 change de catégorie en monitor
-change de catégorie en mouse 2
 change de catégorie en mouse 1
+change de catégorie en mouse 2
 change de catégorie en médias
 change de catégorie en nouveau smartphone
 change de catégorie en néerlandais
@@ -584,7 +595,6 @@ change en langue
 change en le calibrage
 change en le email d'urgence
 change en le geste de conduite
-change en les gestes de conduite
 change en le lit
 change en le musique volume
 change en le nouveau smartphone
@@ -600,6 +610,7 @@ change en le wifi
 change en les ajouts
 change en les fenêtres
 change en les feux de détresse
+change en les gestes de conduite
 change en les lumières
 change en les modes
 change en les médias
@@ -611,8 +622,8 @@ change en lumière
 change en lumières
 change en modes
 change en monitor
-change en mouse 2
 change en mouse 1
+change en mouse 2
 change en musique
 change en musique volume
 change en médias
@@ -674,7 +685,6 @@ change la catégorie en langue
 change la catégorie en le calibrage
 change la catégorie en le email d'urgence
 change la catégorie en le geste de conduite
-change la catégorie en les gestes de conduite
 change la catégorie en le nouveau smartphone
 change la catégorie en le siège
 change la catégorie en le soutien
@@ -682,6 +692,7 @@ change la catégorie en le volume
 change la catégorie en le wifi
 change la catégorie en les ajouts
 change la catégorie en les feux de détresse
+change la catégorie en les gestes de conduite
 change la catégorie en les lumières
 change la catégorie en les modes
 change la catégorie en les médias
@@ -691,8 +702,8 @@ change la catégorie en lumière
 change la catégorie en lumières
 change la catégorie en modes
 change la catégorie en monitor
-change la catégorie en mouse 2
 change la catégorie en mouse 1
+change la catégorie en mouse 2
 change la catégorie en médias
 change la catégorie en nouveau smartphone
 change la catégorie en néerlandais
@@ -711,50 +722,50 @@ change langue en allemand
 change langue en anglais
 change langue en français
 change langue en néerlandais
-change le volume 5
-change le volume 2
+change le volume 0
+change le volume 1
 change le volume 10
+change le volume 2
+change le volume 3
+change le volume 4
+change le volume 5
+change le volume 6
+change le volume 7
 change le volume 8
 change le volume 9
-change le volume 4
-change le volume 7
-change le volume 6
-change le volume 3
-change le volume 1
-change le volume 0
-change le volume à 5
-change le volume à 2
+change le volume à 0
+change le volume à 1
 change le volume à 10
+change le volume à 2
+change le volume à 3
+change le volume à 4
+change le volume à 5
+change le volume à 6
+change le volume à 7
 change le volume à 8
 change le volume à 9
-change le volume à 4
-change le volume à 7
-change le volume à 6
-change le volume à 3
-change le volume à 1
-change le volume à 0
-change volume 5
-change volume 2
+change volume 0
+change volume 1
 change volume 10
+change volume 2
+change volume 3
+change volume 4
+change volume 5
+change volume 6
+change volume 7
 change volume 8
 change volume 9
-change volume 4
-change volume 7
-change volume 6
-change volume 3
-change volume 1
-change volume 0
-change volume à 5
-change volume à 2
+change volume à 0
+change volume à 1
 change volume à 10
+change volume à 2
+change volume à 3
+change volume à 4
+change volume à 5
+change volume à 6
+change volume à 7
 change volume à 8
 change volume à 9
-change volume à 4
-change volume à 7
-change volume à 6
-change volume à 3
-change volume à 1
-change volume à 0
 change à canal suivant
 change à chanson suivante
 change à chaîne suivante
@@ -814,7 +825,6 @@ changer de catégorie en langue
 changer de catégorie en le calibrage
 changer de catégorie en le email d'urgence
 changer de catégorie en le geste de conduite
-changer de catégorie en les gestes de conduite
 changer de catégorie en le nouveau smartphone
 changer de catégorie en le siège
 changer de catégorie en le soutien
@@ -822,6 +832,7 @@ changer de catégorie en le volume
 changer de catégorie en le wifi
 changer de catégorie en les ajouts
 changer de catégorie en les feux de détresse
+changer de catégorie en les gestes de conduite
 changer de catégorie en les lumières
 changer de catégorie en les modes
 changer de catégorie en les médias
@@ -831,8 +842,8 @@ changer de catégorie en lumière
 changer de catégorie en lumières
 changer de catégorie en modes
 changer de catégorie en monitor
-changer de catégorie en mouse 2
 changer de catégorie en mouse 1
+changer de catégorie en mouse 2
 changer de catégorie en médias
 changer de catégorie en nouveau smartphone
 changer de catégorie en néerlandais
@@ -884,7 +895,6 @@ changer en langue
 changer en le calibrage
 changer en le email d'urgence
 changer en le geste de conduite
-changer en les gestes de conduite
 changer en le lit
 changer en le musique volume
 changer en le nouveau smartphone
@@ -900,6 +910,7 @@ changer en le wifi
 changer en les ajouts
 changer en les fenêtres
 changer en les feux de détresse
+changer en les gestes de conduite
 changer en les lumières
 changer en les modes
 changer en les médias
@@ -911,8 +922,8 @@ changer en lumière
 changer en lumières
 changer en modes
 changer en monitor
-changer en mouse 2
 changer en mouse 1
+changer en mouse 2
 changer en musique
 changer en musique volume
 changer en médias
@@ -974,7 +985,6 @@ changer la catégorie en langue
 changer la catégorie en le calibrage
 changer la catégorie en le email d'urgence
 changer la catégorie en le geste de conduite
-changer la catégorie en les gestes de conduite
 changer la catégorie en le nouveau smartphone
 changer la catégorie en le siège
 changer la catégorie en le soutien
@@ -982,6 +992,7 @@ changer la catégorie en le volume
 changer la catégorie en le wifi
 changer la catégorie en les ajouts
 changer la catégorie en les feux de détresse
+changer la catégorie en les gestes de conduite
 changer la catégorie en les lumières
 changer la catégorie en les modes
 changer la catégorie en les médias
@@ -991,8 +1002,8 @@ changer la catégorie en lumière
 changer la catégorie en lumières
 changer la catégorie en modes
 changer la catégorie en monitor
-changer la catégorie en mouse 2
 changer la catégorie en mouse 1
+changer la catégorie en mouse 2
 changer la catégorie en médias
 changer la catégorie en nouveau smartphone
 changer la catégorie en néerlandais
@@ -1011,50 +1022,50 @@ changer langue en allemand
 changer langue en anglais
 changer langue en français
 changer langue en néerlandais
-changer le volume 5
-changer le volume 2
+changer le volume 0
+changer le volume 1
 changer le volume 10
+changer le volume 2
+changer le volume 3
+changer le volume 4
+changer le volume 5
+changer le volume 6
+changer le volume 7
 changer le volume 8
 changer le volume 9
-changer le volume 4
-changer le volume 7
-changer le volume 6
-changer le volume 3
-changer le volume 1
-changer le volume 0
-changer le volume à 5
-changer le volume à 2
+changer le volume à 0
+changer le volume à 1
 changer le volume à 10
+changer le volume à 2
+changer le volume à 3
+changer le volume à 4
+changer le volume à 5
+changer le volume à 6
+changer le volume à 7
 changer le volume à 8
 changer le volume à 9
-changer le volume à 4
-changer le volume à 7
-changer le volume à 6
-changer le volume à 3
-changer le volume à 1
-changer le volume à 0
-changer volume 5
-changer volume 2
+changer volume 0
+changer volume 1
 changer volume 10
+changer volume 2
+changer volume 3
+changer volume 4
+changer volume 5
+changer volume 6
+changer volume 7
 changer volume 8
 changer volume 9
-changer volume 4
-changer volume 7
-changer volume 6
-changer volume 3
-changer volume 1
-changer volume 0
-changer volume à 5
-changer volume à 2
+changer volume à 0
+changer volume à 1
 changer volume à 10
+changer volume à 2
+changer volume à 3
+changer volume à 4
+changer volume à 5
+changer volume à 6
+changer volume à 7
 changer volume à 8
 changer volume à 9
-changer volume à 4
-changer volume à 7
-changer volume à 6
-changer volume à 3
-changer volume à 1
-changer volume à 0
 changer à canal suivant
 changer à chanson suivante
 changer à chaîne suivante
@@ -1162,7 +1173,6 @@ choisir la catégorie langue
 choisir la catégorie le calibrage
 choisir la catégorie le email d'urgence
 choisir la catégorie le geste de conduite
-choisir la catégorie les gestes de conduite
 choisir la catégorie le nouveau smartphone
 choisir la catégorie le siège
 choisir la catégorie le smartphone existant
@@ -1171,6 +1181,7 @@ choisir la catégorie le volume
 choisir la catégorie le wifi
 choisir la catégorie les ajouts
 choisir la catégorie les feux de détresse
+choisir la catégorie les gestes de conduite
 choisir la catégorie les lumières
 choisir la catégorie les modes
 choisir la catégorie les médias
@@ -1180,8 +1191,8 @@ choisir la catégorie lumière
 choisir la catégorie lumières
 choisir la catégorie modes
 choisir la catégorie monitor
-choisir la catégorie mouse 2
 choisir la catégorie mouse 1
+choisir la catégorie mouse 2
 choisir la catégorie médias
 choisir la catégorie nouveau smartphone
 choisir la catégorie néerlandais
@@ -1227,7 +1238,6 @@ choisir langue néerlandais
 choisir le calibrage
 choisir le email d'urgence
 choisir le geste de conduite
-choisir les gestes de conduite
 choisir le le musique volume
 choisir le le télé volume
 choisir le le téléviseur volume
@@ -1253,6 +1263,7 @@ choisir le wifi
 choisir les ajouts
 choisir les fenêtres
 choisir les feux de détresse
+choisir les gestes de conduite
 choisir les lumières
 choisir les modes
 choisir les médias
@@ -1264,8 +1275,8 @@ choisir lumière
 choisir lumières
 choisir modes
 choisir monitor
-choisir mouse 2
 choisir mouse 1
+choisir mouse 2
 choisir musique
 choisir musique volume
 choisir médias
@@ -1368,7 +1379,6 @@ choisis la catégorie langue
 choisis la catégorie le calibrage
 choisis la catégorie le email d'urgence
 choisis la catégorie le geste de conduite
-choisis la catégorie les gestes de conduite
 choisis la catégorie le nouveau smartphone
 choisis la catégorie le siège
 choisis la catégorie le smartphone existant
@@ -1377,6 +1387,7 @@ choisis la catégorie le volume
 choisis la catégorie le wifi
 choisis la catégorie les ajouts
 choisis la catégorie les feux de détresse
+choisis la catégorie les gestes de conduite
 choisis la catégorie les lumières
 choisis la catégorie les modes
 choisis la catégorie les médias
@@ -1386,8 +1397,8 @@ choisis la catégorie lumière
 choisis la catégorie lumières
 choisis la catégorie modes
 choisis la catégorie monitor
-choisis la catégorie mouse 2
 choisis la catégorie mouse 1
+choisis la catégorie mouse 2
 choisis la catégorie médias
 choisis la catégorie nouveau smartphone
 choisis la catégorie néerlandais
@@ -1433,7 +1444,6 @@ choisis langue néerlandais
 choisis le calibrage
 choisis le email d'urgence
 choisis le geste de conduite
-choisis les gestes de conduite
 choisis le le musique volume
 choisis le le télé volume
 choisis le le téléviseur volume
@@ -1459,6 +1469,7 @@ choisis le wifi
 choisis les ajouts
 choisis les fenêtres
 choisis les feux de détresse
+choisis les gestes de conduite
 choisis les lumières
 choisis les modes
 choisis les médias
@@ -1470,8 +1481,8 @@ choisis lumière
 choisis lumières
 choisis modes
 choisis monitor
-choisis mouse 2
 choisis mouse 1
+choisis mouse 2
 choisis musique
 choisis musique volume
 choisis médias
@@ -1509,7 +1520,6 @@ choisis volume de la télévision
 choisis volume du télé
 choisis volume du téléviseur
 choisis wifi
-5
 commence
 commence actualisation
 commence actualisation de l'appareil
@@ -1616,7 +1626,6 @@ d'urgence
 de
 de base
 des
-2
 diminue
 diminue l'angle du lit
 diminue l'inclinaison du lit
@@ -1727,7 +1736,6 @@ diminuer volume s'il vous plaît
 diminuer volume télé
 diminuer volume téléviseur
 diminuer volume télévision
-10
 doublage
 du
 début
@@ -1872,7 +1880,6 @@ emmène moi à la catégorie langue
 emmène moi à la catégorie le calibrage
 emmène moi à la catégorie le email d'urgence
 emmène moi à la catégorie le geste de conduite
-emmène moi à la catégorie les gestes de conduite
 emmène moi à la catégorie le nouveau smartphone
 emmène moi à la catégorie le siège
 emmène moi à la catégorie le soutien
@@ -1880,6 +1887,7 @@ emmène moi à la catégorie le volume
 emmène moi à la catégorie le wifi
 emmène moi à la catégorie les ajouts
 emmène moi à la catégorie les feux de détresse
+emmène moi à la catégorie les gestes de conduite
 emmène moi à la catégorie les lumières
 emmène moi à la catégorie les modes
 emmène moi à la catégorie les médias
@@ -1889,8 +1897,8 @@ emmène moi à la catégorie lumière
 emmène moi à la catégorie lumières
 emmène moi à la catégorie modes
 emmène moi à la catégorie monitor
-emmène moi à la catégorie mouse 2
 emmène moi à la catégorie mouse 1
+emmène moi à la catégorie mouse 2
 emmène moi à la catégorie médias
 emmène moi à la catégorie nouveau smartphone
 emmène moi à la catégorie néerlandais
@@ -1912,8 +1920,8 @@ emmène moi à lumière
 emmène moi à lumières
 emmène moi à modes
 emmène moi à monitor
-emmène moi à mouse 2
 emmène moi à mouse 1
+emmène moi à mouse 2
 emmène moi à médias
 emmène moi à nouveau smartphone
 emmène moi à néerlandais
@@ -2038,7 +2046,6 @@ glass
 haut
 hauteur
 hocher
-8
 iarm
 image
 image s'il vous plaît
@@ -2154,7 +2161,6 @@ le
 le calibrage
 le email d'urgence
 le geste de conduite
-les gestes de conduite
 le le musique volume
 le le télé volume
 le le téléviseur volume
@@ -2215,6 +2221,7 @@ les fenêtres
 les fenêtres fermées
 les fenêtres ouvertes
 les feux de détresse
+les gestes de conduite
 les lumières
 les modes
 les médias
@@ -2232,50 +2239,50 @@ lumières allumées
 lumières éteintes
 mets
 mets la wifi
-mets le volume 5
-mets le volume 2
+mets le volume 0
+mets le volume 1
 mets le volume 10
+mets le volume 2
+mets le volume 3
+mets le volume 4
+mets le volume 5
+mets le volume 6
+mets le volume 7
 mets le volume 8
 mets le volume 9
-mets le volume 4
-mets le volume 7
-mets le volume 6
-mets le volume 3
-mets le volume 1
-mets le volume 0
-mets le volume à 5
-mets le volume à 2
+mets le volume à 0
+mets le volume à 1
 mets le volume à 10
+mets le volume à 2
+mets le volume à 3
+mets le volume à 4
+mets le volume à 5
+mets le volume à 6
+mets le volume à 7
 mets le volume à 8
 mets le volume à 9
-mets le volume à 4
-mets le volume à 7
-mets le volume à 6
-mets le volume à 3
-mets le volume à 1
-mets le volume à 0
-mets volume 5
-mets volume 2
+mets volume 0
+mets volume 1
 mets volume 10
+mets volume 2
+mets volume 3
+mets volume 4
+mets volume 5
+mets volume 6
+mets volume 7
 mets volume 8
 mets volume 9
-mets volume 4
-mets volume 7
-mets volume 6
-mets volume 3
-mets volume 1
-mets volume 0
-mets volume à 5
-mets volume à 2
+mets volume à 0
+mets volume à 1
 mets volume à 10
+mets volume à 2
+mets volume à 3
+mets volume à 4
+mets volume à 5
+mets volume à 6
+mets volume à 7
 mets volume à 8
 mets volume à 9
-mets volume à 4
-mets volume à 7
-mets volume à 6
-mets volume à 3
-mets volume à 1
-mets volume à 0
 mets à jour appareil
 mets à jour application
 mets à jour l'appareil
@@ -2300,50 +2307,50 @@ modifie langue en allemand
 modifie langue en anglais
 modifie langue en français
 modifie langue en néerlandais
-modifie le volume 5
-modifie le volume 2
+modifie le volume 0
+modifie le volume 1
 modifie le volume 10
+modifie le volume 2
+modifie le volume 3
+modifie le volume 4
+modifie le volume 5
+modifie le volume 6
+modifie le volume 7
 modifie le volume 8
 modifie le volume 9
-modifie le volume 4
-modifie le volume 7
-modifie le volume 6
-modifie le volume 3
-modifie le volume 1
-modifie le volume 0
-modifie le volume à 5
-modifie le volume à 2
+modifie le volume à 0
+modifie le volume à 1
 modifie le volume à 10
+modifie le volume à 2
+modifie le volume à 3
+modifie le volume à 4
+modifie le volume à 5
+modifie le volume à 6
+modifie le volume à 7
 modifie le volume à 8
 modifie le volume à 9
-modifie le volume à 4
-modifie le volume à 7
-modifie le volume à 6
-modifie le volume à 3
-modifie le volume à 1
-modifie le volume à 0
-modifie volume 5
-modifie volume 2
+modifie volume 0
+modifie volume 1
 modifie volume 10
+modifie volume 2
+modifie volume 3
+modifie volume 4
+modifie volume 5
+modifie volume 6
+modifie volume 7
 modifie volume 8
 modifie volume 9
-modifie volume 4
-modifie volume 7
-modifie volume 6
-modifie volume 3
-modifie volume 1
-modifie volume 0
-modifie volume à 5
-modifie volume à 2
+modifie volume à 0
+modifie volume à 1
 modifie volume à 10
+modifie volume à 2
+modifie volume à 3
+modifie volume à 4
+modifie volume à 5
+modifie volume à 6
+modifie volume à 7
 modifie volume à 8
 modifie volume à 9
-modifie volume à 4
-modifie volume à 7
-modifie volume à 6
-modifie volume à 3
-modifie volume à 1
-modifie volume à 0
 modifier
 modifier en allemand
 modifier en anglais
@@ -2469,14 +2476,13 @@ monter volume s'il vous plaît
 monter volume télé
 monter volume téléviseur
 monter volume télévision
-mouse 2
 mouse 1
+mouse 2
 munevo
 musical
 musique
 musique volume
 médias
-9
 nouveau
 nouveau smartphone
 néerlandais
@@ -2563,7 +2569,6 @@ ouvre la catégorie langue
 ouvre la catégorie le calibrage
 ouvre la catégorie le email d'urgence
 ouvre la catégorie le geste de conduite
-ouvre la catégorie les gestes de conduite
 ouvre la catégorie le nouveau smartphone
 ouvre la catégorie le siège
 ouvre la catégorie le soutien
@@ -2571,6 +2576,7 @@ ouvre la catégorie le volume
 ouvre la catégorie le wifi
 ouvre la catégorie les ajouts
 ouvre la catégorie les feux de détresse
+ouvre la catégorie les gestes de conduite
 ouvre la catégorie les lumières
 ouvre la catégorie les modes
 ouvre la catégorie les médias
@@ -2581,8 +2587,8 @@ ouvre la catégorie lumière
 ouvre la catégorie lumières
 ouvre la catégorie modes
 ouvre la catégorie monitor
-ouvre la catégorie mouse 2
 ouvre la catégorie mouse 1
+ouvre la catégorie mouse 2
 ouvre la catégorie musique
 ouvre la catégorie musique volume
 ouvre la catégorie médias
@@ -2626,7 +2632,6 @@ ouvre langue
 ouvre le calibrage
 ouvre le email d'urgence
 ouvre le geste de conduite
-ouvre les gestes de conduite
 ouvre le lit
 ouvre le musique volume
 ouvre le nouveau smartphone
@@ -2643,6 +2648,7 @@ ouvre le wifi
 ouvre les ajouts
 ouvre les fenêtres
 ouvre les feux de détresse
+ouvre les gestes de conduite
 ouvre les lumières
 ouvre les modes
 ouvre les médias
@@ -2653,8 +2659,8 @@ ouvre lumière
 ouvre lumières
 ouvre modes
 ouvre monitor
-ouvre mouse 2
 ouvre mouse 1
+ouvre mouse 2
 ouvre musique
 ouvre musique volume
 ouvre médias
@@ -2759,7 +2765,6 @@ ouvrir la catégorie langue
 ouvrir la catégorie le calibrage
 ouvrir la catégorie le email d'urgence
 ouvrir la catégorie le geste de conduite
-ouvrir la catégorie les gestes de conduite
 ouvrir la catégorie le nouveau smartphone
 ouvrir la catégorie le siège
 ouvrir la catégorie le soutien
@@ -2767,6 +2772,7 @@ ouvrir la catégorie le volume
 ouvrir la catégorie le wifi
 ouvrir la catégorie les ajouts
 ouvrir la catégorie les feux de détresse
+ouvrir la catégorie les gestes de conduite
 ouvrir la catégorie les lumières
 ouvrir la catégorie les modes
 ouvrir la catégorie les médias
@@ -2777,8 +2783,8 @@ ouvrir la catégorie lumière
 ouvrir la catégorie lumières
 ouvrir la catégorie modes
 ouvrir la catégorie monitor
-ouvrir la catégorie mouse 2
 ouvrir la catégorie mouse 1
+ouvrir la catégorie mouse 2
 ouvrir la catégorie musique
 ouvrir la catégorie musique volume
 ouvrir la catégorie médias
@@ -2822,7 +2828,6 @@ ouvrir langue
 ouvrir le calibrage
 ouvrir le email d'urgence
 ouvrir le geste de conduite
-ouvrir les gestes de conduite
 ouvrir le lit
 ouvrir le musique volume
 ouvrir le nouveau smartphone
@@ -2839,6 +2844,7 @@ ouvrir le wifi
 ouvrir les ajouts
 ouvrir les fenêtres
 ouvrir les feux de détresse
+ouvrir les gestes de conduite
 ouvrir les lumières
 ouvrir les modes
 ouvrir les médias
@@ -2849,8 +2855,8 @@ ouvrir lumière
 ouvrir lumières
 ouvrir modes
 ouvrir monitor
-ouvrir mouse 2
 ouvrir mouse 1
+ouvrir mouse 2
 ouvrir musique
 ouvrir musique volume
 ouvrir médias
@@ -2969,7 +2975,6 @@ précédent programme
 précédente
 précédente chanson
 précédente chaîne
-4
 rabats
 rabats le lit
 rabats lit
@@ -3229,9 +3234,7 @@ se connecter à l'internet
 se connecter à un réseau internet
 se connecter à un réseau wifi
 se connecter à un wifi
-7
 silencieux
-6
 siège
 smartphone existant
 soutien
@@ -3313,7 +3316,6 @@ sélectionne la catégorie langue
 sélectionne la catégorie le calibrage
 sélectionne la catégorie le email d'urgence
 sélectionne la catégorie le geste de conduite
-sélectionne la catégorie les gestes de conduite
 sélectionne la catégorie le nouveau smartphone
 sélectionne la catégorie le siège
 sélectionne la catégorie le smartphone existant
@@ -3322,6 +3324,7 @@ sélectionne la catégorie le volume
 sélectionne la catégorie le wifi
 sélectionne la catégorie les ajouts
 sélectionne la catégorie les feux de détresse
+sélectionne la catégorie les gestes de conduite
 sélectionne la catégorie les lumières
 sélectionne la catégorie les modes
 sélectionne la catégorie les médias
@@ -3331,8 +3334,8 @@ sélectionne la catégorie lumière
 sélectionne la catégorie lumières
 sélectionne la catégorie modes
 sélectionne la catégorie monitor
-sélectionne la catégorie mouse 2
 sélectionne la catégorie mouse 1
+sélectionne la catégorie mouse 2
 sélectionne la catégorie médias
 sélectionne la catégorie nouveau smartphone
 sélectionne la catégorie néerlandais
@@ -3378,7 +3381,6 @@ sélectionne langue néerlandais
 sélectionne le calibrage
 sélectionne le email d'urgence
 sélectionne le geste de conduite
-sélectionne les gestes de conduite
 sélectionne le le musique volume
 sélectionne le le télé volume
 sélectionne le le téléviseur volume
@@ -3404,6 +3406,7 @@ sélectionne le wifi
 sélectionne les ajouts
 sélectionne les fenêtres
 sélectionne les feux de détresse
+sélectionne les gestes de conduite
 sélectionne les lumières
 sélectionne les modes
 sélectionne les médias
@@ -3415,8 +3418,8 @@ sélectionne lumière
 sélectionne lumières
 sélectionne modes
 sélectionne monitor
-sélectionne mouse 2
 sélectionne mouse 1
+sélectionne mouse 2
 sélectionne musique
 sélectionne musique volume
 sélectionne médias
@@ -3519,7 +3522,6 @@ sélectionner la catégorie langue
 sélectionner la catégorie le calibrage
 sélectionner la catégorie le email d'urgence
 sélectionner la catégorie le geste de conduite
-sélectionner la catégorie les gestes de conduite
 sélectionner la catégorie le nouveau smartphone
 sélectionner la catégorie le siège
 sélectionner la catégorie le smartphone existant
@@ -3528,6 +3530,7 @@ sélectionner la catégorie le volume
 sélectionner la catégorie le wifi
 sélectionner la catégorie les ajouts
 sélectionner la catégorie les feux de détresse
+sélectionner la catégorie les gestes de conduite
 sélectionner la catégorie les lumières
 sélectionner la catégorie les modes
 sélectionner la catégorie les médias
@@ -3537,8 +3540,8 @@ sélectionner la catégorie lumière
 sélectionner la catégorie lumières
 sélectionner la catégorie modes
 sélectionner la catégorie monitor
-sélectionner la catégorie mouse 2
 sélectionner la catégorie mouse 1
+sélectionner la catégorie mouse 2
 sélectionner la catégorie médias
 sélectionner la catégorie nouveau smartphone
 sélectionner la catégorie néerlandais
@@ -3584,7 +3587,6 @@ sélectionner langue néerlandais
 sélectionner le calibrage
 sélectionner le email d'urgence
 sélectionner le geste de conduite
-sélectionner les gestes de conduite
 sélectionner le le musique volume
 sélectionner le le télé volume
 sélectionner le le téléviseur volume
@@ -3610,6 +3612,7 @@ sélectionner le wifi
 sélectionner les ajouts
 sélectionner les fenêtres
 sélectionner les feux de détresse
+sélectionner les gestes de conduite
 sélectionner les lumières
 sélectionner les modes
 sélectionner les médias
@@ -3621,8 +3624,8 @@ sélectionner lumière
 sélectionner lumières
 sélectionner modes
 sélectionner monitor
-sélectionner mouse 2
 sélectionner mouse 1
+sélectionner mouse 2
 sélectionner musique
 sélectionner musique volume
 sélectionner médias
@@ -3667,7 +3670,6 @@ terminer
 terminer la musique
 terminer musique
 toi
-3
 tv
 télé
 télé volume
@@ -3675,7 +3677,6 @@ téléviseur
 téléviseur volume
 télévision
 télévision volume
-1
 une
 uniquement
 va
@@ -3768,7 +3769,6 @@ va à la catégorie langue
 va à la catégorie le calibrage
 va à la catégorie le email d'urgence
 va à la catégorie le geste de conduite
-va à la catégorie les gestes de conduite
 va à la catégorie le nouveau smartphone
 va à la catégorie le siège
 va à la catégorie le soutien
@@ -3776,6 +3776,7 @@ va à la catégorie le volume
 va à la catégorie le wifi
 va à la catégorie les ajouts
 va à la catégorie les feux de détresse
+va à la catégorie les gestes de conduite
 va à la catégorie les lumières
 va à la catégorie les modes
 va à la catégorie les médias
@@ -3785,8 +3786,8 @@ va à la catégorie lumière
 va à la catégorie lumières
 va à la catégorie modes
 va à la catégorie monitor
-va à la catégorie mouse 2
 va à la catégorie mouse 1
+va à la catégorie mouse 2
 va à la catégorie médias
 va à la catégorie nouveau smartphone
 va à la catégorie néerlandais
@@ -3825,8 +3826,8 @@ va à lumière
 va à lumières
 va à modes
 va à monitor
-va à mouse 2
 va à mouse 1
+va à mouse 2
 va à musique
 va à musique volume
 va à médias
@@ -3938,7 +3939,6 @@ vas à la catégorie langue
 vas à la catégorie le calibrage
 vas à la catégorie le email d'urgence
 vas à la catégorie le geste de conduite
-vas à la catégorie les gestes de conduite
 vas à la catégorie le nouveau smartphone
 vas à la catégorie le siège
 vas à la catégorie le soutien
@@ -3946,6 +3946,7 @@ vas à la catégorie le volume
 vas à la catégorie le wifi
 vas à la catégorie les ajouts
 vas à la catégorie les feux de détresse
+vas à la catégorie les gestes de conduite
 vas à la catégorie les lumières
 vas à la catégorie les modes
 vas à la catégorie les médias
@@ -3955,8 +3956,8 @@ vas à la catégorie lumière
 vas à la catégorie lumières
 vas à la catégorie modes
 vas à la catégorie monitor
-vas à la catégorie mouse 2
 vas à la catégorie mouse 1
+vas à la catégorie mouse 2
 vas à la catégorie médias
 vas à la catégorie nouveau smartphone
 vas à la catégorie néerlandais
@@ -3978,8 +3979,8 @@ vas à lumière
 vas à lumières
 vas à modes
 vas à monitor
-vas à mouse 2
 vas à mouse 1
+vas à mouse 2
 vas à médias
 vas à nouveau smartphone
 vas à néerlandais
@@ -4149,7 +4150,6 @@ volume élevé
 volume élevé s'il vous plaît
 vous
 wifi
-0
 à
 à canal suivant
 à chanson suivante

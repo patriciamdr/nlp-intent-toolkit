@@ -1,0 +1,90 @@
+previous <START:next_prev_target> channel <END>
+previous <START:next_prev_target> program <END>
+back to previous <START:next_prev_target> channel <END>
+back to previous <START:next_prev_target> program <END>
+back to the previous <START:next_prev_target> channel <END>
+back to the previous <START:next_prev_target> program <END>
+change back to previous <START:next_prev_target> channel <END>
+change back to previous <START:next_prev_target> program <END>
+change back to the previous <START:next_prev_target> channel <END>
+change back to the previous <START:next_prev_target> program <END>
+change to previous <START:next_prev_target> channel <END>
+change to previous <START:next_prev_target> program <END>
+change to the previous <START:next_prev_target> channel <END>
+change to the previous <START:next_prev_target> program <END>
+go back to previous <START:next_prev_target> channel <END>
+go back to previous <START:next_prev_target> program <END>
+go back to the previous <START:next_prev_target> channel <END>
+go back to the previous <START:next_prev_target> program <END>
+go to previous <START:next_prev_target> channel <END>
+go to previous <START:next_prev_target> program <END>
+go to the previous <START:next_prev_target> channel <END>
+go to the previous <START:next_prev_target> program <END>
+return to previous <START:next_prev_target> channel <END>
+return to previous <START:next_prev_target> program <END>
+return to the previous <START:next_prev_target> channel <END>
+return to the previous <START:next_prev_target> program <END>
+select previous <START:next_prev_target> channel <END>
+select previous <START:next_prev_target> channel <END> again
+select previous <START:next_prev_target> program <END>
+select previous <START:next_prev_target> program <END> again
+select the previous <START:next_prev_target> channel <END>
+select the previous <START:next_prev_target> channel <END> again
+select the previous <START:next_prev_target> program <END>
+select the previous <START:next_prev_target> program <END> again
+show previous <START:next_prev_target> channel <END>
+show previous <START:next_prev_target> channel <END> again
+show previous <START:next_prev_target> program <END>
+show previous <START:next_prev_target> program <END> again
+show the previous <START:next_prev_target> channel <END>
+show the previous <START:next_prev_target> channel <END> again
+show the previous <START:next_prev_target> program <END>
+show the previous <START:next_prev_target> program <END> again
+switch back to previous <START:next_prev_target> channel <END>
+switch back to previous <START:next_prev_target> program <END>
+switch back to the previous <START:next_prev_target> channel <END>
+switch back to the previous <START:next_prev_target> program <END>
+switch to previous <START:next_prev_target> channel <END>
+switch to previous <START:next_prev_target> program <END>
+switch to the previous <START:next_prev_target> channel <END>
+switch to the previous <START:next_prev_target> program <END>
+the previous <START:next_prev_target> channel <END>
+the previous <START:next_prev_target> program <END>
+to previous <START:next_prev_target> channel <END>
+to previous <START:next_prev_target> program <END>
+to the previous <START:next_prev_target> channel <END>
+to the previous <START:next_prev_target> program <END>
+ previous <START:next_prev_target> song <END>
+the previous <START:next_prev_target> song <END>
+to previous <START:next_prev_target> song <END>
+to the previous <START:next_prev_target> song <END>
+choose previous <START:next_prev_target> song <END>
+choose the previous <START:next_prev_target> song <END>
+back to previous <START:next_prev_target> song <END>
+back to the previous <START:next_prev_target> song <END>
+go to previous <START:next_prev_target> song <END>
+go to the previous <START:next_prev_target> song <END>
+go back to previous <START:next_prev_target> song <END>
+go back to the previous <START:next_prev_target> song <END>
+go to previously played <START:next_prev_target> song <END>
+go to the previously played <START:next_prev_target> song <END>
+go back to previously played <START:next_prev_target> song <END>
+go back to the previously played <START:next_prev_target> song <END>
+change to previous <START:next_prev_target> song <END>
+change back to previous <START:next_prev_target> song <END>
+change to the previous <START:next_prev_target> song <END>
+change back to the previous <START:next_prev_target> song <END>
+select previous <START:next_prev_target> song <END>
+select previous <START:next_prev_target> song <END> again
+select the previous <START:next_prev_target> song <END>
+select the previous <START:next_prev_target> song <END> again
+switch to previous <START:next_prev_target> song <END>
+switch back to previous <START:next_prev_target> song <END>
+switch to the previous <START:next_prev_target> song <END>
+switch back to the previous <START:next_prev_target> song <END>
+play previous <START:next_prev_target> song <END>
+play previous <START:next_prev_target> song <END> again
+play the previous <START:next_prev_target> song <END>
+play the previous <START:next_prev_target> song <END> again
+return to previous <START:next_prev_target> song <END>
+return to the previous <START:next_prev_target> song <END>

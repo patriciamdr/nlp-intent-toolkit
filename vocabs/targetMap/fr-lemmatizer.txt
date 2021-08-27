@@ -2,22 +2,17 @@ l'internet:wifi
 internet:wifi
 d'internet:wifi
 l'inclinaison:inclinaison
-l'email:email
-l'app:app
+l'email d'urgence:email d'urgence
+l'app info:app info
 lumières:lumière
-détresset:détresse
-douplage:doublage
-néerlandaise:néerlandais
 l'administration:admin
 administration:admin
 l'avancé:avancé
 musical:musique
-suivante:prochaine
-suivant:prochaine
-prochain:prochaine
-précédent:précédente
 fenêtres:fenêtre
 rideaux:rideau
 actualisation:synchronisation
 l'actualisation:synchronisation
-gestes:geste
+gestes de conduite:geste de conduite
+programme:chaîne
+canal:chaîne
