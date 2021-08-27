@@ -1,0 +1,224 @@
+prochain <START:next_prev_target> canal <END>
+prochain <START:next_prev_target> programme <END>
+prochaine <START:next_prev_target> chanson <END>
+prochaine <START:next_prev_target> chaîne <END>
+aller à <START:next_prev_target> canal <END> suivant
+aller à <START:next_prev_target> chanson <END> suivante
+aller à <START:next_prev_target> chaîne <END> suivante
+aller à la <START:next_prev_target> canal <END> suivant
+aller à la <START:next_prev_target> chanson <END> suivante
+aller à la <START:next_prev_target> chaîne <END> suivante
+aller à la prochain <START:next_prev_target> canal <END>
+aller à la prochain <START:next_prev_target> programme <END>
+aller à la prochaine <START:next_prev_target> chanson <END>
+aller à la prochaine <START:next_prev_target> chaîne <END>
+aller à la <START:next_prev_target> programme <END> suivant
+aller à prochain <START:next_prev_target> canal <END>
+aller à prochain <START:next_prev_target> programme <END>
+aller à prochaine <START:next_prev_target> chanson <END>
+aller à prochaine <START:next_prev_target> chaîne <END>
+aller à <START:next_prev_target> programme <END> suivant
+<START:next_prev_target> canal <END> suivant
+change à <START:next_prev_target> canal <END> suivant
+change à <START:next_prev_target> chanson <END> suivante
+change à <START:next_prev_target> chaîne <END> suivante
+change à la <START:next_prev_target> canal <END> suivant
+change à la <START:next_prev_target> chanson <END> suivante
+change à la <START:next_prev_target> chaîne <END> suivante
+change à la prochain <START:next_prev_target> canal <END>
+change à la prochain <START:next_prev_target> programme <END>
+change à la prochaine <START:next_prev_target> chanson <END>
+change à la prochaine <START:next_prev_target> chaîne <END>
+change à la <START:next_prev_target> programme <END> suivant
+change à prochain <START:next_prev_target> canal <END>
+change à prochain <START:next_prev_target> programme <END>
+change à prochaine <START:next_prev_target> chanson <END>
+change à prochaine <START:next_prev_target> chaîne <END>
+change à <START:next_prev_target> programme <END> suivant
+changer à <START:next_prev_target> canal <END> suivant
+changer à <START:next_prev_target> chanson <END> suivante
+changer à <START:next_prev_target> chaîne <END> suivante
+changer à la <START:next_prev_target> canal <END> suivant
+changer à la <START:next_prev_target> chanson <END> suivante
+changer à la <START:next_prev_target> chaîne <END> suivante
+changer à la prochain <START:next_prev_target> canal <END>
+changer à la prochain <START:next_prev_target> programme <END>
+changer à la prochaine <START:next_prev_target> chanson <END>
+changer à la prochaine <START:next_prev_target> chaîne <END>
+changer à la <START:next_prev_target> programme <END> suivant
+changer à prochain <START:next_prev_target> canal <END>
+changer à prochain <START:next_prev_target> programme <END>
+changer à prochaine <START:next_prev_target> chanson <END>
+changer à prochaine <START:next_prev_target> chaîne <END>
+changer à <START:next_prev_target> programme <END> suivant
+<START:next_prev_target> chanson <END> suivante
+<START:next_prev_target> chaîne <END> suivante
+choisir <START:next_prev_target> canal <END> suivant
+choisir <START:next_prev_target> chanson <END> suivante
+choisir <START:next_prev_target> chaîne <END> suivante
+choisir la <START:next_prev_target> canal <END> suivant
+choisir la <START:next_prev_target> chanson <END> suivante
+choisir la <START:next_prev_target> chaîne <END> suivante
+choisir la prochain <START:next_prev_target> canal <END>
+choisir la prochain <START:next_prev_target> programme <END>
+choisir la prochaine <START:next_prev_target> chanson <END>
+choisir la prochaine <START:next_prev_target> chaîne <END>
+choisir la <START:next_prev_target> programme <END> suivant
+choisir prochain <START:next_prev_target> canal <END>
+choisir prochain <START:next_prev_target> programme <END>
+choisir prochaine <START:next_prev_target> chanson <END>
+choisir prochaine <START:next_prev_target> chaîne <END>
+choisir <START:next_prev_target> programme <END> suivant
+choisis <START:next_prev_target> canal <END> suivant
+choisis <START:next_prev_target> chanson <END> suivante
+choisis <START:next_prev_target> chaîne <END> suivante
+choisis la <START:next_prev_target> canal <END> suivant
+choisis la <START:next_prev_target> chanson <END> suivante
+choisis la <START:next_prev_target> chaîne <END> suivante
+choisis la prochain <START:next_prev_target> canal <END>
+choisis la prochain <START:next_prev_target> programme <END>
+choisis la prochaine <START:next_prev_target> chanson <END>
+choisis la prochaine <START:next_prev_target> chaîne <END>
+choisis la <START:next_prev_target> programme <END> suivant
+choisis prochain <START:next_prev_target> canal <END>
+choisis prochain <START:next_prev_target> programme <END>
+choisis prochaine <START:next_prev_target> chanson <END>
+choisis prochaine <START:next_prev_target> chaîne <END>
+choisis <START:next_prev_target> programme <END> suivant
+joue <START:next_prev_target> canal <END> suivant
+joue <START:next_prev_target> chanson <END> suivante
+joue <START:next_prev_target> chaîne <END> suivante
+joue la <START:next_prev_target> canal <END> suivant
+joue la <START:next_prev_target> chanson <END> suivante
+joue la <START:next_prev_target> chaîne <END> suivante
+joue la prochain <START:next_prev_target> canal <END>
+joue la prochain <START:next_prev_target> programme <END>
+joue la prochaine <START:next_prev_target> chanson <END>
+joue la prochaine <START:next_prev_target> chaîne <END>
+joue la <START:next_prev_target> programme <END> suivant
+joue prochain <START:next_prev_target> canal <END>
+joue prochain <START:next_prev_target> programme <END>
+joue prochaine <START:next_prev_target> chanson <END>
+joue prochaine <START:next_prev_target> chaîne <END>
+joue <START:next_prev_target> programme <END> suivant
+jouer <START:next_prev_target> canal <END> suivant
+jouer <START:next_prev_target> chanson <END> suivante
+jouer <START:next_prev_target> chaîne <END> suivante
+jouer la <START:next_prev_target> canal <END> suivant
+jouer la <START:next_prev_target> chanson <END> suivante
+jouer la <START:next_prev_target> chaîne <END> suivante
+jouer la prochain <START:next_prev_target> canal <END>
+jouer la prochain <START:next_prev_target> programme <END>
+jouer la prochaine <START:next_prev_target> chanson <END>
+jouer la prochaine <START:next_prev_target> chaîne <END>
+jouer la <START:next_prev_target> programme <END> suivant
+jouer prochain <START:next_prev_target> canal <END>
+jouer prochain <START:next_prev_target> programme <END>
+jouer prochaine <START:next_prev_target> chanson <END>
+jouer prochaine <START:next_prev_target> chaîne <END>
+jouer <START:next_prev_target> programme <END> suivant
+la <START:next_prev_target> canal <END> suivant
+la <START:next_prev_target> chanson <END> suivante
+la <START:next_prev_target> chaîne <END> suivante
+la prochain <START:next_prev_target> canal <END>
+la prochain <START:next_prev_target> programme <END>
+la prochaine <START:next_prev_target> chanson <END>
+la prochaine <START:next_prev_target> chaîne <END>
+la <START:next_prev_target> programme <END> suivant
+passe à <START:next_prev_target> canal <END> suivant
+passe à <START:next_prev_target> chanson <END> suivante
+passe à <START:next_prev_target> chaîne <END> suivante
+passe à la <START:next_prev_target> canal <END> suivant
+passe à la <START:next_prev_target> chanson <END> suivante
+passe à la <START:next_prev_target> chaîne <END> suivante
+passe à la prochain <START:next_prev_target> canal <END>
+passe à la prochain <START:next_prev_target> programme <END>
+passe à la prochaine <START:next_prev_target> chanson <END>
+passe à la prochaine <START:next_prev_target> chaîne <END>
+passe à la <START:next_prev_target> programme <END> suivant
+passe à prochain <START:next_prev_target> canal <END>
+passe à prochain <START:next_prev_target> programme <END>
+passe à prochaine <START:next_prev_target> chanson <END>
+passe à prochaine <START:next_prev_target> chaîne <END>
+passe à <START:next_prev_target> programme <END> suivant
+passer à <START:next_prev_target> canal <END> suivant
+passer à <START:next_prev_target> chanson <END> suivante
+passer à <START:next_prev_target> chaîne <END> suivante
+passer à la <START:next_prev_target> canal <END> suivant
+passer à la <START:next_prev_target> chanson <END> suivante
+passer à la <START:next_prev_target> chaîne <END> suivante
+passer à la prochain <START:next_prev_target> canal <END>
+passer à la prochain <START:next_prev_target> programme <END>
+passer à la prochaine <START:next_prev_target> chanson <END>
+passer à la prochaine <START:next_prev_target> chaîne <END>
+passer à la <START:next_prev_target> programme <END> suivant
+passer à prochain <START:next_prev_target> canal <END>
+passer à prochain <START:next_prev_target> programme <END>
+passer à prochaine <START:next_prev_target> chanson <END>
+passer à prochaine <START:next_prev_target> chaîne <END>
+passer à <START:next_prev_target> programme <END> suivant
+<START:next_prev_target> programme <END> suivant
+sélectionne <START:next_prev_target> canal <END> suivant
+sélectionne <START:next_prev_target> chanson <END> suivante
+sélectionne <START:next_prev_target> chaîne <END> suivante
+sélectionne la <START:next_prev_target> canal <END> suivant
+sélectionne la <START:next_prev_target> chanson <END> suivante
+sélectionne la <START:next_prev_target> chaîne <END> suivante
+sélectionne la prochain <START:next_prev_target> canal <END>
+sélectionne la prochain <START:next_prev_target> programme <END>
+sélectionne la prochaine <START:next_prev_target> chanson <END>
+sélectionne la prochaine <START:next_prev_target> chaîne <END>
+sélectionne la <START:next_prev_target> programme <END> suivant
+sélectionne prochain <START:next_prev_target> canal <END>
+sélectionne prochain <START:next_prev_target> programme <END>
+sélectionne prochaine <START:next_prev_target> chanson <END>
+sélectionne prochaine <START:next_prev_target> chaîne <END>
+sélectionne <START:next_prev_target> programme <END> suivant
+sélectionner <START:next_prev_target> canal <END> suivant
+sélectionner <START:next_prev_target> chanson <END> suivante
+sélectionner <START:next_prev_target> chaîne <END> suivante
+sélectionner la <START:next_prev_target> canal <END> suivant
+sélectionner la <START:next_prev_target> chanson <END> suivante
+sélectionner la <START:next_prev_target> chaîne <END> suivante
+sélectionner la prochain <START:next_prev_target> canal <END>
+sélectionner la prochain <START:next_prev_target> programme <END>
+sélectionner la prochaine <START:next_prev_target> chanson <END>
+sélectionner la prochaine <START:next_prev_target> chaîne <END>
+sélectionner la <START:next_prev_target> programme <END> suivant
+sélectionner prochain <START:next_prev_target> canal <END>
+sélectionner prochain <START:next_prev_target> programme <END>
+sélectionner prochaine <START:next_prev_target> chanson <END>
+sélectionner prochaine <START:next_prev_target> chaîne <END>
+sélectionner <START:next_prev_target> programme <END> suivant
+va à <START:next_prev_target> canal <END> suivant
+va à <START:next_prev_target> chanson <END> suivante
+va à <START:next_prev_target> chaîne <END> suivante
+va à la <START:next_prev_target> canal <END> suivant
+va à la <START:next_prev_target> chanson <END> suivante
+va à la <START:next_prev_target> chaîne <END> suivante
+va à la prochain <START:next_prev_target> canal <END>
+va à la prochain <START:next_prev_target> programme <END>
+va à la prochaine <START:next_prev_target> chanson <END>
+va à la prochaine <START:next_prev_target> chaîne <END>
+va à la <START:next_prev_target> programme <END> suivant
+va à prochain <START:next_prev_target> canal <END>
+va à prochain <START:next_prev_target> programme <END>
+va à prochaine <START:next_prev_target> chanson <END>
+va à prochaine <START:next_prev_target> chaîne <END>
+va à <START:next_prev_target> programme <END> suivant
+à <START:next_prev_target> canal <END> suivant
+à <START:next_prev_target> chanson <END> suivante
+à <START:next_prev_target> chaîne <END> suivante
+à la <START:next_prev_target> canal <END> suivant
+à la <START:next_prev_target> chanson <END> suivante
+à la <START:next_prev_target> chaîne <END> suivante
+à la prochain <START:next_prev_target> canal <END>
+à la prochain <START:next_prev_target> programme <END>
+à la prochaine <START:next_prev_target> chanson <END>
+à la prochaine <START:next_prev_target> chaîne <END>
+à la <START:next_prev_target> programme <END> suivant
+à prochain <START:next_prev_target> canal <END>
+à prochain <START:next_prev_target> programme <END>
+à prochaine <START:next_prev_target> chanson <END>
+à prochaine <START:next_prev_target> chaîne <END>
+à <START:next_prev_target> programme <END> suivant

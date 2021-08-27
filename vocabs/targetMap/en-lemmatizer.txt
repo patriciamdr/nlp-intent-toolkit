@@ -34,4 +34,4 @@ table lamps:table lamp
 bed lamps:bed lamp
 music sources:music source
 setting:settings
-previously:previous
+program:channel

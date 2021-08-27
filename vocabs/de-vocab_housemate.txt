@@ -11,11 +11,11 @@
 9
 abspielen
 abzuspielen
-add
 add-ons
 add-ons tv
 add-ons öffnen
 add-ons tv öffnen
+add-ons öffnen
 admin
 admin öffnen
 administration
@@ -218,6 +218,9 @@ bitte erhöhe die lautstärke
 bitte erhöhe die lautstärke der musik
 bitte erhöhe die lautstärke des fernsehers
 bitte erhöhe die lautstärke des fernsehers
+bitte erhöhe die lautstärke
+bitte erhöhe die lautstärke der musik
+bitte erhöhe die lautstärke des fernsehers
 bitte erhöhe die lautstärke des tv
 bitte erhöhe die musik lautstärke
 bitte erhöhe die tv lautstärke
@@ -227,6 +230,9 @@ bitte erhöhe lautstärke
 bitte erhöhe lautstärke
 bitte erhöhe lautstärke der musik
 bitte erhöhe lautstärke des fernsehers
+bitte erhöhe lautstärke des fernsehers
+bitte erhöhe lautstärke
+bitte erhöhe lautstärke der musik
 bitte erhöhe lautstärke des fernsehers
 bitte erhöhe lautstärke des tv
 bitte erhöhe musik lautstärke
@@ -499,6 +505,9 @@ bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des housemate tv
 bitte reduziere die lautstärke des tv
+bitte reduziere die lautstärke
+bitte reduziere die lautstärke der musik
+bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des tv
 bitte reduziere die musik lautstärke
 bitte reduziere die tv lautstärke
@@ -984,6 +993,9 @@ bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des housemate tv
 bitte verringere die lautstärke des tv
+bitte verringere die lautstärke
+bitte verringere die lautstärke der musik
+bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des tv
 bitte verringere die musik lautstärke
 bitte verringere die tv lautstärke
@@ -2072,6 +2084,9 @@ erhöhe bitte die lautstärke
 erhöhe bitte die lautstärke der musik
 erhöhe bitte die lautstärke des fernsehers
 erhöhe bitte die lautstärke des fernsehers
+erhöhe bitte die lautstärke
+erhöhe bitte die lautstärke der musik
+erhöhe bitte die lautstärke des fernsehers
 erhöhe bitte die lautstärke des tv
 erhöhe bitte die musik lautstärke
 erhöhe bitte die tv lautstärke
@@ -2100,6 +2115,13 @@ erhöhe die lautstärke des fernsehers
 erhöhe die lautstärke des fernsehers bitte
 erhöhe die lautstärke des housemate tv
 erhöhe die lautstärke des tv
+erhöhe die höhe des betts
+erhöhe die lautstärke
+erhöhe die lautstärke bitte
+erhöhe die lautstärke der musik
+erhöhe die lautstärke der musik bitte
+erhöhe die lautstärke des fernsehers
+erhöhe die lautstärke des fernsehers bitte
 erhöhe die lautstärke des tv
 erhöhe die lautstärke des tv bitte
 erhöhe die musik lautstärke
@@ -2123,6 +2145,12 @@ erhöhe lautstärke des fernsehers
 erhöhe lautstärke des fernsehers bitte
 erhöhe lautstärke des housemate tv
 erhöhe lautstärke des tv
+erhöhe lautstärke
+erhöhe lautstärke bitte
+erhöhe lautstärke der musik
+erhöhe lautstärke der musik bitte
+erhöhe lautstärke des fernsehers
+erhöhe lautstärke des fernsehers bitte
 erhöhe lautstärke des tv
 erhöhe lautstärke des tv bitte
 erhöhe musik lautstärke
@@ -3110,6 +3138,7 @@ mach den fernseher an
 mach den fernseher aus
 mach den fernseher leiser
 mach den housemate tv leiser
+mach den fernseher leiser
 mach den tv an
 mach den tv aus
 mach den tv leiser
@@ -3129,6 +3158,8 @@ mach die housemate tv lautstärke leiser
 mach die lautstärke der musik leiser
 mach die lautstärke des fernsehers leiser
 mach die lautstärke des housemate tv leiser
+mach die lautstärke der musik leiser
+mach die lautstärke des fernsehers leiser
 mach die lautstärke des tv leiser
 mach die lautstärke leiser
 mach die musik an
@@ -3612,6 +3643,9 @@ reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des housemate tv
 reduziere bitte die lautstärke des tv
+reduziere bitte die lautstärke
+reduziere bitte die lautstärke der musik
+reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des tv
 reduziere bitte die musik lautstärke
 reduziere bitte die tv lautstärke
@@ -3639,6 +3673,13 @@ reduziere die lautstärke des fernsehers bitte
 reduziere die lautstärke des housemate tv
 reduziere die lautstärke des housemate tv bitte
 reduziere die lautstärke des tv
+reduziere die höhe des betts
+reduziere die lautstärke
+reduziere die lautstärke bitte
+reduziere die lautstärke der musik
+reduziere die lautstärke der musik bitte
+reduziere die lautstärke des fernsehers
+reduziere die lautstärke des fernsehers bitte
 reduziere die lautstärke des tv
 reduziere die lautstärke des tv bitte
 reduziere die musik lautstärke
@@ -5001,6 +5042,9 @@ verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des housemate tv
 verringere bitte die lautstärke des tv
+verringere bitte die lautstärke
+verringere bitte die lautstärke der musik
+verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des tv
 verringere bitte die musik lautstärke
 verringere bitte die tv lautstärke
@@ -5028,6 +5072,13 @@ verringere die lautstärke des fernsehers bitte
 verringere die lautstärke des housemate tv
 verringere die lautstärke des housemate tv bitte
 verringere die lautstärke des tv
+verringere die höhe des betts
+verringere die lautstärke
+verringere die lautstärke bitte
+verringere die lautstärke der musik
+verringere die lautstärke der musik bitte
+verringere die lautstärke des fernsehers
+verringere die lautstärke des fernsehers bitte
 verringere die lautstärke des tv
 verringere die lautstärke des tv bitte
 verringere die musik lautstärke
@@ -5854,6 +5905,7 @@ zu add-ons
 zu add-ons tv
 zu add-ons bitte
 zu add-ons tv bitte
+zu add-ons bitte
 zu admin
 zu admin bitte
 zu administration

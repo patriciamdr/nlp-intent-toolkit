@@ -35,8 +35,10 @@ app update
 app updating
 back
 back to previous channel
+back to previous program
 back to previous song
 back to the previous channel
+back to the previous program
 back to the previous song
 basic
 bed
@@ -97,12 +99,16 @@ category volume
 category window
 change
 change back to previous channel
+change back to previous program
 change back to previous song
 change back to the previous channel
+change back to the previous program
 change back to the previous song
 change further to next channel
+change further to next program
 change further to next song
 change further to the next channel
+change further to the next program
 change further to the next song
 change language
 change language dutch
@@ -311,12 +317,16 @@ change to english
 change to french
 change to german
 change to next channel
+change to next program
 change to next song
 change to previous channel
+change to previous program
 change to previous song
 change to the next channel
+change to the next program
 change to the next song
 change to the previous channel
+change to the previous program
 change to the previous song
 change tv volume
 change tv volume 0
@@ -642,16 +652,20 @@ connection
 contacts
 continue
 continue further to next channel
+continue further to next program
 continue further to next song
 continue further to the next channel
+continue further to the next program
 continue further to the next song
 continue music
 continue playing music
 continue playing the music
 continue the music
 continue to next channel
+continue to next program
 continue to next song
 continue to the next channel
+continue to the next program
 continue to the next song
 control
 curtain
@@ -837,8 +851,10 @@ fan on
 for
 forward
 forward to next channel
+forward to next program
 forward to next song
 forward to the next channel
+forward to the next program
 forward to the next song
 french
 french please
@@ -861,22 +877,30 @@ glass syncing
 glass update
 glass updating
 go ahead to next channel
+go ahead to next program
 go ahead to next song
 go ahead to the next channel
+go ahead to the next program
 go ahead to the next song
 go back to previous channel
+go back to previous program
 go back to previous song
 go back to previously played song
 go back to the previous channel
+go back to the previous program
 go back to the previous song
 go back to the previously played song
 go forward to next channel
+go forward to next program
 go forward to next song
 go forward to the next channel
+go forward to the next program
 go forward to the next song
 go further to next channel
+go further to next program
 go further to next song
 go further to the next channel
+go further to the next program
 go further to the next song
 go to
 go to add-ons
@@ -1019,6 +1043,7 @@ go to music source
 go to music sources
 go to new phone
 go to next channel
+go to next program
 go to next song
 go to nod
 go to nod calibration
@@ -1026,6 +1051,7 @@ go to nods
 go to nods calibration
 go to pair
 go to previous channel
+go to previous program
 go to previous song
 go to previously played song
 go to room light
@@ -1042,8 +1068,10 @@ go to the hazard lights menu
 go to the lights
 go to the lights menu
 go to the next channel
+go to the next program
 go to the next song
 go to the previous channel
+go to the previous program
 go to the previous song
 go to the previously played song
 go to the settings
@@ -1351,8 +1379,10 @@ mouse 1
 mouse 2
 move
 move on to next channel
+move on to next program
 move on to next song
 move on to the next channel
+move on to the next program
 move on to the next song
 munevo
 music
@@ -1554,6 +1584,7 @@ new
 new phone
 next
 next channel
+next program
 next song
 nod
 nod calibration
@@ -2088,12 +2119,15 @@ position
 power
 previous
 previous channel
+previous program
 previous song
 previously
 proceed
 proceed to next channel
+proceed to next program
 proceed to next song
 proceed to the next channel
+proceed to the next program
 proceed to the next song
 radiator
 radiator off
@@ -2228,8 +2262,10 @@ reduce volume tv
 reduce volume tv
 return
 return to previous channel
+return to previous program
 return to previous song
 return to the previous channel
+return to the previous program
 return to the previous song
 room
 room light
@@ -2339,6 +2375,7 @@ select music source
 select music sources
 select new phone
 select next channel
+select next program
 select next song
 select nod
 select nod calibration
@@ -2347,6 +2384,8 @@ select nods calibration
 select pair
 select previous channel
 select previous channel again
+select previous program
+select previous program again
 select previous song
 select previous song again
 select room light
@@ -2357,9 +2396,12 @@ select support
 select table lamp
 select table lamps
 select the next channel
+select the next program
 select the next song
 select the previous channel
 select the previous channel again
+select the previous program
+select the previous program again
 select the previous song
 select the previous song again
 select tilt
@@ -2736,11 +2778,17 @@ set volume to 9
 settings
 show
 show next channel
+show next program
 show previous channel
 show previous channel again
+show previous program
+show previous program again
 show the next channel
+show the next program
 show the previous channel
 show the previous channel again
+show the previous program
+show the previous program again
 song
 source
 sources
@@ -2760,7 +2808,11 @@ start nods calibration
 start off music
 start off the music
 start playing music
+start playing next song
+start playing next song again
 start playing the music
+start playing the next song
+start playing the next song again
 start search for connection
 start search for internet connection
 start search for wifi
@@ -2808,8 +2860,10 @@ switch
 switch alarm off
 switch alarm on
 switch back to previous channel
+switch back to previous program
 switch back to previous song
 switch back to the previous channel
+switch back to the previous program
 switch back to the previous song
 switch bed lamp off
 switch bed lamp on
@@ -3029,6 +3083,7 @@ switch to music source
 switch to music sources
 switch to new phone
 switch to next channel
+switch to next program
 switch to next song
 switch to nod
 switch to nod calibration
@@ -3036,6 +3091,7 @@ switch to nods
 switch to nods calibration
 switch to pair
 switch to previous channel
+switch to previous program
 switch to previous song
 switch to room light
 switch to room lights
@@ -3045,8 +3101,10 @@ switch to support
 switch to table lamp
 switch to table lamps
 switch to the next channel
+switch to the next program
 switch to the next song
 switch to the previous channel
+switch to the previous program
 switch to the previous song
 switch to tilt
 switch to tilt calibration
@@ -3313,8 +3371,10 @@ the door opened now
 the music off
 the music on
 the next channel
+the next program
 the next song
 the previous channel
+the previous program
 the previous song
 the window open
 the window open now
@@ -3423,6 +3483,7 @@ to music source
 to music sources
 to new phone
 to next channel
+to next program
 to next song
 to nod
 to nod calibration
@@ -3432,6 +3493,7 @@ to pair
 to please category volume
 to please volume
 to previous channel
+to previous program
 to previous song
 to room light
 to room lights
@@ -3442,8 +3504,10 @@ to support
 to table lamp
 to table lamps
 to the next channel
+to the next program
 to the next song
 to the previous channel
+to the previous program
 to the previous song
 to tilt
 to tilt calibration
