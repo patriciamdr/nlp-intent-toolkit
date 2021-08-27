@@ -13,7 +13,9 @@ abspielen
 abzuspielen
 add
 add-ons
+add-ons tv
 add-ons öffnen
+add-ons tv öffnen
 admin
 admin öffnen
 administration
@@ -177,6 +179,10 @@ bitte dreh die fernseher lautstärke auf
 bitte dreh die fernseher lautstärke herunter
 bitte dreh die fernseher lautstärke hoch
 bitte dreh die fernseher lautstärke runter
+bitte dreh die housemate tv lautstärke auf
+bitte dreh die housemate tv lautstärke herunter
+bitte dreh die housemate tv lautstärke hoch
+bitte dreh die housemate tv lautstärke runter
 bitte dreh die lautstärke auf
 bitte dreh die lautstärke der musik auf
 bitte dreh die lautstärke der musik herunter
@@ -186,6 +192,8 @@ bitte dreh die lautstärke des fernsehers auf
 bitte dreh die lautstärke des fernsehers herunter
 bitte dreh die lautstärke des fernsehers hoch
 bitte dreh die lautstärke des fernsehers runter
+bitte dreh die lautstärke des housemate tv herunter
+bitte dreh die lautstärke des housemate tv runter
 bitte dreh die lautstärke des tv auf
 bitte dreh die lautstärke des tv herunter
 bitte dreh die lautstärke des tv hoch
@@ -204,15 +212,21 @@ bitte dreh die tv lautstärke runter
 bitte dreh lautstärke auf
 bitte englisch
 bitte erhöhe die fernseher lautstärke
+bitte erhöhe die housemate tv lautstärke
+bitte erhöhe die lautstärke
 bitte erhöhe die lautstärke
 bitte erhöhe die lautstärke der musik
+bitte erhöhe die lautstärke des fernsehers
 bitte erhöhe die lautstärke des fernsehers
 bitte erhöhe die lautstärke des tv
 bitte erhöhe die musik lautstärke
 bitte erhöhe die tv lautstärke
 bitte erhöhe fernseher lautstärke
+bitte erhöhe housemate tv lautstärke
+bitte erhöhe lautstärke
 bitte erhöhe lautstärke
 bitte erhöhe lautstärke der musik
+bitte erhöhe lautstärke des fernsehers
 bitte erhöhe lautstärke des fernsehers
 bitte erhöhe lautstärke des tv
 bitte erhöhe musik lautstärke
@@ -274,6 +288,17 @@ bitte fernseher lautstärke verringern
 bitte fernseher lautstärke weniger
 bitte französisch
 bitte holländisch
+bitte housemate tv lautstärke aufdrehen
+bitte housemate tv lautstärke erhöhen
+bitte housemate tv lautstärke herunter drehen
+bitte housemate tv lautstärke hoch drehen
+bitte housemate tv lautstärke höher
+bitte housemate tv lautstärke lauter
+bitte housemate tv lautstärke leiser
+bitte housemate tv lautstärke reduzieren
+bitte housemate tv lautstärke runter drehen
+bitte housemate tv lautstärke verringern
+bitte housemate tv lautstärke weniger
 bitte kalibriere neigen
 bitte kalibriere nicken
 bitte lautstärke 0
@@ -365,6 +390,12 @@ bitte lautstärke des fernsehers reduzieren
 bitte lautstärke des fernsehers runter drehen
 bitte lautstärke des fernsehers verringern
 bitte lautstärke des fernsehers weniger
+bitte lautstärke des housemate tv herunter drehen
+bitte lautstärke des housemate tv leiser
+bitte lautstärke des housemate tv reduzieren
+bitte lautstärke des housemate tv runter drehen
+bitte lautstärke des housemate tv verringern
+bitte lautstärke des housemate tv weniger
 bitte lautstärke des tv 0
 bitte lautstärke des tv 1
 bitte lautstärke des tv 10
@@ -460,9 +491,14 @@ bitte neigen kalibrieren
 bitte nicken kalibrieren
 bitte niederländisch
 bitte reduziere die fernseher lautstärke
+bitte reduziere die housemate tv lautstärke
+bitte reduziere die lautstärke
 bitte reduziere die lautstärke
 bitte reduziere die lautstärke der musik
 bitte reduziere die lautstärke des fernsehers
+bitte reduziere die lautstärke des fernsehers
+bitte reduziere die lautstärke des housemate tv
+bitte reduziere die lautstärke des tv
 bitte reduziere die lautstärke des tv
 bitte reduziere die musik lautstärke
 bitte reduziere die tv lautstärke
@@ -940,13 +976,19 @@ bitte tv lautstärke runter drehen
 bitte tv lautstärke verringern
 bitte tv lautstärke weniger
 bitte verringere die fernseher lautstärke
+bitte verringere die housemate tv lautstärke
+bitte verringere die lautstärke
 bitte verringere die lautstärke
 bitte verringere die lautstärke der musik
 bitte verringere die lautstärke des fernsehers
+bitte verringere die lautstärke des fernsehers
+bitte verringere die lautstärke des housemate tv
+bitte verringere die lautstärke des tv
 bitte verringere die lautstärke des tv
 bitte verringere die musik lautstärke
 bitte verringere die tv lautstärke
 bitte zu add-ons
+bitte zu add-ons tv
 bitte zu admin
 bitte zu administration
 bitte zu android
@@ -1432,6 +1474,7 @@ brille synchronisierung
 bring
 bring mich zu
 bring mich zu add-ons
+bring mich zu add-ons tv
 bring mich zu admin
 bring mich zu administration
 bring mich zu alarm
@@ -1455,6 +1498,7 @@ bring mich zu der kategorie heizung
 bring mich zu der kategorie home
 bring mich zu der kategorie housemate
 bring mich zu der kategorie housemate app
+bring mich zu der kategorie housemate tv
 bring mich zu der kategorie intercom
 bring mich zu der kategorie musik
 bring mich zu der kategorie musikkontrolle
@@ -1488,6 +1532,7 @@ bring mich zu holländisch
 bring mich zu home
 bring mich zu housemate
 bring mich zu housemate app
+bring mich zu housemate tv
 bring mich zu iarm
 bring mich zu intercom
 bring mich zu internet
@@ -1561,6 +1606,7 @@ bring mich zur bettlampe
 bring mich zur heizung
 bring mich zur kategorie
 bring mich zur kategorie add-ons
+bring mich zur kategorie add-ons tv
 bring mich zur kategorie admin
 bring mich zur kategorie administration
 bring mich zur kategorie android
@@ -1718,6 +1764,7 @@ deutsch
 deutsch bitte
 die
 die add-ons
+die add-ons tv
 die administration
 die app info
 die bett höhe erhöhen
@@ -1856,6 +1903,10 @@ dreh bitte die fernseher lautstärke auf
 dreh bitte die fernseher lautstärke herunter
 dreh bitte die fernseher lautstärke hoch
 dreh bitte die fernseher lautstärke runter
+dreh bitte die housemate tv lautstärke auf
+dreh bitte die housemate tv lautstärke herunter
+dreh bitte die housemate tv lautstärke hoch
+dreh bitte die housemate tv lautstärke runter
 dreh bitte die lautstärke auf
 dreh bitte die lautstärke der musik auf
 dreh bitte die lautstärke der musik herunter
@@ -1865,6 +1916,8 @@ dreh bitte die lautstärke des fernsehers auf
 dreh bitte die lautstärke des fernsehers herunter
 dreh bitte die lautstärke des fernsehers hoch
 dreh bitte die lautstärke des fernsehers runter
+dreh bitte die lautstärke des housemate tv herunter
+dreh bitte die lautstärke des housemate tv runter
 dreh bitte die lautstärke des tv auf
 dreh bitte die lautstärke des tv herunter
 dreh bitte die lautstärke des tv hoch
@@ -1893,6 +1946,18 @@ dreh die fernseher lautstärke hoch
 dreh die fernseher lautstärke hoch bitte
 dreh die fernseher lautstärke runter
 dreh die fernseher lautstärke runter bitte
+dreh die housemate tv lautstärke auf
+dreh die housemate tv lautstärke auf bitte
+dreh die housemate tv lautstärke bitte auf
+dreh die housemate tv lautstärke bitte herunter
+dreh die housemate tv lautstärke bitte hoch
+dreh die housemate tv lautstärke bitte runter
+dreh die housemate tv lautstärke herunter
+dreh die housemate tv lautstärke herunter bitte
+dreh die housemate tv lautstärke hoch
+dreh die housemate tv lautstärke hoch bitte
+dreh die housemate tv lautstärke runter
+dreh die housemate tv lautstärke runter bitte
 dreh die lautstärke auf
 dreh die lautstärke auf bitte
 dreh die lautstärke bitte auf
@@ -1923,6 +1988,14 @@ dreh die lautstärke des fernsehers hoch
 dreh die lautstärke des fernsehers hoch bitte
 dreh die lautstärke des fernsehers runter
 dreh die lautstärke des fernsehers runter bitte
+dreh die lautstärke des housemate tv auf
+dreh die lautstärke des housemate tv bitte herunter
+dreh die lautstärke des housemate tv bitte runter
+dreh die lautstärke des housemate tv herunter
+dreh die lautstärke des housemate tv herunter bitte
+dreh die lautstärke des housemate tv hoch
+dreh die lautstärke des housemate tv runter
+dreh die lautstärke des housemate tv runter bitte
 dreh die lautstärke des tv auf
 dreh die lautstärke des tv auf bitte
 dreh die lautstärke des tv bitte auf
@@ -1965,6 +2038,8 @@ dreh die tv lautstärke hoch
 dreh die tv lautstärke hoch bitte
 dreh die tv lautstärke runter
 dreh die tv lautstärke runter bitte
+dreh housemate tv lautstärke auf
+dreh housemate tv lautstärke hoch
 dreh lautstärke auf
 dreh lautstärke auf bitte
 dreh lautstärke bitte auf
@@ -1991,12 +2066,16 @@ erhöhe bett neigungswinkel
 erhöhe bett steigung
 erhöhe bett winkel
 erhöhe bitte die fernseher lautstärke
+erhöhe bitte die housemate tv lautstärke
+erhöhe bitte die lautstärke
 erhöhe bitte die lautstärke
 erhöhe bitte die lautstärke der musik
+erhöhe bitte die lautstärke des fernsehers
 erhöhe bitte die lautstärke des fernsehers
 erhöhe bitte die lautstärke des tv
 erhöhe bitte die musik lautstärke
 erhöhe bitte die tv lautstärke
+erhöhe bitte lautstärke
 erhöhe bitte lautstärke
 erhöhe den bett neigungswinkel
 erhöhe den bett winkel
@@ -2007,13 +2086,20 @@ erhöhe die bett neigung
 erhöhe die bett steigung
 erhöhe die fernseher lautstärke
 erhöhe die fernseher lautstärke bitte
+erhöhe die housemate tv lautstärke
+erhöhe die housemate tv lautstärke bitte
 erhöhe die höhe des betts
+erhöhe die lautstärke
 erhöhe die lautstärke
 erhöhe die lautstärke bitte
 erhöhe die lautstärke der musik
+erhöhe die lautstärke der musik
 erhöhe die lautstärke der musik bitte
 erhöhe die lautstärke des fernsehers
+erhöhe die lautstärke des fernsehers
 erhöhe die lautstärke des fernsehers bitte
+erhöhe die lautstärke des housemate tv
+erhöhe die lautstärke des tv
 erhöhe die lautstärke des tv
 erhöhe die lautstärke des tv bitte
 erhöhe die musik lautstärke
@@ -2024,12 +2110,19 @@ erhöhe die tv lautstärke
 erhöhe die tv lautstärke bitte
 erhöhe fernseher lautstärke
 erhöhe fernseher lautstärke bitte
+erhöhe housemate tv lautstärke
+erhöhe housemate tv lautstärke bitte
+erhöhe lautstärke
 erhöhe lautstärke
 erhöhe lautstärke bitte
 erhöhe lautstärke der musik
+erhöhe lautstärke der musik
 erhöhe lautstärke der musik bitte
 erhöhe lautstärke des fernsehers
+erhöhe lautstärke des fernsehers
 erhöhe lautstärke des fernsehers bitte
+erhöhe lautstärke des housemate tv
+erhöhe lautstärke des tv
 erhöhe lautstärke des tv
 erhöhe lautstärke des tv bitte
 erhöhe musik lautstärke
@@ -2219,6 +2312,7 @@ gehe auf heizung
 gehe auf home
 gehe auf housemate
 gehe auf housemate app
+gehe auf housemate tv
 gehe auf intercom
 gehe auf musik
 gehe auf musikkontrolle
@@ -2242,6 +2336,7 @@ gehe weiter zum nächsten sender
 gehe weiter zum nächsten song
 gehe zu
 gehe zu add-ons
+gehe zu add-ons tv
 gehe zu admin
 gehe zu administration
 gehe zu alarm
@@ -2270,6 +2365,7 @@ gehe zu der kategorie heizung
 gehe zu der kategorie home
 gehe zu der kategorie housemate
 gehe zu der kategorie housemate app
+gehe zu der kategorie housemate tv
 gehe zu der kategorie intercom
 gehe zu der kategorie musik
 gehe zu der kategorie musikkontrolle
@@ -2303,12 +2399,14 @@ gehe zu holländisch
 gehe zu home
 gehe zu housemate
 gehe zu housemate app
+gehe zu housemate tv
 gehe zu iarm
 gehe zu intercom
 gehe zu internet
 gehe zu kalibrierung
 gehe zu kamera
 gehe zu kategorie add-ons
+gehe zu kategorie add-ons tv
 gehe zu kategorie admin
 gehe zu kategorie administration
 gehe zu kategorie android
@@ -2487,6 +2585,30 @@ home
 house
 housemate
 housemate app
+housemate tv
+housemate tv lautstärke aufdrehen
+housemate tv lautstärke aufdrehen bitte
+housemate tv lautstärke erhöhen
+housemate tv lautstärke erhöhen bitte
+housemate tv lautstärke herunter drehen
+housemate tv lautstärke herunter drehen bitte
+housemate tv lautstärke hoch drehen
+housemate tv lautstärke hoch drehen bitte
+housemate tv lautstärke höher
+housemate tv lautstärke höher bitte
+housemate tv lautstärke lauter
+housemate tv lautstärke lauter bitte
+housemate tv lautstärke leiser
+housemate tv lautstärke leiser bitte
+housemate tv lautstärke reduzieren
+housemate tv lautstärke reduzieren bitte
+housemate tv lautstärke runter drehen
+housemate tv lautstärke runter drehen bitte
+housemate tv lautstärke verringern
+housemate tv lautstärke verringern bitte
+housemate tv lautstärke weniger
+housemate tv lautstärke weniger bitte
+housemate tv leiser
 höhe
 höher
 iarm
@@ -2520,6 +2642,7 @@ kamera öffnen
 kanal
 kategorie
 kategorie add-ons öffnen
+kategorie add-ons tv öffnen
 kategorie admin öffnen
 kategorie administration öffnen
 kategorie alarm öffnen
@@ -2621,6 +2744,7 @@ komme zurück auf heizung
 komme zurück auf home
 komme zurück auf housemate
 komme zurück auf housemate app
+komme zurück auf housemate tv
 komme zurück auf intercom
 komme zurück auf musik
 komme zurück auf musikkontrolle
@@ -2833,6 +2957,23 @@ lautstärke des fernsehers verringern
 lautstärke des fernsehers verringern bitte
 lautstärke des fernsehers weniger
 lautstärke des fernsehers weniger bitte
+lautstärke des housemate tv aufdrehen
+lautstärke des housemate tv erhöhen
+lautstärke des housemate tv herunter drehen
+lautstärke des housemate tv herunter drehen bitte
+lautstärke des housemate tv hoch drehen
+lautstärke des housemate tv höher
+lautstärke des housemate tv lauter
+lautstärke des housemate tv leiser
+lautstärke des housemate tv leiser bitte
+lautstärke des housemate tv reduzieren
+lautstärke des housemate tv reduzieren bitte
+lautstärke des housemate tv runter drehen
+lautstärke des housemate tv runter drehen bitte
+lautstärke des housemate tv verringern
+lautstärke des housemate tv verringern bitte
+lautstärke des housemate tv weniger
+lautstärke des housemate tv weniger bitte
 lautstärke des tv 0
 lautstärke des tv 0 bitte
 lautstärke des tv 1
@@ -2968,6 +3109,7 @@ mach den alarm aus
 mach den fernseher an
 mach den fernseher aus
 mach den fernseher leiser
+mach den housemate tv leiser
 mach den tv an
 mach den tv aus
 mach den tv leiser
@@ -2983,8 +3125,10 @@ mach die fenster zu
 mach die fernseher lautstärke leiser
 mach die heizung an
 mach die heizung aus
+mach die housemate tv lautstärke leiser
 mach die lautstärke der musik leiser
 mach die lautstärke des fernsehers leiser
+mach die lautstärke des housemate tv leiser
 mach die lautstärke des tv leiser
 mach die lautstärke leiser
 mach die musik an
@@ -3175,6 +3319,7 @@ nach
 navigiere
 navigiere zu
 navigiere zu add-ons
+navigiere zu add-ons tv
 navigiere zu admin
 navigiere zu administration
 navigiere zu alarm
@@ -3199,6 +3344,7 @@ navigiere zu der kategorie heizung
 navigiere zu der kategorie home
 navigiere zu der kategorie housemate
 navigiere zu der kategorie housemate app
+navigiere zu der kategorie housemate tv
 navigiere zu der kategorie intercom
 navigiere zu der kategorie musik
 navigiere zu der kategorie musikkontrolle
@@ -3232,12 +3378,14 @@ navigiere zu holländisch
 navigiere zu home
 navigiere zu housemate
 navigiere zu housemate app
+navigiere zu housemate tv
 navigiere zu iarm
 navigiere zu intercom
 navigiere zu internet
 navigiere zu kalibrierung
 navigiere zu kamera
 navigiere zu kategorie add-ons
+navigiere zu kategorie add-ons tv
 navigiere zu kategorie admin
 navigiere zu kategorie administration
 navigiere zu kategorie android
@@ -3456,9 +3604,14 @@ reduziere bett neigungswinkel
 reduziere bett steigung
 reduziere bett winkel
 reduziere bitte die fernseher lautstärke
+reduziere bitte die housemate tv lautstärke
+reduziere bitte die lautstärke
 reduziere bitte die lautstärke
 reduziere bitte die lautstärke der musik
 reduziere bitte die lautstärke des fernsehers
+reduziere bitte die lautstärke des fernsehers
+reduziere bitte die lautstärke des housemate tv
+reduziere bitte die lautstärke des tv
 reduziere bitte die lautstärke des tv
 reduziere bitte die musik lautstärke
 reduziere bitte die tv lautstärke
@@ -3471,13 +3624,21 @@ reduziere die bett neigung
 reduziere die bett steigung
 reduziere die fernseher lautstärke
 reduziere die fernseher lautstärke bitte
+reduziere die housemate tv lautstärke
+reduziere die housemate tv lautstärke bitte
 reduziere die höhe des betts
+reduziere die lautstärke
 reduziere die lautstärke
 reduziere die lautstärke bitte
 reduziere die lautstärke der musik
+reduziere die lautstärke der musik
 reduziere die lautstärke der musik bitte
 reduziere die lautstärke des fernsehers
+reduziere die lautstärke des fernsehers
 reduziere die lautstärke des fernsehers bitte
+reduziere die lautstärke des housemate tv
+reduziere die lautstärke des housemate tv bitte
+reduziere die lautstärke des tv
 reduziere die lautstärke des tv
 reduziere die lautstärke des tv bitte
 reduziere die musik lautstärke
@@ -4832,9 +4993,14 @@ verringere bett neigungswinkel
 verringere bett steigung
 verringere bett winkel
 verringere bitte die fernseher lautstärke
+verringere bitte die housemate tv lautstärke
+verringere bitte die lautstärke
 verringere bitte die lautstärke
 verringere bitte die lautstärke der musik
 verringere bitte die lautstärke des fernsehers
+verringere bitte die lautstärke des fernsehers
+verringere bitte die lautstärke des housemate tv
+verringere bitte die lautstärke des tv
 verringere bitte die lautstärke des tv
 verringere bitte die musik lautstärke
 verringere bitte die tv lautstärke
@@ -4847,13 +5013,21 @@ verringere die bett neigung
 verringere die bett steigung
 verringere die fernseher lautstärke
 verringere die fernseher lautstärke bitte
+verringere die housemate tv lautstärke
+verringere die housemate tv lautstärke bitte
 verringere die höhe des betts
+verringere die lautstärke
 verringere die lautstärke
 verringere die lautstärke bitte
 verringere die lautstärke der musik
+verringere die lautstärke der musik
 verringere die lautstärke der musik bitte
 verringere die lautstärke des fernsehers
+verringere die lautstärke des fernsehers
 verringere die lautstärke des fernsehers bitte
+verringere die lautstärke des housemate tv
+verringere die lautstärke des housemate tv bitte
+verringere die lautstärke des tv
 verringere die lautstärke des tv
 verringere die lautstärke des tv bitte
 verringere die musik lautstärke
@@ -4912,6 +5086,7 @@ warnblinklicht
 warnblinklichter
 wechsel
 wechsel zu add-ons
+wechsel zu add-ons tv
 wechsel zu admin
 wechsel zu administration
 wechsel zu alarm
@@ -4933,6 +5108,7 @@ wechsel zu der kategorie heizung
 wechsel zu der kategorie home
 wechsel zu der kategorie housemate
 wechsel zu der kategorie housemate app
+wechsel zu der kategorie housemate tv
 wechsel zu der kategorie intercom
 wechsel zu der kategorie musik
 wechsel zu der kategorie musikkontrolle
@@ -4966,6 +5142,7 @@ wechsel zu holländisch
 wechsel zu home
 wechsel zu housemate
 wechsel zu housemate app
+wechsel zu housemate tv
 wechsel zu iarm
 wechsel zu intercom
 wechsel zu internet
@@ -5052,6 +5229,7 @@ wechsel zur bettlampe
 wechsel zur heizung
 wechsel zur kategorie
 wechsel zur kategorie add-ons
+wechsel zur kategorie add-ons tv
 wechsel zur kategorie admin
 wechsel zur kategorie administration
 wechsel zur kategorie android
@@ -5142,6 +5320,7 @@ wlan verbindung herstellen
 wlan öffnen
 wähle
 wähle add-ons
+wähle add-ons tv
 wähle admin
 wähle administration
 wähle alarm
@@ -5190,6 +5369,7 @@ wähle die kalibrierung
 wähle die kamera
 wähle die kategorie
 wähle die kategorie add-ons
+wähle die kategorie add-ons tv
 wähle die kategorie admin
 wähle die kategorie administration
 wähle die kategorie alarm
@@ -5212,6 +5392,7 @@ wähle die kategorie heizung
 wähle die kategorie home
 wähle die kategorie housemate
 wähle die kategorie housemate app
+wähle die kategorie housemate tv
 wähle die kategorie iarm
 wähle die kategorie intercom
 wähle die kategorie internet
@@ -5316,6 +5497,7 @@ wähle holländisch aus
 wähle home
 wähle housemate
 wähle housemate app
+wähle housemate tv
 wähle iarm
 wähle intercom
 wähle internet
@@ -5323,6 +5505,7 @@ wähle kalibrierung
 wähle kamera
 wähle kategorie
 wähle kategorie add-ons
+wähle kategorie add-ons tv
 wähle kategorie admin
 wähle kategorie administration
 wähle kategorie android
@@ -5440,6 +5623,7 @@ wähle warnblinker
 wähle wlan
 zeige
 zeige add-ons
+zeige add-ons tv
 zeige admin
 zeige administration
 zeige alarm
@@ -5477,6 +5661,7 @@ zeige den vorherigen sender
 zeige der ventilator
 zeige die
 zeige die add-ons
+zeige die add-ons tv
 zeige die administration
 zeige die app info
 zeige die bettlampe
@@ -5497,6 +5682,7 @@ zeige die kategorie heizung
 zeige die kategorie home
 zeige die kategorie housemate
 zeige die kategorie housemate app
+zeige die kategorie housemate tv
 zeige die kategorie intercom
 zeige die kategorie musik
 zeige die kategorie musikkontrolle
@@ -5547,6 +5733,7 @@ zeige heizung
 zeige home
 zeige housemate
 zeige housemate app
+zeige housemate tv
 zeige iarm
 zeige intercom
 zeige internet
@@ -5554,6 +5741,7 @@ zeige kalibrierung
 zeige kamera
 zeige kategorie
 zeige kategorie add-ons
+zeige kategorie add-ons tv
 zeige kategorie admin
 zeige kategorie administration
 zeige kategorie android
@@ -5663,7 +5851,9 @@ zeige warnblinker
 zeige wlan
 zu
 zu add-ons
+zu add-ons tv
 zu add-ons bitte
+zu add-ons tv bitte
 zu admin
 zu admin bitte
 zu administration
@@ -5681,6 +5871,7 @@ zu computer
 zu computer bitte
 zu dem
 zu den add-ons
+zu den add-ons tv
 zu den einstellungen
 zu den glass einstellungen
 zu den kontakten
@@ -5704,6 +5895,7 @@ zu der kategorie heizung
 zu der kategorie home
 zu der kategorie housemate
 zu der kategorie housemate app
+zu der kategorie housemate tv
 zu der kategorie intercom
 zu der kategorie musik
 zu der kategorie musikkontrolle
@@ -5741,6 +5933,7 @@ zu heizung
 zu home
 zu housemate
 zu housemate app
+zu housemate tv
 zu iarm
 zu iarm bitte
 zu intercom
@@ -6784,6 +6977,7 @@ zurück zum vorherigen song
 ändere tv lautstärke auf 9 bitte
 öffne
 öffne add-ons
+öffne add-ons tv
 öffne admin
 öffne administration
 öffne alarm
@@ -6806,6 +7000,7 @@ zurück zum vorherigen song
 öffne den ventilator
 öffne den vorhang
 öffne die add-ons
+öffne die add-ons tv
 öffne die bettlampe
 öffne die einstellungen
 öffne die fenster
@@ -6855,6 +7050,7 @@ zurück zum vorherigen song
 öffne kalibrierung
 öffne kamera
 öffne kategorie add-ons
+öffne kategorie add-ons tv
 öffne kategorie admin
 öffne kategorie administration
 öffne kategorie alarm

@@ -17,6 +17,7 @@
 öffne <START:menuitem_target> home <END>
 öffne <START:menuitem_target> housemate <END>
 öffne <START:menuitem_target> housemate app <END>
+öffne <START:menuitem_target> housemate tv <END>
 öffne <START:menuitem_target> intercom <END>
 öffne <START:menuitem_target> bett <END>
 öffne <START:menuitem_target> raumlicht <END>
@@ -37,6 +38,7 @@
 <START:menuitem_target> home <END> öffnen
 <START:menuitem_target> housemate <END> öffnen
 <START:menuitem_target> housemate app <END> öffnen
+<START:menuitem_target> housemate tv <END> öffnen
 <START:menuitem_target> intercom <END> öffnen
 <START:menuitem_target> bett <END> öffnen
 <START:menuitem_target> raumlicht <END> öffnen
@@ -57,6 +59,7 @@
 öffne die kategorie <START:menuitem_target> home <END>
 öffne die kategorie <START:menuitem_target> housemate <END>
 öffne die kategorie <START:menuitem_target> housemate app <END>
+öffne die kategorie <START:menuitem_target> housemate tv <END>
 öffne die kategorie <START:menuitem_target> intercom <END>
 öffne die kategorie <START:menuitem_target> fenster <END>
 öffne die kategorie <START:menuitem_target> tür <END>
@@ -81,6 +84,7 @@
 öffne kategorie <START:menuitem_target> home <END>
 öffne kategorie <START:menuitem_target> housemate <END>
 öffne kategorie <START:menuitem_target> housemate app <END>
+öffne kategorie <START:menuitem_target> housemate tv <END>
 öffne kategorie <START:menuitem_target> intercom <END>
 öffne kategorie <START:menuitem_target> fenster <END>
 öffne kategorie <START:menuitem_target> tür <END>
@@ -105,6 +109,7 @@
 die kategorie <START:menuitem_target> home <END> öffnen
 die kategorie <START:menuitem_target> housemate <END> öffnen
 die kategorie <START:menuitem_target> housemate app <END> öffnen
+die kategorie <START:menuitem_target> housemate tv <END> öffnen
 die kategorie <START:menuitem_target> intercom <END> öffnen
 die kategorie <START:menuitem_target> bett <END> öffnen
 die kategorie <START:menuitem_target> raumlicht <END> öffnen
@@ -129,6 +134,7 @@ die kategorie <START:menuitem_target> vorhänge <END> öffnen
 kategorie <START:menuitem_target> home <END> öffnen
 kategorie <START:menuitem_target> housemate <END> öffnen
 kategorie <START:menuitem_target> housemate app <END> öffnen
+kategorie <START:menuitem_target> housemate tv <END> öffnen
 kategorie <START:menuitem_target> intercom <END> öffnen
 kategorie <START:menuitem_target> bett <END> öffnen
 kategorie <START:menuitem_target> raumlicht <END> öffnen
@@ -193,6 +199,7 @@ kategorie <START:menuitem_target> vorhänge <END> öffnen
 öffne <START:menuitem_target> nur fahren <END>
 öffne <START:menuitem_target> fahrgeste <END>
 öffne <START:menuitem_target> add-ons <END>
+öffne <START:menuitem_target> add-ons tv <END>
 öffne <START:menuitem_target> mouse 1 <END>
 öffne <START:menuitem_target> mouse 1 <END> bitte
 öffne bitte <START:menuitem_target> mouse 1 <END>
@@ -252,6 +259,7 @@ bitte öffne <START:menuitem_target> mouse 2 <END>
 <START:menuitem_target> nur fahren <END> öffnen
 <START:menuitem_target> fahrgeste <END> öffnen
 <START:menuitem_target> add-ons <END> öffnen
+<START:menuitem_target> add-ons tv <END> öffnen
 <START:menuitem_target> mouse 1 <END> öffnen
 <START:menuitem_target> mouse 2 <END> öffnen
 bitte <START:menuitem_target> mouse 1 <END> öffnen
@@ -311,7 +319,9 @@ bitte <START:menuitem_target> mouse 2 <END> öffnen
 öffne den modus <START:menuitem_target> nur fahren <END>
 öffne kategorie <START:menuitem_target> fahrgeste <END>
 öffne kategorie <START:menuitem_target> add-ons <END>
+öffne kategorie <START:menuitem_target> add-ons tv <END>
 öffne die <START:menuitem_target> add-ons <END>
+öffne die <START:menuitem_target> add-ons tv <END>
 öffne kategorie <START:menuitem_target> mouse 1 <END>
 öffne kategorie <START:menuitem_target> mouse 2 <END>
 öffne kategorie <START:menuitem_target> tv <END>
@@ -364,6 +374,7 @@ kategorie <START:menuitem_target> fortgeschritten <END> öffnen
 kategorie <START:menuitem_target> nur fahren <END> öffnen
 kategorie <START:menuitem_target> fahrgeste <END> öffnen
 kategorie <START:menuitem_target> add-ons <END> öffnen
+kategorie <START:menuitem_target> add-ons tv <END> öffnen
 kategorie <START:menuitem_target> mouse 1 <END> öffnen
 kategorie <START:menuitem_target> mouse 2 <END> öffnen
 kategorie <START:menuitem_target> tv <END> öffnen

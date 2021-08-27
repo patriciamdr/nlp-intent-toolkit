@@ -44,44 +44,83 @@ bitte <START:volume_target> lautstärke <END> höher
 <START:volume_target> lautstärke <END> hoch drehen bitte
 <START:volume_target> lautstärke <END> höher bitte
 erhöhe <START:volume_target> tv <END> lautstärke
+erhöhe housemate <START:volume_target> tv <END> lautstärke
 erhöhe die <START:volume_target> tv <END> lautstärke
+erhöhe die housemate <START:volume_target> tv <END> lautstärke
 dreh <START:volume_target> tv <END> lautstärke auf
+dreh housemate <START:volume_target> tv <END> lautstärke auf
 dreh die <START:volume_target> tv <END> lautstärke auf
+dreh die housemate <START:volume_target> tv <END> lautstärke auf
 dreh <START:volume_target> tv <END> lautstärke hoch
+dreh housemate <START:volume_target> tv <END> lautstärke hoch
 dreh die <START:volume_target> tv <END> lautstärke hoch
+dreh die housemate <START:volume_target> tv <END> lautstärke hoch
 <START:volume_target> tv <END> lautstärke lauter
+housemate <START:volume_target> tv <END> lautstärke lauter
 <START:volume_target> tv <END> lautstärke erhöhen
+housemate <START:volume_target> tv <END> lautstärke erhöhen
 <START:volume_target> tv <END> lautstärke aufdrehen
+housemate <START:volume_target> tv <END> lautstärke aufdrehen
 <START:volume_target> tv <END> lautstärke hoch drehen
+housemate <START:volume_target> tv <END> lautstärke hoch drehen
 <START:volume_target> tv <END> lautstärke höher
+housemate <START:volume_target> tv <END> lautstärke höher
 bitte erhöhe <START:volume_target> tv <END> lautstärke
+bitte erhöhe housemate <START:volume_target> tv <END> lautstärke
 bitte erhöhe die <START:volume_target> tv <END> lautstärke
+bitte erhöhe die housemate <START:volume_target> tv <END> lautstärke
 bitte dreh die <START:volume_target> tv <END> lautstärke auf
+bitte dreh die housemate <START:volume_target> tv <END> lautstärke auf
 bitte dreh die <START:volume_target> tv <END> lautstärke hoch
+bitte dreh die housemate <START:volume_target> tv <END> lautstärke hoch
 erhöhe bitte die <START:volume_target> tv <END> lautstärke
+erhöhe bitte die housemate <START:volume_target> tv <END> lautstärke
 dreh bitte die <START:volume_target> tv <END> lautstärke auf
+dreh bitte die housemate <START:volume_target> tv <END> lautstärke auf
 dreh bitte die <START:volume_target> tv <END> lautstärke hoch
+dreh bitte die housemate <START:volume_target> tv <END> lautstärke hoch
 dreh die <START:volume_target> tv <END> lautstärke bitte auf
+dreh die housemate <START:volume_target> tv <END> lautstärke bitte auf
 dreh die <START:volume_target> tv <END> lautstärke bitte hoch
+dreh die housemate <START:volume_target> tv <END> lautstärke bitte hoch
 erhöhe <START:volume_target> tv <END> lautstärke bitte
+erhöhe housemate <START:volume_target> tv <END> lautstärke bitte
 erhöhe die <START:volume_target> tv <END> lautstärke bitte
+erhöhe die housemate <START:volume_target> tv <END> lautstärke bitte
 dreh die <START:volume_target> tv <END> lautstärke auf bitte
+dreh die housemate <START:volume_target> tv <END> lautstärke auf bitte
 dreh die <START:volume_target> tv <END> lautstärke hoch bitte
+dreh die housemate <START:volume_target> tv <END> lautstärke hoch bitte
 <START:volume_target> tv <END> lautstärke lauter
+housemate <START:volume_target> tv <END> lautstärke lauter
 <START:volume_target> tv <END> lautstärke erhöhen
+housemate <START:volume_target> tv <END> lautstärke erhöhen
 <START:volume_target> tv <END> lautstärke aufdrehen
+housemate <START:volume_target> tv <END> lautstärke aufdrehen
 <START:volume_target> tv <END> lautstärke hoch drehen
+housemate <START:volume_target> tv <END> lautstärke hoch drehen
 <START:volume_target> tv <END> lautstärke höher
+housemate <START:volume_target> tv <END> lautstärke höher
 bitte <START:volume_target> tv <END> lautstärke lauter
+bitte housemate <START:volume_target> tv <END> lautstärke lauter
 bitte <START:volume_target> tv <END> lautstärke erhöhen
+bitte housemate <START:volume_target> tv <END> lautstärke erhöhen
 bitte <START:volume_target> tv <END> lautstärke aufdrehen
+bitte housemate <START:volume_target> tv <END> lautstärke aufdrehen
 bitte <START:volume_target> tv <END> lautstärke hoch drehen
+bitte housemate <START:volume_target> tv <END> lautstärke hoch drehen
 bitte <START:volume_target> tv <END> lautstärke höher
+bitte housemate <START:volume_target> tv <END> lautstärke höher
 <START:volume_target> tv <END> lautstärke lauter bitte
+housemate <START:volume_target> tv <END> lautstärke lauter bitte
 <START:volume_target> tv <END> lautstärke erhöhen bitte
+housemate <START:volume_target> tv <END> lautstärke erhöhen bitte
 <START:volume_target> tv <END> lautstärke aufdrehen bitte
+housemate <START:volume_target> tv <END> lautstärke aufdrehen bitte
 <START:volume_target> tv <END> lautstärke hoch drehen bitte
+housemate <START:volume_target> tv <END> lautstärke hoch drehen bitte
 <START:volume_target> tv <END> lautstärke höher bitte
+housemate <START:volume_target> tv <END> lautstärke höher bitte
 erhöhe <START:volume_target> musik <END> lautstärke
 erhöhe die <START:volume_target> musik <END> lautstärke
 dreh die <START:volume_target> musik <END> lautstärke auf
@@ -157,14 +196,23 @@ bitte <START:volume_target> fernseher <END> lautstärke höher
 <START:volume_target> fernseher <END> lautstärke hoch drehen bitte
 <START:volume_target> fernseher <END> lautstärke höher bitte
 erhöhe lautstärke des <START:volume_target> tv <END>
+erhöhe lautstärke des housemate <START:volume_target> tv <END>
 erhöhe die lautstärke des <START:volume_target> tv <END>
+erhöhe die lautstärke des housemate <START:volume_target> tv <END>
 dreh die lautstärke des <START:volume_target> tv <END> auf
+dreh die lautstärke des housemate <START:volume_target> tv <END> auf
 dreh die lautstärke des <START:volume_target> tv <END> hoch
+dreh die lautstärke des housemate <START:volume_target> tv <END> hoch
 lautstärke des <START:volume_target> tv <END> lauter
+lautstärke des housemate <START:volume_target> tv <END> lauter
 lautstärke des <START:volume_target> tv <END> erhöhen
+lautstärke des housemate <START:volume_target> tv <END> erhöhen
 lautstärke des <START:volume_target> tv <END> aufdrehen
+lautstärke des housemate <START:volume_target> tv <END> aufdrehen
 lautstärke des <START:volume_target> tv <END> hoch drehen
+lautstärke des housemate <START:volume_target> tv <END> hoch drehen
 lautstärke des <START:volume_target> tv <END> höher
+lautstärke des housemate <START:volume_target> tv <END> höher
 erhöhe lautstärke der <START:volume_target> musik <END>
 erhöhe die lautstärke der <START:volume_target> musik <END>
 dreh die lautstärke der <START:volume_target> musik <END> auf

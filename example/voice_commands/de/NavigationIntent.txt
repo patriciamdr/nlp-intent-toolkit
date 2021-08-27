@@ -59,6 +59,7 @@ komme zurück auf <START:nav_target> ventilator <END>
 komme zurück auf <START:nav_target> home <END>
 komme zurück auf <START:nav_target> housemate <END>
 komme zurück auf <START:nav_target> housemate app <END>
+komme zurück auf <START:nav_target> housemate tv <END>
 komme zurück auf <START:nav_target> tür <END>
 komme zurück auf <START:nav_target> alarm <END>
 komme zurück auf <START:nav_target> intercom <END>
@@ -83,6 +84,7 @@ gehe auf <START:nav_target> ventilator <END>
 gehe auf <START:nav_target> home <END>
 gehe auf <START:nav_target> housemate <END>
 gehe auf <START:nav_target> housemate app <END>
+gehe auf <START:nav_target> housemate tv <END>
 gehe auf <START:nav_target> tür <END>
 gehe auf <START:nav_target> alarm <END>
 gehe auf <START:nav_target> intercom <END>
@@ -107,6 +109,7 @@ auf <START:nav_target> ventilator <END>
 auf <START:nav_target> home <END>
 auf <START:nav_target> housemate <END>
 auf <START:nav_target> housemate app <END>
+auf <START:nav_target> housemate tv <END>
 auf <START:nav_target> tür <END>
 auf <START:nav_target> alarm <END>
 auf <START:nav_target> intercom <END>
@@ -132,6 +135,7 @@ zu <START:nav_target> ventilator <END>
 zu <START:nav_target> home <END>
 zu <START:nav_target> housemate <END>
 zu <START:nav_target> housemate app <END>
+zu <START:nav_target> housemate tv <END>
 zu <START:nav_target> tür <END>
 zu <START:nav_target> alarm <END>
 zu <START:nav_target> intercom <END>
@@ -178,6 +182,7 @@ gehe zu <START:nav_target> ventilator <END>
 gehe zu <START:nav_target> home <END>
 gehe zu <START:nav_target> housemate <END>
 gehe zu <START:nav_target> housemate app <END>
+gehe zu <START:nav_target> housemate tv <END>
 gehe zu <START:nav_target> tür <END>
 gehe zu <START:nav_target> alarm <END>
 gehe zu <START:nav_target> intercom <END>
@@ -224,6 +229,7 @@ navigiere zu <START:nav_target> ventilator <END>
 navigiere zu <START:nav_target> home <END>
 navigiere zu <START:nav_target> housemate <END>
 navigiere zu <START:nav_target> housemate app <END>
+navigiere zu <START:nav_target> housemate tv <END>
 navigiere zu <START:nav_target> tür <END>
 navigiere zu <START:nav_target> alarm <END>
 navigiere zu <START:nav_target> intercom <END>
@@ -270,6 +276,7 @@ bring mich zu <START:nav_target> ventilator <END>
 bring mich zu <START:nav_target> home <END>
 bring mich zu <START:nav_target> housemate <END>
 bring mich zu <START:nav_target> housemate app <END>
+bring mich zu <START:nav_target> housemate tv <END>
 bring mich zu <START:nav_target> tür <END>
 bring mich zu <START:nav_target> alarm <END>
 bring mich zu <START:nav_target> intercom <END>
@@ -316,6 +323,7 @@ zeige <START:nav_target> ventilator <END>
 zeige <START:nav_target> home <END>
 zeige <START:nav_target> housemate <END>
 zeige <START:nav_target> housemate app <END>
+zeige <START:nav_target> housemate tv <END>
 zeige <START:nav_target> tür <END>
 zeige <START:nav_target> alarm <END>
 zeige <START:nav_target> intercom <END>
@@ -360,6 +368,7 @@ wähle <START:nav_target> ventilator <END>
 wähle <START:nav_target> home <END>
 wähle <START:nav_target> housemate <END>
 wähle <START:nav_target> housemate app <END>
+wähle <START:nav_target> housemate tv <END>
 wähle <START:nav_target> tür <END>
 wähle <START:nav_target> alarm <END>
 wähle <START:nav_target> intercom <END>
@@ -404,6 +413,7 @@ wechsel zu <START:nav_target> ventilator <END>
 wechsel zu <START:nav_target> home <END>
 wechsel zu <START:nav_target> housemate <END>
 wechsel zu <START:nav_target> housemate app <END>
+wechsel zu <START:nav_target> housemate tv <END>
 wechsel zu <START:nav_target> tür <END>
 wechsel zu <START:nav_target> alarm <END>
 wechsel zu <START:nav_target> intercom <END>
@@ -470,6 +480,7 @@ zu der kategorie <START:nav_target> ventilator <END>
 zu der kategorie <START:nav_target> home <END>
 zu der kategorie <START:nav_target> housemate <END>
 zu der kategorie <START:nav_target> housemate app <END>
+zu der kategorie <START:nav_target> housemate tv <END>
 zu der kategorie <START:nav_target> tür <END>
 zu der kategorie <START:nav_target> alarm <END>
 zu der kategorie <START:nav_target> intercom <END>
@@ -495,6 +506,7 @@ gehe zu der kategorie <START:nav_target> ventilator <END>
 gehe zu der kategorie <START:nav_target> home <END>
 gehe zu der kategorie <START:nav_target> housemate <END>
 gehe zu der kategorie <START:nav_target> housemate app <END>
+gehe zu der kategorie <START:nav_target> housemate tv <END>
 gehe zu der kategorie <START:nav_target> tür <END>
 gehe zu der kategorie <START:nav_target> alarm <END>
 gehe zu der kategorie <START:nav_target> intercom <END>
@@ -520,6 +532,7 @@ navigiere zu der kategorie <START:nav_target> ventilator <END>
 navigiere zu der kategorie <START:nav_target> home <END>
 navigiere zu der kategorie <START:nav_target> housemate <END>
 navigiere zu der kategorie <START:nav_target> housemate app <END>
+navigiere zu der kategorie <START:nav_target> housemate tv <END>
 navigiere zu der kategorie <START:nav_target> tür <END>
 navigiere zu der kategorie <START:nav_target> alarm <END>
 navigiere zu der kategorie <START:nav_target> intercom <END>
@@ -545,6 +558,7 @@ bring mich zu der kategorie <START:nav_target> ventilator <END>
 bring mich zu der kategorie <START:nav_target> home <END>
 bring mich zu der kategorie <START:nav_target> housemate <END>
 bring mich zu der kategorie <START:nav_target> housemate app <END>
+bring mich zu der kategorie <START:nav_target> housemate tv <END>
 bring mich zu der kategorie <START:nav_target> tür <END>
 bring mich zu der kategorie <START:nav_target> alarm <END>
 bring mich zu der kategorie <START:nav_target> intercom <END>
@@ -570,6 +584,7 @@ zeige die kategorie <START:nav_target> ventilator <END>
 zeige die kategorie <START:nav_target> home <END>
 zeige die kategorie <START:nav_target> housemate <END>
 zeige die kategorie <START:nav_target> housemate app <END>
+zeige die kategorie <START:nav_target> housemate tv <END>
 zeige die kategorie <START:nav_target> tür <END>
 zeige die kategorie <START:nav_target> alarm <END>
 zeige die kategorie <START:nav_target> intercom <END>
@@ -594,6 +609,7 @@ wähle die kategorie <START:nav_target> ventilator <END>
 wähle die kategorie <START:nav_target> home <END>
 wähle die kategorie <START:nav_target> housemate <END>
 wähle die kategorie <START:nav_target> housemate app <END>
+wähle die kategorie <START:nav_target> housemate tv <END>
 wähle die kategorie <START:nav_target> tür <END>
 wähle die kategorie <START:nav_target> alarm <END>
 wähle die kategorie <START:nav_target> intercom <END>
@@ -618,6 +634,7 @@ wechsel zu der kategorie <START:nav_target> ventilator <END>
 wechsel zu der kategorie <START:nav_target> home <END>
 wechsel zu der kategorie <START:nav_target> housemate <END>
 wechsel zu der kategorie <START:nav_target> housemate app <END>
+wechsel zu der kategorie <START:nav_target> housemate tv <END>
 wechsel zu der kategorie <START:nav_target> tür <END>
 wechsel zu der kategorie <START:nav_target> alarm <END>
 wechsel zu der kategorie <START:nav_target> intercom <END>
@@ -783,8 +800,11 @@ zu <START:nav_target> fahrgeste <END>
 zur <START:nav_target> fahrgeste <END>
 die <START:nav_target> fahrgeste <END>
 <START:nav_target> add-ons <END>
+<START:nav_target> add-ons tv <END>
 die <START:nav_target> add-ons <END>
+die <START:nav_target> add-ons tv <END>
 zu den <START:nav_target> add-ons <END>
+zu den <START:nav_target> add-ons tv <END>
 <START:nav_target> mouse 1 <END>
 <START:nav_target> mouse 2 <END>
 zu <START:nav_target> mouse 1 <END>
@@ -867,6 +887,7 @@ zu <START:nav_target> fortgeschritten <END> bitte
 zu <START:nav_target> nur fahren <END> bitte
 zu <START:nav_target> fahrgeste <END> bitte
 zu <START:nav_target> add-ons <END> bitte
+zu <START:nav_target> add-ons tv <END> bitte
 zu <START:nav_target> mouse 1 <END> bitte
 zu <START:nav_target> mouse 2 <END> bitte
 zu <START:nav_target> tv <END> bitte
@@ -927,6 +948,7 @@ bitte zu <START:nav_target> fortgeschritten <END>
 bitte zu <START:nav_target> nur fahren <END>
 bitte zu <START:nav_target> fahrgeste <END>
 bitte zu <START:nav_target> add-ons <END>
+bitte zu <START:nav_target> add-ons tv <END>
 bitte zu <START:nav_target> mouse 1 <END>
 bitte zu <START:nav_target> mouse 2 <END>
 bitte zu <START:nav_target> tv <END>
@@ -978,6 +1000,7 @@ komme zurück auf <START:nav_target> fortgeschritten <END>
 komme zurück auf <START:nav_target> nur fahren <END>
 komme zurück auf <START:nav_target> fahrgeste <END>
 komme zurück auf <START:nav_target> add-ons <END>
+komme zurück auf <START:nav_target> add-ons tv <END>
 komme zurück auf <START:nav_target> mouse 1 <END>
 komme zurück auf <START:nav_target> mouse 2 <END>
 komme zurück auf <START:nav_target> tv <END>
@@ -1034,6 +1057,7 @@ gehe auf <START:nav_target> fortgeschritten <END>
 gehe auf <START:nav_target> nur fahren <END>
 gehe auf <START:nav_target> fahrgeste <END>
 gehe auf <START:nav_target> add-ons <END>
+gehe auf <START:nav_target> add-ons tv <END>
 gehe auf <START:nav_target> mouse 1 <END>
 gehe auf <START:nav_target> mouse 2 <END>
 gehe auf <START:nav_target> tv <END>
@@ -1090,6 +1114,7 @@ auf <START:nav_target> fortgeschritten <END>
 auf <START:nav_target> nur fahren <END>
 auf <START:nav_target> fahrgeste <END>
 auf <START:nav_target> add-ons <END>
+auf <START:nav_target> add-ons tv <END>
 auf <START:nav_target> mouse 1 <END>
 auf <START:nav_target> mouse 2 <END>
 auf <START:nav_target> tv <END>
@@ -1151,6 +1176,7 @@ zu <START:nav_target> fortgeschritten <END>
 zu <START:nav_target> nur fahren <END>
 zu <START:nav_target> fahrgeste <END>
 zu <START:nav_target> add-ons <END>
+zu <START:nav_target> add-ons tv <END>
 zu <START:nav_target> mouse 1 <END>
 zu <START:nav_target> mouse 2 <END>
 zu <START:nav_target> tv <END>
@@ -1236,6 +1262,7 @@ gehe zu kategorie <START:nav_target> nur fahren <END>
 gehe zum modus <START:nav_target> nur fahren <END>
 gehe zu kategorie <START:nav_target> fahrgeste <END>
 gehe zu kategorie <START:nav_target> add-ons <END>
+gehe zu kategorie <START:nav_target> add-ons tv <END>
 gehe zu kategorie <START:nav_target> mouse 1 <END>
 gehe zu kategorie <START:nav_target> mouse 2 <END>
 gehe zu kategorie <START:nav_target> tv <END>
@@ -1275,6 +1302,7 @@ gehe zu <START:nav_target> fortgeschritten <END>
 gehe zu <START:nav_target> nur fahren <END>
 gehe zu <START:nav_target> fahrgeste <END>
 gehe zu <START:nav_target> add-ons <END>
+gehe zu <START:nav_target> add-ons tv <END>
 gehe zu <START:nav_target> mouse 1 <END>
 gehe zu <START:nav_target> mouse 2 <END>
 gehe zu <START:nav_target> tv <END>
@@ -1336,6 +1364,7 @@ navigiere zu <START:nav_target> fortgeschritten <END>
 navigiere zu <START:nav_target> nur fahren <END>
 navigiere zu <START:nav_target> fahrgeste <END>
 navigiere zu <START:nav_target> add-ons <END>
+navigiere zu <START:nav_target> add-ons tv <END>
 navigiere zu <START:nav_target> mouse 1 <END>
 navigiere zu <START:nav_target> mouse 2 <END>
 navigiere zu <START:nav_target> tv <END>
@@ -1396,6 +1425,7 @@ navigiere zu kategorie <START:nav_target> fortgeschritten <END>
 navigiere zu kategorie <START:nav_target> nur fahren <END>
 navigiere zu kategorie <START:nav_target> fahrgeste <END>
 navigiere zu kategorie <START:nav_target> add-ons <END>
+navigiere zu kategorie <START:nav_target> add-ons tv <END>
 navigiere zu kategorie <START:nav_target> mouse 1 <END>
 navigiere zu kategorie <START:nav_target> mouse 2 <END>
 navigiere zu kategorie <START:nav_target> tv <END>
@@ -1456,6 +1486,7 @@ bring mich zur kategorie <START:nav_target> fortgeschritten <END>
 bring mich zur kategorie <START:nav_target> nur fahren <END>
 bring mich zur kategorie <START:nav_target> fahrgeste <END>
 bring mich zur kategorie <START:nav_target> add-ons <END>
+bring mich zur kategorie <START:nav_target> add-ons tv <END>
 bring mich zur kategorie <START:nav_target> mouse 1 <END>
 bring mich zur kategorie <START:nav_target> mouse 2 <END>
 bring mich zur kategorie <START:nav_target> tv <END>
@@ -1517,6 +1548,7 @@ bring mich zu <START:nav_target> fortgeschritten <END>
 bring mich zu <START:nav_target> nur fahren <END>
 bring mich zu <START:nav_target> fahrgeste <END>
 bring mich zu <START:nav_target> add-ons <END>
+bring mich zu <START:nav_target> add-ons tv <END>
 bring mich zu <START:nav_target> mouse 1 <END>
 bring mich zu <START:nav_target> mouse 2 <END>
 bring mich zu <START:nav_target> tv <END>
@@ -1604,6 +1636,7 @@ wähle <START:nav_target> fortgeschritten <END>
 wähle <START:nav_target> nur fahren <END>
 wähle <START:nav_target> fahrgeste <END>
 wähle <START:nav_target> add-ons <END>
+wähle <START:nav_target> add-ons tv <END>
 wähle <START:nav_target> mouse 1 <END>
 wähle <START:nav_target> mouse 2 <END>
 wähle <START:nav_target> tv <END>
@@ -1664,6 +1697,7 @@ wähle die kategorie <START:nav_target> fortgeschritten <END>
 wähle die kategorie <START:nav_target> nur fahren <END>
 wähle die kategorie <START:nav_target> fahrgeste <END>
 wähle die kategorie <START:nav_target> add-ons <END>
+wähle die kategorie <START:nav_target> add-ons tv <END>
 wähle die kategorie <START:nav_target> mouse 1 <END>
 wähle die kategorie <START:nav_target> mouse 2 <END>
 wähle die kategorie <START:nav_target> tv <END>
@@ -1724,6 +1758,7 @@ wähle kategorie <START:nav_target> fortgeschritten <END>
 wähle kategorie <START:nav_target> nur fahren <END>
 wähle kategorie <START:nav_target> fahrgeste <END>
 wähle kategorie <START:nav_target> add-ons <END>
+wähle kategorie <START:nav_target> add-ons tv <END>
 wähle kategorie <START:nav_target> mouse 1 <END>
 wähle kategorie <START:nav_target> mouse 2 <END>
 wähle kategorie <START:nav_target> tv <END>
@@ -1784,6 +1819,7 @@ wechsel zu <START:nav_target> fortgeschritten <END>
 wechsel zu <START:nav_target> nur fahren <END>
 wechsel zu <START:nav_target> fahrgeste <END>
 wechsel zu <START:nav_target> add-ons <END>
+wechsel zu <START:nav_target> add-ons tv <END>
 wechsel zu <START:nav_target> mouse 1 <END>
 wechsel zu <START:nav_target> mouse 2 <END>
 wechsel zu <START:nav_target> tv <END>
@@ -1844,6 +1880,7 @@ wechsel zur kategorie <START:nav_target> fortgeschritten <END>
 wechsel zur kategorie <START:nav_target> nur fahren <END>
 wechsel zur kategorie <START:nav_target> fahrgeste <END>
 wechsel zur kategorie <START:nav_target> add-ons <END>
+wechsel zur kategorie <START:nav_target> add-ons tv <END>
 wechsel zur kategorie <START:nav_target> mouse 1 <END>
 wechsel zur kategorie <START:nav_target> mouse 2 <END>
 wechsel zur kategorie <START:nav_target> tv <END>
@@ -1904,6 +1941,7 @@ zeige kategorie <START:nav_target> fortgeschritten <END>
 zeige kategorie <START:nav_target> nur fahren <END>
 zeige kategorie <START:nav_target> fahrgeste <END>
 zeige kategorie <START:nav_target> add-ons <END>
+zeige kategorie <START:nav_target> add-ons tv <END>
 zeige kategorie <START:nav_target> mouse 1 <END>
 zeige kategorie <START:nav_target> mouse 2 <END>
 zeige kategorie <START:nav_target> tv <END>
@@ -2001,7 +2039,9 @@ zeige <START:nav_target> nur fahren <END>
 zeige <START:nav_target> fahrgeste <END>
 zeige die <START:nav_target> fahrgeste <END>
 zeige <START:nav_target> add-ons <END>
+zeige <START:nav_target> add-ons tv <END>
 zeige die <START:nav_target> add-ons <END>
+zeige die <START:nav_target> add-ons tv <END>
 zeige <START:nav_target> mouse 1 <END>
 zeige <START:nav_target> mouse 2 <END>
 zeige <START:nav_target> tv <END>

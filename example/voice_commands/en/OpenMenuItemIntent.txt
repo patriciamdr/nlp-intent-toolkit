@@ -1,5 +1,6 @@
 open
 open <START:menuitem_target> add-ons <END>
+open <START:menuitem_target> add-ons tv <END>
 open <START:menuitem_target> admin <END>
 open <START:menuitem_target> advanced <END>
 open <START:menuitem_target> alarm <END>
@@ -51,10 +52,13 @@ open <START:menuitem_target> home <END> category
 open <START:menuitem_target> home <END> menu item
 open <START:menuitem_target> housemate <END>
 open <START:menuitem_target> housemate app <END>
+open <START:menuitem_target> housemate tv <END>
 open <START:menuitem_target> housemate <END> category
 open <START:menuitem_target> housemate app <END> category
+open <START:menuitem_target> housemate tv <END> category
 open <START:menuitem_target> housemate <END> menu item
 open <START:menuitem_target> housemate app <END> menu item
+open <START:menuitem_target> housemate tv <END> menu item
 open <START:menuitem_target> iarm <END>
 open <START:menuitem_target> idevice <END>
 open <START:menuitem_target> intercom <END>
@@ -139,6 +143,7 @@ open category <START:menuitem_target> heater <END>
 open category <START:menuitem_target> home <END>
 open category <START:menuitem_target> housemate <END>
 open category <START:menuitem_target> housemate app <END>
+open category <START:menuitem_target> housemate tv <END>
 open category <START:menuitem_target> intercom <END>
 open category <START:menuitem_target> music <END>
 open category <START:menuitem_target> music control <END>
@@ -167,6 +172,7 @@ open menu item <START:menuitem_target> heater <END>
 open menu item <START:menuitem_target> home <END>
 open menu item <START:menuitem_target> housemate <END>
 open menu item <START:menuitem_target> housemate app <END>
+open menu item <START:menuitem_target> housemate tv <END>
 open menu item <START:menuitem_target> intercom <END>
 open menu item <START:menuitem_target> music <END>
 open menu item <START:menuitem_target> music control <END>
@@ -182,6 +188,7 @@ open menu item <START:menuitem_target> window <END>
 open menu item <START:menuitem_target> windows <END>
 open the
 open the <START:menuitem_target> add-ons <END>
+open the <START:menuitem_target> add-ons tv <END>
 open the <START:menuitem_target> admin <END>
 open the <START:menuitem_target> alarm <END>
 open the <START:menuitem_target> app info <END>
@@ -207,6 +214,7 @@ open the <START:menuitem_target> heater <END>
 open the <START:menuitem_target> home <END>
 open the <START:menuitem_target> housemate <END>
 open the <START:menuitem_target> housemate app <END>
+open the <START:menuitem_target> housemate tv <END>
 open the <START:menuitem_target> iarm <END>
 open the <START:menuitem_target> idevice <END>
 open the <START:menuitem_target> intercom <END>
@@ -264,6 +272,7 @@ open the category <START:menuitem_target> heater <END>
 open the category <START:menuitem_target> home <END>
 open the category <START:menuitem_target> housemate <END>
 open the category <START:menuitem_target> housemate app <END>
+open the category <START:menuitem_target> housemate tv <END>
 open the category <START:menuitem_target> intercom <END>
 open the category <START:menuitem_target> music <END>
 open the category <START:menuitem_target> music control <END>
@@ -292,6 +301,7 @@ open the menu item <START:menuitem_target> heater <END>
 open the menu item <START:menuitem_target> home <END>
 open the menu item <START:menuitem_target> housemate <END>
 open the menu item <START:menuitem_target> housemate app <END>
+open the menu item <START:menuitem_target> housemate tv <END>
 open the menu item <START:menuitem_target> intercom <END>
 open the menu item <START:menuitem_target> music <END>
 open the menu item <START:menuitem_target> music control <END>

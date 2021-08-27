@@ -1,4 +1,5 @@
 <START:nav_target> add-ons <END>
+<START:nav_target> add-ons tv <END>
 <START:nav_target> admin <END>
 <START:nav_target> advanced <END>
 <START:nav_target> alarm <END>
@@ -33,6 +34,7 @@
 <START:nav_target> home <END>
 <START:nav_target> housemate <END>
 <START:nav_target> housemate app <END>
+<START:nav_target> housemate tv <END>
 <START:nav_target> iarm <END>
 <START:nav_target> intercom <END>
 <START:nav_target> internet <END>
@@ -97,6 +99,7 @@ category <START:nav_target> heater <END>
 category <START:nav_target> home <END>
 category <START:nav_target> housemate <END>
 category <START:nav_target> housemate app <END>
+category <START:nav_target> housemate tv <END>
 category <START:nav_target> intercom <END>
 category <START:nav_target> music <END>
 category <START:nav_target> music <END> volume
@@ -117,6 +120,7 @@ category <START:nav_target> window <END>
 category volume of the <START:nav_target> music <END>
 category volume of the <START:nav_target> tv <END>
 choose <START:nav_target> add-ons <END>
+choose <START:nav_target> add-ons tv <END>
 choose <START:nav_target> admin <END>
 choose <START:nav_target> advanced <END>
 choose <START:nav_target> alarm <END>
@@ -149,6 +153,7 @@ choose <START:nav_target> heater <END>
 choose <START:nav_target> home <END>
 choose <START:nav_target> housemate <END>
 choose <START:nav_target> housemate app <END>
+choose <START:nav_target> housemate tv <END>
 choose <START:nav_target> iarm <END>
 choose <START:nav_target> intercom <END>
 choose <START:nav_target> internet <END>
@@ -207,6 +212,7 @@ choose category <START:nav_target> heater <END>
 choose category <START:nav_target> home <END>
 choose category <START:nav_target> housemate <END>
 choose category <START:nav_target> housemate app <END>
+choose category <START:nav_target> housemate tv <END>
 choose category <START:nav_target> intercom <END>
 choose category <START:nav_target> music <END>
 choose category <START:nav_target> music <END> volume
@@ -229,6 +235,7 @@ choose volume of the <START:nav_target> music <END>
 choose volume of the <START:nav_target> tv <END>
 go to
 go to <START:nav_target> add-ons <END>
+go to <START:nav_target> add-ons tv <END>
 go to <START:nav_target> admin <END>
 go to <START:nav_target> advanced <END>
 go to <START:nav_target> alarm <END>
@@ -267,6 +274,7 @@ go to <START:nav_target> heater <END>
 go to <START:nav_target> home <END>
 go to <START:nav_target> housemate <END>
 go to <START:nav_target> housemate app <END>
+go to <START:nav_target> housemate tv <END>
 go to <START:nav_target> iarm <END>
 go to <START:nav_target> intercom <END>
 go to <START:nav_target> internet <END>
@@ -315,6 +323,7 @@ go to <START:nav_target> wifi <END>
 go to <START:nav_target> window <END>
 go to category
 go to category <START:nav_target> add-ons <END>
+go to category <START:nav_target> add-ons tv <END>
 go to category <START:nav_target> admin <END>
 go to category <START:nav_target> advanced <END>
 go to category <START:nav_target> alarm <END>
@@ -347,6 +356,7 @@ go to category <START:nav_target> heater <END>
 go to category <START:nav_target> home <END>
 go to category <START:nav_target> housemate <END>
 go to category <START:nav_target> housemate app <END>
+go to category <START:nav_target> housemate tv <END>
 go to category <START:nav_target> iarm <END>
 go to category <START:nav_target> intercom <END>
 go to category <START:nav_target> internet <END>
@@ -403,6 +413,7 @@ go to volume of the <START:nav_target> music <END>
 go to volume of the <START:nav_target> tv <END>
 navigate to
 navigate to <START:nav_target> add-ons <END>
+navigate to <START:nav_target> add-ons tv <END>
 navigate to <START:nav_target> admin <END>
 navigate to <START:nav_target> advanced <END>
 navigate to <START:nav_target> alarm <END>
@@ -440,6 +451,7 @@ navigate to <START:nav_target> heater <END>
 navigate to <START:nav_target> home <END>
 navigate to <START:nav_target> housemate <END>
 navigate to <START:nav_target> housemate app <END>
+navigate to <START:nav_target> housemate tv <END>
 navigate to <START:nav_target> iarm <END>
 navigate to <START:nav_target> intercom <END>
 navigate to <START:nav_target> internet <END>
@@ -488,6 +500,7 @@ navigate to <START:nav_target> wifi <END>
 navigate to <START:nav_target> window <END>
 navigate to category
 navigate to category <START:nav_target> add-ons <END>
+navigate to category <START:nav_target> add-ons tv <END>
 navigate to category <START:nav_target> admin <END>
 navigate to category <START:nav_target> advanced <END>
 navigate to category <START:nav_target> alarm <END>
@@ -519,6 +532,7 @@ navigate to category <START:nav_target> heater <END>
 navigate to category <START:nav_target> home <END>
 navigate to category <START:nav_target> housemate <END>
 navigate to category <START:nav_target> housemate app <END>
+navigate to category <START:nav_target> housemate tv <END>
 navigate to category <START:nav_target> iarm <END>
 navigate to category <START:nav_target> intercom <END>
 navigate to category <START:nav_target> internet <END>
@@ -572,6 +586,7 @@ please <START:nav_target> languages <END>
 please <START:nav_target> volume <END>
 please category <START:nav_target> volume <END>
 select <START:nav_target> add-ons <END>
+select <START:nav_target> add-ons tv <END>
 select <START:nav_target> admin <END>
 select <START:nav_target> advanced <END>
 select <START:nav_target> alarm <END>
@@ -605,6 +620,7 @@ select <START:nav_target> heater <END>
 select <START:nav_target> home <END>
 select <START:nav_target> housemate <END>
 select <START:nav_target> housemate app <END>
+select <START:nav_target> housemate tv <END>
 select <START:nav_target> iarm <END>
 select <START:nav_target> intercom <END>
 select <START:nav_target> internet <END>
@@ -663,6 +679,7 @@ select category <START:nav_target> heater <END>
 select category <START:nav_target> home <END>
 select category <START:nav_target> housemate <END>
 select category <START:nav_target> housemate app <END>
+select category <START:nav_target> housemate tv <END>
 select category <START:nav_target> intercom <END>
 select category <START:nav_target> music <END>
 select category <START:nav_target> music <END> volume
@@ -684,6 +701,7 @@ select category volume of the <START:nav_target> tv <END>
 select volume of the <START:nav_target> music <END>
 select volume of the <START:nav_target> tv <END>
 switch to <START:nav_target> add-ons <END>
+switch to <START:nav_target> add-ons tv <END>
 switch to <START:nav_target> admin <END>
 switch to <START:nav_target> advanced <END>
 switch to <START:nav_target> alarm <END>
@@ -717,6 +735,7 @@ switch to <START:nav_target> heater <END>
 switch to <START:nav_target> home <END>
 switch to <START:nav_target> housemate <END>
 switch to <START:nav_target> housemate app <END>
+switch to <START:nav_target> housemate tv <END>
 switch to <START:nav_target> iarm <END>
 switch to <START:nav_target> intercom <END>
 switch to <START:nav_target> internet <END>
@@ -775,6 +794,7 @@ switch to category <START:nav_target> heater <END>
 switch to category <START:nav_target> home <END>
 switch to category <START:nav_target> housemate <END>
 switch to category <START:nav_target> housemate app <END>
+switch to category <START:nav_target> housemate tv <END>
 switch to category <START:nav_target> intercom <END>
 switch to category <START:nav_target> music <END>
 switch to category <START:nav_target> music <END> volume
@@ -797,6 +817,7 @@ switch to volume of the <START:nav_target> music <END>
 switch to volume of the <START:nav_target> tv <END>
 take me to
 take me to <START:nav_target> add-ons <END>
+take me to <START:nav_target> add-ons tv <END>
 take me to <START:nav_target> admin <END>
 take me to <START:nav_target> advanced <END>
 take me to <START:nav_target> alarm <END>
@@ -834,6 +855,7 @@ take me to <START:nav_target> heater <END>
 take me to <START:nav_target> home <END>
 take me to <START:nav_target> housemate <END>
 take me to <START:nav_target> housemate app <END>
+take me to <START:nav_target> housemate tv <END>
 take me to <START:nav_target> iarm <END>
 take me to <START:nav_target> intercom <END>
 take me to <START:nav_target> internet <END>
@@ -882,6 +904,7 @@ take me to <START:nav_target> wifi <END>
 take me to <START:nav_target> window <END>
 take me to category
 take me to category <START:nav_target> add-ons <END>
+take me to category <START:nav_target> add-ons tv <END>
 take me to category <START:nav_target> admin <END>
 take me to category <START:nav_target> advanced <END>
 take me to category <START:nav_target> alarm <END>
@@ -913,6 +936,7 @@ take me to category <START:nav_target> heater <END>
 take me to category <START:nav_target> home <END>
 take me to category <START:nav_target> housemate <END>
 take me to category <START:nav_target> housemate app <END>
+take me to category <START:nav_target> housemate tv <END>
 take me to category <START:nav_target> iarm <END>
 take me to category <START:nav_target> intercom <END>
 take me to category <START:nav_target> internet <END>
@@ -963,6 +987,7 @@ take me to volume of the <START:nav_target> music <END>
 take me to volume of the <START:nav_target> tv <END>
 to
 to <START:nav_target> add-ons <END>
+to <START:nav_target> add-ons tv <END>
 to <START:nav_target> admin <END>
 to <START:nav_target> advanced <END>
 to <START:nav_target> alarm <END>
@@ -997,6 +1022,7 @@ to <START:nav_target> heater <END>
 to <START:nav_target> home <END>
 to <START:nav_target> housemate <END>
 to <START:nav_target> housemate app <END>
+to <START:nav_target> housemate tv <END>
 to <START:nav_target> iarm <END>
 to <START:nav_target> intercom <END>
 to <START:nav_target> internet <END>
@@ -1058,6 +1084,7 @@ to category <START:nav_target> heater <END>
 to category <START:nav_target> home <END>
 to category <START:nav_target> housemate <END>
 to category <START:nav_target> housemate app <END>
+to category <START:nav_target> housemate tv <END>
 to category <START:nav_target> intercom <END>
 to category <START:nav_target> music <END>
 to category <START:nav_target> music <END> volume

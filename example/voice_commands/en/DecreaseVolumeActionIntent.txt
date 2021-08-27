@@ -1,18 +1,33 @@
 decrease the <START:volume_target> tv <END> volume
+decrease the housemate <START:volume_target> tv <END> volume
 decrease the volume of the <START:volume_target> tv <END>
+decrease the volume of the housemate <START:volume_target> tv <END>
 decrease the volume of <START:volume_target> tv <END>
+decrease the volume of housemate <START:volume_target> tv <END>
 decrease the volume <START:volume_target> tv <END>
+decrease the volume housemate <START:volume_target> tv <END>
 decrease <START:volume_target> tv <END> volume
+decrease housemate <START:volume_target> tv <END> volume
 turn down the <START:volume_target> tv <END> volume
+turn down the housemate <START:volume_target> tv <END> volume
 turn down <START:volume_target> tv <END> volume
+turn down housemate <START:volume_target> tv <END> volume
 turn the <START:volume_target> tv <END> volume down
+turn the housemate <START:volume_target> tv <END> volume down
 turn <START:volume_target> tv <END> volume down
+turn housemate <START:volume_target> tv <END> volume down
 reduce the <START:volume_target> tv <END> volume
+reduce the housemate <START:volume_target> tv <END> volume
 reduce <START:volume_target> tv <END> volume
+reduce housemate <START:volume_target> tv <END> volume
 lower the <START:volume_target> tv <END> volume
+lower the housemate <START:volume_target> tv <END> volume
 lower <START:volume_target> tv <END> volume
+lower housemate <START:volume_target> tv <END> volume
 <START:volume_target> tv <END> volume lower
+housemate <START:volume_target> tv <END> volume lower
 lower the <START:volume_target> tv <END> volume
+lower the housemate <START:volume_target> tv <END> volume
 decrease the <START:volume_target> music <END> volume
 decrease the volume of the <START:volume_target> music <END>
 decrease the volume of <START:volume_target> music <END>
@@ -29,38 +44,71 @@ lower <START:volume_target> music <END> volume
 <START:volume_target> music <END> volume lower
 lower the <START:volume_target> music <END> volume
 decrease volume <START:volume_target> tv <END>
+decrease volume housemate <START:volume_target> tv <END>
 decrease volume of <START:volume_target> tv <END>
+decrease volume of housemate <START:volume_target> tv <END>
 decrease volume of the <START:volume_target> tv <END>
+decrease volume of the housemate <START:volume_target> tv <END>
 turn down the volume <START:volume_target> tv <END>
+turn down the volume housemate <START:volume_target> tv <END>
 turn down the volume of <START:volume_target> tv <END>
+turn down the volume of housemate <START:volume_target> tv <END>
 turn down the volume of the <START:volume_target> tv <END>
+turn down the volume of the housemate <START:volume_target> tv <END>
 turn down volume <START:volume_target> tv <END>
+turn down volume housemate <START:volume_target> tv <END>
 turn down volume of <START:volume_target> tv <END>
+turn down volume of housemate <START:volume_target> tv <END>
 turn down volume of the <START:volume_target> tv <END>
+turn down volume of the housemate <START:volume_target> tv <END>
 turn the volume <START:volume_target> tv <END> down
+turn the volume housemate <START:volume_target> tv <END> down
 turn the volume of <START:volume_target> tv <END> down
+turn the volume of housemate <START:volume_target> tv <END> down
 turn the volume of the <START:volume_target> tv <END> down
+turn the volume of the housemate <START:volume_target> tv <END> down
 turn volume <START:volume_target> tv <END> down
+turn volume housemate <START:volume_target> tv <END> down
 turn volume of <START:volume_target> tv <END> down
+turn volume of housemate <START:volume_target> tv <END> down
 turn volume of the <START:volume_target> tv <END> down
+turn volume of the housemate <START:volume_target> tv <END> down
 reduce the volume <START:volume_target> tv <END>
+reduce the volume housemate <START:volume_target> tv <END>
 reduce the volume of <START:volume_target> tv <END>
+reduce the volume of housemate <START:volume_target> tv <END>
 reduce the volume of the <START:volume_target> tv <END>
+reduce the volume of the housemate <START:volume_target> tv <END>
 reduce volume <START:volume_target> tv <END>
+reduce volume housemate <START:volume_target> tv <END>
 reduce volume of <START:volume_target> tv <END>
+reduce volume of housemate <START:volume_target> tv <END>
 reduce volume of the <START:volume_target> tv <END>
+reduce volume of the housemate <START:volume_target> tv <END>
 lower the volume <START:volume_target> tv <END>
+lower the volume housemate <START:volume_target> tv <END>
 lower the volume of <START:volume_target> tv <END>
+lower the volume of housemate <START:volume_target> tv <END>
 lower the volume of the <START:volume_target> tv <END>
+lower the volume of the housemate <START:volume_target> tv <END>
 lower volume <START:volume_target> tv <END>
+lower volume housemate <START:volume_target> tv <END>
 lower volume of <START:volume_target> tv <END>
+lower volume of housemate <START:volume_target> tv <END>
 lower volume of the <START:volume_target> tv <END>
+lower volume of the housemate <START:volume_target> tv <END>
 volume <START:volume_target> tv <END> lower
+volume housemate <START:volume_target> tv <END> lower
 volume of <START:volume_target> tv <END> lower
+volume of housemate <START:volume_target> tv <END> lower
 volume of the <START:volume_target> tv <END> lower
+volume of the housemate <START:volume_target> tv <END> lower
 lower the volume <START:volume_target> tv <END>
+lower the volume housemate <START:volume_target> tv <END>
 lower the volume of <START:volume_target> tv <END>
+lower the volume of housemate <START:volume_target> tv <END>
 lower the volume of the <START:volume_target> tv <END>
+lower the volume of the housemate <START:volume_target> tv <END>
 decrease volume <START:volume_target> music <END>
 decrease volume of <START:volume_target> music <END>
 decrease volume of the <START:volume_target> music <END>

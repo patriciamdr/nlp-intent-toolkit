@@ -1,13 +1,19 @@
-add-ons:add-on
-nods:nod
-nodding:nod
+add-on:add-ons
+nod:nods
+nodding:nods
 pairing:pair
 gestures:gesture
 tilts:tilt
 tilting:tilt
 driving:drive
+drive gestures:drive gesture
+driving gesture:drive gesture
+driving gestures:drive gesture
+driving only:drive only
 languages:language
 lights:light
+room lights:room light
+hazard light:hazard lights
 update:sync
 updating:sync
 syncing:sync
@@ -24,7 +30,8 @@ administration:admin
 windows:window
 curtains:curtain
 radiator:heater
-lamps:lamp
-sources:source
+table lamps:table lamp
+bed lamps:bed lamp
+music sources:music source
 setting:settings
 previously:previous

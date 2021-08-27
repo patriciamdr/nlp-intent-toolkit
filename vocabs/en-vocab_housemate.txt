@@ -9,8 +9,9 @@
 7
 8
 9
-add
+add-on
 add-ons
+add-ons tv
 admin
 advanced
 again
@@ -78,6 +79,7 @@ category heater
 category home
 category housemate
 category housemate app
+category housemate tv
 category intercom
 category music
 category music control
@@ -463,6 +465,7 @@ change volume to 9
 channel
 choose
 choose add-ons
+choose add-ons tv
 choose admin
 choose advanced
 choose alarm
@@ -487,6 +490,7 @@ choose category heater
 choose category home
 choose category housemate
 choose category housemate app
+choose category housemate tv
 choose category intercom
 choose category music
 choose category music control
@@ -527,6 +531,7 @@ choose heater
 choose home
 choose housemate
 choose housemate app
+choose housemate tv
 choose iarm
 choose intercom
 choose internet
@@ -682,6 +687,7 @@ decrease bed level
 decrease bed tilt
 decrease height of bed
 decrease height of the bed
+decrease housemate tv volume
 decrease incline of bed
 decrease incline of the bed
 decrease level of bed
@@ -694,26 +700,47 @@ decrease the bed height
 decrease the bed incline
 decrease the bed level
 decrease the bed tilt
+decrease the housemate tv volume
 decrease the music volume
 decrease the tv volume
 decrease the volume
+decrease the volume
+decrease the volume housemate tv
 decrease the volume music
+decrease the volume music
+decrease the volume of housemate tv
 decrease the volume of music
+decrease the volume of music
+decrease the volume of the housemate tv
+decrease the volume of the music
 decrease the volume of the music
 decrease the volume of the tv
+decrease the volume of the tv
+decrease the volume of tv
 decrease the volume of tv
 decrease the volume please
+decrease the volume tv
 decrease the volume tv
 decrease tilt of bed
 decrease tilt of the bed
 decrease tv volume
 decrease volume
+decrease volume
+decrease volume housemate tv
 decrease volume music
+decrease volume music
+decrease volume of housemate tv
 decrease volume of music
+decrease volume of music
+decrease volume of the housemate tv
+decrease volume of the music
 decrease volume of the music
 decrease volume of the tv
+decrease volume of the tv
+decrease volume of tv
 decrease volume of tv
 decrease volume please
+decrease volume tv
 decrease volume tv
 device
 device sync
@@ -853,6 +880,7 @@ go further to the next channel
 go further to the next song
 go to
 go to add-ons
+go to add-ons tv
 go to admin
 go to advanced
 go to alarm
@@ -866,6 +894,7 @@ go to calibration
 go to camera
 go to category
 go to category add-ons
+go to category add-ons tv
 go to category admin
 go to category advanced
 go to category alarm
@@ -898,6 +927,7 @@ go to category heater
 go to category home
 go to category housemate
 go to category housemate app
+go to category housemate tv
 go to category iarm
 go to category intercom
 go to category internet
@@ -967,6 +997,7 @@ go to heater
 go to home
 go to housemate
 go to housemate app
+go to housemate tv
 go to iarm
 go to intercom
 go to internet
@@ -1027,7 +1058,6 @@ go to tv settings
 go to volume
 go to wifi
 go to window
-height
 hazard
 hazard light
 hazard light menu
@@ -1040,6 +1070,7 @@ hazard lights on
 heater
 heater off
 heater on
+height
 higher
 higher angle of bed
 higher angle of the bed
@@ -1051,6 +1082,7 @@ higher bed level
 higher bed tilt
 higher height of bed
 higher height of the bed
+higher housemate tv volume
 higher incline of bed
 higher incline of the bed
 higher level of bed
@@ -1063,30 +1095,54 @@ higher the bed height
 higher the bed incline
 higher the bed level
 higher the bed tilt
+higher the housemate tv volume
 higher the music volume
 higher the tv volume
 higher the volume
+higher the volume
+higher the volume housemate tv
 higher the volume music
+higher the volume music
+higher the volume of housemate tv
 higher the volume of music
+higher the volume of music
+higher the volume of the housemate tv
+higher the volume of the music
 higher the volume of the music
 higher the volume of the tv
+higher the volume of the tv
+higher the volume of tv
 higher the volume of tv
 higher the volume please
+higher the volume tv
 higher the volume tv
 higher tilt of bed
 higher tilt of the bed
 higher tv volume
 higher volume
+higher volume
+higher volume housemate tv
 higher volume music
+higher volume music
+higher volume of housemate tv
 higher volume of music
+higher volume of music
+higher volume of the housemate tv
+higher volume of the music
 higher volume of the music
 higher volume of the tv
+higher volume of the tv
+higher volume of tv
 higher volume of tv
 higher volume please
+higher volume tv
 higher volume tv
 home
 housemate
 housemate app
+housemate tv
+housemate tv volume higher
+housemate tv volume lower
 iarm
 incline
 increase
@@ -1100,6 +1156,7 @@ increase bed level
 increase bed tilt
 increase height of bed
 increase height of the bed
+increase housemate tv volume
 increase incline of bed
 increase incline of the bed
 increase level of bed
@@ -1112,26 +1169,47 @@ increase the bed height
 increase the bed incline
 increase the bed level
 increase the bed tilt
+increase the housemate tv volume
 increase the music volume
 increase the tv volume
 increase the volume
+increase the volume
+increase the volume housemate tv
 increase the volume music
+increase the volume music
+increase the volume of housemate tv
 increase the volume of music
+increase the volume of music
+increase the volume of the housemate tv
+increase the volume of the music
 increase the volume of the music
 increase the volume of the tv
+increase the volume of the tv
+increase the volume of tv
 increase the volume of tv
 increase the volume please
+increase the volume tv
 increase the volume tv
 increase tilt of bed
 increase tilt of the bed
 increase tv volume
 increase volume
+increase volume
+increase volume housemate tv
 increase volume music
+increase volume music
+increase volume of housemate tv
 increase volume of music
+increase volume of music
+increase volume of the housemate tv
+increase volume of the music
 increase volume of the music
 increase volume of the tv
+increase volume of the tv
+increase volume of tv
 increase volume of tv
 increase volume please
+increase volume tv
 increase volume tv
 info
 intercom
@@ -1203,6 +1281,7 @@ lower bed level
 lower bed tilt
 lower height of bed
 lower height of the bed
+lower housemate tv volume
 lower incline of bed
 lower incline of the bed
 lower level of bed
@@ -1215,26 +1294,47 @@ lower the bed height
 lower the bed incline
 lower the bed level
 lower the bed tilt
+lower the housemate tv volume
 lower the music volume
 lower the tv volume
 lower the volume
+lower the volume
+lower the volume housemate tv
 lower the volume music
+lower the volume music
+lower the volume of housemate tv
 lower the volume of music
+lower the volume of music
+lower the volume of the housemate tv
+lower the volume of the music
 lower the volume of the music
 lower the volume of the tv
+lower the volume of the tv
+lower the volume of tv
 lower the volume of tv
 lower the volume please
+lower the volume tv
 lower the volume tv
 lower tilt of bed
 lower tilt of the bed
 lower tv volume
 lower volume
+lower volume
+lower volume housemate tv
 lower volume music
+lower volume music
+lower volume of housemate tv
 lower volume of music
+lower volume of music
+lower volume of the housemate tv
+lower volume of the music
 lower volume of the music
 lower volume of the tv
+lower volume of the tv
+lower volume of tv
 lower volume of tv
 lower volume please
+lower volume tv
 lower volume tv
 make
 make a photo
@@ -1289,6 +1389,7 @@ music volume to 9
 navigate
 navigate to
 navigate to add-ons
+navigate to add-ons tv
 navigate to admin
 navigate to advanced
 navigate to alarm
@@ -1302,6 +1403,7 @@ navigate to calibration
 navigate to camera
 navigate to category
 navigate to category add-ons
+navigate to category add-ons tv
 navigate to category admin
 navigate to category advanced
 navigate to category alarm
@@ -1333,6 +1435,7 @@ navigate to category heater
 navigate to category home
 navigate to category housemate
 navigate to category housemate app
+navigate to category housemate tv
 navigate to category iarm
 navigate to category intercom
 navigate to category internet
@@ -1401,6 +1504,7 @@ navigate to heater
 navigate to home
 navigate to housemate
 navigate to housemate app
+navigate to housemate tv
 navigate to iarm
 navigate to intercom
 navigate to internet
@@ -1464,6 +1568,7 @@ only
 ons
 open
 open add-ons
+open add-ons tv
 open admin
 open advanced
 open alarm
@@ -1491,6 +1596,7 @@ open category heater
 open category home
 open category housemate
 open category housemate app
+open category housemate tv
 open category intercom
 open category music
 open category music control
@@ -1545,10 +1651,13 @@ open home category
 open home menu item
 open housemate
 open housemate app
-open housemate category
 open housemate app category
-open housemate menu item
 open housemate app menu item
+open housemate category
+open housemate menu item
+open housemate tv
+open housemate tv category
+open housemate tv menu item
 open iarm
 open intercom
 open intercom category
@@ -1577,6 +1686,7 @@ open menu item heater
 open menu item home
 open menu item housemate
 open menu item housemate app
+open menu item housemate tv
 open menu item intercom
 open menu item music
 open menu item music control
@@ -1627,6 +1737,7 @@ open table lamp category
 open table lamp menu item
 open the
 open the add-ons
+open the add-ons tv
 open the admin
 open the alarm
 open the app info
@@ -1645,6 +1756,7 @@ open the category heater
 open the category home
 open the category housemate
 open the category housemate app
+open the category housemate tv
 open the category intercom
 open the category music
 open the category music control
@@ -1682,6 +1794,7 @@ open the heater
 open the home
 open the housemate
 open the housemate app
+open the housemate tv
 open the iarm
 open the intercom
 open the internet
@@ -1708,6 +1821,7 @@ open the menu item heater
 open the menu item home
 open the menu item housemate
 open the menu item housemate app
+open the menu item housemate tv
 open the menu item intercom
 open the menu item music
 open the menu item music control
@@ -1858,6 +1972,8 @@ please curtains open now
 please curtains opened
 please curtains opened now
 please decrease the volume
+please decrease the volume
+please decrease volume
 please decrease volume
 please door close
 please door close now
@@ -1872,12 +1988,18 @@ please english
 please french
 please german
 please higher the volume
+please higher the volume
+please higher volume
 please higher volume
 please increase the volume
+please increase the volume
+please increase volume
 please increase volume
 please language
 please languages
 please lower the volume
+please lower the volume
+please lower volume
 please lower volume
 please open curtain
 please open curtain now
@@ -1902,8 +2024,12 @@ please open window now
 please open windows
 please open windows now
 please raise the volume
+please raise the volume
+please raise volume
 please raise volume
 please reduce the volume
+please reduce the volume
+please reduce volume
 please reduce volume
 please the curtain open
 please the curtain open now
@@ -1926,10 +2052,14 @@ please the windows open now
 please the windows opened
 please the windows opened now
 please turn down the volume
+please turn down the volume
+please turn down volume
 please turn down volume
 please turn the volume down
 please turn the volume up
 please turn up the volume
+please turn up the volume
+please turn up volume
 please turn up volume
 please turn volume down
 please turn volume up
@@ -1978,6 +2108,7 @@ raise bed level
 raise bed tilt
 raise height of bed
 raise height of the bed
+raise housemate tv volume
 raise incline of bed
 raise incline of the bed
 raise level of bed
@@ -1989,26 +2120,47 @@ raise the bed height
 raise the bed incline
 raise the bed level
 raise the bed tilt
+raise the housemate tv volume
 raise the music volume
 raise the tv volume
 raise the volume
+raise the volume
+raise the volume housemate tv
 raise the volume music
+raise the volume music
+raise the volume of housemate tv
 raise the volume of music
+raise the volume of music
+raise the volume of the housemate tv
+raise the volume of the music
 raise the volume of the music
 raise the volume of the tv
+raise the volume of the tv
+raise the volume of tv
 raise the volume of tv
 raise the volume please
+raise the volume tv
 raise the volume tv
 raise tilt of bed
 raise tilt of the bed
 raise tv volume
 raise volume
+raise volume
+raise volume housemate tv
 raise volume music
+raise volume music
+raise volume of housemate tv
 raise volume of music
+raise volume of music
+raise volume of the housemate tv
+raise volume of the music
 raise volume of the music
 raise volume of the tv
+raise volume of the tv
+raise volume of tv
 raise volume of tv
 raise volume please
+raise volume tv
 raise volume tv
 reduce
 reduce angle of bed
@@ -2020,6 +2172,7 @@ reduce bed level
 reduce bed tilt
 reduce height of bed
 reduce height of the bed
+reduce housemate tv volume
 reduce incline of bed
 reduce incline of the bed
 reduce level of bed
@@ -2031,26 +2184,47 @@ reduce the bed height
 reduce the bed incline
 reduce the bed level
 reduce the bed tilt
+reduce the housemate tv volume
 reduce the music volume
 reduce the tv volume
 reduce the volume
+reduce the volume
+reduce the volume housemate tv
 reduce the volume music
+reduce the volume music
+reduce the volume of housemate tv
 reduce the volume of music
+reduce the volume of music
+reduce the volume of the housemate tv
+reduce the volume of the music
 reduce the volume of the music
 reduce the volume of the tv
+reduce the volume of the tv
+reduce the volume of tv
 reduce the volume of tv
 reduce the volume please
+reduce the volume tv
 reduce the volume tv
 reduce tilt of bed
 reduce tilt of the bed
 reduce tv volume
 reduce volume
+reduce volume
+reduce volume housemate tv
 reduce volume music
+reduce volume music
+reduce volume of housemate tv
 reduce volume of music
+reduce volume of music
+reduce volume of the housemate tv
+reduce volume of the music
 reduce volume of the music
 reduce volume of the tv
+reduce volume of the tv
+reduce volume of tv
 reduce volume of tv
 reduce volume please
+reduce volume tv
 reduce volume tv
 return
 return to previous channel
@@ -2077,6 +2251,7 @@ seat
 seat position
 select
 select add-ons
+select add-ons tv
 select admin
 select advanced
 select alarm
@@ -2101,6 +2276,7 @@ select category heater
 select category home
 select category housemate
 select category housemate app
+select category housemate tv
 select category intercom
 select category music
 select category music control
@@ -2141,6 +2317,7 @@ select heater
 select home
 select housemate
 select housemate app
+select housemate tv
 select iarm
 select intercom
 select internet
@@ -2764,6 +2941,7 @@ switch the table lamps on
 switch the tv off
 switch the tv on
 switch to add-ons
+switch to add-ons tv
 switch to admin
 switch to advanced
 switch to alarm
@@ -2788,6 +2966,7 @@ switch to category heater
 switch to category home
 switch to category housemate
 switch to category housemate app
+switch to category housemate tv
 switch to category intercom
 switch to category music
 switch to category music control
@@ -2828,6 +3007,7 @@ switch to heater
 switch to home
 switch to housemate
 switch to housemate app
+switch to housemate tv
 switch to iarm
 switch to intercom
 switch to internet
@@ -2952,6 +3132,7 @@ take a photo
 take a picture
 take me to
 take me to add-ons
+take me to add-ons tv
 take me to admin
 take me to advanced
 take me to alarm
@@ -2965,6 +3146,7 @@ take me to calibration
 take me to camera
 take me to category
 take me to category add-ons
+take me to category add-ons tv
 take me to category admin
 take me to category advanced
 take me to category alarm
@@ -2996,6 +3178,7 @@ take me to category heater
 take me to category home
 take me to category housemate
 take me to category housemate app
+take me to category housemate tv
 take me to category iarm
 take me to category intercom
 take me to category internet
@@ -3064,6 +3247,7 @@ take me to heater
 take me to home
 take me to housemate
 take me to housemate app
+take me to housemate tv
 take me to iarm
 take me to intercom
 take me to internet
@@ -3154,6 +3338,7 @@ tilts
 tilts calibration
 to
 to add-ons
+to add-ons tv
 to admin
 to advanced
 to alarm
@@ -3177,6 +3362,7 @@ to category heater
 to category home
 to category housemate
 to category housemate app
+to category housemate tv
 to category intercom
 to category music
 to category music control
@@ -3215,6 +3401,7 @@ to heater
 to home
 to housemate
 to housemate app
+to housemate tv
 to iarm
 to intercom
 to internet
@@ -3280,26 +3467,48 @@ turn bed lamp on
 turn bed lamps off
 turn bed lamps on
 turn down
+turn down housemate tv volume
 turn down music volume
 turn down the
+turn down the housemate tv volume
 turn down the music volume
 turn down the tv volume
 turn down the volume
+turn down the volume
+turn down the volume housemate tv
 turn down the volume music
+turn down the volume music
+turn down the volume of housemate tv
 turn down the volume of music
+turn down the volume of music
+turn down the volume of the housemate tv
+turn down the volume of the music
 turn down the volume of the music
 turn down the volume of the tv
+turn down the volume of the tv
+turn down the volume of tv
 turn down the volume of tv
 turn down the volume please
 turn down the volume tv
+turn down the volume tv
 turn down tv volume
 turn down volume
+turn down volume
+turn down volume housemate tv
 turn down volume music
+turn down volume music
+turn down volume of housemate tv
 turn down volume of music
+turn down volume of music
+turn down volume of the housemate tv
+turn down volume of the music
 turn down volume of the music
 turn down volume of the tv
+turn down volume of the tv
+turn down volume of tv
 turn down volume of tv
 turn down volume please
+turn down volume tv
 turn down volume tv
 turn fan off
 turn fan on
@@ -3309,6 +3518,8 @@ turn hazard lights off
 turn hazard lights on
 turn heater off
 turn heater on
+turn housemate tv volume down
+turn housemate tv volume up
 turn light off
 turn light on
 turn lights off
@@ -3408,6 +3619,8 @@ turn the hazard lights off
 turn the hazard lights on
 turn the heater off
 turn the heater on
+turn the housemate tv volume down
+turn the housemate tv volume up
 turn the light off
 turn the light on
 turn the lights off
@@ -3433,10 +3646,16 @@ turn the tv volume down
 turn the tv volume up
 turn the volume down
 turn the volume down please
+turn the volume housemate tv down
+turn the volume housemate tv up
 turn the volume music down
 turn the volume music up
+turn the volume of housemate tv down
+turn the volume of housemate tv up
 turn the volume of music down
 turn the volume of music up
+turn the volume of the housemate tv down
+turn the volume of the housemate tv up
 turn the volume of the music down
 turn the volume of the music up
 turn the volume of the tv down
@@ -3452,33 +3671,61 @@ turn tv on
 turn tv volume down
 turn tv volume up
 turn up
+turn up housemate tv volume
 turn up music volume
 turn up the
+turn up the housemate tv volume
 turn up the music volume
 turn up the tv volume
 turn up the volume
+turn up the volume
+turn up the volume housemate tv
 turn up the volume music
+turn up the volume music
+turn up the volume of housemate tv
 turn up the volume of music
+turn up the volume of music
+turn up the volume of the housemate tv
+turn up the volume of the music
 turn up the volume of the music
 turn up the volume of the tv
+turn up the volume of the tv
+turn up the volume of tv
 turn up the volume of tv
 turn up the volume please
 turn up the volume tv
+turn up the volume tv
 turn up tv volume
 turn up volume
+turn up volume
+turn up volume housemate tv
 turn up volume music
+turn up volume music
+turn up volume of housemate tv
 turn up volume of music
+turn up volume of music
+turn up volume of the housemate tv
+turn up volume of the music
 turn up volume of the music
 turn up volume of the tv
+turn up volume of the tv
+turn up volume of tv
 turn up volume of tv
 turn up volume please
 turn up volume tv
+turn up volume tv
 turn volume down
 turn volume down please
+turn volume housemate tv down
+turn volume housemate tv up
 turn volume music down
 turn volume music up
+turn volume of housemate tv down
+turn volume of housemate tv up
 turn volume of music down
 turn volume of music up
+turn volume of the housemate tv down
+turn volume of the housemate tv up
 turn volume of the music down
 turn volume of the music up
 turn volume of the tv down
@@ -3553,10 +3800,14 @@ volume down
 volume down please
 volume higher
 volume higher please
+volume housemate tv higher
+volume housemate tv lower
 volume lower
 volume lower please
 volume music higher
 volume music lower
+volume of housemate tv higher
+volume of housemate tv lower
 volume of music 0
 volume of music 1
 volume of music 10
@@ -3582,6 +3833,8 @@ volume of music to 6
 volume of music to 7
 volume of music to 8
 volume of music to 9
+volume of the housemate tv higher
+volume of the housemate tv lower
 volume of the music 0
 volume of the music 1
 volume of the music 10

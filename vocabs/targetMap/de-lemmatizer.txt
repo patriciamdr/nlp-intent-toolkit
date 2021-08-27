@@ -1,4 +1,4 @@
-einstellungen:einstellung
+einstellung:einstellungen
 lichter:licht
 lichtern:licht
 sprach:sprache
@@ -12,7 +12,7 @@ synchronisiere:sync
 synchronisierung:sync
 synchronisation:sync
 internet:wlan
-add-ons:add-on
+add-on:add-ons
 raumlichter:raumlicht
 raumlichtern:raumlicht
 warnblinklicht:warnblinker
