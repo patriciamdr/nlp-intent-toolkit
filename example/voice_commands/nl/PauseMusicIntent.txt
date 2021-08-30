@@ -1,0 +1,20 @@
+pauzeer <START:music_target> muziek <END>
+pauzeer de <START:music_target> muziek <END>
+<START:music_target> muziek <END> pauzeren
+de <START:music_target> muziek <END> pauzeren
+stop <START:music_target> muziek <END>
+stop de <START:music_target> muziek <END>
+<START:music_target> muziek <END> stoppen
+de <START:music_target> muziek <END> stoppen
+zet <START:music_target> muziek <END> uit
+zet de <START:music_target> muziek <END> uit
+<START:music_target> muziek <END> uitzetten
+de <START:music_target> muziek <END> uitzetten
+zet de <START:music_target> muziek <END> af
+zet <START:music_target> muziek <END> af
+<START:music_target> muziek <END> afzetten
+de <START:music_target> muziek <END> afzetten
+switch <START:music_target> muziek <END> aan
+switch de <START:music_target> muziek <END> aan
+<START:music_target> muziek <END> aanswitchen
+de <START:music_target> muziek <END> aanswitchen

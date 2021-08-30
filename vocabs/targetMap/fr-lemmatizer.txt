@@ -5,6 +5,7 @@ l'inclinaison:inclinaison
 l'email d'urgence:email d'urgence
 l'app info:app info
 lumières:lumière
+lumières de la pièce:lumière de la pièce
 l'administration:admin
 administration:admin
 l'avancé:avancé
@@ -16,3 +17,18 @@ l'actualisation:synchronisation
 gestes de conduite:geste de conduite
 programme:chaîne
 canal:chaîne
+télévision:téléviseur
+télé:téléviseur
+alimentation de la télévision:alimentation du téléviseur
+alimentation de la télé:alimentation du téléviseur
+alimentation du télé:alimentation du téléviseur
+réglages de la télévision:réglages du téléviseur
+réglages de la télé:réglages du téléviseur
+réglages du télé:réglages du téléviseur
+contrôle de la télévision:contrôle du téléviseur
+contrôle de la télé:contrôle du téléviseur
+contrôle du télé:contrôle du téléviseur
+ajouts télévision:téléviseur
+ajouts télé:téléviseur
+housemate télévision:téléviseur
+housemate télé:téléviseur

@@ -1,130 +1,172 @@
-open <START:menuitem_target> modi <END>
-open <START:menuitem_target> rijden <END>
-open <START:menuitem_target> instellingen <END>
-open <START:menuitem_target> support <END>
-open <START:menuitem_target> media <END>
-open <START:menuitem_target> galerij <END>
-open <START:menuitem_target> camera <END>
-open <START:menuitem_target> zitting <END>
-open <START:menuitem_target> zitting <END> positie
-open <START:menuitem_target> zitting <END> instelling
-open <START:menuitem_target> zitting <END> instellingen
-open <START:menuitem_target> volume <END> instellingen
-open <START:menuitem_target> volume <END> instelling
-open <START:menuitem_target> talen <END>
-open <START:menuitem_target> taal <END> instellingen
-open <START:menuitem_target> taal <END> instelling
-open <START:menuitem_target> talen <END> instellingen
-open <START:menuitem_target> talen <END> instelling
-open <START:menuitem_target> kalibratie <END>
-open <START:menuitem_target> volume <END>
-open <START:menuitem_target> taal <END>
-open <START:menuitem_target> frans <END>
-open <START:menuitem_target> nederlands <END>
-open <START:menuitem_target> duits <END>
-open <START:menuitem_target> engels <END>
-open <START:menuitem_target> kantelen <END> kalibratie
-open <START:menuitem_target> knikken <END> kalibratie
-open <START:menuitem_target> kantel <END> kalibratie
-open <START:menuitem_target> knik <END> kalibratie
-open <START:menuitem_target> kantelen <END>
-open <START:menuitem_target> knikken <END>
-open <START:menuitem_target> app info <END>
-open <START:menuitem_target> nood e-mail <END>
-open <START:menuitem_target> synchroniseren <END>
-open <START:menuitem_target> smart glass instellingen <END>
-open <START:menuitem_target> licht <END>
-open <START:menuitem_target> lichten <END>
-open <START:menuitem_target> lichten <END> menu
-open <START:menuitem_target> licht <END> menu
+open <START:menuitem_target> add-ons <END>
+open <START:menuitem_target> add-ons tv <END>
+open <START:menuitem_target> admin <END>
+open <START:menuitem_target> alarm <END>
 open <START:menuitem_target> alarmlichten <END>
 open <START:menuitem_target> alarmlichten <END> menu
-open <START:menuitem_target> wifi <END>
-open <START:menuitem_target> admin <END>
-open <START:menuitem_target> koppelen <END>
-open <START:menuitem_target> monitor <END>
-open <START:menuitem_target> nieuwe telefoon <END>
-open <START:menuitem_target> bestaande telefoon <END>
 open <START:menuitem_target> alleen rijden <END>
-open <START:menuitem_target> basis <END>
-open <START:menuitem_target> geavanceerd <END>
-open <START:menuitem_target> besturing <END>
-open <START:menuitem_target> contacten <END>
-open <START:menuitem_target> add ons <END>
-open <START:menuitem_target> rij gebaar <END>
-open <START:menuitem_target> rij gebaren <END>
-open <START:menuitem_target> internet <END>
-open <START:menuitem_target> mouse een <END>
-open <START:menuitem_target> mouse twee <END>
-open <START:menuitem_target> tv <END>
 open <START:menuitem_target> android <END>
-open <START:menuitem_target> ios <END>
+open <START:menuitem_target> app info <END>
+open <START:menuitem_target> basis <END>
+open <START:menuitem_target> bed <END>
+open <START:menuitem_target> bedlamp <END>
+open <START:menuitem_target> bestaande telefoon <END>
+open <START:menuitem_target> besturing <END>
+open <START:menuitem_target> camera <END>
 open <START:menuitem_target> computer <END>
+open <START:menuitem_target> contacten <END>
+open <START:menuitem_target> duits <END>
+open <START:menuitem_target> engels <END>
+open <START:menuitem_target> frans <END>
+open <START:menuitem_target> galerij <END>
+open <START:menuitem_target> geavanceerd <END>
+open <START:menuitem_target> home <END>
+open <START:menuitem_target> housemate <END>
+open <START:menuitem_target> housemate app <END>
+open <START:menuitem_target> housemate tv <END>
 open <START:menuitem_target> iarm <END>
 open <START:menuitem_target> idevice <END>
+open <START:menuitem_target> instellingen <END>
+open <START:menuitem_target> intercom <END>
+open <START:menuitem_target> internet <END>
+open <START:menuitem_target> ios <END>
+open <START:menuitem_target> kalibratie <END>
+open <START:menuitem_target> kamerverlichting <END>
+open <START:menuitem_target> kantel <END> kalibratie
+open <START:menuitem_target> kantelen <END>
+open <START:menuitem_target> kantelen <END> kalibratie
 open <START:menuitem_target> kinova <END>
-open de categorie <START:menuitem_target> rijden <END>
-open de categorie <START:menuitem_target> instellingen <END>
-open de categorie <START:menuitem_target> support <END>
-open de categorie <START:menuitem_target> media <END>
-open de categorie <START:menuitem_target> galerij <END>
-open de categorie <START:menuitem_target> modi <END>
-open de categorie <START:menuitem_target> camera <END>
-open de categorie <START:menuitem_target> zitting <END>
-open de categorie <START:menuitem_target> zitting <END> positie
-open de categorie <START:menuitem_target> zitting <END> instelling
-open de categorie <START:menuitem_target> zitting <END> instellingen
-open de categorie <START:menuitem_target> volume <END> instellingen
-open de categorie <START:menuitem_target> volume <END> instelling
-open de categorie <START:menuitem_target> talen <END>
-open de categorie <START:menuitem_target> taal <END> instellingen
-open de categorie <START:menuitem_target> taal <END> instelling
-open de categorie <START:menuitem_target> talen <END> instellingen
-open de categorie <START:menuitem_target> talen <END> instelling
-open de categorie <START:menuitem_target> kalibratie <END>
-open de categorie <START:menuitem_target> volume <END>
-open de categorie <START:menuitem_target> taal <END>
-open de categorie <START:menuitem_target> frans <END>
-open de categorie <START:menuitem_target> nederlands <END>
-open de categorie <START:menuitem_target> duits <END>
-open de categorie <START:menuitem_target> engels <END>
-open de categorie <START:menuitem_target> kantelen <END> kalibratie
-open de categorie <START:menuitem_target> knikken <END> kalibratie
-open de categorie <START:menuitem_target> kantel <END> kalibratie
-open de categorie <START:menuitem_target> knik <END> kalibratie
-open de categorie <START:menuitem_target> kantelen <END>
-open de categorie <START:menuitem_target> knikken <END>
-open de categorie <START:menuitem_target> app info <END>
-open de categorie <START:menuitem_target> nood e-mail <END>
-open de categorie <START:menuitem_target> synchroniseren <END>
-open de categorie <START:menuitem_target> smart glass instellingen <END>
-open de categorie <START:menuitem_target> licht <END>
-open de categorie <START:menuitem_target> lichten <END>
-open de categorie <START:menuitem_target> lichten <END> menu
-open de categorie <START:menuitem_target> licht <END> menu
+open <START:menuitem_target> knik <END> kalibratie
+open <START:menuitem_target> knikken <END>
+open <START:menuitem_target> knikken <END> kalibratie
+open <START:menuitem_target> koppelen <END>
+open <START:menuitem_target> licht <END>
+open <START:menuitem_target> licht <END> menu
+open <START:menuitem_target> lichten <END>
+open <START:menuitem_target> lichten <END> menu
+open <START:menuitem_target> media <END>
+open <START:menuitem_target> modi <END>
+open <START:menuitem_target> monitor <END>
+open <START:menuitem_target> mouse een <END>
+open <START:menuitem_target> mouse twee <END>
+open <START:menuitem_target> muziek <END>
+open <START:menuitem_target> muziekbesturing <END>
+open <START:menuitem_target> muziekbron <END>
+open <START:menuitem_target> nederlands <END>
+open <START:menuitem_target> nieuwe telefoon <END>
+open <START:menuitem_target> nood e-mail <END>
+open <START:menuitem_target> rijden <END>
+open <START:menuitem_target> rijgebaar <END>
+open <START:menuitem_target> rijgebaren <END>
+open <START:menuitem_target> smart glass instellingen <END>
+open <START:menuitem_target> support <END>
+open <START:menuitem_target> synchroniseren <END>
+open <START:menuitem_target> taal <END>
+open <START:menuitem_target> taal <END> instelling
+open <START:menuitem_target> taal <END> instellingen
+open <START:menuitem_target> tafellamp <END>
+open <START:menuitem_target> talen <END>
+open <START:menuitem_target> talen <END> instelling
+open <START:menuitem_target> talen <END> instellingen
+open <START:menuitem_target> tv <END>
+open <START:menuitem_target> tv aan/uit <END>
+open <START:menuitem_target> tv besturing <END>
+open <START:menuitem_target> tv instellingen <END>
+open <START:menuitem_target> ventilator <END>
+open <START:menuitem_target> verwarming <END>
+open <START:menuitem_target> volume <END>
+open <START:menuitem_target> volume <END> instelling
+open <START:menuitem_target> volume <END> instellingen
+open <START:menuitem_target> wifi <END>
+open <START:menuitem_target> zitting <END>
+open <START:menuitem_target> zitting <END> instelling
+open <START:menuitem_target> zitting <END> instellingen
+open <START:menuitem_target> zitting <END> positie
+open de categorie <START:menuitem_target> deur <END>
+open de categorie <START:menuitem_target> raam <END>
+open de categorie <START:menuitem_target> ramen <END>
+open de categorie <START:menuitem_target> gordijnen <END>
+open de categorie <START:menuitem_target> add-ons <END>
+open de categorie <START:menuitem_target> add-ons tv <END>
+open de categorie <START:menuitem_target> admin <END>
+open de categorie <START:menuitem_target> alarm <END>
 open de categorie <START:menuitem_target> alarmlichten <END>
 open de categorie <START:menuitem_target> alarmlichten <END> menu
-open de categorie <START:menuitem_target> wifi <END>
-open de categorie <START:menuitem_target> admin <END>
-open de categorie <START:menuitem_target> koppelen <END>
-open de categorie <START:menuitem_target> monitor <END>
-open de categorie <START:menuitem_target> nieuwe telefoon <END>
-open de categorie <START:menuitem_target> bestaande telefoon <END>
 open de categorie <START:menuitem_target> alleen rijden <END>
-open de categorie <START:menuitem_target> basis <END>
-open de categorie <START:menuitem_target> geavanceerd <END>
-open de categorie <START:menuitem_target> besturing <END>
-open de categorie <START:menuitem_target> contacten <END>
-open de categorie <START:menuitem_target> add ons <END>
-open de categorie <START:menuitem_target> rij gebaar <END>
-open de categorie <START:menuitem_target> rij gebaren <END>
-open de categorie <START:menuitem_target> internet <END>
-open de categorie <START:menuitem_target> mouse een <END>
-open de categorie <START:menuitem_target> mouse twee <END>
-open de categorie <START:menuitem_target> tv <END>
 open de categorie <START:menuitem_target> android <END>
-open de categorie <START:menuitem_target> ios <END>
+open de categorie <START:menuitem_target> app info <END>
+open de categorie <START:menuitem_target> basis <END>
+open de categorie <START:menuitem_target> bed <END>
+open de categorie <START:menuitem_target> bedlamp <END>
+open de categorie <START:menuitem_target> bestaande telefoon <END>
+open de categorie <START:menuitem_target> besturing <END>
+open de categorie <START:menuitem_target> camera <END>
 open de categorie <START:menuitem_target> computer <END>
+open de categorie <START:menuitem_target> contacten <END>
+open de categorie <START:menuitem_target> duits <END>
+open de categorie <START:menuitem_target> engels <END>
+open de categorie <START:menuitem_target> frans <END>
+open de categorie <START:menuitem_target> galerij <END>
+open de categorie <START:menuitem_target> geavanceerd <END>
+open de categorie <START:menuitem_target> home <END>
+open de categorie <START:menuitem_target> housemate <END>
+open de categorie <START:menuitem_target> housemate app <END>
+open de categorie <START:menuitem_target> housemate tv <END>
 open de categorie <START:menuitem_target> iarm <END>
 open de categorie <START:menuitem_target> idevice <END>
+open de categorie <START:menuitem_target> instellingen <END>
+open de categorie <START:menuitem_target> intercom <END>
+open de categorie <START:menuitem_target> internet <END>
+open de categorie <START:menuitem_target> ios <END>
+open de categorie <START:menuitem_target> kalibratie <END>
+open de categorie <START:menuitem_target> kamerverlichting <END>
+open de categorie <START:menuitem_target> kantel <END> kalibratie
+open de categorie <START:menuitem_target> kantelen <END>
+open de categorie <START:menuitem_target> kantelen <END> kalibratie
 open de categorie <START:menuitem_target> kinova <END>
+open de categorie <START:menuitem_target> knik <END> kalibratie
+open de categorie <START:menuitem_target> knikken <END>
+open de categorie <START:menuitem_target> knikken <END> kalibratie
+open de categorie <START:menuitem_target> koppelen <END>
+open de categorie <START:menuitem_target> licht <END>
+open de categorie <START:menuitem_target> licht <END> menu
+open de categorie <START:menuitem_target> lichten <END>
+open de categorie <START:menuitem_target> lichten <END> menu
+open de categorie <START:menuitem_target> media <END>
+open de categorie <START:menuitem_target> modi <END>
+open de categorie <START:menuitem_target> monitor <END>
+open de categorie <START:menuitem_target> mouse een <END>
+open de categorie <START:menuitem_target> mouse twee <END>
+open de categorie <START:menuitem_target> muziek <END>
+open de categorie <START:menuitem_target> muziekbesturing <END>
+open de categorie <START:menuitem_target> muziekbron <END>
+open de categorie <START:menuitem_target> nederlands <END>
+open de categorie <START:menuitem_target> nieuwe telefoon <END>
+open de categorie <START:menuitem_target> nood e-mail <END>
+open de categorie <START:menuitem_target> rijden <END>
+open de categorie <START:menuitem_target> rijgebaar <END>
+open de categorie <START:menuitem_target> rijgebaren <END>
+open de categorie <START:menuitem_target> smart glass instellingen <END>
+open de categorie <START:menuitem_target> support <END>
+open de categorie <START:menuitem_target> synchroniseren <END>
+open de categorie <START:menuitem_target> taal <END>
+open de categorie <START:menuitem_target> taal <END> instelling
+open de categorie <START:menuitem_target> taal <END> instellingen
+open de categorie <START:menuitem_target> tafellamp <END>
+open de categorie <START:menuitem_target> talen <END>
+open de categorie <START:menuitem_target> talen <END> instelling
+open de categorie <START:menuitem_target> talen <END> instellingen
+open de categorie <START:menuitem_target> tv <END>
+open de categorie <START:menuitem_target> tv aan/uit <END>
+open de categorie <START:menuitem_target> tv besturing <END>
+open de categorie <START:menuitem_target> tv instellingen <END>
+open de categorie <START:menuitem_target> ventilator <END>
+open de categorie <START:menuitem_target> verwarming <END>
+open de categorie <START:menuitem_target> volume <END>
+open de categorie <START:menuitem_target> volume <END> instelling
+open de categorie <START:menuitem_target> volume <END> instellingen
+open de categorie <START:menuitem_target> wifi <END>
+open de categorie <START:menuitem_target> zitting <END>
+open de categorie <START:menuitem_target> zitting <END> instelling
+open de categorie <START:menuitem_target> zitting <END> instellingen
+open de categorie <START:menuitem_target> zitting <END> positie

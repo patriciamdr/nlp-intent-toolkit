@@ -8,5 +8,10 @@ update:synchroniseren
 updaten:synchroniseren
 administratie:admin
 glasses:glass
-ons:on
+smartglasses:smartglass
 gebaren:gebaar
+rijgebaren:rijgebaar
+ramen:raam
+gordijnen:gordijn
+programma:zender
+kanaal:zender

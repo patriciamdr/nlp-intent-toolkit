@@ -1,0 +1,109 @@
+vorige <START:next_prev_target> kanaal <END>
+naar vorige <START:next_prev_target> kanaal <END>
+naar het vorige <START:next_prev_target> kanaal <END>
+ga naar vorige <START:next_prev_target> kanaal <END>
+ga naar het vorige <START:next_prev_target> kanaal <END>
+naar vorige <START:next_prev_target> kanaal <END> gaan
+naar het vorige <START:next_prev_target> kanaal <END> gaan
+switch naar vorige <START:next_prev_target> kanaal <END>
+switch naar het vorige <START:next_prev_target> kanaal <END>
+naar vorige <START:next_prev_target> kanaal <END> switchen
+naar het vorige <START:next_prev_target> kanaal <END> switchen
+selecteer vorige <START:next_prev_target> kanaal <END>
+selecteer het vorige <START:next_prev_target> kanaal <END>
+vorige <START:next_prev_target> kanaal <END> selecteren
+het vorige <START:next_prev_target> kanaal <END> selecteren
+verander naar vorige <START:next_prev_target> kanaal <END>
+verander naar het vorige <START:next_prev_target> kanaal <END>
+naar vorige <START:next_prev_target> kanaal <END> veranderen
+naar het vorige <START:next_prev_target> kanaal <END> veranderen
+naar vorige <START:next_prev_target> kanaal <END>
+terug naar vorige <START:next_prev_target> kanaal <END>
+terug naar het vorige <START:next_prev_target> kanaal <END>
+keer terug naar vorige <START:next_prev_target> kanaal <END>
+keer terug naar het vorige <START:next_prev_target> kanaal <END>
+naar vorige <START:next_prev_target> kanaal <END> terugkeren
+naar het vorige <START:next_prev_target> kanaal <END> terugkeren
+vorige <START:next_prev_target> zender <END>
+naar vorige <START:next_prev_target> zender <END>
+naar de vorige <START:next_prev_target> zender <END>
+ga naar vorige <START:next_prev_target> zender <END>
+ga naar de vorige <START:next_prev_target> zender <END>
+naar vorige <START:next_prev_target> zender <END> gaan
+naar de vorige <START:next_prev_target> zender <END> gaan
+switch naar vorige <START:next_prev_target> zender <END>
+switch naar de vorige <START:next_prev_target> zender <END>
+naar vorige <START:next_prev_target> zender <END> switchen
+naar de vorige <START:next_prev_target> zender <END> switchen
+selecteer vorige <START:next_prev_target> zender <END>
+selecteer de vorige <START:next_prev_target> zender <END>
+vorige <START:next_prev_target> zender <END> selecteren
+de vorige <START:next_prev_target> zender <END> selecteren
+verander naar vorige <START:next_prev_target> zender <END>
+verander naar de vorige <START:next_prev_target> zender <END>
+naar vorige <START:next_prev_target> zender <END> veranderen
+naar de vorige <START:next_prev_target> zender <END> veranderen
+terug naar vorige <START:next_prev_target> zender <END>
+terug naar de vorige <START:next_prev_target> zender <END>
+keer terug naar vorige <START:next_prev_target> zender <END>
+keer terug naar de vorige <START:next_prev_target> zender <END>
+naar vorige <START:next_prev_target> zender <END> terugkeren
+naar de vorige <START:next_prev_target> zender <END> terugkeren
+vorige <START:next_prev_target> programma <END>
+naar vorige <START:next_prev_target> programma <END>
+naar het vorige <START:next_prev_target> programma <END>
+ga naar vorige <START:next_prev_target> programma <END>
+ga naar het vorige <START:next_prev_target> programma <END>
+naar vorige <START:next_prev_target> programma <END> gaan
+naar het vorige <START:next_prev_target> programma <END> gaan
+switch naar vorige <START:next_prev_target> programma <END>
+switch naar het vorige <START:next_prev_target> programma <END>
+naar vorige <START:next_prev_target> programma <END> switchen
+naar het vorige <START:next_prev_target> programma <END> switchen
+selecteer vorige <START:next_prev_target> programma <END>
+selecteer het vorige <START:next_prev_target> programma <END>
+vorige <START:next_prev_target> programma <END> selecteren
+het vorige <START:next_prev_target> programma <END> selecteren
+verander naar vorige <START:next_prev_target> programma <END>
+verander naar het vorige <START:next_prev_target> programma <END>
+naar vorige <START:next_prev_target> programma <END> veranderen
+naar het vorige <START:next_prev_target> programma <END> veranderen
+terug naar vorige <START:next_prev_target> programma <END>
+terug naar het vorige <START:next_prev_target> programma <END>
+keer terug naar vorige <START:next_prev_target> programma <END>
+keer terug naar het vorige <START:next_prev_target> programma <END>
+naar vorige <START:next_prev_target> programma <END> terugkeren
+naar het vorige <START:next_prev_target> programma <END> terugkeren
+vorige <START:next_prev_target> lied <END>
+naar vorige <START:next_prev_target> lied <END>
+naar het vorige <START:next_prev_target> lied <END>
+ga naar vorige <START:next_prev_target> lied <END>
+ga naar het vorige <START:next_prev_target> lied <END>
+naar vorige <START:next_prev_target> lied <END> gaan
+naar het vorige <START:next_prev_target> lied <END> gaan
+switch naar vorige <START:next_prev_target> lied <END>
+switch naar het vorige <START:next_prev_target> lied <END>
+naar vorige <START:next_prev_target> lied <END> switchen
+naar het vorige <START:next_prev_target> lied <END> switchen
+selecteer vorige <START:next_prev_target> lied <END>
+selecteer het vorige <START:next_prev_target> lied <END>
+vorige <START:next_prev_target> lied <END> selecteren
+het vorige <START:next_prev_target> lied <END> selecteren
+verander naar vorige <START:next_prev_target> lied <END>
+verander naar het vorige <START:next_prev_target> lied <END>
+naar vorige <START:next_prev_target> lied <END> veranderen
+naar het vorige <START:next_prev_target> lied <END> veranderen
+terug naar vorige <START:next_prev_target> lied <END>
+terug naar het vorige <START:next_prev_target> lied <END>
+keer terug naar vorige <START:next_prev_target> lied <END>
+keer terug naar het vorige <START:next_prev_target> lied <END>
+naar vorige <START:next_prev_target> lied <END> terugkeren
+naar het vorige <START:next_prev_target> lied <END> terugkeren
+speel vorige <START:next_prev_target> lied <END>
+speel het vorige <START:next_prev_target> lied <END>
+vorige <START:next_prev_target> lied <END> spelen
+het vorige <START:next_prev_target> lied <END> spelen
+speel vorige <START:next_prev_target> lied <END> af
+speel het vorige <START:next_prev_target> lied <END> af
+vorige <START:next_prev_target> lied <END> afspelen
+het vorige <START:next_prev_target> lied <END> afspelen

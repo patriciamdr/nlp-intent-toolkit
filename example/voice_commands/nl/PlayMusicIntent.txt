@@ -1,0 +1,20 @@
+speel <START:music_target> muziek <END>
+speel de <START:music_target> muziek <END>
+speel <START:music_target> muziek <END> af
+speel de <START:music_target> muziek <END> af
+<START:music_target> muziek <END> spelen
+de <START:music_target> muziek <END> spelen
+<START:music_target> muziek <END> afspelen
+de <START:music_target> muziek <END> afspelen
+start <START:music_target> muziek <END>
+start de <START:music_target> muziek <END>
+<START:music_target> muziek <END> starten
+de <START:music_target> muziek <END> starten
+zet <START:music_target> muziek <END> aan
+zet de <START:music_target> muziek <END> aan
+<START:music_target> muziek <END> aanzetten
+de <START:music_target> muziek <END> aanzetten
+switch <START:music_target> muziek <END> aan
+switch de <START:music_target> muziek <END> aan
+<START:music_target> muziek <END> aanswitchen
+de <START:music_target> muziek <END> aanswitchen

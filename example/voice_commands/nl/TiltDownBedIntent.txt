@@ -1,0 +1,66 @@
+laat <START:tilt_target> bed <END> zakken
+laat het <START:tilt_target> bed <END> zakken
+<START:tilt_target> bed <END> laten zakken
+het <START:tilt_target> bed <END> laten zakken
+<START:tilt_target> bed <END> omlaag
+doe <START:tilt_target> bed <END> omlaag
+doe het <START:tilt_target> bed <END> omlaag
+<START:tilt_target> bed <END> omlaag doen
+het <START:tilt_target> bed <END> omlaag doen
+verminder <START:tilt_target> bed <END>
+verminder het <START:tilt_target> bed <END>
+<START:tilt_target> bed <END> verminder
+het <START:tilt_target> bed <END> verminderen
+zet <START:tilt_target> bed <END> omlaag
+zet het <START:tilt_target> bed <END> omlaag
+<START:tilt_target> bed <END> omlaag zetten
+het <START:tilt_target> bed <END> omlaag zetten
+breng <START:tilt_target> bed <END> omlaag
+breng het <START:tilt_target> bed <END> omlaag
+<START:tilt_target> bed <END> omlaag brengen
+het <START:tilt_target> bed <END> omlaag brengen
+kantel <START:tilt_target> bed <END> omlaag
+kantel het <START:tilt_target> bed <END> omlaag
+<START:tilt_target> bed <END> omlaag kantelen
+het <START:tilt_target> bed <END> omlaag kantelen
+kantel <START:tilt_target> bed <END> minder
+kantel het <START:tilt_target> bed <END> minder
+<START:tilt_target> bed <END> minder kantelen
+het <START:tilt_target> bed <END> minder kantelen
+zet <START:tilt_target> bed <END> minder hoog
+zet het <START:tilt_target> bed <END> minder hoog
+<START:tilt_target> bed <END> minder hoog zetten
+het <START:tilt_target> bed <END> minder hoog zetten
+laat <START:tilt_target> bed <END> hoogte zakken
+laat de <START:tilt_target> bed <END> hoogte zakken
+<START:tilt_target> bed <END> hoogte laten zakken
+de <START:tilt_target> bed <END> hoogte laten zakken
+<START:tilt_target> bed <END> hoogte omlaag
+doe <START:tilt_target> bed <END> hoogte omlaag
+doe de <START:tilt_target> bed <END> hoogte omlaag
+<START:tilt_target> bed <END> hoogte omlaag doen
+de <START:tilt_target> bed <END> hoogte omlaag doen
+verminder <START:tilt_target> bed <END> hoogte
+verminder de <START:tilt_target> bed <END> hoogte
+<START:tilt_target> bed <END> hoogte verminder
+de <START:tilt_target> bed <END> hoogte verminderen
+zet <START:tilt_target> bed <END> hoogte omlaag
+zet de <START:tilt_target> bed <END> hoogte omlaag
+<START:tilt_target> bed <END> hoogte omlaag zetten
+de <START:tilt_target> bed <END> hoogte omlaag zetten
+breng <START:tilt_target> bed <END> hoogte omlaag
+breng de <START:tilt_target> bed <END> hoogte omlaag
+<START:tilt_target> bed <END> hoogte omlaag brengen
+de <START:tilt_target> bed <END> hoogte omlaag brengen
+kantel <START:tilt_target> bed <END> hoogte omlaag
+kantel de <START:tilt_target> bed <END> hoogte omlaag
+<START:tilt_target> bed <END> hoogte omlaag kantelen
+de <START:tilt_target> bed <END> hoogte omlaag kantelen
+kantel <START:tilt_target> bed <END> hoogte minder
+kantel de <START:tilt_target> bed <END> hoogte minder
+<START:tilt_target> bed <END> hoogte minder kantelen
+de <START:tilt_target> bed <END> hoogte minder kantelen
+zet <START:tilt_target> bed <END> hoogte minder hoog
+zet de <START:tilt_target> bed <END> hoogte minder hoog
+<START:tilt_target> bed <END> hoogte minder hoog zetten
+de <START:tilt_target> bed <END> hoogte minder hoog zetten

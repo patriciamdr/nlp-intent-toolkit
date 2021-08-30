@@ -1,0 +1,40 @@
+sluit <START:control_target> raam <END>
+sluit het <START:control_target> raam <END>
+sluit <START:control_target> ramen <END>
+sluit de <START:control_target> ramen <END>
+<START:control_target> raam <END> sluiten
+het <START:control_target> raam <END> sluiten
+<START:control_target> ramen <END> sluiten
+de <START:control_target> ramen <END> sluiten
+<START:control_target> raam <END> dicht
+het <START:control_target> raam <END> dicht
+<START:control_target> ramen <END> dicht
+de <START:control_target> ramen <END> dicht
+doe <START:control_target> raam <END> dicht
+doe het <START:control_target> raam <END> dicht
+doe <START:control_target> ramen <END> dicht
+doe de <START:control_target> ramen <END> dicht
+sluit <START:control_target> gordijn <END>
+sluit het <START:control_target> gordijn <END>
+sluit <START:control_target> gordijnen <END>
+sluit de <START:control_target> gordijnen <END>
+<START:control_target> gordijn <END> sluiten
+het <START:control_target> gordijn <END> sluiten
+<START:control_target> gordijnen <END> sluiten
+de <START:control_target> gordijnen <END> sluiten
+<START:control_target> gordijn <END> dicht
+het <START:control_target> gordijn <END> dicht
+<START:control_target> gordijnen <END> dicht
+de <START:control_target> gordijnen <END> dicht
+doe <START:control_target> gordijn <END> dicht
+doe het <START:control_target> gordijn <END> dicht
+doe <START:control_target> gordijnen <END> dicht
+doe de <START:control_target> gordijnen <END> dicht
+sluit <START:control_target> deur <END>
+sluit de <START:control_target> deur <END>
+<START:control_target> deur <END> sluiten
+de <START:control_target> deur <END> sluiten
+<START:control_target> deur <END> dicht
+de <START:control_target> deur <END> dicht
+doe <START:control_target> deur <END> dicht
+doe de <START:control_target> deur <END> dicht

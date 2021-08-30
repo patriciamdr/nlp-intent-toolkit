@@ -1,0 +1,40 @@
+open <START:control_target> raam <END>
+open het <START:control_target> raam <END>
+open <START:control_target> ramen <END>
+open de <START:control_target> ramen <END>
+<START:control_target> raam <END> openen
+het <START:control_target> raam <END> openen
+<START:control_target> ramen <END> openen
+de <START:control_target> ramen <END> openen
+<START:control_target> raam <END> open
+het <START:control_target> raam <END> open
+<START:control_target> ramen <END> open
+de <START:control_target> ramen <END> open
+doe <START:control_target> raam <END> open
+doe het <START:control_target> raam <END> open
+doe <START:control_target> ramen <END> open
+doe de <START:control_target> ramen <END> open
+open <START:control_target> gordijn <END>
+open het <START:control_target> gordijn <END>
+open <START:control_target> gordijnen <END>
+open de <START:control_target> gordijnen <END>
+<START:control_target> gordijn <END> openen
+het <START:control_target> gordijn <END> openen
+<START:control_target> gordijnen <END> openen
+de <START:control_target> gordijnen <END> openen
+<START:control_target> gordijn <END> open
+het <START:control_target> gordijn <END> open
+<START:control_target> gordijnen <END> open
+de <START:control_target> gordijnen <END> open
+doe <START:control_target> gordijn <END> open
+doe het <START:control_target> gordijn <END> open
+doe <START:control_target> gordijnen <END> open
+doe de <START:control_target> gordijnen <END> open
+open <START:control_target> deur <END>
+open de <START:control_target> deur <END>
+<START:control_target> deur <END> openen
+de <START:control_target> deur <END> openen
+<START:control_target> deur <END> open
+de <START:control_target> deur <END> open
+doe <START:control_target> deur <END> open
+doe de <START:control_target> deur <END> open

@@ -28,3 +28,109 @@ allumer <START:control_target> feux de détresse <END>
 éteindre <START:control_target> feux de détresse <END>
 <START:control_target> feux de détresse <END> allumés
 <START:control_target> feux de détresse <END> éteints
+allume le <START:control_target> chauffage <END>
+allume <START:control_target> chauffage <END>
+allumer le <START:control_target> chauffage <END>
+allumer <START:control_target> chauffage <END>
+éteins le <START:control_target> chauffage <END>
+éteins <START:control_target> chauffage <END>
+éteindre le <START:control_target> chauffage <END>
+éteindre <START:control_target> chauffage <END>
+<START:control_target> chauffage <END> allumé
+<START:control_target> chauffage <END> éteint
+allume <START:control_target> l'alarme <END>
+allume la <START:control_target> alarme <END>
+allume <START:control_target> alarme <END>
+allumer <START:control_target> l'alarme <END>
+allumer la <START:control_target> alarme <END>
+allumer <START:control_target> alarme <END>
+éteins <START:control_target> l'alarme <END>
+éteins la <START:control_target> alarme <END>
+éteins <START:control_target> alarme <END>
+éteindre <START:control_target> l'alarme <END>
+éteindre la <START:control_target> alarme <END>
+éteindre <START:control_target> alarme <END>
+<START:control_target> l'alarme <END> allumée
+<START:control_target> l'alarme <END> éteinte
+<START:control_target> alarme <END> allumée
+<START:control_target> alarme <END> éteinte
+allume le <START:control_target> ventilateur <END>
+allume <START:control_target> ventilateur <END>
+allumer le <START:control_target> ventilateur <END>
+allumer <START:control_target> ventilateur <END>
+éteins le <START:control_target> ventilateur <END>
+éteins <START:control_target> ventilateur <END>
+éteindre le <START:control_target> ventilateur <END>
+éteindre <START:control_target> ventilateur <END>
+<START:control_target> ventilateur <END> allumé
+<START:control_target> ventilateur <END> éteint
+allume la <START:control_target> lumière de la pièce <END>
+allume les <START:control_target> lumières de la pièce <END>
+allume <START:control_target> lumière de la pièce <END>
+allume <START:control_target> lumières de la pièce <END>
+allumer la <START:control_target> lumière de la pièce <END>
+allumer les <START:control_target> lumières de la pièce <END>
+allumer <START:control_target> lumière de la pièce <END>
+allumer <START:control_target> lumières de la pièce <END>
+éteins la <START:control_target> lumière de la pièce <END>
+éteins les <START:control_target> lumières de la pièce <END>
+éteins <START:control_target> lumière de la pièce <END>
+éteins <START:control_target> lumières de la pièce <END>
+éteindre la <START:control_target> lumière de la pièce <END>
+éteindre les <START:control_target> lumières de la pièce <END>
+éteindre <START:control_target> lumière de la pièce <END>
+éteindre <START:control_target> lumières de la pièce <END>
+<START:control_target> lumières de la pièce <END> allumées
+<START:control_target> lumière de la pièce <END> allumée
+<START:control_target> lumière de la pièce <END> éteinte
+<START:control_target> lumières de la pièce <END> éteintes
+allume la <START:control_target> lampe de chevet <END>
+allume <START:control_target> lampe de chevet <END>
+allumer la <START:control_target> lampe de chevet <END>
+allumer <START:control_target> lampe de chevet <END>
+éteins la <START:control_target> lampe de chevet <END>
+éteins <START:control_target> lampe de chevet <END>
+éteindre la <START:control_target> lampe de chevet <END>
+éteindre <START:control_target> lampe de chevet <END>
+<START:control_target> lampe de chevet <END> allumée
+<START:control_target> lampe de chevet <END> éteinte
+allume la <START:control_target> lampe de table <END>
+allume <START:control_target> lampe de table <END>
+allumer la <START:control_target> lampe de table <END>
+allumer <START:control_target> lampe de table <END>
+éteins la <START:control_target> lampe de table <END>
+éteins <START:control_target> lampe de table <END>
+éteindre la <START:control_target> lampe de table <END>
+éteindre <START:control_target> lampe de table <END>
+<START:control_target> lampe de table <END> allumée
+<START:control_target> lampe de table <END> éteinte
+allume la <START:control_target> télé <END>
+allume <START:control_target> télé <END>
+allumer la <START:control_target> télé <END>
+allumer <START:control_target> télé <END>
+éteins la <START:control_target> télé <END>
+éteins <START:control_target> télé <END>
+éteindre la <START:control_target> télé <END>
+éteindre <START:control_target> télé <END>
+<START:control_target> télé <END> allumée
+<START:control_target> télé <END> éteinte
+allume la <START:control_target> télévision <END>
+allume <START:control_target> télévision <END>
+allumer la <START:control_target> télévision <END>
+allumer <START:control_target> télévision <END>
+éteins la <START:control_target> télévision <END>
+éteins <START:control_target> télévision <END>
+éteindre la <START:control_target> télévision <END>
+éteindre <START:control_target> télévision <END>
+<START:control_target> télévision <END> allumée
+<START:control_target> télévision <END> éteinte
+allume le <START:control_target> téléviseur <END>
+allume <START:control_target> téléviseur <END>
+allumer le <START:control_target> téléviseur <END>
+allumer <START:control_target> téléviseur <END>
+éteins le <START:control_target> téléviseur <END>
+éteins <START:control_target> téléviseur <END>
+éteindre le <START:control_target> téléviseur <END>
+éteindre <START:control_target> téléviseur <END>
+<START:control_target> téléviseur <END> allumé
+<START:control_target> téléviseur <END> éteint

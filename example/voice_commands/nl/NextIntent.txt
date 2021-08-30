@@ -1,0 +1,92 @@
+volgende <START:next_prev_target> kanaal <END>
+naar volgende <START:next_prev_target> kanaal <END>
+naar het volgende <START:next_prev_target> kanaal <END>
+ga naar volgende <START:next_prev_target> kanaal <END>
+ga naar het volgende <START:next_prev_target> kanaal <END>
+naar volgende <START:next_prev_target> kanaal <END> gaan
+naar het volgende <START:next_prev_target> kanaal <END> gaan
+switch naar volgende <START:next_prev_target> kanaal <END>
+switch naar het volgende <START:next_prev_target> kanaal <END>
+naar volgende <START:next_prev_target> kanaal <END> switchen
+naar het volgende <START:next_prev_target> kanaal <END> switchen
+selecteer volgende <START:next_prev_target> kanaal <END>
+selecteer het volgende <START:next_prev_target> kanaal <END>
+volgende <START:next_prev_target> kanaal <END> selecteren
+het volgende <START:next_prev_target> kanaal <END> selecteren
+verander naar volgende <START:next_prev_target> kanaal <END>
+verander naar het volgende <START:next_prev_target> kanaal <END>
+naar volgende <START:next_prev_target> kanaal <END> veranderen
+naar het volgende <START:next_prev_target> kanaal <END> veranderen
+ga door naar volgende <START:next_prev_target> kanaal <END>
+ga door naar het volgende <START:next_prev_target> kanaal <END>
+volgende <START:next_prev_target> zender <END>
+naar volgende <START:next_prev_target> zender <END>
+naar de volgende <START:next_prev_target> zender <END>
+ga naar volgende <START:next_prev_target> zender <END>
+ga naar de volgende <START:next_prev_target> zender <END>
+naar volgende <START:next_prev_target> zender <END> gaan
+naar de volgende <START:next_prev_target> zender <END> gaan
+switch naar volgende <START:next_prev_target> zender <END>
+switch naar de volgende <START:next_prev_target> zender <END>
+naar volgende <START:next_prev_target> zender <END> switchen
+naar de volgende <START:next_prev_target> zender <END> switchen
+selecteer volgende <START:next_prev_target> zender <END>
+selecteer de volgende <START:next_prev_target> zender <END>
+volgende <START:next_prev_target> zender <END> selecteren
+de volgende <START:next_prev_target> zender <END> selecteren
+verander naar volgende <START:next_prev_target> zender <END>
+verander naar de volgende <START:next_prev_target> zender <END>
+naar volgende <START:next_prev_target> zender <END> veranderen
+naar de volgende <START:next_prev_target> zender <END> veranderen
+ga door naar volgende <START:next_prev_target> zender <END>
+ga door naar de volgende <START:next_prev_target> zender <END>
+volgende <START:next_prev_target> programma <END>
+naar volgende <START:next_prev_target> programma <END>
+naar het volgende <START:next_prev_target> programma <END>
+ga naar volgende <START:next_prev_target> programma <END>
+ga naar het volgende <START:next_prev_target> programma <END>
+naar volgende <START:next_prev_target> programma <END> gaan
+naar het volgende <START:next_prev_target> programma <END> gaan
+switch naar volgende <START:next_prev_target> programma <END>
+switch naar het volgende <START:next_prev_target> programma <END>
+naar volgende <START:next_prev_target> programma <END> switchen
+naar het volgende <START:next_prev_target> programma <END> switchen
+selecteer volgende <START:next_prev_target> programma <END>
+selecteer het volgende <START:next_prev_target> programma <END>
+volgende <START:next_prev_target> programma <END> selecteren
+het volgende <START:next_prev_target> programma <END> selecteren
+verander naar volgende <START:next_prev_target> programma <END>
+verander naar het volgende <START:next_prev_target> programma <END>
+naar volgende <START:next_prev_target> programma <END> veranderen
+naar het volgende <START:next_prev_target> programma <END> veranderen
+ga door naar volgende <START:next_prev_target> programma <END>
+ga door naar het volgende <START:next_prev_target> programma <END>
+volgende <START:next_prev_target> lied <END>
+naar volgende <START:next_prev_target> lied <END>
+naar het volgende <START:next_prev_target> lied <END>
+ga naar volgende <START:next_prev_target> lied <END>
+ga naar het volgende <START:next_prev_target> lied <END>
+naar volgende <START:next_prev_target> lied <END> gaan
+naar het volgende <START:next_prev_target> lied <END> gaan
+switch naar volgende <START:next_prev_target> lied <END>
+switch naar het volgende <START:next_prev_target> lied <END>
+naar volgende <START:next_prev_target> lied <END> switchen
+naar het volgende <START:next_prev_target> lied <END> switchen
+selecteer volgende <START:next_prev_target> lied <END>
+selecteer het volgende <START:next_prev_target> lied <END>
+volgende <START:next_prev_target> lied <END> selecteren
+het volgende <START:next_prev_target> lied <END> selecteren
+verander naar volgende <START:next_prev_target> lied <END>
+verander naar het volgende <START:next_prev_target> lied <END>
+naar volgende <START:next_prev_target> lied <END> veranderen
+naar het volgende <START:next_prev_target> lied <END> veranderen
+ga door naar volgende <START:next_prev_target> lied <END>
+ga door naar het volgende <START:next_prev_target> lied <END>
+speel volgende <START:next_prev_target> lied <END>
+speel het volgende <START:next_prev_target> lied <END>
+volgende <START:next_prev_target> lied <END> spelen
+het volgende <START:next_prev_target> lied <END> spelen
+speel volgende <START:next_prev_target> lied <END> af
+speel het volgende <START:next_prev_target> lied <END> af
+volgende <START:next_prev_target> lied <END> afspelen
+het volgende <START:next_prev_target> lied <END> afspelen
