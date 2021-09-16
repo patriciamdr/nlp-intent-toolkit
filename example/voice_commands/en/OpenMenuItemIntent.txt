@@ -187,6 +187,8 @@ open menu item <START:menuitem_target> tv power <END>
 open menu item <START:menuitem_target> tv settings <END>
 open menu item <START:menuitem_target> window <END>
 open menu item <START:menuitem_target> windows <END>
+open category <START:menuitem_target> voice control <END>
+open menu item <START:menuitem_target> voice control <END>
 open the
 open the <START:menuitem_target> add-ons <END>
 open the <START:menuitem_target> add-ons tv <END>

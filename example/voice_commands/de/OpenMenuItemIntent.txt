@@ -1,6 +1,8 @@
 öffne das <START:menuitem_target> bett <END>
 öffne das <START:menuitem_target> raumlicht <END>
 öffne die <START:menuitem_target> raumlichter <END>
+öffne die <START:menuitem_target> sprachsteuerung <END>
+öffne <START:menuitem_target> sprachsteuerung <END>
 öffne die <START:menuitem_target> tischlampe <END>
 öffne die <START:menuitem_target> bettlampe <END>
 öffne den <START:menuitem_target> heater <END>
@@ -35,6 +37,7 @@
 öffne <START:menuitem_target> tv power <END>
 öffne <START:menuitem_target> tv einstellungen <END>
 öffne <START:menuitem_target> tv <END>
+<START:menuitem_target> sprachsteuerung <END> öffnen
 <START:menuitem_target> home <END> öffnen
 <START:menuitem_target> housemate <END> öffnen
 <START:menuitem_target> housemate app <END> öffnen
