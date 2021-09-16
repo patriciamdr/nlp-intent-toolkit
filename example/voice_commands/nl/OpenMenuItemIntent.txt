@@ -45,6 +45,7 @@ open <START:menuitem_target> licht <END> menu
 open <START:menuitem_target> lichten <END>
 open <START:menuitem_target> lichten <END> menu
 open <START:menuitem_target> media <END>
+open <START:menuitem_target> spraakbesturing <END>
 open <START:menuitem_target> modi <END>
 open <START:menuitem_target> monitor <END>
 open <START:menuitem_target> mouse een <END>
@@ -133,6 +134,7 @@ open de categorie <START:menuitem_target> licht <END> menu
 open de categorie <START:menuitem_target> lichten <END>
 open de categorie <START:menuitem_target> lichten <END> menu
 open de categorie <START:menuitem_target> media <END>
+open de categorie <START:menuitem_target> spraakbesturing <END>
 open de categorie <START:menuitem_target> modi <END>
 open de categorie <START:menuitem_target> monitor <END>
 open de categorie <START:menuitem_target> mouse een <END>

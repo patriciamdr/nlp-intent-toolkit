@@ -63,6 +63,7 @@
 öffne die kategorie <START:menuitem_target> intercom <END>
 öffne die kategorie <START:menuitem_target> fenster <END>
 öffne die kategorie <START:menuitem_target> tür <END>
+öffne die kategorie <START:menuitem_target> sprachsteuerung <END>
 öffne die kategorie <START:menuitem_target> vorhang <END>
 öffne die kategorie <START:menuitem_target> vorhänge <END>
 öffne die kategorie <START:menuitem_target> bett <END>
@@ -88,6 +89,7 @@
 öffne kategorie <START:menuitem_target> intercom <END>
 öffne kategorie <START:menuitem_target> fenster <END>
 öffne kategorie <START:menuitem_target> tür <END>
+öffne kategorie <START:menuitem_target> sprachsteuerung <END>
 öffne kategorie <START:menuitem_target> vorhang <END>
 öffne kategorie <START:menuitem_target> vorhänge <END>
 öffne kategorie <START:menuitem_target> bett <END>
@@ -129,6 +131,7 @@ die kategorie <START:menuitem_target> tv einstellungen <END> öffnen
 die kategorie <START:menuitem_target> tv <END> öffnen
 die kategorie <START:menuitem_target> fenster <END> öffnen
 die kategorie <START:menuitem_target> tür <END> öffnen
+die kategorie <START:menuitem_target> sprachsteuerung <END> öffnen
 die kategorie <START:menuitem_target> vorhang <END> öffnen
 die kategorie <START:menuitem_target> vorhänge <END> öffnen
 kategorie <START:menuitem_target> home <END> öffnen
@@ -154,6 +157,7 @@ kategorie <START:menuitem_target> tv einstellungen <END> öffnen
 kategorie <START:menuitem_target> tv <END> öffnen
 kategorie <START:menuitem_target> fenster <END> öffnen
 kategorie <START:menuitem_target> tür <END> öffnen
+kategorie <START:menuitem_target> sprachsteuerung <END> öffnen
 kategorie <START:menuitem_target> vorhang <END> öffnen
 kategorie <START:menuitem_target> vorhänge <END> öffnen
 öffne <START:menuitem_target> kamera <END>

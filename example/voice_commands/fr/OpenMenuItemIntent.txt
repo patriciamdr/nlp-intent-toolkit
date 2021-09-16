@@ -7,6 +7,7 @@ ouvre <START:menuitem_target> ajouts <END>
 ouvre <START:menuitem_target> allemand <END>
 ouvre <START:menuitem_target> anglais <END>
 ouvre <START:menuitem_target> app info <END>
+ouvre <START:menuitem_target> commande vocale <END>
 ouvre <START:menuitem_target> avancé <END>
 ouvre <START:menuitem_target> calibrage <END>
 ouvre <START:menuitem_target> chauffage <END>
@@ -84,6 +85,7 @@ ouvre catégorie volume de la <START:menuitem_target> télévision <END>
 ouvre catégorie volume du <START:menuitem_target> télé <END>
 ouvre catégorie volume du <START:menuitem_target> téléviseur <END>
 ouvre la <START:menuitem_target> app info <END>
+ouvre la <START:menuitem_target> commande vocale <END>
 ouvre la <START:menuitem_target> caméra <END>
 ouvre la <START:menuitem_target> alimentation du téléviseur <END>
 ouvre la <START:menuitem_target> ajouts télévision <END>
@@ -113,6 +115,7 @@ ouvre la catégorie <START:menuitem_target> ajouts <END>
 ouvre la catégorie <START:menuitem_target> allemand <END>
 ouvre la catégorie <START:menuitem_target> anglais <END>
 ouvre la catégorie <START:menuitem_target> app info <END>
+ouvre la catégorie <START:menuitem_target> commande vocale <END>
 ouvre la catégorie <START:menuitem_target> avancé <END>
 ouvre la catégorie <START:menuitem_target> calibrage <END>
 ouvre la catégorie <START:menuitem_target> chauffage <END>
@@ -182,6 +185,7 @@ ouvre la catégorie <START:menuitem_target> contrôle du téléviseur <END>
 ouvre la catégorie <START:menuitem_target> ajouts téléviseur <END>
 ouvre la catégorie <START:menuitem_target> housemate téléviseur <END>
 ouvre la catégorie la <START:menuitem_target> app info <END>
+ouvre la catégorie la <START:menuitem_target> commande vocale <END>
 ouvre la catégorie la <START:menuitem_target> caméra <END>
 ouvre la catégorie la <START:menuitem_target> alimentation du téléviseur <END>
 ouvre la catégorie la <START:menuitem_target> ajouts télévision <END>
@@ -286,6 +290,7 @@ ouvrir <START:menuitem_target> ajouts <END>
 ouvrir <START:menuitem_target> allemand <END>
 ouvrir <START:menuitem_target> anglais <END>
 ouvrir <START:menuitem_target> app info <END>
+ouvrir <START:menuitem_target> commande vocale <END>
 ouvrir <START:menuitem_target> avancé <END>
 ouvrir <START:menuitem_target> calibrage <END>
 ouvrir <START:menuitem_target> chauffage <END>
@@ -363,6 +368,7 @@ ouvrir catégorie volume de la <START:menuitem_target> télévision <END>
 ouvrir catégorie volume du <START:menuitem_target> télé <END>
 ouvrir catégorie volume du <START:menuitem_target> téléviseur <END>
 ouvrir la <START:menuitem_target> app info <END>
+ouvrir la <START:menuitem_target> commande vocale <END>
 ouvrir la <START:menuitem_target> caméra <END>
 ouvrir la <START:menuitem_target> alimentation du téléviseur <END>
 ouvrir la <START:menuitem_target> ajouts télévision <END>
@@ -392,6 +398,7 @@ ouvrir la catégorie <START:menuitem_target> ajouts <END>
 ouvrir la catégorie <START:menuitem_target> allemand <END>
 ouvrir la catégorie <START:menuitem_target> anglais <END>
 ouvrir la catégorie <START:menuitem_target> app info <END>
+ouvrir la catégorie <START:menuitem_target> commande vocale <END>
 ouvrir la catégorie <START:menuitem_target> avancé <END>
 ouvrir la catégorie <START:menuitem_target> calibrage <END>
 ouvrir la catégorie <START:menuitem_target> chauffage <END>
@@ -461,6 +468,7 @@ ouvrir la catégorie <START:menuitem_target> contrôle du téléviseur <END>
 ouvrir la catégorie <START:menuitem_target> ajouts téléviseur <END>
 ouvrir la catégorie <START:menuitem_target> housemate téléviseur <END>
 ouvrir la catégorie la <START:menuitem_target> app info <END>
+ouvrir la catégorie la <START:menuitem_target> commande vocale <END>
 ouvrir la catégorie la <START:menuitem_target> caméra <END>
 ouvrir la catégorie la <START:menuitem_target> alimentation du téléviseur <END>
 ouvrir la catégorie la <START:menuitem_target> ajouts télévision <END>

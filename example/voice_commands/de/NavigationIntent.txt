@@ -10,6 +10,7 @@
 <START:nav_target> heizung <END>
 <START:nav_target> ventilator <END>
 <START:nav_target> tür <END>
+<START:nav_target> sprachsteuerung <END>
 <START:nav_target> alarm <END>
 <START:nav_target> musik <END>
 <START:nav_target> musik <END> lautstärke
@@ -37,6 +38,7 @@ der <START:nav_target> heater <END>
 die <START:nav_target> heizung <END>
 der <START:nav_target> ventilator <END>
 die <START:nav_target> tür <END>
+die <START:nav_target> sprachsteuerung <END>
 der <START:nav_target> alarm <END>
 die <START:nav_target> musik <END>
 die <START:nav_target> musikquelle <END>
@@ -61,6 +63,7 @@ komme zurück auf <START:nav_target> housemate <END>
 komme zurück auf <START:nav_target> housemate app <END>
 komme zurück auf <START:nav_target> housemate tv <END>
 komme zurück auf <START:nav_target> tür <END>
+komme zurück auf <START:nav_target> sprachsteuerung <END>
 komme zurück auf <START:nav_target> alarm <END>
 komme zurück auf <START:nav_target> intercom <END>
 komme zurück auf <START:nav_target> musik <END>
@@ -86,6 +89,7 @@ gehe auf <START:nav_target> housemate <END>
 gehe auf <START:nav_target> housemate app <END>
 gehe auf <START:nav_target> housemate tv <END>
 gehe auf <START:nav_target> tür <END>
+gehe auf <START:nav_target> sprachsteuerung <END>
 gehe auf <START:nav_target> alarm <END>
 gehe auf <START:nav_target> intercom <END>
 gehe auf <START:nav_target> musik <END>
@@ -111,6 +115,7 @@ auf <START:nav_target> housemate <END>
 auf <START:nav_target> housemate app <END>
 auf <START:nav_target> housemate tv <END>
 auf <START:nav_target> tür <END>
+auf <START:nav_target> sprachsteuerung <END>
 auf <START:nav_target> alarm <END>
 auf <START:nav_target> intercom <END>
 auf <START:nav_target> musik <END>
@@ -137,6 +142,7 @@ zu <START:nav_target> housemate <END>
 zu <START:nav_target> housemate app <END>
 zu <START:nav_target> housemate tv <END>
 zu <START:nav_target> tür <END>
+zu <START:nav_target> sprachsteuerung <END>
 zu <START:nav_target> alarm <END>
 zu <START:nav_target> intercom <END>
 zu <START:nav_target> musik <END>
@@ -159,6 +165,7 @@ zum <START:nav_target> heater <END>
 zur <START:nav_target> heizung <END>
 zum <START:nav_target> ventilator <END>
 zur <START:nav_target> tür <END>
+zur <START:nav_target> sprachsteuerung <END>
 zum <START:nav_target> alarm <END>
 zur <START:nav_target> musik <END>
 zur <START:nav_target> musikquelle <END>
@@ -184,6 +191,7 @@ gehe zu <START:nav_target> housemate <END>
 gehe zu <START:nav_target> housemate app <END>
 gehe zu <START:nav_target> housemate tv <END>
 gehe zu <START:nav_target> tür <END>
+gehe zu <START:nav_target> sprachsteuerung <END>
 gehe zu <START:nav_target> alarm <END>
 gehe zu <START:nav_target> intercom <END>
 gehe zu <START:nav_target> musik <END>
@@ -206,6 +214,7 @@ gehe zum <START:nav_target> heater <END>
 gehe zur <START:nav_target> heizung <END>
 gehe zum <START:nav_target> ventilator <END>
 gehe zur <START:nav_target> tür <END>
+gehe zur <START:nav_target> sprachsteuerung <END>
 gehe zum <START:nav_target> alarm <END>
 gehe zur <START:nav_target> musik <END>
 gehe zur <START:nav_target> musikquelle <END>
@@ -231,6 +240,7 @@ navigiere zu <START:nav_target> housemate <END>
 navigiere zu <START:nav_target> housemate app <END>
 navigiere zu <START:nav_target> housemate tv <END>
 navigiere zu <START:nav_target> tür <END>
+navigiere zu <START:nav_target> sprachsteuerung <END>
 navigiere zu <START:nav_target> alarm <END>
 navigiere zu <START:nav_target> intercom <END>
 navigiere zu <START:nav_target> musik <END>
@@ -253,6 +263,7 @@ navigiere zum <START:nav_target> heater <END>
 navigiere zur <START:nav_target> heizung <END>
 navigiere zum <START:nav_target> ventilator <END>
 navigiere zur <START:nav_target> tür <END>
+navigiere zur <START:nav_target> sprachsteuerung <END>
 navigiere zum <START:nav_target> alarm <END>
 navigiere zur <START:nav_target> musik <END>
 navigiere zur <START:nav_target> musikquelle <END>
@@ -278,6 +289,7 @@ bring mich zu <START:nav_target> housemate <END>
 bring mich zu <START:nav_target> housemate app <END>
 bring mich zu <START:nav_target> housemate tv <END>
 bring mich zu <START:nav_target> tür <END>
+bring mich zu <START:nav_target> sprachsteuerung <END>
 bring mich zu <START:nav_target> alarm <END>
 bring mich zu <START:nav_target> intercom <END>
 bring mich zu <START:nav_target> musik <END>
@@ -300,6 +312,7 @@ bring mich zum <START:nav_target> heater <END>
 bring mich zur <START:nav_target> heizung <END>
 bring mich zum <START:nav_target> ventilator <END>
 bring mich zur <START:nav_target> tür <END>
+bring mich zur <START:nav_target> sprachsteuerung <END>
 bring mich zum <START:nav_target> alarm <END>
 bring mich zur <START:nav_target> musik <END>
 bring mich zur <START:nav_target> musikquelle <END>
@@ -325,6 +338,7 @@ zeige <START:nav_target> housemate <END>
 zeige <START:nav_target> housemate app <END>
 zeige <START:nav_target> housemate tv <END>
 zeige <START:nav_target> tür <END>
+zeige <START:nav_target> sprachsteuerung <END>
 zeige <START:nav_target> alarm <END>
 zeige <START:nav_target> intercom <END>
 zeige <START:nav_target> musik <END>
@@ -346,6 +360,7 @@ zeige den <START:nav_target> heater <END>
 zeige die <START:nav_target> heizung <END>
 zeige der <START:nav_target> ventilator <END>
 zeige die <START:nav_target> tür <END>
+zeige die <START:nav_target> sprachsteuerung <END>
 zeige den <START:nav_target> alarm <END>
 zeige die <START:nav_target> musik <END>
 zeige die <START:nav_target> musikquelle <END>
@@ -370,6 +385,7 @@ wähle <START:nav_target> housemate <END>
 wähle <START:nav_target> housemate app <END>
 wähle <START:nav_target> housemate tv <END>
 wähle <START:nav_target> tür <END>
+wähle <START:nav_target> sprachsteuerung <END>
 wähle <START:nav_target> alarm <END>
 wähle <START:nav_target> intercom <END>
 wähle <START:nav_target> musik <END>
@@ -391,6 +407,7 @@ wähle den <START:nav_target> heater <END>
 wähle die <START:nav_target> heizung <END>
 wähle der <START:nav_target> ventilator <END>
 wähle die <START:nav_target> tür <END>
+wähle die <START:nav_target> sprachsteuerung <END>
 wähle den <START:nav_target> alarm <END>
 wähle die <START:nav_target> musik <END>
 wähle die <START:nav_target> musikquelle <END>
@@ -415,6 +432,7 @@ wechsel zu <START:nav_target> housemate <END>
 wechsel zu <START:nav_target> housemate app <END>
 wechsel zu <START:nav_target> housemate tv <END>
 wechsel zu <START:nav_target> tür <END>
+wechsel zu <START:nav_target> sprachsteuerung <END>
 wechsel zu <START:nav_target> alarm <END>
 wechsel zu <START:nav_target> intercom <END>
 wechsel zu <START:nav_target> musik <END>
@@ -437,6 +455,7 @@ wechsel zum <START:nav_target> heater <END>
 wechsel zur <START:nav_target> heizung <END>
 wechsel zum <START:nav_target> ventilator <END>
 wechsel zur <START:nav_target> tür <END>
+wechsel zur <START:nav_target> sprachsteuerung <END>
 wechsel zum <START:nav_target> alarm <END>
 wechsel zur <START:nav_target> musik <END>
 wechsel zur <START:nav_target> musikquelle <END>
@@ -458,6 +477,7 @@ die kategorie <START:nav_target> heater <END>
 die kategorie <START:nav_target> heizung <END>
 die kategorie <START:nav_target> ventilator <END>
 die kategorie <START:nav_target> tür <END>
+die kategorie <START:nav_target> sprachsteuerung <END>
 die kategorie <START:nav_target> alarm <END>
 die kategorie <START:nav_target> musik <END>
 die kategorie <START:nav_target> musikquelle <END>
@@ -482,6 +502,7 @@ zu der kategorie <START:nav_target> housemate <END>
 zu der kategorie <START:nav_target> housemate app <END>
 zu der kategorie <START:nav_target> housemate tv <END>
 zu der kategorie <START:nav_target> tür <END>
+zu der kategorie <START:nav_target> sprachsteuerung <END>
 zu der kategorie <START:nav_target> alarm <END>
 zu der kategorie <START:nav_target> intercom <END>
 zu der kategorie <START:nav_target> musik <END>
@@ -508,6 +529,7 @@ gehe zu der kategorie <START:nav_target> housemate <END>
 gehe zu der kategorie <START:nav_target> housemate app <END>
 gehe zu der kategorie <START:nav_target> housemate tv <END>
 gehe zu der kategorie <START:nav_target> tür <END>
+gehe zu der kategorie <START:nav_target> sprachsteuerung <END>
 gehe zu der kategorie <START:nav_target> alarm <END>
 gehe zu der kategorie <START:nav_target> intercom <END>
 gehe zu der kategorie <START:nav_target> musik <END>
@@ -534,6 +556,7 @@ navigiere zu der kategorie <START:nav_target> housemate <END>
 navigiere zu der kategorie <START:nav_target> housemate app <END>
 navigiere zu der kategorie <START:nav_target> housemate tv <END>
 navigiere zu der kategorie <START:nav_target> tür <END>
+navigiere zu der kategorie <START:nav_target> sprachsteuerung <END>
 navigiere zu der kategorie <START:nav_target> alarm <END>
 navigiere zu der kategorie <START:nav_target> intercom <END>
 navigiere zu der kategorie <START:nav_target> musik <END>
@@ -560,6 +583,7 @@ bring mich zu der kategorie <START:nav_target> housemate <END>
 bring mich zu der kategorie <START:nav_target> housemate app <END>
 bring mich zu der kategorie <START:nav_target> housemate tv <END>
 bring mich zu der kategorie <START:nav_target> tür <END>
+bring mich zu der kategorie <START:nav_target> sprachsteuerung <END>
 bring mich zu der kategorie <START:nav_target> alarm <END>
 bring mich zu der kategorie <START:nav_target> intercom <END>
 bring mich zu der kategorie <START:nav_target> musik <END>
@@ -586,6 +610,7 @@ zeige die kategorie <START:nav_target> housemate <END>
 zeige die kategorie <START:nav_target> housemate app <END>
 zeige die kategorie <START:nav_target> housemate tv <END>
 zeige die kategorie <START:nav_target> tür <END>
+zeige die kategorie <START:nav_target> sprachsteuerung <END>
 zeige die kategorie <START:nav_target> alarm <END>
 zeige die kategorie <START:nav_target> intercom <END>
 zeige die kategorie <START:nav_target> musik <END>
@@ -611,6 +636,7 @@ wähle die kategorie <START:nav_target> housemate <END>
 wähle die kategorie <START:nav_target> housemate app <END>
 wähle die kategorie <START:nav_target> housemate tv <END>
 wähle die kategorie <START:nav_target> tür <END>
+wähle die kategorie <START:nav_target> sprachsteuerung <END>
 wähle die kategorie <START:nav_target> alarm <END>
 wähle die kategorie <START:nav_target> intercom <END>
 wähle die kategorie <START:nav_target> musik <END>
@@ -636,6 +662,7 @@ wechsel zu der kategorie <START:nav_target> housemate <END>
 wechsel zu der kategorie <START:nav_target> housemate app <END>
 wechsel zu der kategorie <START:nav_target> housemate tv <END>
 wechsel zu der kategorie <START:nav_target> tür <END>
+wechsel zu der kategorie <START:nav_target> sprachsteuerung <END>
 wechsel zu der kategorie <START:nav_target> alarm <END>
 wechsel zu der kategorie <START:nav_target> intercom <END>
 wechsel zu der kategorie <START:nav_target> musik <END>

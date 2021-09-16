@@ -48,6 +48,7 @@
 <START:nav_target> lichten <END>
 <START:nav_target> lichten <END> menu
 <START:nav_target> media <END>
+<START:nav_target> spraakbesturing <END>
 <START:nav_target> modi <END>
 <START:nav_target> monitor <END>
 <START:nav_target> mouse een <END>
@@ -136,6 +137,7 @@ ga naar <START:nav_target> licht <END> menu
 ga naar <START:nav_target> lichten <END>
 ga naar <START:nav_target> lichten <END> menu
 ga naar <START:nav_target> media <END>
+ga naar <START:nav_target> spraakbesturing <END>
 ga naar <START:nav_target> modi <END>
 ga naar <START:nav_target> monitor <END>
 ga naar <START:nav_target> mouse een <END>
@@ -225,6 +227,7 @@ ga naar de categorie <START:nav_target> licht <END> menu
 ga naar de categorie <START:nav_target> lichten <END>
 ga naar de categorie <START:nav_target> lichten <END> menu
 ga naar de categorie <START:nav_target> media <END>
+ga naar de categorie <START:nav_target> spraakbesturing <END>
 ga naar de categorie <START:nav_target> modi <END>
 ga naar de categorie <START:nav_target> monitor <END>
 ga naar de categorie <START:nav_target> mouse een <END>
@@ -412,8 +415,11 @@ naar <START:nav_target> lichten <END> menu gaan
 naar <START:nav_target> lichten <END> menu navigeren
 naar <START:nav_target> lichten <END> navigeren
 naar <START:nav_target> media <END>
+naar <START:nav_target> spraakbesturing <END>
 naar <START:nav_target> media <END> gaan
+naar <START:nav_target> spraakbesturing <END> gaan
 naar <START:nav_target> media <END> navigeren
+naar <START:nav_target> spraakbesturing <END> navigeren
 naar <START:nav_target> modi <END>
 naar <START:nav_target> modi <END> gaan
 naar <START:nav_target> modi <END> navigeren
@@ -579,6 +585,7 @@ navigeer naar <START:nav_target> licht <END> menu
 navigeer naar <START:nav_target> lichten <END>
 navigeer naar <START:nav_target> lichten <END> menu
 navigeer naar <START:nav_target> media <END>
+navigeer naar <START:nav_target> spraakbesturing <END>
 navigeer naar <START:nav_target> modi <END>
 navigeer naar <START:nav_target> monitor <END>
 navigeer naar <START:nav_target> mouse een <END>
@@ -668,6 +675,7 @@ navigeer naar de categorie <START:nav_target> licht <END> menu
 navigeer naar de categorie <START:nav_target> lichten <END>
 navigeer naar de categorie <START:nav_target> lichten <END> menu
 navigeer naar de categorie <START:nav_target> media <END>
+navigeer naar de categorie <START:nav_target> spraakbesturing <END>
 navigeer naar de categorie <START:nav_target> modi <END>
 navigeer naar de categorie <START:nav_target> monitor <END>
 navigeer naar de categorie <START:nav_target> mouse een <END>
@@ -757,6 +765,7 @@ neem me mee naar <START:nav_target> licht <END> menu
 neem me mee naar <START:nav_target> lichten <END>
 neem me mee naar <START:nav_target> lichten <END> menu
 neem me mee naar <START:nav_target> media <END>
+neem me mee naar <START:nav_target> spraakbesturing <END>
 neem me mee naar <START:nav_target> modi <END>
 neem me mee naar <START:nav_target> monitor <END>
 neem me mee naar <START:nav_target> mouse een <END>
@@ -845,6 +854,7 @@ neem me mee naar de categorie <START:nav_target> licht <END> menu
 neem me mee naar de categorie <START:nav_target> lichten <END>
 neem me mee naar de categorie <START:nav_target> lichten <END> menu
 neem me mee naar de categorie <START:nav_target> media <END>
+neem me mee naar de categorie <START:nav_target> spraakbesturing <END>
 neem me mee naar de categorie <START:nav_target> modi <END>
 neem me mee naar de categorie <START:nav_target> monitor <END>
 neem me mee naar de categorie <START:nav_target> mouse een <END>
@@ -933,6 +943,7 @@ overschakelen naar <START:nav_target> licht <END> menu
 overschakelen naar <START:nav_target> lichten <END>
 overschakelen naar <START:nav_target> lichten <END> menu
 overschakelen naar <START:nav_target> media <END>
+overschakelen naar <START:nav_target> spraakbesturing <END>
 overschakelen naar <START:nav_target> modi <END>
 overschakelen naar <START:nav_target> monitor <END>
 overschakelen naar <START:nav_target> mouse een <END>
@@ -1021,6 +1032,7 @@ overschakelen naar de categorie <START:nav_target> licht <END> menu
 overschakelen naar de categorie <START:nav_target> lichten <END>
 overschakelen naar de categorie <START:nav_target> lichten <END> menu
 overschakelen naar de categorie <START:nav_target> media <END>
+overschakelen naar de categorie <START:nav_target> spraakbesturing <END>
 overschakelen naar de categorie <START:nav_target> modi <END>
 overschakelen naar de categorie <START:nav_target> monitor <END>
 overschakelen naar de categorie <START:nav_target> mouse een <END>
@@ -1106,6 +1118,7 @@ selecteer <START:nav_target> licht <END> menu
 selecteer <START:nav_target> lichten <END>
 selecteer <START:nav_target> lichten <END> menu
 selecteer <START:nav_target> media <END>
+selecteer <START:nav_target> spraakbesturing <END>
 selecteer <START:nav_target> modi <END>
 selecteer <START:nav_target> monitor <END>
 selecteer <START:nav_target> mouse een <END>
@@ -1191,6 +1204,7 @@ selecteer de categorie <START:nav_target> licht <END> menu
 selecteer de categorie <START:nav_target> lichten <END>
 selecteer de categorie <START:nav_target> lichten <END> menu
 selecteer de categorie <START:nav_target> media <END>
+selecteer de categorie <START:nav_target> spraakbesturing <END>
 selecteer de categorie <START:nav_target> modi <END>
 selecteer de categorie <START:nav_target> monitor <END>
 selecteer de categorie <START:nav_target> mouse een <END>
@@ -1276,6 +1290,7 @@ verander naar <START:nav_target> licht <END> menu
 verander naar <START:nav_target> lichten <END>
 verander naar <START:nav_target> lichten <END> menu
 verander naar <START:nav_target> media <END>
+verander naar <START:nav_target> spraakbesturing <END>
 verander naar <START:nav_target> modi <END>
 verander naar <START:nav_target> monitor <END>
 verander naar <START:nav_target> mouse een <END>

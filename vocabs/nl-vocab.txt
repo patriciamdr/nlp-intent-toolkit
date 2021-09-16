@@ -131,3 +131,4 @@ zetten
 zeven
 zitting
 zoek
+spraakbesturing

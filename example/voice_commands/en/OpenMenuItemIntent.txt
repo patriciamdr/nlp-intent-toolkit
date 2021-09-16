@@ -18,6 +18,7 @@ open <START:menuitem_target> calibration <END>
 open <START:menuitem_target> camera <END>
 open <START:menuitem_target> computer <END>
 open <START:menuitem_target> contacts <END>
+open <START:menuitem_target> voice control <END>
 open <START:menuitem_target> control <END>
 open <START:menuitem_target> curtain <END> category
 open <START:menuitem_target> curtain <END> menu item
@@ -197,6 +198,7 @@ open the <START:menuitem_target> calibration <END>
 open the <START:menuitem_target> camera <END>
 open the <START:menuitem_target> computer <END>
 open the <START:menuitem_target> contacts <END>
+open the <START:menuitem_target> voice control <END>
 open the <START:menuitem_target> control <END>
 open the <START:menuitem_target> door <END>
 open the <START:menuitem_target> drive <END>
