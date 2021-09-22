@@ -64,17 +64,24 @@
 <START:control_target> tischlampe <END> an
 <START:control_target> tischlampe <END> anmachen
 <START:control_target> tischlampe <END> anschalten
+<START:control_target> tischlampe <END> einschalten
 <START:control_target> tischlampe <END> aus
 <START:control_target> tischlampe <END> ausmachen
 <START:control_target> tischlampe <END> ausschalten
-<START:control_target> tischlampe <END> einschalten
 <START:control_target> tv <END> an
+housemate <START:control_target> tv <END> an
 <START:control_target> tv <END> anmachen
+housemate <START:control_target> tv <END> anmachen
 <START:control_target> tv <END> anschalten
+housemate <START:control_target> tv <END> anschalten
 <START:control_target> tv <END> aus
+housemate <START:control_target> tv <END> aus
 <START:control_target> tv <END> ausmachen
+housemate <START:control_target> tv <END> ausmachen
 <START:control_target> tv <END> ausschalten
+housemate <START:control_target> tv <END> ausschalten
 <START:control_target> tv <END> einschalten
+housemate <START:control_target> tv <END> einschalten
 <START:control_target> ventilator <END> an
 <START:control_target> ventilator <END> anmachen
 <START:control_target> ventilator <END> anschalten
@@ -112,7 +119,9 @@ mach <START:control_target> raumlichter <END> aus
 mach <START:control_target> tischlampe <END> an
 mach <START:control_target> tischlampe <END> aus
 mach <START:control_target> tv <END> an
+mach housemate <START:control_target> tv <END> an
 mach <START:control_target> tv <END> aus
+mach housemate <START:control_target> tv <END> aus
 mach <START:control_target> ventilator <END> an
 mach <START:control_target> ventilator <END> aus
 mach <START:control_target> warnblinker <END> an
@@ -126,7 +135,9 @@ mach den <START:control_target> fernseher <END> aus
 mach den <START:control_target> heater <END> an
 mach den <START:control_target> heater <END> aus
 mach den <START:control_target> tv <END> an
+mach den housemate <START:control_target> tv <END> an
 mach den <START:control_target> tv <END> aus
+mach den housemate <START:control_target> tv <END> aus
 mach den <START:control_target> ventilator <END> an
 mach den <START:control_target> ventilator <END> aus
 mach den <START:control_target> warnblinker <END> an
@@ -170,8 +181,11 @@ schalte <START:control_target> tischlampe <END> an
 schalte <START:control_target> tischlampe <END> aus
 schalte <START:control_target> tischlampe <END> ein
 schalte <START:control_target> tv <END> an
+schalte housemate <START:control_target> tv <END> an
 schalte <START:control_target> tv <END> aus
+schalte housemate <START:control_target> tv <END> aus
 schalte <START:control_target> tv <END> ein
+schalte housemate <START:control_target> tv <END> ein
 schalte <START:control_target> ventilator <END> an
 schalte <START:control_target> ventilator <END> aus
 schalte <START:control_target> ventilator <END> ein
@@ -191,8 +205,11 @@ schalte den <START:control_target> heater <END> an
 schalte den <START:control_target> heater <END> aus
 schalte den <START:control_target> heater <END> ein
 schalte den <START:control_target> tv <END> an
+schalte den housemate <START:control_target> tv <END> an
 schalte den <START:control_target> tv <END> aus
+schalte den housemate <START:control_target> tv <END> aus
 schalte den <START:control_target> tv <END> ein
+schalte den housemate <START:control_target> tv <END> ein
 schalte den <START:control_target> ventilator <END> an
 schalte den <START:control_target> ventilator <END> aus
 schalte den <START:control_target> ventilator <END> ein

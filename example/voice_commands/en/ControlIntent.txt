@@ -179,23 +179,41 @@ switch off the <START:control_target> alarm <END>
 switch the <START:control_target> alarm <END> off
 switch <START:control_target> alarm <END> off
 turn the <START:control_target> tv <END> on
+turn the housemate <START:control_target> tv <END> on
 turn <START:control_target> tv <END> on
+turn housemate <START:control_target> tv <END> on
 turn on the <START:control_target> tv <END>
+turn on the housemate <START:control_target> tv <END>
 turn on <START:control_target> tv <END>
+turn on housemate <START:control_target> tv <END>
 <START:control_target> tv <END> on
+housemate <START:control_target> tv <END> on
 switch on <START:control_target> tv <END>
+switch on housemate <START:control_target> tv <END>
 switch on the <START:control_target> tv <END>
+switch on the housemate <START:control_target> tv <END>
 switch the <START:control_target> tv <END> on
+switch the housemate <START:control_target> tv <END> on
 switch <START:control_target> tv <END> on
+switch housemate <START:control_target> tv <END> on
 turn the <START:control_target> tv <END> off
+turn the housemate <START:control_target> tv <END> off
 turn <START:control_target> tv <END> off
+turn housemate <START:control_target> tv <END> off
 turn off the <START:control_target> tv <END>
+turn off the housemate <START:control_target> tv <END>
 turn off <START:control_target> tv <END>
+turn off housemate <START:control_target> tv <END>
 <START:control_target> tv <END> off
+housemate <START:control_target> tv <END> off
 switch off <START:control_target> tv <END>
+switch off housemate <START:control_target> tv <END>
 switch off the <START:control_target> tv <END>
+switch off the housemate <START:control_target> tv <END>
 switch the <START:control_target> tv <END> off
+switch the housemate <START:control_target> tv <END> off
 switch <START:control_target> tv <END> off
+switch housemate <START:control_target> tv <END> off
 turn on <START:control_target> lights <END>
 turn on the <START:control_target> lights <END>
 turn on <START:control_target> light <END>

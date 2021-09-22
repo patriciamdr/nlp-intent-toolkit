@@ -23,9 +23,19 @@ actualiser l'application
 admin
 administration
 ajouts
+ajouts télé
+ajouts téléviseur
+ajouts télévision
+alarme
+alarme allumée
+alarme éteinte
+alimentation du téléviseur
 allemand
 aller
 aller au calibrage
+aller au chauffage
+aller au contrôle de la musique
+aller au contrôle du téléviseur
 aller au email d'urgence
 aller au geste de conduite
 aller au lit
@@ -38,6 +48,7 @@ aller au télé volume
 aller au téléviseur
 aller au téléviseur volume
 aller au télévision volume
+aller au ventilateur
 aller au volume
 aller au wifi
 aller aux ajouts
@@ -45,23 +56,29 @@ aller aux fenêtres
 aller aux feux de détresse
 aller aux gestes de conduite
 aller aux lumières
+aller aux lumières de la pièce
 aller aux modes
 aller aux médias
 aller aux rideaux
 aller aux réglages
 aller aux réglages de verre
+aller aux réglages du téléviseur
 aller à admin
 aller à ajouts
+aller à ajouts télé
+aller à ajouts téléviseur
+aller à alarme
+aller à alimentation du téléviseur
 aller à allemand
 aller à anglais
 aller à app info
-aller à commande vocale
 aller à avancé
 aller à calibrage
 aller à caméra
 aller à canal suivant
 aller à chanson suivante
 aller à chaîne suivante
+aller à commande vocale
 aller à conduire uniquement
 aller à conduite
 aller à de base
@@ -75,11 +92,16 @@ aller à galerie
 aller à geste de conduite
 aller à gestes de conduite
 aller à hocher
+aller à home
 aller à inclinaison
 aller à internet
 aller à kinova
+aller à l'alarme
+aller à la ajouts télé
+aller à la ajouts télévision
+aller à la alarme
+aller à la alimentation du téléviseur
 aller à la app info
-aller à la commande vocale
 aller à la caméra
 aller à la canal suivant
 aller à la catégorie admin
@@ -87,10 +109,10 @@ aller à la catégorie ajouts
 aller à la catégorie allemand
 aller à la catégorie anglais
 aller à la catégorie app info
-aller à la catégorie commande vocale
 aller à la catégorie avancé
 aller à la catégorie calibrage
 aller à la catégorie caméra
+aller à la catégorie commande vocale
 aller à la catégorie conduire uniquement
 aller à la catégorie conduite
 aller à la catégorie de base
@@ -102,18 +124,24 @@ aller à la catégorie galerie
 aller à la catégorie geste de conduite
 aller à la catégorie gestes de conduite
 aller à la catégorie hocher
+aller à la catégorie home
 aller à la catégorie inclinaison
 aller à la catégorie internet
 aller à la catégorie kinova
 aller à la catégorie la app info
-aller à la catégorie la commande vocale
 aller à la catégorie la caméra
+aller à la catégorie la commande vocale
 aller à la catégorie la conduite
 aller à la catégorie la galerie
 aller à la catégorie la inclinaison
+aller à la catégorie la lampe de chevet
+aller à la catégorie la lampe de table
 aller à la catégorie la langue
 aller à la catégorie la lumière
+aller à la catégorie la lumière de la pièce
 aller à la catégorie la synchronisation
+aller à la catégorie lampe de chevet
+aller à la catégorie lampe de table
 aller à la catégorie langue
 aller à la catégorie le calibrage
 aller à la catégorie le email d'urgence
@@ -127,12 +155,16 @@ aller à la catégorie les ajouts
 aller à la catégorie les feux de détresse
 aller à la catégorie les gestes de conduite
 aller à la catégorie les lumières
+aller à la catégorie les lumières de la pièce
 aller à la catégorie les modes
 aller à la catégorie les médias
 aller à la catégorie les réglages
 aller à la catégorie les réglages de verre
+aller à la catégorie les réglages du téléviseur
 aller à la catégorie lumière
+aller à la catégorie lumière de la pièce
 aller à la catégorie lumières
+aller à la catégorie lumières de la pièce
 aller à la catégorie modes
 aller à la catégorie monitor
 aller à la catégorie mouse 1
@@ -142,6 +174,7 @@ aller à la catégorie nouveau smartphone
 aller à la catégorie néerlandais
 aller à la catégorie réglages
 aller à la catégorie réglages de verre
+aller à la catégorie réglages du téléviseur
 aller à la catégorie siège
 aller à la catégorie soutien
 aller à la catégorie synchronisation
@@ -149,12 +182,16 @@ aller à la catégorie volume
 aller à la catégorie wifi
 aller à la chanson suivante
 aller à la chaîne suivante
+aller à la commande vocale
 aller à la conduite
 aller à la fenêtre
 aller à la galerie
 aller à la inclinaison
+aller à la lampe de chevet
+aller à la lampe de table
 aller à la langue
 aller à la lumière
+aller à la lumière de la pièce
 aller à la musique
 aller à la porte
 aller à la prochain canal
@@ -166,13 +203,18 @@ aller à la précédent canal
 aller à la précédent programme
 aller à la précédente chanson
 aller à la précédente chaîne
+aller à la source de musique
 aller à la synchronisation
 aller à la télé
 aller à la télévision
+aller à lampe de chevet
+aller à lampe de table
 aller à langue
 aller à lit
 aller à lumière
+aller à lumière de la pièce
 aller à lumières
+aller à lumières de la pièce
 aller à modes
 aller à monitor
 aller à mouse 1
@@ -196,7 +238,9 @@ aller à rideau
 aller à rideaux
 aller à réglages
 aller à réglages de verre
+aller à réglages du téléviseur
 aller à siège
+aller à source de musique
 aller à soutien
 aller à synchronisation
 aller à tv
@@ -207,37 +251,82 @@ aller à téléviseur volume
 aller à télévision
 aller à télévision volume
 aller à volume
+aller à volume de la ajouts télé
+aller à volume de la ajouts télévision
 aller à volume de la musique
 aller à volume de la télé
 aller à volume de la télévision
+aller à volume du ajouts télé
+aller à volume du ajouts téléviseur
 aller à volume du télé
 aller à volume du téléviseur
 aller à wifi
 allume
+allume alarme
+allume chauffage
 allume feux de détresse
+allume l'alarme
+allume la alarme
+allume la lampe de chevet
+allume la lampe de table
 allume la lumière
+allume la lumière de la pièce
 allume la musique
+allume la télé
+allume la télévision
+allume lampe de chevet
+allume lampe de table
+allume le chauffage
+allume le téléviseur
+allume le ventilateur
 allume les feux de détresse
 allume les lumières
+allume les lumières de la pièce
 allume lumière
+allume lumière de la pièce
 allume lumières
+allume lumières de la pièce
 allume musique
+allume télé
+allume téléviseur
+allume télévision
+allume ventilateur
 allumer
+allumer alarme
+allumer chauffage
 allumer feux de détresse
+allumer l'alarme
+allumer la alarme
+allumer la lampe de chevet
+allumer la lampe de table
 allumer la lumière
+allumer la lumière de la pièce
 allumer la musique
+allumer la télé
+allumer la télévision
+allumer lampe de chevet
+allumer lampe de table
+allumer le chauffage
+allumer le téléviseur
+allumer le ventilateur
 allumer les feux de détresse
 allumer les lumières
+allumer les lumières de la pièce
 allumer lumière
+allumer lumière de la pièce
 allumer lumières
+allumer lumières de la pièce
 allumer musique
+allumer télé
+allumer téléviseur
+allumer télévision
+allumer ventilateur
 allumée
 allumées
 allumés
 anglais
 app
 app info
-commande vocale
 appareil
 appareils
 application
@@ -501,10 +590,10 @@ change de catégorie en ajouts
 change de catégorie en allemand
 change de catégorie en anglais
 change de catégorie en app info
-change de catégorie en commande vocale
 change de catégorie en avancé
 change de catégorie en calibrage
 change de catégorie en caméra
+change de catégorie en commande vocale
 change de catégorie en conduire uniquement
 change de catégorie en conduite
 change de catégorie en de base
@@ -516,18 +605,24 @@ change de catégorie en galerie
 change de catégorie en geste de conduite
 change de catégorie en gestes de conduite
 change de catégorie en hocher
+change de catégorie en home
 change de catégorie en inclinaison
 change de catégorie en internet
 change de catégorie en kinova
 change de catégorie en la app info
-change de catégorie en la commande vocale
 change de catégorie en la caméra
+change de catégorie en la commande vocale
 change de catégorie en la conduite
 change de catégorie en la galerie
 change de catégorie en la inclinaison
+change de catégorie en la lampe de chevet
+change de catégorie en la lampe de table
 change de catégorie en la langue
 change de catégorie en la lumière
+change de catégorie en la lumière de la pièce
 change de catégorie en la synchronisation
+change de catégorie en lampe de chevet
+change de catégorie en lampe de table
 change de catégorie en langue
 change de catégorie en le calibrage
 change de catégorie en le email d'urgence
@@ -541,12 +636,16 @@ change de catégorie en les ajouts
 change de catégorie en les feux de détresse
 change de catégorie en les gestes de conduite
 change de catégorie en les lumières
+change de catégorie en les lumières de la pièce
 change de catégorie en les modes
 change de catégorie en les médias
 change de catégorie en les réglages
 change de catégorie en les réglages de verre
+change de catégorie en les réglages du téléviseur
 change de catégorie en lumière
+change de catégorie en lumière de la pièce
 change de catégorie en lumières
+change de catégorie en lumières de la pièce
 change de catégorie en modes
 change de catégorie en monitor
 change de catégorie en mouse 1
@@ -556,6 +655,7 @@ change de catégorie en nouveau smartphone
 change de catégorie en néerlandais
 change de catégorie en réglages
 change de catégorie en réglages de verre
+change de catégorie en réglages du téléviseur
 change de catégorie en siège
 change de catégorie en soutien
 change de catégorie en synchronisation
@@ -563,15 +663,22 @@ change de catégorie en volume
 change de catégorie en wifi
 change en admin
 change en ajouts
+change en ajouts télé
+change en ajouts téléviseur
+change en alarme
+change en alimentation du téléviseur
 change en allemand
 change en anglais
 change en app info
-change en commande vocale
 change en avancé
 change en calibrage
 change en caméra
+change en chauffage
+change en commande vocale
 change en conduire uniquement
 change en conduite
+change en contrôle de la musique
+change en contrôle du téléviseur
 change en de base
 change en doublage
 change en email d'urgence
@@ -583,25 +690,40 @@ change en galerie
 change en geste de conduite
 change en gestes de conduite
 change en hocher
+change en home
 change en inclinaison
 change en internet
 change en kinova
+change en l'alarme
+change en la ajouts télé
+change en la ajouts télévision
+change en la alarme
+change en la alimentation du téléviseur
 change en la app info
-change en la commande vocale
 change en la caméra
+change en la commande vocale
 change en la conduite
 change en la fenêtre
 change en la galerie
 change en la inclinaison
+change en la lampe de chevet
+change en la lampe de table
 change en la langue
 change en la lumière
+change en la lumière de la pièce
 change en la musique
 change en la porte
+change en la source de musique
 change en la synchronisation
 change en la télé
 change en la télévision
+change en lampe de chevet
+change en lampe de table
 change en langue
 change en le calibrage
+change en le chauffage
+change en le contrôle de la musique
+change en le contrôle du téléviseur
 change en le email d'urgence
 change en le geste de conduite
 change en le lit
@@ -614,6 +736,7 @@ change en le télé volume
 change en le téléviseur
 change en le téléviseur volume
 change en le télévision volume
+change en le ventilateur
 change en le volume
 change en le wifi
 change en les ajouts
@@ -621,14 +744,18 @@ change en les fenêtres
 change en les feux de détresse
 change en les gestes de conduite
 change en les lumières
+change en les lumières de la pièce
 change en les modes
 change en les médias
 change en les rideaux
 change en les réglages
 change en les réglages de verre
+change en les réglages du téléviseur
 change en lit
 change en lumière
+change en lumière de la pièce
 change en lumières
+change en lumières de la pièce
 change en modes
 change en monitor
 change en mouse 1
@@ -643,7 +770,9 @@ change en rideau
 change en rideaux
 change en réglages
 change en réglages de verre
+change en réglages du téléviseur
 change en siège
+change en source de musique
 change en soutien
 change en synchronisation
 change en tv
@@ -653,10 +782,15 @@ change en téléviseur
 change en téléviseur volume
 change en télévision
 change en télévision volume
+change en ventilateur
 change en volume
+change en volume de la ajouts télé
+change en volume de la ajouts télévision
 change en volume de la musique
 change en volume de la télé
 change en volume de la télévision
+change en volume du ajouts télé
+change en volume du ajouts téléviseur
 change en volume du télé
 change en volume du téléviseur
 change en wifi
@@ -665,10 +799,10 @@ change la catégorie en ajouts
 change la catégorie en allemand
 change la catégorie en anglais
 change la catégorie en app info
-change la catégorie en commande vocale
 change la catégorie en avancé
 change la catégorie en calibrage
 change la catégorie en caméra
+change la catégorie en commande vocale
 change la catégorie en conduire uniquement
 change la catégorie en conduite
 change la catégorie en de base
@@ -680,18 +814,24 @@ change la catégorie en galerie
 change la catégorie en geste de conduite
 change la catégorie en gestes de conduite
 change la catégorie en hocher
+change la catégorie en home
 change la catégorie en inclinaison
 change la catégorie en internet
 change la catégorie en kinova
 change la catégorie en la app info
-change la catégorie en la commande vocale
 change la catégorie en la caméra
+change la catégorie en la commande vocale
 change la catégorie en la conduite
 change la catégorie en la galerie
 change la catégorie en la inclinaison
+change la catégorie en la lampe de chevet
+change la catégorie en la lampe de table
 change la catégorie en la langue
 change la catégorie en la lumière
+change la catégorie en la lumière de la pièce
 change la catégorie en la synchronisation
+change la catégorie en lampe de chevet
+change la catégorie en lampe de table
 change la catégorie en langue
 change la catégorie en le calibrage
 change la catégorie en le email d'urgence
@@ -705,12 +845,16 @@ change la catégorie en les ajouts
 change la catégorie en les feux de détresse
 change la catégorie en les gestes de conduite
 change la catégorie en les lumières
+change la catégorie en les lumières de la pièce
 change la catégorie en les modes
 change la catégorie en les médias
 change la catégorie en les réglages
 change la catégorie en les réglages de verre
+change la catégorie en les réglages du téléviseur
 change la catégorie en lumière
+change la catégorie en lumière de la pièce
 change la catégorie en lumières
+change la catégorie en lumières de la pièce
 change la catégorie en modes
 change la catégorie en monitor
 change la catégorie en mouse 1
@@ -720,6 +864,7 @@ change la catégorie en nouveau smartphone
 change la catégorie en néerlandais
 change la catégorie en réglages
 change la catégorie en réglages de verre
+change la catégorie en réglages du téléviseur
 change la catégorie en siège
 change la catégorie en soutien
 change la catégorie en synchronisation
@@ -807,10 +952,10 @@ changer de catégorie en ajouts
 changer de catégorie en allemand
 changer de catégorie en anglais
 changer de catégorie en app info
-changer de catégorie en commande vocale
 changer de catégorie en avancé
 changer de catégorie en calibrage
 changer de catégorie en caméra
+changer de catégorie en commande vocale
 changer de catégorie en conduire uniquement
 changer de catégorie en conduite
 changer de catégorie en de base
@@ -822,18 +967,24 @@ changer de catégorie en galerie
 changer de catégorie en geste de conduite
 changer de catégorie en gestes de conduite
 changer de catégorie en hocher
+changer de catégorie en home
 changer de catégorie en inclinaison
 changer de catégorie en internet
 changer de catégorie en kinova
 changer de catégorie en la app info
-changer de catégorie en la commande vocale
 changer de catégorie en la caméra
+changer de catégorie en la commande vocale
 changer de catégorie en la conduite
 changer de catégorie en la galerie
 changer de catégorie en la inclinaison
+changer de catégorie en la lampe de chevet
+changer de catégorie en la lampe de table
 changer de catégorie en la langue
 changer de catégorie en la lumière
+changer de catégorie en la lumière de la pièce
 changer de catégorie en la synchronisation
+changer de catégorie en lampe de chevet
+changer de catégorie en lampe de table
 changer de catégorie en langue
 changer de catégorie en le calibrage
 changer de catégorie en le email d'urgence
@@ -847,12 +998,16 @@ changer de catégorie en les ajouts
 changer de catégorie en les feux de détresse
 changer de catégorie en les gestes de conduite
 changer de catégorie en les lumières
+changer de catégorie en les lumières de la pièce
 changer de catégorie en les modes
 changer de catégorie en les médias
 changer de catégorie en les réglages
 changer de catégorie en les réglages de verre
+changer de catégorie en les réglages du téléviseur
 changer de catégorie en lumière
+changer de catégorie en lumière de la pièce
 changer de catégorie en lumières
+changer de catégorie en lumières de la pièce
 changer de catégorie en modes
 changer de catégorie en monitor
 changer de catégorie en mouse 1
@@ -862,6 +1017,7 @@ changer de catégorie en nouveau smartphone
 changer de catégorie en néerlandais
 changer de catégorie en réglages
 changer de catégorie en réglages de verre
+changer de catégorie en réglages du téléviseur
 changer de catégorie en siège
 changer de catégorie en soutien
 changer de catégorie en synchronisation
@@ -869,15 +1025,22 @@ changer de catégorie en volume
 changer de catégorie en wifi
 changer en admin
 changer en ajouts
+changer en ajouts télé
+changer en ajouts téléviseur
+changer en alarme
+changer en alimentation du téléviseur
 changer en allemand
 changer en anglais
 changer en app info
-changer en commande vocale
 changer en avancé
 changer en calibrage
 changer en caméra
+changer en chauffage
+changer en commande vocale
 changer en conduire uniquement
 changer en conduite
+changer en contrôle de la musique
+changer en contrôle du téléviseur
 changer en de base
 changer en doublage
 changer en email d'urgence
@@ -889,25 +1052,40 @@ changer en galerie
 changer en geste de conduite
 changer en gestes de conduite
 changer en hocher
+changer en home
 changer en inclinaison
 changer en internet
 changer en kinova
+changer en l'alarme
+changer en la ajouts télé
+changer en la ajouts télévision
+changer en la alarme
+changer en la alimentation du téléviseur
 changer en la app info
-changer en la commande vocale
 changer en la caméra
+changer en la commande vocale
 changer en la conduite
 changer en la fenêtre
 changer en la galerie
 changer en la inclinaison
+changer en la lampe de chevet
+changer en la lampe de table
 changer en la langue
 changer en la lumière
+changer en la lumière de la pièce
 changer en la musique
 changer en la porte
+changer en la source de musique
 changer en la synchronisation
 changer en la télé
 changer en la télévision
+changer en lampe de chevet
+changer en lampe de table
 changer en langue
 changer en le calibrage
+changer en le chauffage
+changer en le contrôle de la musique
+changer en le contrôle du téléviseur
 changer en le email d'urgence
 changer en le geste de conduite
 changer en le lit
@@ -920,6 +1098,7 @@ changer en le télé volume
 changer en le téléviseur
 changer en le téléviseur volume
 changer en le télévision volume
+changer en le ventilateur
 changer en le volume
 changer en le wifi
 changer en les ajouts
@@ -927,14 +1106,18 @@ changer en les fenêtres
 changer en les feux de détresse
 changer en les gestes de conduite
 changer en les lumières
+changer en les lumières de la pièce
 changer en les modes
 changer en les médias
 changer en les rideaux
 changer en les réglages
 changer en les réglages de verre
+changer en les réglages du téléviseur
 changer en lit
 changer en lumière
+changer en lumière de la pièce
 changer en lumières
+changer en lumières de la pièce
 changer en modes
 changer en monitor
 changer en mouse 1
@@ -949,7 +1132,9 @@ changer en rideau
 changer en rideaux
 changer en réglages
 changer en réglages de verre
+changer en réglages du téléviseur
 changer en siège
+changer en source de musique
 changer en soutien
 changer en synchronisation
 changer en tv
@@ -959,10 +1144,15 @@ changer en téléviseur
 changer en téléviseur volume
 changer en télévision
 changer en télévision volume
+changer en ventilateur
 changer en volume
+changer en volume de la ajouts télé
+changer en volume de la ajouts télévision
 changer en volume de la musique
 changer en volume de la télé
 changer en volume de la télévision
+changer en volume du ajouts télé
+changer en volume du ajouts téléviseur
 changer en volume du télé
 changer en volume du téléviseur
 changer en wifi
@@ -971,10 +1161,10 @@ changer la catégorie en ajouts
 changer la catégorie en allemand
 changer la catégorie en anglais
 changer la catégorie en app info
-changer la catégorie en commande vocale
 changer la catégorie en avancé
 changer la catégorie en calibrage
 changer la catégorie en caméra
+changer la catégorie en commande vocale
 changer la catégorie en conduire uniquement
 changer la catégorie en conduite
 changer la catégorie en de base
@@ -986,18 +1176,24 @@ changer la catégorie en galerie
 changer la catégorie en geste de conduite
 changer la catégorie en gestes de conduite
 changer la catégorie en hocher
+changer la catégorie en home
 changer la catégorie en inclinaison
 changer la catégorie en internet
 changer la catégorie en kinova
 changer la catégorie en la app info
-changer la catégorie en la commande vocale
 changer la catégorie en la caméra
+changer la catégorie en la commande vocale
 changer la catégorie en la conduite
 changer la catégorie en la galerie
 changer la catégorie en la inclinaison
+changer la catégorie en la lampe de chevet
+changer la catégorie en la lampe de table
 changer la catégorie en la langue
 changer la catégorie en la lumière
+changer la catégorie en la lumière de la pièce
 changer la catégorie en la synchronisation
+changer la catégorie en lampe de chevet
+changer la catégorie en lampe de table
 changer la catégorie en langue
 changer la catégorie en le calibrage
 changer la catégorie en le email d'urgence
@@ -1011,12 +1207,16 @@ changer la catégorie en les ajouts
 changer la catégorie en les feux de détresse
 changer la catégorie en les gestes de conduite
 changer la catégorie en les lumières
+changer la catégorie en les lumières de la pièce
 changer la catégorie en les modes
 changer la catégorie en les médias
 changer la catégorie en les réglages
 changer la catégorie en les réglages de verre
+changer la catégorie en les réglages du téléviseur
 changer la catégorie en lumière
+changer la catégorie en lumière de la pièce
 changer la catégorie en lumières
+changer la catégorie en lumières de la pièce
 changer la catégorie en modes
 changer la catégorie en monitor
 changer la catégorie en mouse 1
@@ -1026,6 +1226,7 @@ changer la catégorie en nouveau smartphone
 changer la catégorie en néerlandais
 changer la catégorie en réglages
 changer la catégorie en réglages de verre
+changer la catégorie en réglages du téléviseur
 changer la catégorie en siège
 changer la catégorie en soutien
 changer la catégorie en synchronisation
@@ -1109,6 +1310,9 @@ changer à précédente chanson
 changer à précédente chaîne
 chanson
 chanson suivante
+chauffage
+chauffage allumé
+chauffage éteint
 chaîne
 chaîne suivante
 cherche
@@ -1128,18 +1332,25 @@ chercher une connexion wifi
 choisir
 choisir admin
 choisir ajouts
+choisir ajouts télé
+choisir ajouts téléviseur
+choisir alarme
+choisir alimentation du téléviseur
 choisir allemand
 choisir anglais
 choisir app info
-choisir commande vocale
 choisir avancé
 choisir calibrage
 choisir caméra
 choisir canal suivant
 choisir chanson suivante
+choisir chauffage
 choisir chaîne suivante
+choisir commande vocale
 choisir conduire uniquement
 choisir conduite
+choisir contrôle de la musique
+choisir contrôle du téléviseur
 choisir de base
 choisir doublage
 choisir email d'urgence
@@ -1151,11 +1362,16 @@ choisir galerie
 choisir geste de conduite
 choisir gestes de conduite
 choisir hocher
+choisir home
 choisir inclinaison
 choisir internet
 choisir kinova
+choisir l'alarme
+choisir la ajouts télé
+choisir la ajouts télévision
+choisir la alarme
+choisir la alimentation du téléviseur
 choisir la app info
-choisir la commande vocale
 choisir la caméra
 choisir la canal suivant
 choisir la catégorie admin
@@ -1163,10 +1379,10 @@ choisir la catégorie ajouts
 choisir la catégorie allemand
 choisir la catégorie anglais
 choisir la catégorie app info
-choisir la catégorie commande vocale
 choisir la catégorie avancé
 choisir la catégorie calibrage
 choisir la catégorie caméra
+choisir la catégorie commande vocale
 choisir la catégorie conduire uniquement
 choisir la catégorie conduite
 choisir la catégorie de base
@@ -1178,18 +1394,24 @@ choisir la catégorie galerie
 choisir la catégorie geste de conduite
 choisir la catégorie gestes de conduite
 choisir la catégorie hocher
+choisir la catégorie home
 choisir la catégorie inclinaison
 choisir la catégorie internet
 choisir la catégorie kinova
 choisir la catégorie la app info
-choisir la catégorie la commande vocale
 choisir la catégorie la caméra
+choisir la catégorie la commande vocale
 choisir la catégorie la conduite
 choisir la catégorie la galerie
 choisir la catégorie la inclinaison
+choisir la catégorie la lampe de chevet
+choisir la catégorie la lampe de table
 choisir la catégorie la langue
 choisir la catégorie la lumière
+choisir la catégorie la lumière de la pièce
 choisir la catégorie la synchronisation
+choisir la catégorie lampe de chevet
+choisir la catégorie lampe de table
 choisir la catégorie langue
 choisir la catégorie le calibrage
 choisir la catégorie le email d'urgence
@@ -1204,12 +1426,16 @@ choisir la catégorie les ajouts
 choisir la catégorie les feux de détresse
 choisir la catégorie les gestes de conduite
 choisir la catégorie les lumières
+choisir la catégorie les lumières de la pièce
 choisir la catégorie les modes
 choisir la catégorie les médias
 choisir la catégorie les réglages
 choisir la catégorie les réglages de verre
+choisir la catégorie les réglages du téléviseur
 choisir la catégorie lumière
+choisir la catégorie lumière de la pièce
 choisir la catégorie lumières
+choisir la catégorie lumières de la pièce
 choisir la catégorie modes
 choisir la catégorie monitor
 choisir la catégorie mouse 1
@@ -1219,6 +1445,7 @@ choisir la catégorie nouveau smartphone
 choisir la catégorie néerlandais
 choisir la catégorie réglages
 choisir la catégorie réglages de verre
+choisir la catégorie réglages du téléviseur
 choisir la catégorie siège
 choisir la catégorie smartphone existant
 choisir la catégorie soutien
@@ -1227,16 +1454,20 @@ choisir la catégorie volume
 choisir la catégorie wifi
 choisir la chanson suivante
 choisir la chaîne suivante
+choisir la commande vocale
 choisir la conduite
 choisir la fenêtre
 choisir la galerie
 choisir la inclinaison
+choisir la lampe de chevet
+choisir la lampe de table
 choisir la langue
 choisir la langue allemand
 choisir la langue anglais
 choisir la langue français
 choisir la langue néerlandais
 choisir la lumière
+choisir la lumière de la pièce
 choisir la musique
 choisir la porte
 choisir la prochain canal
@@ -1248,15 +1479,21 @@ choisir la précédent canal
 choisir la précédent programme
 choisir la précédente chanson
 choisir la précédente chaîne
+choisir la source de musique
 choisir la synchronisation
 choisir la télé
 choisir la télévision
+choisir lampe de chevet
+choisir lampe de table
 choisir langue
 choisir langue allemand
 choisir langue anglais
 choisir langue français
 choisir langue néerlandais
 choisir le calibrage
+choisir le chauffage
+choisir le contrôle de la musique
+choisir le contrôle du téléviseur
 choisir le email d'urgence
 choisir le geste de conduite
 choisir le le musique volume
@@ -1274,10 +1511,15 @@ choisir le télé volume
 choisir le téléviseur
 choisir le téléviseur volume
 choisir le télévision volume
+choisir le ventilateur
 choisir le volume
+choisir le volume de la ajouts télé
+choisir le volume de la ajouts télévision
 choisir le volume de la musique
 choisir le volume de la télé
 choisir le volume de la télévision
+choisir le volume du ajouts télé
+choisir le volume du ajouts téléviseur
 choisir le volume du télé
 choisir le volume du téléviseur
 choisir le wifi
@@ -1286,14 +1528,18 @@ choisir les fenêtres
 choisir les feux de détresse
 choisir les gestes de conduite
 choisir les lumières
+choisir les lumières de la pièce
 choisir les modes
 choisir les médias
 choisir les rideaux
 choisir les réglages
 choisir les réglages de verre
+choisir les réglages du téléviseur
 choisir lit
 choisir lumière
+choisir lumière de la pièce
 choisir lumières
+choisir lumières de la pièce
 choisir modes
 choisir monitor
 choisir mouse 1
@@ -1317,8 +1563,10 @@ choisir rideau
 choisir rideaux
 choisir réglages
 choisir réglages de verre
+choisir réglages du téléviseur
 choisir siège
 choisir smartphone existant
+choisir source de musique
 choisir soutien
 choisir synchronisation
 choisir tv
@@ -1328,28 +1576,40 @@ choisir téléviseur
 choisir téléviseur volume
 choisir télévision
 choisir télévision volume
+choisir ventilateur
 choisir volume
+choisir volume de la ajouts télé
+choisir volume de la ajouts télévision
 choisir volume de la musique
 choisir volume de la télé
 choisir volume de la télévision
+choisir volume du ajouts télé
+choisir volume du ajouts téléviseur
 choisir volume du télé
 choisir volume du téléviseur
 choisir wifi
 choisis
 choisis admin
 choisis ajouts
+choisis ajouts télé
+choisis ajouts téléviseur
+choisis alarme
+choisis alimentation du téléviseur
 choisis allemand
 choisis anglais
 choisis app info
-choisis commande vocale
 choisis avancé
 choisis calibrage
 choisis caméra
 choisis canal suivant
 choisis chanson suivante
+choisis chauffage
 choisis chaîne suivante
+choisis commande vocale
 choisis conduire uniquement
 choisis conduite
+choisis contrôle de la musique
+choisis contrôle du téléviseur
 choisis de base
 choisis doublage
 choisis email d'urgence
@@ -1361,11 +1621,16 @@ choisis galerie
 choisis geste de conduite
 choisis gestes de conduite
 choisis hocher
+choisis home
 choisis inclinaison
 choisis internet
 choisis kinova
+choisis l'alarme
+choisis la ajouts télé
+choisis la ajouts télévision
+choisis la alarme
+choisis la alimentation du téléviseur
 choisis la app info
-choisis la commande vocale
 choisis la caméra
 choisis la canal suivant
 choisis la catégorie admin
@@ -1373,10 +1638,10 @@ choisis la catégorie ajouts
 choisis la catégorie allemand
 choisis la catégorie anglais
 choisis la catégorie app info
-choisis la catégorie commande vocale
 choisis la catégorie avancé
 choisis la catégorie calibrage
 choisis la catégorie caméra
+choisis la catégorie commande vocale
 choisis la catégorie conduire uniquement
 choisis la catégorie conduite
 choisis la catégorie de base
@@ -1388,18 +1653,24 @@ choisis la catégorie galerie
 choisis la catégorie geste de conduite
 choisis la catégorie gestes de conduite
 choisis la catégorie hocher
+choisis la catégorie home
 choisis la catégorie inclinaison
 choisis la catégorie internet
 choisis la catégorie kinova
 choisis la catégorie la app info
-choisis la catégorie la commande vocale
 choisis la catégorie la caméra
+choisis la catégorie la commande vocale
 choisis la catégorie la conduite
 choisis la catégorie la galerie
 choisis la catégorie la inclinaison
+choisis la catégorie la lampe de chevet
+choisis la catégorie la lampe de table
 choisis la catégorie la langue
 choisis la catégorie la lumière
+choisis la catégorie la lumière de la pièce
 choisis la catégorie la synchronisation
+choisis la catégorie lampe de chevet
+choisis la catégorie lampe de table
 choisis la catégorie langue
 choisis la catégorie le calibrage
 choisis la catégorie le email d'urgence
@@ -1414,12 +1685,16 @@ choisis la catégorie les ajouts
 choisis la catégorie les feux de détresse
 choisis la catégorie les gestes de conduite
 choisis la catégorie les lumières
+choisis la catégorie les lumières de la pièce
 choisis la catégorie les modes
 choisis la catégorie les médias
 choisis la catégorie les réglages
 choisis la catégorie les réglages de verre
+choisis la catégorie les réglages du téléviseur
 choisis la catégorie lumière
+choisis la catégorie lumière de la pièce
 choisis la catégorie lumières
+choisis la catégorie lumières de la pièce
 choisis la catégorie modes
 choisis la catégorie monitor
 choisis la catégorie mouse 1
@@ -1429,6 +1704,7 @@ choisis la catégorie nouveau smartphone
 choisis la catégorie néerlandais
 choisis la catégorie réglages
 choisis la catégorie réglages de verre
+choisis la catégorie réglages du téléviseur
 choisis la catégorie siège
 choisis la catégorie smartphone existant
 choisis la catégorie soutien
@@ -1437,16 +1713,20 @@ choisis la catégorie volume
 choisis la catégorie wifi
 choisis la chanson suivante
 choisis la chaîne suivante
+choisis la commande vocale
 choisis la conduite
 choisis la fenêtre
 choisis la galerie
 choisis la inclinaison
+choisis la lampe de chevet
+choisis la lampe de table
 choisis la langue
 choisis la langue allemand
 choisis la langue anglais
 choisis la langue français
 choisis la langue néerlandais
 choisis la lumière
+choisis la lumière de la pièce
 choisis la musique
 choisis la porte
 choisis la prochain canal
@@ -1458,15 +1738,21 @@ choisis la précédent canal
 choisis la précédent programme
 choisis la précédente chanson
 choisis la précédente chaîne
+choisis la source de musique
 choisis la synchronisation
 choisis la télé
 choisis la télévision
+choisis lampe de chevet
+choisis lampe de table
 choisis langue
 choisis langue allemand
 choisis langue anglais
 choisis langue français
 choisis langue néerlandais
 choisis le calibrage
+choisis le chauffage
+choisis le contrôle de la musique
+choisis le contrôle du téléviseur
 choisis le email d'urgence
 choisis le geste de conduite
 choisis le le musique volume
@@ -1484,10 +1770,15 @@ choisis le télé volume
 choisis le téléviseur
 choisis le téléviseur volume
 choisis le télévision volume
+choisis le ventilateur
 choisis le volume
+choisis le volume de la ajouts télé
+choisis le volume de la ajouts télévision
 choisis le volume de la musique
 choisis le volume de la télé
 choisis le volume de la télévision
+choisis le volume du ajouts télé
+choisis le volume du ajouts téléviseur
 choisis le volume du télé
 choisis le volume du téléviseur
 choisis le wifi
@@ -1496,14 +1787,18 @@ choisis les fenêtres
 choisis les feux de détresse
 choisis les gestes de conduite
 choisis les lumières
+choisis les lumières de la pièce
 choisis les modes
 choisis les médias
 choisis les rideaux
 choisis les réglages
 choisis les réglages de verre
+choisis les réglages du téléviseur
 choisis lit
 choisis lumière
+choisis lumière de la pièce
 choisis lumières
+choisis lumières de la pièce
 choisis modes
 choisis monitor
 choisis mouse 1
@@ -1527,8 +1822,10 @@ choisis rideau
 choisis rideaux
 choisis réglages
 choisis réglages de verre
+choisis réglages du téléviseur
 choisis siège
 choisis smartphone existant
+choisis source de musique
 choisis soutien
 choisis synchronisation
 choisis tv
@@ -1538,13 +1835,19 @@ choisis téléviseur
 choisis téléviseur volume
 choisis télévision
 choisis télévision volume
+choisis ventilateur
 choisis volume
+choisis volume de la ajouts télé
+choisis volume de la ajouts télévision
 choisis volume de la musique
 choisis volume de la télé
 choisis volume de la télévision
+choisis volume du ajouts télé
+choisis volume du ajouts téléviseur
 choisis volume du télé
 choisis volume du téléviseur
 choisis wifi
+commande vocale
 commence
 commence actualisation
 commence actualisation de l'appareil
@@ -1644,12 +1947,15 @@ continue la musique
 continue musique
 continuer la musique
 continuer musique
+contrôle de la musique
+contrôle du téléviseur
 d'internet
 d'un
 d'une
 d'urgence
 de
 de base
+de détresse
 des
 diminue
 diminue l'angle du lit
@@ -1842,20 +2148,23 @@ emmène moi au volume
 emmène moi au wifi
 emmène moi aux ajouts
 emmène moi aux feux de détresse
+emmène moi aux gestes de conduite
 emmène moi aux lumières
+emmène moi aux lumières de la pièce
 emmène moi aux modes
 emmène moi aux médias
 emmène moi aux réglages
 emmène moi aux réglages de verre
+emmène moi aux réglages du téléviseur
 emmène moi à admin
 emmène moi à ajouts
 emmène moi à allemand
 emmène moi à anglais
 emmène moi à app info
-emmène moi à commande vocale
 emmène moi à avancé
 emmène moi à calibrage
 emmène moi à caméra
+emmène moi à commande vocale
 emmène moi à conduire uniquement
 emmène moi à conduite
 emmène moi à de base
@@ -1867,21 +2176,21 @@ emmène moi à galerie
 emmène moi à geste de conduite
 emmène moi à gestes de conduite
 emmène moi à hocher
+emmène moi à home
 emmène moi à inclinaison
 emmène moi à internet
 emmène moi à kinova
 emmène moi à la app info
-emmène moi à la commande vocale
 emmène moi à la caméra
 emmène moi à la catégorie admin
 emmène moi à la catégorie ajouts
 emmène moi à la catégorie allemand
 emmène moi à la catégorie anglais
 emmène moi à la catégorie app info
-emmène moi à la catégorie commande vocale
 emmène moi à la catégorie avancé
 emmène moi à la catégorie calibrage
 emmène moi à la catégorie caméra
+emmène moi à la catégorie commande vocale
 emmène moi à la catégorie conduire uniquement
 emmène moi à la catégorie conduite
 emmène moi à la catégorie de base
@@ -1893,18 +2202,24 @@ emmène moi à la catégorie galerie
 emmène moi à la catégorie geste de conduite
 emmène moi à la catégorie gestes de conduite
 emmène moi à la catégorie hocher
+emmène moi à la catégorie home
 emmène moi à la catégorie inclinaison
 emmène moi à la catégorie internet
 emmène moi à la catégorie kinova
 emmène moi à la catégorie la app info
-emmène moi à la catégorie la commande vocale
 emmène moi à la catégorie la caméra
+emmène moi à la catégorie la commande vocale
 emmène moi à la catégorie la conduite
 emmène moi à la catégorie la galerie
 emmène moi à la catégorie la inclinaison
+emmène moi à la catégorie la lampe de chevet
+emmène moi à la catégorie la lampe de table
 emmène moi à la catégorie la langue
 emmène moi à la catégorie la lumière
+emmène moi à la catégorie la lumière de la pièce
 emmène moi à la catégorie la synchronisation
+emmène moi à la catégorie lampe de chevet
+emmène moi à la catégorie lampe de table
 emmène moi à la catégorie langue
 emmène moi à la catégorie le calibrage
 emmène moi à la catégorie le email d'urgence
@@ -1918,12 +2233,16 @@ emmène moi à la catégorie les ajouts
 emmène moi à la catégorie les feux de détresse
 emmène moi à la catégorie les gestes de conduite
 emmène moi à la catégorie les lumières
+emmène moi à la catégorie les lumières de la pièce
 emmène moi à la catégorie les modes
 emmène moi à la catégorie les médias
 emmène moi à la catégorie les réglages
 emmène moi à la catégorie les réglages de verre
+emmène moi à la catégorie les réglages du téléviseur
 emmène moi à la catégorie lumière
+emmène moi à la catégorie lumière de la pièce
 emmène moi à la catégorie lumières
+emmène moi à la catégorie lumières de la pièce
 emmène moi à la catégorie modes
 emmène moi à la catégorie monitor
 emmène moi à la catégorie mouse 1
@@ -1933,20 +2252,29 @@ emmène moi à la catégorie nouveau smartphone
 emmène moi à la catégorie néerlandais
 emmène moi à la catégorie réglages
 emmène moi à la catégorie réglages de verre
+emmène moi à la catégorie réglages du téléviseur
 emmène moi à la catégorie siège
 emmène moi à la catégorie soutien
 emmène moi à la catégorie synchronisation
 emmène moi à la catégorie volume
 emmène moi à la catégorie wifi
+emmène moi à la commande vocale
 emmène moi à la conduite
 emmène moi à la galerie
 emmène moi à la inclinaison
+emmène moi à la lampe de chevet
+emmène moi à la lampe de table
 emmène moi à la langue
 emmène moi à la lumière
+emmène moi à la lumière de la pièce
 emmène moi à la synchronisation
+emmène moi à lampe de chevet
+emmène moi à lampe de table
 emmène moi à langue
 emmène moi à lumière
+emmène moi à lumière de la pièce
 emmène moi à lumières
+emmène moi à lumières de la pièce
 emmène moi à modes
 emmène moi à monitor
 emmène moi à mouse 1
@@ -1956,6 +2284,7 @@ emmène moi à nouveau smartphone
 emmène moi à néerlandais
 emmène moi à réglages
 emmène moi à réglages de verre
+emmène moi à réglages du téléviseur
 emmène moi à siège
 emmène moi à soutien
 emmène moi à synchronisation
@@ -2037,6 +2366,8 @@ fermé
 fermée
 fermées
 fermés
+feux
+feux de
 feux de détresse
 feux de détresse allumés
 feux de détresse éteints
@@ -2075,6 +2406,7 @@ glass
 haut
 hauteur
 hocher
+home
 iarm
 image
 image s'il vous plaît
@@ -2148,6 +2480,9 @@ jour
 kinova
 l'actualisation
 l'administration
+l'alarme
+l'alarme allumée
+l'alarme éteinte
 l'angle
 l'app
 l'appareil
@@ -2156,20 +2491,27 @@ l'email
 l'inclinaison
 l'internet
 la
+la ajouts télé
+la ajouts télévision
+la alarme
+la alimentation du téléviseur
 la app info
-la commande vocale
 la caméra
 la canal suivant
 la chanson suivante
 la chaîne suivante
+la commande vocale
 la conduite
 la fenêtre
 la fenêtre fermée
 la fenêtre ouverte
 la galerie
 la inclinaison
+la lampe de chevet
+la lampe de table
 la langue
 la lumière
+la lumière de la pièce
 la musique
 la porte
 la porte fermée
@@ -2183,12 +2525,22 @@ la précédent canal
 la précédent programme
 la précédente chanson
 la précédente chaîne
+la source de musique
 la synchronisation
 la télé
 la télévision
+lampe de chevet
+lampe de chevet allumée
+lampe de chevet éteinte
+lampe de table
+lampe de table allumée
+lampe de table éteinte
 langue
 le
 le calibrage
+le chauffage
+le contrôle de la musique
+le contrôle du téléviseur
 le email d'urgence
 le geste de conduite
 le le musique volume
@@ -2208,7 +2560,10 @@ le télé volume
 le téléviseur
 le téléviseur volume
 le télévision volume
+le ventilateur
 le volume
+le volume de la ajouts télé
+le volume de la ajouts télévision
 le volume de la musique
 le volume de la musique plus faible
 le volume de la musique plus fort
@@ -2230,6 +2585,8 @@ le volume de la télévision plus silencieux
 le volume de la télévision plus élevé
 le volume de la télévision silencieux
 le volume de la télévision élevé
+le volume du ajouts télé
+le volume du ajouts téléviseur
 le volume du télé
 le volume du télé plus faible
 le volume du télé plus fort
@@ -2253,6 +2610,7 @@ les fenêtres ouvertes
 les feux de détresse
 les gestes de conduite
 les lumières
+les lumières de la pièce
 les modes
 les médias
 les rideaux
@@ -2260,12 +2618,19 @@ les rideaux fermés
 les rideaux ouverts
 les réglages
 les réglages de verre
+les réglages du téléviseur
 lit
 lumière
 lumière allumée
+lumière de la pièce
+lumière de la pièce allumée
+lumière de la pièce éteinte
 lumière éteinte
 lumières
 lumières allumées
+lumières de la pièce
+lumières de la pièce allumées
+lumières de la pièce éteintes
 lumières éteintes
 mets
 mets la wifi
@@ -2526,10 +2891,14 @@ ouverts
 ouvre
 ouvre admin
 ouvre ajouts
+ouvre ajouts télé
+ouvre ajouts téléviseur
+ouvre ajouts télévision
+ouvre alarme
+ouvre alimentation du téléviseur
 ouvre allemand
 ouvre anglais
 ouvre app info
-ouvre commande vocale
 ouvre avancé
 ouvre calibrage
 ouvre caméra
@@ -2547,8 +2916,12 @@ ouvre catégorie volume de la télé
 ouvre catégorie volume de la télévision
 ouvre catégorie volume du télé
 ouvre catégorie volume du téléviseur
+ouvre chauffage
+ouvre commande vocale
 ouvre conduire uniquement
 ouvre conduite
+ouvre contrôle de la musique
+ouvre contrôle du téléviseur
 ouvre de base
 ouvre doublage
 ouvre email d'urgence
@@ -2560,65 +2933,100 @@ ouvre galerie
 ouvre geste de conduite
 ouvre gestes de conduite
 ouvre hocher
+ouvre home
 ouvre inclinaison
 ouvre internet
 ouvre kinova
+ouvre l'alarme
+ouvre la ajouts télé
+ouvre la ajouts télévision
+ouvre la alarme
+ouvre la alimentation du téléviseur
 ouvre la app info
-ouvre la commande vocale
 ouvre la caméra
 ouvre la catégorie admin
 ouvre la catégorie ajouts
+ouvre la catégorie ajouts télé
+ouvre la catégorie ajouts téléviseur
+ouvre la catégorie ajouts télévision
+ouvre la catégorie alarme
+ouvre la catégorie alimentation du téléviseur
 ouvre la catégorie allemand
 ouvre la catégorie anglais
 ouvre la catégorie app info
-ouvre la catégorie commande vocale
 ouvre la catégorie avancé
 ouvre la catégorie calibrage
 ouvre la catégorie caméra
+ouvre la catégorie chauffage
+ouvre la catégorie commande vocale
 ouvre la catégorie conduire uniquement
 ouvre la catégorie conduite
+ouvre la catégorie contrôle de la musique
+ouvre la catégorie contrôle du téléviseur
 ouvre la catégorie de base
 ouvre la catégorie doublage
 ouvre la catégorie email d'urgence
 ouvre la catégorie fenêtre
+ouvre la catégorie fenêtres
 ouvre la catégorie feux de détresse
 ouvre la catégorie français
 ouvre la catégorie galerie
 ouvre la catégorie geste de conduite
 ouvre la catégorie gestes de conduite
 ouvre la catégorie hocher
+ouvre la catégorie home
 ouvre la catégorie inclinaison
 ouvre la catégorie internet
 ouvre la catégorie kinova
+ouvre la catégorie l'alarme
+ouvre la catégorie la ajouts télé
+ouvre la catégorie la ajouts télévision
+ouvre la catégorie la alarme
+ouvre la catégorie la alimentation du téléviseur
 ouvre la catégorie la app info
-ouvre la catégorie la commande vocale
 ouvre la catégorie la caméra
+ouvre la catégorie la commande vocale
 ouvre la catégorie la conduite
 ouvre la catégorie la galerie
 ouvre la catégorie la inclinaison
+ouvre la catégorie la lampe de chevet
+ouvre la catégorie la lampe de table
 ouvre la catégorie la langue
 ouvre la catégorie la lumière
+ouvre la catégorie la lumière de la pièce
+ouvre la catégorie la source de musique
 ouvre la catégorie la synchronisation
+ouvre la catégorie lampe de chevet
+ouvre la catégorie lampe de table
 ouvre la catégorie langue
+ouvre la catégorie le ajouts téléviseur
 ouvre la catégorie le calibrage
+ouvre la catégorie le chauffage
+ouvre la catégorie le contrôle de la musique
+ouvre la catégorie le contrôle du téléviseur
 ouvre la catégorie le email d'urgence
 ouvre la catégorie le geste de conduite
 ouvre la catégorie le nouveau smartphone
 ouvre la catégorie le siège
 ouvre la catégorie le soutien
+ouvre la catégorie le ventilateur
 ouvre la catégorie le volume
 ouvre la catégorie le wifi
 ouvre la catégorie les ajouts
 ouvre la catégorie les feux de détresse
 ouvre la catégorie les gestes de conduite
 ouvre la catégorie les lumières
+ouvre la catégorie les lumières de la pièce
 ouvre la catégorie les modes
 ouvre la catégorie les médias
 ouvre la catégorie les réglages
 ouvre la catégorie les réglages de verre
+ouvre la catégorie les réglages du téléviseur
 ouvre la catégorie lit
 ouvre la catégorie lumière
+ouvre la catégorie lumière de la pièce
 ouvre la catégorie lumières
+ouvre la catégorie lumières de la pièce
 ouvre la catégorie modes
 ouvre la catégorie monitor
 ouvre la catégorie mouse 1
@@ -2633,8 +3041,10 @@ ouvre la catégorie rideau
 ouvre la catégorie rideaux
 ouvre la catégorie réglages
 ouvre la catégorie réglages de verre
+ouvre la catégorie réglages du téléviseur
 ouvre la catégorie siège
 ouvre la catégorie smartphone existant
+ouvre la catégorie source de musique
 ouvre la catégorie soutien
 ouvre la catégorie synchronisation
 ouvre la catégorie tv
@@ -2644,6 +3054,7 @@ ouvre la catégorie téléviseur
 ouvre la catégorie téléviseur volume
 ouvre la catégorie télévision
 ouvre la catégorie télévision volume
+ouvre la catégorie ventilateur
 ouvre la catégorie volume
 ouvre la catégorie volume de la musique
 ouvre la catégorie volume de la télé
@@ -2651,19 +3062,30 @@ ouvre la catégorie volume de la télévision
 ouvre la catégorie volume du télé
 ouvre la catégorie volume du téléviseur
 ouvre la catégorie wifi
+ouvre la commande vocale
 ouvre la conduite
 ouvre la fenêtre
 ouvre la galerie
 ouvre la inclinaison
+ouvre la lampe de chevet
+ouvre la lampe de table
 ouvre la langue
 ouvre la lumière
+ouvre la lumière de la pièce
 ouvre la musique
 ouvre la porte
+ouvre la source de musique
 ouvre la synchronisation
 ouvre la télé
 ouvre la télévision
+ouvre lampe de chevet
+ouvre lampe de table
 ouvre langue
+ouvre le ajouts téléviseur
 ouvre le calibrage
+ouvre le chauffage
+ouvre le contrôle de la musique
+ouvre le contrôle du téléviseur
 ouvre le email d'urgence
 ouvre le geste de conduite
 ouvre le lit
@@ -2677,20 +3099,30 @@ ouvre le télé volume
 ouvre le téléviseur
 ouvre le téléviseur volume
 ouvre le télévision volume
+ouvre le ventilateur
 ouvre le volume
+ouvre le volume de la musique
+ouvre le volume de la télé
+ouvre le volume de la télévision
+ouvre le volume du télé
+ouvre le volume du téléviseur
 ouvre le wifi
 ouvre les ajouts
 ouvre les fenêtres
 ouvre les feux de détresse
 ouvre les gestes de conduite
 ouvre les lumières
+ouvre les lumières de la pièce
 ouvre les modes
 ouvre les médias
 ouvre les rideaux
 ouvre les réglages
 ouvre les réglages de verre
+ouvre les réglages du téléviseur
 ouvre lumière
+ouvre lumière de la pièce
 ouvre lumières
+ouvre lumières de la pièce
 ouvre modes
 ouvre monitor
 ouvre mouse 1
@@ -2705,8 +3137,10 @@ ouvre rideau
 ouvre rideaux
 ouvre réglages
 ouvre réglages de verre
+ouvre réglages du téléviseur
 ouvre siège
 ouvre smartphone existant
+ouvre source de musique
 ouvre soutien
 ouvre synchronisation
 ouvre tv
@@ -2716,6 +3150,7 @@ ouvre téléviseur
 ouvre téléviseur volume
 ouvre télévision
 ouvre télévision volume
+ouvre ventilateur
 ouvre volume
 ouvre volume de la musique
 ouvre volume de la télé
@@ -2726,10 +3161,14 @@ ouvre wifi
 ouvrir
 ouvrir admin
 ouvrir ajouts
+ouvrir ajouts télé
+ouvrir ajouts téléviseur
+ouvrir ajouts télévision
+ouvrir alarme
+ouvrir alimentation du téléviseur
 ouvrir allemand
 ouvrir anglais
 ouvrir app info
-ouvrir commande vocale
 ouvrir avancé
 ouvrir calibrage
 ouvrir caméra
@@ -2747,8 +3186,12 @@ ouvrir catégorie volume de la télé
 ouvrir catégorie volume de la télévision
 ouvrir catégorie volume du télé
 ouvrir catégorie volume du téléviseur
+ouvrir chauffage
+ouvrir commande vocale
 ouvrir conduire uniquement
 ouvrir conduite
+ouvrir contrôle de la musique
+ouvrir contrôle du téléviseur
 ouvrir de base
 ouvrir doublage
 ouvrir email d'urgence
@@ -2760,65 +3203,100 @@ ouvrir galerie
 ouvrir geste de conduite
 ouvrir gestes de conduite
 ouvrir hocher
+ouvrir home
 ouvrir inclinaison
 ouvrir internet
 ouvrir kinova
+ouvrir l'alarme
+ouvrir la ajouts télé
+ouvrir la ajouts télévision
+ouvrir la alarme
+ouvrir la alimentation du téléviseur
 ouvrir la app info
-ouvrir la commande vocale
 ouvrir la caméra
 ouvrir la catégorie admin
 ouvrir la catégorie ajouts
+ouvrir la catégorie ajouts télé
+ouvrir la catégorie ajouts téléviseur
+ouvrir la catégorie ajouts télévision
+ouvrir la catégorie alarme
+ouvrir la catégorie alimentation du téléviseur
 ouvrir la catégorie allemand
 ouvrir la catégorie anglais
 ouvrir la catégorie app info
-ouvrir la catégorie commande vocale
 ouvrir la catégorie avancé
 ouvrir la catégorie calibrage
 ouvrir la catégorie caméra
+ouvrir la catégorie chauffage
+ouvrir la catégorie commande vocale
 ouvrir la catégorie conduire uniquement
 ouvrir la catégorie conduite
+ouvrir la catégorie contrôle de la musique
+ouvrir la catégorie contrôle du téléviseur
 ouvrir la catégorie de base
 ouvrir la catégorie doublage
 ouvrir la catégorie email d'urgence
 ouvrir la catégorie fenêtre
+ouvrir la catégorie fenêtres
 ouvrir la catégorie feux de détresse
 ouvrir la catégorie français
 ouvrir la catégorie galerie
 ouvrir la catégorie geste de conduite
 ouvrir la catégorie gestes de conduite
 ouvrir la catégorie hocher
+ouvrir la catégorie home
 ouvrir la catégorie inclinaison
 ouvrir la catégorie internet
 ouvrir la catégorie kinova
+ouvrir la catégorie l'alarme
+ouvrir la catégorie la ajouts télé
+ouvrir la catégorie la ajouts télévision
+ouvrir la catégorie la alarme
+ouvrir la catégorie la alimentation du téléviseur
 ouvrir la catégorie la app info
-ouvrir la catégorie la commande vocale
 ouvrir la catégorie la caméra
+ouvrir la catégorie la commande vocale
 ouvrir la catégorie la conduite
 ouvrir la catégorie la galerie
 ouvrir la catégorie la inclinaison
+ouvrir la catégorie la lampe de chevet
+ouvrir la catégorie la lampe de table
 ouvrir la catégorie la langue
 ouvrir la catégorie la lumière
+ouvrir la catégorie la lumière de la pièce
+ouvrir la catégorie la source de musique
 ouvrir la catégorie la synchronisation
+ouvrir la catégorie lampe de chevet
+ouvrir la catégorie lampe de table
 ouvrir la catégorie langue
+ouvrir la catégorie le ajouts téléviseur
 ouvrir la catégorie le calibrage
+ouvrir la catégorie le chauffage
+ouvrir la catégorie le contrôle de la musique
+ouvrir la catégorie le contrôle du téléviseur
 ouvrir la catégorie le email d'urgence
 ouvrir la catégorie le geste de conduite
 ouvrir la catégorie le nouveau smartphone
 ouvrir la catégorie le siège
 ouvrir la catégorie le soutien
+ouvrir la catégorie le ventilateur
 ouvrir la catégorie le volume
 ouvrir la catégorie le wifi
 ouvrir la catégorie les ajouts
 ouvrir la catégorie les feux de détresse
 ouvrir la catégorie les gestes de conduite
 ouvrir la catégorie les lumières
+ouvrir la catégorie les lumières de la pièce
 ouvrir la catégorie les modes
 ouvrir la catégorie les médias
 ouvrir la catégorie les réglages
 ouvrir la catégorie les réglages de verre
+ouvrir la catégorie les réglages du téléviseur
 ouvrir la catégorie lit
 ouvrir la catégorie lumière
+ouvrir la catégorie lumière de la pièce
 ouvrir la catégorie lumières
+ouvrir la catégorie lumières de la pièce
 ouvrir la catégorie modes
 ouvrir la catégorie monitor
 ouvrir la catégorie mouse 1
@@ -2833,8 +3311,10 @@ ouvrir la catégorie rideau
 ouvrir la catégorie rideaux
 ouvrir la catégorie réglages
 ouvrir la catégorie réglages de verre
+ouvrir la catégorie réglages du téléviseur
 ouvrir la catégorie siège
 ouvrir la catégorie smartphone existant
+ouvrir la catégorie source de musique
 ouvrir la catégorie soutien
 ouvrir la catégorie synchronisation
 ouvrir la catégorie tv
@@ -2844,6 +3324,7 @@ ouvrir la catégorie téléviseur
 ouvrir la catégorie téléviseur volume
 ouvrir la catégorie télévision
 ouvrir la catégorie télévision volume
+ouvrir la catégorie ventilateur
 ouvrir la catégorie volume
 ouvrir la catégorie volume de la musique
 ouvrir la catégorie volume de la télé
@@ -2851,19 +3332,30 @@ ouvrir la catégorie volume de la télévision
 ouvrir la catégorie volume du télé
 ouvrir la catégorie volume du téléviseur
 ouvrir la catégorie wifi
+ouvrir la commande vocale
 ouvrir la conduite
 ouvrir la fenêtre
 ouvrir la galerie
 ouvrir la inclinaison
+ouvrir la lampe de chevet
+ouvrir la lampe de table
 ouvrir la langue
 ouvrir la lumière
+ouvrir la lumière de la pièce
 ouvrir la musique
 ouvrir la porte
+ouvrir la source de musique
 ouvrir la synchronisation
 ouvrir la télé
 ouvrir la télévision
+ouvrir lampe de chevet
+ouvrir lampe de table
 ouvrir langue
+ouvrir le ajouts téléviseur
 ouvrir le calibrage
+ouvrir le chauffage
+ouvrir le contrôle de la musique
+ouvrir le contrôle du téléviseur
 ouvrir le email d'urgence
 ouvrir le geste de conduite
 ouvrir le lit
@@ -2877,20 +3369,30 @@ ouvrir le télé volume
 ouvrir le téléviseur
 ouvrir le téléviseur volume
 ouvrir le télévision volume
+ouvrir le ventilateur
 ouvrir le volume
+ouvrir le volume de la musique
+ouvrir le volume de la télé
+ouvrir le volume de la télévision
+ouvrir le volume du télé
+ouvrir le volume du téléviseur
 ouvrir le wifi
 ouvrir les ajouts
 ouvrir les fenêtres
 ouvrir les feux de détresse
 ouvrir les gestes de conduite
 ouvrir les lumières
+ouvrir les lumières de la pièce
 ouvrir les modes
 ouvrir les médias
 ouvrir les rideaux
 ouvrir les réglages
 ouvrir les réglages de verre
+ouvrir les réglages du téléviseur
 ouvrir lumière
+ouvrir lumière de la pièce
 ouvrir lumières
+ouvrir lumières de la pièce
 ouvrir modes
 ouvrir monitor
 ouvrir mouse 1
@@ -2905,8 +3407,10 @@ ouvrir rideau
 ouvrir rideaux
 ouvrir réglages
 ouvrir réglages de verre
+ouvrir réglages du téléviseur
 ouvrir siège
 ouvrir smartphone existant
+ouvrir source de musique
 ouvrir soutien
 ouvrir synchronisation
 ouvrir tv
@@ -2916,6 +3420,7 @@ ouvrir téléviseur
 ouvrir téléviseur volume
 ouvrir télévision
 ouvrir télévision volume
+ouvrir ventilateur
 ouvrir volume
 ouvrir volume de la musique
 ouvrir volume de la télé
@@ -3234,6 +3739,7 @@ réduis volume téléviseur
 réduis volume télévision
 réglages
 réglages de verre
+réglages du téléviseur
 réseau
 s'il
 s'il vous plaît augmente le volume
@@ -3275,6 +3781,7 @@ se connecter à un wifi
 silencieux
 siège
 smartphone existant
+source de musique
 soutien
 suivant
 suivante
@@ -3292,18 +3799,25 @@ synchroniser l'application
 sélectionne
 sélectionne admin
 sélectionne ajouts
+sélectionne ajouts télé
+sélectionne ajouts téléviseur
+sélectionne alarme
+sélectionne alimentation du téléviseur
 sélectionne allemand
 sélectionne anglais
 sélectionne app info
-sélectionne commande vocale
 sélectionne avancé
 sélectionne calibrage
 sélectionne caméra
 sélectionne canal suivant
 sélectionne chanson suivante
+sélectionne chauffage
 sélectionne chaîne suivante
+sélectionne commande vocale
 sélectionne conduire uniquement
 sélectionne conduite
+sélectionne contrôle de la musique
+sélectionne contrôle du téléviseur
 sélectionne de base
 sélectionne doublage
 sélectionne email d'urgence
@@ -3315,11 +3829,16 @@ sélectionne galerie
 sélectionne geste de conduite
 sélectionne gestes de conduite
 sélectionne hocher
+sélectionne home
 sélectionne inclinaison
 sélectionne internet
 sélectionne kinova
+sélectionne l'alarme
+sélectionne la ajouts télé
+sélectionne la ajouts télévision
+sélectionne la alarme
+sélectionne la alimentation du téléviseur
 sélectionne la app info
-sélectionne la commande vocale
 sélectionne la caméra
 sélectionne la canal suivant
 sélectionne la catégorie admin
@@ -3327,10 +3846,10 @@ sélectionne la catégorie ajouts
 sélectionne la catégorie allemand
 sélectionne la catégorie anglais
 sélectionne la catégorie app info
-sélectionne la catégorie commande vocale
 sélectionne la catégorie avancé
 sélectionne la catégorie calibrage
 sélectionne la catégorie caméra
+sélectionne la catégorie commande vocale
 sélectionne la catégorie conduire uniquement
 sélectionne la catégorie conduite
 sélectionne la catégorie de base
@@ -3342,18 +3861,24 @@ sélectionne la catégorie galerie
 sélectionne la catégorie geste de conduite
 sélectionne la catégorie gestes de conduite
 sélectionne la catégorie hocher
+sélectionne la catégorie home
 sélectionne la catégorie inclinaison
 sélectionne la catégorie internet
 sélectionne la catégorie kinova
 sélectionne la catégorie la app info
-sélectionne la catégorie la commande vocale
 sélectionne la catégorie la caméra
+sélectionne la catégorie la commande vocale
 sélectionne la catégorie la conduite
 sélectionne la catégorie la galerie
 sélectionne la catégorie la inclinaison
+sélectionne la catégorie la lampe de chevet
+sélectionne la catégorie la lampe de table
 sélectionne la catégorie la langue
 sélectionne la catégorie la lumière
+sélectionne la catégorie la lumière de la pièce
 sélectionne la catégorie la synchronisation
+sélectionne la catégorie lampe de chevet
+sélectionne la catégorie lampe de table
 sélectionne la catégorie langue
 sélectionne la catégorie le calibrage
 sélectionne la catégorie le email d'urgence
@@ -3368,12 +3893,16 @@ sélectionne la catégorie les ajouts
 sélectionne la catégorie les feux de détresse
 sélectionne la catégorie les gestes de conduite
 sélectionne la catégorie les lumières
+sélectionne la catégorie les lumières de la pièce
 sélectionne la catégorie les modes
 sélectionne la catégorie les médias
 sélectionne la catégorie les réglages
 sélectionne la catégorie les réglages de verre
+sélectionne la catégorie les réglages du téléviseur
 sélectionne la catégorie lumière
+sélectionne la catégorie lumière de la pièce
 sélectionne la catégorie lumières
+sélectionne la catégorie lumières de la pièce
 sélectionne la catégorie modes
 sélectionne la catégorie monitor
 sélectionne la catégorie mouse 1
@@ -3383,6 +3912,7 @@ sélectionne la catégorie nouveau smartphone
 sélectionne la catégorie néerlandais
 sélectionne la catégorie réglages
 sélectionne la catégorie réglages de verre
+sélectionne la catégorie réglages du téléviseur
 sélectionne la catégorie siège
 sélectionne la catégorie smartphone existant
 sélectionne la catégorie soutien
@@ -3391,16 +3921,20 @@ sélectionne la catégorie volume
 sélectionne la catégorie wifi
 sélectionne la chanson suivante
 sélectionne la chaîne suivante
+sélectionne la commande vocale
 sélectionne la conduite
 sélectionne la fenêtre
 sélectionne la galerie
 sélectionne la inclinaison
+sélectionne la lampe de chevet
+sélectionne la lampe de table
 sélectionne la langue
 sélectionne la langue allemand
 sélectionne la langue anglais
 sélectionne la langue français
 sélectionne la langue néerlandais
 sélectionne la lumière
+sélectionne la lumière de la pièce
 sélectionne la musique
 sélectionne la porte
 sélectionne la prochain canal
@@ -3412,15 +3946,21 @@ sélectionne la précédent canal
 sélectionne la précédent programme
 sélectionne la précédente chanson
 sélectionne la précédente chaîne
+sélectionne la source de musique
 sélectionne la synchronisation
 sélectionne la télé
 sélectionne la télévision
+sélectionne lampe de chevet
+sélectionne lampe de table
 sélectionne langue
 sélectionne langue allemand
 sélectionne langue anglais
 sélectionne langue français
 sélectionne langue néerlandais
 sélectionne le calibrage
+sélectionne le chauffage
+sélectionne le contrôle de la musique
+sélectionne le contrôle du téléviseur
 sélectionne le email d'urgence
 sélectionne le geste de conduite
 sélectionne le le musique volume
@@ -3438,10 +3978,15 @@ sélectionne le télé volume
 sélectionne le téléviseur
 sélectionne le téléviseur volume
 sélectionne le télévision volume
+sélectionne le ventilateur
 sélectionne le volume
+sélectionne le volume de la ajouts télé
+sélectionne le volume de la ajouts télévision
 sélectionne le volume de la musique
 sélectionne le volume de la télé
 sélectionne le volume de la télévision
+sélectionne le volume du ajouts télé
+sélectionne le volume du ajouts téléviseur
 sélectionne le volume du télé
 sélectionne le volume du téléviseur
 sélectionne le wifi
@@ -3450,14 +3995,18 @@ sélectionne les fenêtres
 sélectionne les feux de détresse
 sélectionne les gestes de conduite
 sélectionne les lumières
+sélectionne les lumières de la pièce
 sélectionne les modes
 sélectionne les médias
 sélectionne les rideaux
 sélectionne les réglages
 sélectionne les réglages de verre
+sélectionne les réglages du téléviseur
 sélectionne lit
 sélectionne lumière
+sélectionne lumière de la pièce
 sélectionne lumières
+sélectionne lumières de la pièce
 sélectionne modes
 sélectionne monitor
 sélectionne mouse 1
@@ -3481,8 +4030,10 @@ sélectionne rideau
 sélectionne rideaux
 sélectionne réglages
 sélectionne réglages de verre
+sélectionne réglages du téléviseur
 sélectionne siège
 sélectionne smartphone existant
+sélectionne source de musique
 sélectionne soutien
 sélectionne synchronisation
 sélectionne tv
@@ -3492,28 +4043,40 @@ sélectionne téléviseur
 sélectionne téléviseur volume
 sélectionne télévision
 sélectionne télévision volume
+sélectionne ventilateur
 sélectionne volume
+sélectionne volume de la ajouts télé
+sélectionne volume de la ajouts télévision
 sélectionne volume de la musique
 sélectionne volume de la télé
 sélectionne volume de la télévision
+sélectionne volume du ajouts télé
+sélectionne volume du ajouts téléviseur
 sélectionne volume du télé
 sélectionne volume du téléviseur
 sélectionne wifi
 sélectionner
 sélectionner admin
 sélectionner ajouts
+sélectionner ajouts télé
+sélectionner ajouts téléviseur
+sélectionner alarme
+sélectionner alimentation du téléviseur
 sélectionner allemand
 sélectionner anglais
 sélectionner app info
-sélectionner commande vocale
 sélectionner avancé
 sélectionner calibrage
 sélectionner caméra
 sélectionner canal suivant
 sélectionner chanson suivante
+sélectionner chauffage
 sélectionner chaîne suivante
+sélectionner commande vocale
 sélectionner conduire uniquement
 sélectionner conduite
+sélectionner contrôle de la musique
+sélectionner contrôle du téléviseur
 sélectionner de base
 sélectionner doublage
 sélectionner email d'urgence
@@ -3525,11 +4088,16 @@ sélectionner galerie
 sélectionner geste de conduite
 sélectionner gestes de conduite
 sélectionner hocher
+sélectionner home
 sélectionner inclinaison
 sélectionner internet
 sélectionner kinova
+sélectionner l'alarme
+sélectionner la ajouts télé
+sélectionner la ajouts télévision
+sélectionner la alarme
+sélectionner la alimentation du téléviseur
 sélectionner la app info
-sélectionner la commande vocale
 sélectionner la caméra
 sélectionner la canal suivant
 sélectionner la catégorie admin
@@ -3537,10 +4105,10 @@ sélectionner la catégorie ajouts
 sélectionner la catégorie allemand
 sélectionner la catégorie anglais
 sélectionner la catégorie app info
-sélectionner la catégorie commande vocale
 sélectionner la catégorie avancé
 sélectionner la catégorie calibrage
 sélectionner la catégorie caméra
+sélectionner la catégorie commande vocale
 sélectionner la catégorie conduire uniquement
 sélectionner la catégorie conduite
 sélectionner la catégorie de base
@@ -3552,18 +4120,24 @@ sélectionner la catégorie galerie
 sélectionner la catégorie geste de conduite
 sélectionner la catégorie gestes de conduite
 sélectionner la catégorie hocher
+sélectionner la catégorie home
 sélectionner la catégorie inclinaison
 sélectionner la catégorie internet
 sélectionner la catégorie kinova
 sélectionner la catégorie la app info
-sélectionner la catégorie la commande vocale
 sélectionner la catégorie la caméra
+sélectionner la catégorie la commande vocale
 sélectionner la catégorie la conduite
 sélectionner la catégorie la galerie
 sélectionner la catégorie la inclinaison
+sélectionner la catégorie la lampe de chevet
+sélectionner la catégorie la lampe de table
 sélectionner la catégorie la langue
 sélectionner la catégorie la lumière
+sélectionner la catégorie la lumière de la pièce
 sélectionner la catégorie la synchronisation
+sélectionner la catégorie lampe de chevet
+sélectionner la catégorie lampe de table
 sélectionner la catégorie langue
 sélectionner la catégorie le calibrage
 sélectionner la catégorie le email d'urgence
@@ -3578,12 +4152,16 @@ sélectionner la catégorie les ajouts
 sélectionner la catégorie les feux de détresse
 sélectionner la catégorie les gestes de conduite
 sélectionner la catégorie les lumières
+sélectionner la catégorie les lumières de la pièce
 sélectionner la catégorie les modes
 sélectionner la catégorie les médias
 sélectionner la catégorie les réglages
 sélectionner la catégorie les réglages de verre
+sélectionner la catégorie les réglages du téléviseur
 sélectionner la catégorie lumière
+sélectionner la catégorie lumière de la pièce
 sélectionner la catégorie lumières
+sélectionner la catégorie lumières de la pièce
 sélectionner la catégorie modes
 sélectionner la catégorie monitor
 sélectionner la catégorie mouse 1
@@ -3593,6 +4171,7 @@ sélectionner la catégorie nouveau smartphone
 sélectionner la catégorie néerlandais
 sélectionner la catégorie réglages
 sélectionner la catégorie réglages de verre
+sélectionner la catégorie réglages du téléviseur
 sélectionner la catégorie siège
 sélectionner la catégorie smartphone existant
 sélectionner la catégorie soutien
@@ -3601,16 +4180,20 @@ sélectionner la catégorie volume
 sélectionner la catégorie wifi
 sélectionner la chanson suivante
 sélectionner la chaîne suivante
+sélectionner la commande vocale
 sélectionner la conduite
 sélectionner la fenêtre
 sélectionner la galerie
 sélectionner la inclinaison
+sélectionner la lampe de chevet
+sélectionner la lampe de table
 sélectionner la langue
 sélectionner la langue allemand
 sélectionner la langue anglais
 sélectionner la langue français
 sélectionner la langue néerlandais
 sélectionner la lumière
+sélectionner la lumière de la pièce
 sélectionner la musique
 sélectionner la porte
 sélectionner la prochain canal
@@ -3622,15 +4205,21 @@ sélectionner la précédent canal
 sélectionner la précédent programme
 sélectionner la précédente chanson
 sélectionner la précédente chaîne
+sélectionner la source de musique
 sélectionner la synchronisation
 sélectionner la télé
 sélectionner la télévision
+sélectionner lampe de chevet
+sélectionner lampe de table
 sélectionner langue
 sélectionner langue allemand
 sélectionner langue anglais
 sélectionner langue français
 sélectionner langue néerlandais
 sélectionner le calibrage
+sélectionner le chauffage
+sélectionner le contrôle de la musique
+sélectionner le contrôle du téléviseur
 sélectionner le email d'urgence
 sélectionner le geste de conduite
 sélectionner le le musique volume
@@ -3648,10 +4237,15 @@ sélectionner le télé volume
 sélectionner le téléviseur
 sélectionner le téléviseur volume
 sélectionner le télévision volume
+sélectionner le ventilateur
 sélectionner le volume
+sélectionner le volume de la ajouts télé
+sélectionner le volume de la ajouts télévision
 sélectionner le volume de la musique
 sélectionner le volume de la télé
 sélectionner le volume de la télévision
+sélectionner le volume du ajouts télé
+sélectionner le volume du ajouts téléviseur
 sélectionner le volume du télé
 sélectionner le volume du téléviseur
 sélectionner le wifi
@@ -3660,14 +4254,18 @@ sélectionner les fenêtres
 sélectionner les feux de détresse
 sélectionner les gestes de conduite
 sélectionner les lumières
+sélectionner les lumières de la pièce
 sélectionner les modes
 sélectionner les médias
 sélectionner les rideaux
 sélectionner les réglages
 sélectionner les réglages de verre
+sélectionner les réglages du téléviseur
 sélectionner lit
 sélectionner lumière
+sélectionner lumière de la pièce
 sélectionner lumières
+sélectionner lumières de la pièce
 sélectionner modes
 sélectionner monitor
 sélectionner mouse 1
@@ -3691,8 +4289,10 @@ sélectionner rideau
 sélectionner rideaux
 sélectionner réglages
 sélectionner réglages de verre
+sélectionner réglages du téléviseur
 sélectionner siège
 sélectionner smartphone existant
+sélectionner source de musique
 sélectionner soutien
 sélectionner synchronisation
 sélectionner tv
@@ -3702,10 +4302,15 @@ sélectionner téléviseur
 sélectionner téléviseur volume
 sélectionner télévision
 sélectionner télévision volume
+sélectionner ventilateur
 sélectionner volume
+sélectionner volume de la ajouts télé
+sélectionner volume de la ajouts télévision
 sélectionner volume de la musique
 sélectionner volume de la télé
 sélectionner volume de la télévision
+sélectionner volume du ajouts télé
+sélectionner volume du ajouts téléviseur
 sélectionner volume du télé
 sélectionner volume du téléviseur
 sélectionner wifi
@@ -3718,15 +4323,24 @@ terminer musique
 toi
 tv
 télé
+télé allumée
 télé volume
+télé éteinte
 téléviseur
+téléviseur allumé
 téléviseur volume
+téléviseur éteint
 télévision
+télévision allumée
 télévision volume
+télévision éteinte
 une
 uniquement
 va
 va au calibrage
+va au chauffage
+va au contrôle de la musique
+va au contrôle du téléviseur
 va au email d'urgence
 va au geste de conduite
 va au gestes de conduite
@@ -3740,31 +4354,42 @@ va au télé volume
 va au téléviseur
 va au téléviseur volume
 va au télévision volume
+va au ventilateur
 va au volume
 va au wifi
 va aux ajouts
 va aux fenêtres
 va aux feux de détresse
+va aux gestes de conduite
 va aux lumières
+va aux lumières de la pièce
 va aux modes
 va aux médias
 va aux rideaux
 va aux réglages
 va aux réglages de verre
+va aux réglages du téléviseur
 va à admin
 va à ajouts
+va à ajouts télé
+va à ajouts téléviseur
+va à alarme
+va à alimentation du téléviseur
 va à allemand
 va à anglais
 va à app info
-va à commande vocale
 va à avancé
 va à calibrage
 va à caméra
 va à canal suivant
 va à chanson suivante
+va à chauffage
 va à chaîne suivante
+va à commande vocale
 va à conduire uniquement
 va à conduite
+va à contrôle de la musique
+va à contrôle du téléviseur
 va à de base
 va à doublage
 va à email d'urgence
@@ -3776,11 +4401,16 @@ va à galerie
 va à geste de conduite
 va à gestes de conduite
 va à hocher
+va à home
 va à inclinaison
 va à internet
 va à kinova
+va à l'alarme
+va à la ajouts télé
+va à la ajouts télévision
+va à la alarme
+va à la alimentation du téléviseur
 va à la app info
-va à la commande vocale
 va à la caméra
 va à la canal suivant
 va à la catégorie admin
@@ -3788,10 +4418,10 @@ va à la catégorie ajouts
 va à la catégorie allemand
 va à la catégorie anglais
 va à la catégorie app info
-va à la catégorie commande vocale
 va à la catégorie avancé
 va à la catégorie calibrage
 va à la catégorie caméra
+va à la catégorie commande vocale
 va à la catégorie conduire uniquement
 va à la catégorie conduite
 va à la catégorie de base
@@ -3803,18 +4433,24 @@ va à la catégorie galerie
 va à la catégorie geste de conduite
 va à la catégorie gestes de conduite
 va à la catégorie hocher
+va à la catégorie home
 va à la catégorie inclinaison
 va à la catégorie internet
 va à la catégorie kinova
 va à la catégorie la app info
-va à la catégorie la commande vocale
 va à la catégorie la caméra
+va à la catégorie la commande vocale
 va à la catégorie la conduite
 va à la catégorie la galerie
 va à la catégorie la inclinaison
+va à la catégorie la lampe de chevet
+va à la catégorie la lampe de table
 va à la catégorie la langue
 va à la catégorie la lumière
+va à la catégorie la lumière de la pièce
 va à la catégorie la synchronisation
+va à la catégorie lampe de chevet
+va à la catégorie lampe de table
 va à la catégorie langue
 va à la catégorie le calibrage
 va à la catégorie le email d'urgence
@@ -3828,12 +4464,16 @@ va à la catégorie les ajouts
 va à la catégorie les feux de détresse
 va à la catégorie les gestes de conduite
 va à la catégorie les lumières
+va à la catégorie les lumières de la pièce
 va à la catégorie les modes
 va à la catégorie les médias
 va à la catégorie les réglages
 va à la catégorie les réglages de verre
+va à la catégorie les réglages du téléviseur
 va à la catégorie lumière
+va à la catégorie lumière de la pièce
 va à la catégorie lumières
+va à la catégorie lumières de la pièce
 va à la catégorie modes
 va à la catégorie monitor
 va à la catégorie mouse 1
@@ -3843,6 +4483,7 @@ va à la catégorie nouveau smartphone
 va à la catégorie néerlandais
 va à la catégorie réglages
 va à la catégorie réglages de verre
+va à la catégorie réglages du téléviseur
 va à la catégorie siège
 va à la catégorie soutien
 va à la catégorie synchronisation
@@ -3850,12 +4491,16 @@ va à la catégorie volume
 va à la catégorie wifi
 va à la chanson suivante
 va à la chaîne suivante
+va à la commande vocale
 va à la conduite
 va à la fenêtre
 va à la galerie
 va à la inclinaison
+va à la lampe de chevet
+va à la lampe de table
 va à la langue
 va à la lumière
+va à la lumière de la pièce
 va à la musique
 va à la porte
 va à la prochain canal
@@ -3867,13 +4512,18 @@ va à la précédent canal
 va à la précédent programme
 va à la précédente chanson
 va à la précédente chaîne
+va à la source de musique
 va à la synchronisation
 va à la télé
 va à la télévision
+va à lampe de chevet
+va à lampe de table
 va à langue
 va à lit
 va à lumière
+va à lumière de la pièce
 va à lumières
+va à lumières de la pièce
 va à modes
 va à monitor
 va à mouse 1
@@ -3897,7 +4547,9 @@ va à rideau
 va à rideaux
 va à réglages
 va à réglages de verre
+va à réglages du téléviseur
 va à siège
+va à source de musique
 va à soutien
 va à synchronisation
 va à tv
@@ -3907,10 +4559,15 @@ va à téléviseur
 va à téléviseur volume
 va à télévision
 va à télévision volume
+va à ventilateur
 va à volume
+va à volume de la ajouts télé
+va à volume de la ajouts télévision
 va à volume de la musique
 va à volume de la télé
 va à volume de la télévision
+va à volume du ajouts télé
+va à volume du ajouts téléviseur
 va à volume du télé
 va à volume du téléviseur
 va à wifi
@@ -3926,20 +4583,23 @@ vas au volume
 vas au wifi
 vas aux ajouts
 vas aux feux de détresse
+vas aux gestes de conduite
 vas aux lumières
+vas aux lumières de la pièce
 vas aux modes
 vas aux médias
 vas aux réglages
 vas aux réglages de verre
+vas aux réglages du téléviseur
 vas à admin
 vas à ajouts
 vas à allemand
 vas à anglais
 vas à app info
-vas à commande vocale
 vas à avancé
 vas à calibrage
 vas à caméra
+vas à commande vocale
 vas à conduire uniquement
 vas à conduite
 vas à de base
@@ -3951,21 +4611,21 @@ vas à galerie
 vas à geste de conduite
 vas à gestes de conduite
 vas à hocher
+vas à home
 vas à inclinaison
 vas à internet
 vas à kinova
 vas à la app info
-vas à la commande vocale
 vas à la caméra
 vas à la catégorie admin
 vas à la catégorie ajouts
 vas à la catégorie allemand
 vas à la catégorie anglais
 vas à la catégorie app info
-vas à la catégorie commande vocale
 vas à la catégorie avancé
 vas à la catégorie calibrage
 vas à la catégorie caméra
+vas à la catégorie commande vocale
 vas à la catégorie conduire uniquement
 vas à la catégorie conduite
 vas à la catégorie de base
@@ -3977,18 +4637,24 @@ vas à la catégorie galerie
 vas à la catégorie geste de conduite
 vas à la catégorie gestes de conduite
 vas à la catégorie hocher
+vas à la catégorie home
 vas à la catégorie inclinaison
 vas à la catégorie internet
 vas à la catégorie kinova
 vas à la catégorie la app info
-vas à la catégorie la commande vocale
 vas à la catégorie la caméra
+vas à la catégorie la commande vocale
 vas à la catégorie la conduite
 vas à la catégorie la galerie
 vas à la catégorie la inclinaison
+vas à la catégorie la lampe de chevet
+vas à la catégorie la lampe de table
 vas à la catégorie la langue
 vas à la catégorie la lumière
+vas à la catégorie la lumière de la pièce
 vas à la catégorie la synchronisation
+vas à la catégorie lampe de chevet
+vas à la catégorie lampe de table
 vas à la catégorie langue
 vas à la catégorie le calibrage
 vas à la catégorie le email d'urgence
@@ -4002,12 +4668,16 @@ vas à la catégorie les ajouts
 vas à la catégorie les feux de détresse
 vas à la catégorie les gestes de conduite
 vas à la catégorie les lumières
+vas à la catégorie les lumières de la pièce
 vas à la catégorie les modes
 vas à la catégorie les médias
 vas à la catégorie les réglages
 vas à la catégorie les réglages de verre
+vas à la catégorie les réglages du téléviseur
 vas à la catégorie lumière
+vas à la catégorie lumière de la pièce
 vas à la catégorie lumières
+vas à la catégorie lumières de la pièce
 vas à la catégorie modes
 vas à la catégorie monitor
 vas à la catégorie mouse 1
@@ -4017,20 +4687,29 @@ vas à la catégorie nouveau smartphone
 vas à la catégorie néerlandais
 vas à la catégorie réglages
 vas à la catégorie réglages de verre
+vas à la catégorie réglages du téléviseur
 vas à la catégorie siège
 vas à la catégorie soutien
 vas à la catégorie synchronisation
 vas à la catégorie volume
 vas à la catégorie wifi
+vas à la commande vocale
 vas à la conduite
 vas à la galerie
 vas à la inclinaison
+vas à la lampe de chevet
+vas à la lampe de table
 vas à la langue
 vas à la lumière
+vas à la lumière de la pièce
 vas à la synchronisation
+vas à lampe de chevet
+vas à lampe de table
 vas à langue
 vas à lumière
+vas à lumière de la pièce
 vas à lumières
+vas à lumières de la pièce
 vas à modes
 vas à monitor
 vas à mouse 1
@@ -4040,11 +4719,15 @@ vas à nouveau smartphone
 vas à néerlandais
 vas à réglages
 vas à réglages de verre
+vas à réglages du téléviseur
 vas à siège
 vas à soutien
 vas à synchronisation
 vas à volume
 vas à wifi
+ventilateur
+ventilateur allumé
+ventilateur éteint
 verre
 vers
 veuillez
@@ -4069,6 +4752,8 @@ veuillez prends photo
 veuillez prends une image
 veuillez prends une photo
 volume
+volume de la ajouts télé
+volume de la ajouts télévision
 volume de la musique
 volume de la musique plus faible
 volume de la musique plus fort
@@ -4114,6 +4799,8 @@ volume de télévision plus silencieux
 volume de télévision plus élevé
 volume de télévision silencieux
 volume de télévision élevé
+volume du ajouts télé
+volume du ajouts téléviseur
 volume du télé
 volume du télé plus faible
 volume du télé plus fort
@@ -4245,23 +4932,65 @@ wifi
 établis une connexion wifi
 établis une connexion à internet
 éteindre
+éteindre alarme
+éteindre chauffage
 éteindre feux de détresse
+éteindre l'alarme
+éteindre la alarme
+éteindre la lampe de chevet
+éteindre la lampe de table
 éteindre la lumière
+éteindre la lumière de la pièce
 éteindre la musique
+éteindre la télé
+éteindre la télévision
+éteindre lampe de chevet
+éteindre lampe de table
+éteindre le chauffage
+éteindre le téléviseur
+éteindre le ventilateur
 éteindre les feux de détresse
 éteindre les lumières
+éteindre les lumières de la pièce
 éteindre lumière
+éteindre lumière de la pièce
 éteindre lumières
+éteindre lumières de la pièce
 éteindre musique
+éteindre télé
+éteindre téléviseur
+éteindre télévision
+éteindre ventilateur
 éteins
+éteins alarme
+éteins chauffage
 éteins feux de détresse
+éteins l'alarme
+éteins la alarme
+éteins la lampe de chevet
+éteins la lampe de table
 éteins la lumière
+éteins la lumière de la pièce
 éteins la musique
+éteins la télé
+éteins la télévision
+éteins lampe de chevet
+éteins lampe de table
+éteins le chauffage
+éteins le téléviseur
+éteins le ventilateur
 éteins les feux de détresse
 éteins les lumières
+éteins les lumières de la pièce
 éteins lumière
+éteins lumière de la pièce
 éteins lumières
+éteins lumières de la pièce
 éteins musique
+éteins télé
+éteins téléviseur
+éteins télévision
+éteins ventilateur
 éteinte
 éteintes
 éteints

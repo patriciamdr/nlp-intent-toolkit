@@ -22,6 +22,7 @@ ouvre <START:menuitem_target> lampe de chevet <END>
 ouvre <START:menuitem_target> lampe de table <END>
 ouvre <START:menuitem_target> source de musique <END>
 ouvre <START:menuitem_target> alarme <END>
+ouvre <START:menuitem_target> l'alarme <END>
 ouvre <START:menuitem_target> conduire uniquement <END>
 ouvre <START:menuitem_target> conduite <END>
 ouvre <START:menuitem_target> de base <END>
@@ -96,6 +97,7 @@ ouvre la <START:menuitem_target> lampe de chevet <END>
 ouvre la <START:menuitem_target> lampe de table <END>
 ouvre la <START:menuitem_target> source de musique <END>
 ouvre la <START:menuitem_target> alarme <END>
+ouvre <START:menuitem_target> l'alarme <END>
 ouvre la <START:menuitem_target> conduite <END>
 ouvre la <START:menuitem_target> galerie <END>
 ouvre la <START:menuitem_target> inclinaison <END>
@@ -130,6 +132,7 @@ ouvre la catégorie <START:menuitem_target> lampe de chevet <END>
 ouvre la catégorie <START:menuitem_target> lampe de table <END>
 ouvre la catégorie <START:menuitem_target> source de musique <END>
 ouvre la catégorie <START:menuitem_target> alarme <END>
+ouvre la catégorie <START:menuitem_target> l'alarme <END>
 ouvre la catégorie <START:menuitem_target> conduire uniquement <END>
 ouvre la catégorie <START:menuitem_target> conduite <END>
 ouvre la catégorie <START:menuitem_target> de base <END>
@@ -196,6 +199,7 @@ ouvre la catégorie la <START:menuitem_target> lampe de chevet <END>
 ouvre la catégorie la <START:menuitem_target> lampe de table <END>
 ouvre la catégorie la <START:menuitem_target> source de musique <END>
 ouvre la catégorie la <START:menuitem_target> alarme <END>
+ouvre la catégorie <START:menuitem_target> l'alarme <END>
 ouvre la catégorie la <START:menuitem_target> conduite <END>
 ouvre la catégorie la <START:menuitem_target> galerie <END>
 ouvre la catégorie la <START:menuitem_target> inclinaison <END>
@@ -305,6 +309,7 @@ ouvrir <START:menuitem_target> lampe de chevet <END>
 ouvrir <START:menuitem_target> lampe de table <END>
 ouvrir <START:menuitem_target> source de musique <END>
 ouvrir <START:menuitem_target> alarme <END>
+ouvrir <START:menuitem_target> l'alarme <END>
 ouvrir <START:menuitem_target> conduire uniquement <END>
 ouvrir <START:menuitem_target> conduite <END>
 ouvrir <START:menuitem_target> de base <END>
@@ -379,6 +384,7 @@ ouvrir la <START:menuitem_target> lampe de chevet <END>
 ouvrir la <START:menuitem_target> lampe de table <END>
 ouvrir la <START:menuitem_target> source de musique <END>
 ouvrir la <START:menuitem_target> alarme <END>
+ouvrir <START:menuitem_target> l'alarme <END>
 ouvrir la <START:menuitem_target> conduite <END>
 ouvrir la <START:menuitem_target> galerie <END>
 ouvrir la <START:menuitem_target> inclinaison <END>
@@ -413,6 +419,7 @@ ouvrir la catégorie <START:menuitem_target> lampe de chevet <END>
 ouvrir la catégorie <START:menuitem_target> lampe de table <END>
 ouvrir la catégorie <START:menuitem_target> source de musique <END>
 ouvrir la catégorie <START:menuitem_target> alarme <END>
+ouvrir la catégorie <START:menuitem_target> l'alarme <END>
 ouvrir la catégorie <START:menuitem_target> conduire uniquement <END>
 ouvrir la catégorie <START:menuitem_target> conduite <END>
 ouvrir la catégorie <START:menuitem_target> de base <END>
@@ -479,6 +486,7 @@ ouvrir la catégorie la <START:menuitem_target> lampe de chevet <END>
 ouvrir la catégorie la <START:menuitem_target> lampe de table <END>
 ouvrir la catégorie la <START:menuitem_target> source de musique <END>
 ouvrir la catégorie la <START:menuitem_target> alarme <END>
+ouvrir la catégorie <START:menuitem_target> l'alarme <END>
 ouvrir la catégorie la <START:menuitem_target> conduite <END>
 ouvrir la catégorie la <START:menuitem_target> galerie <END>
 ouvrir la catégorie la <START:menuitem_target> inclinaison <END>

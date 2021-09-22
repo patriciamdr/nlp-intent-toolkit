@@ -6,11 +6,11 @@
 <START:nav_target> alarme <END>
 <START:nav_target> alimentation du téléviseur <END>
 <START:nav_target> app info <END>
-<START:nav_target> commande vocale <END>
 <START:nav_target> avancé <END>
 <START:nav_target> calibrage <END>
 <START:nav_target> caméra <END>
 <START:nav_target> chauffage <END>
+<START:nav_target> commande vocale <END>
 <START:nav_target> conduire uniquement <END>
 <START:nav_target> conduite <END>
 <START:nav_target> contrôle de la musique <END>
@@ -39,6 +39,7 @@
 <START:nav_target> intercom <END>
 <START:nav_target> internet <END>
 <START:nav_target> kinova <END>
+<START:nav_target> l'alarme <END>
 <START:nav_target> lampe de chevet <END>
 <START:nav_target> lampe de table <END>
 <START:nav_target> langue <END>
@@ -115,10 +116,10 @@ aller à <START:nav_target> alimentation du téléviseur <END>
 aller à <START:nav_target> allemand <END>
 aller à <START:nav_target> anglais <END>
 aller à <START:nav_target> app info <END>
-aller à <START:nav_target> commande vocale <END>
 aller à <START:nav_target> avancé <END>
 aller à <START:nav_target> calibrage <END>
 aller à <START:nav_target> caméra <END>
+aller à <START:nav_target> commande vocale <END>
 aller à <START:nav_target> conduire uniquement <END>
 aller à <START:nav_target> conduite <END>
 aller à <START:nav_target> de base <END>
@@ -141,6 +142,7 @@ aller à <START:nav_target> inclinaison <END>
 aller à <START:nav_target> intercom <END>
 aller à <START:nav_target> internet <END>
 aller à <START:nav_target> kinova <END>
+aller à <START:nav_target> l'alarme <END>
 aller à <START:nav_target> lampe de chevet <END>
 aller à <START:nav_target> lampe de table <END>
 aller à <START:nav_target> langue <END>
@@ -182,8 +184,8 @@ aller à la <START:nav_target> ajouts télévision <END>
 aller à la <START:nav_target> alarme <END>
 aller à la <START:nav_target> alimentation du téléviseur <END>
 aller à la <START:nav_target> app info <END>
-aller à la <START:nav_target> commande vocale <END>
 aller à la <START:nav_target> caméra <END>
+aller à la <START:nav_target> commande vocale <END>
 aller à la <START:nav_target> conduite <END>
 aller à la <START:nav_target> fenêtre <END>
 aller à la <START:nav_target> galerie <END>
@@ -206,10 +208,10 @@ aller à la catégorie <START:nav_target> ajouts <END>
 aller à la catégorie <START:nav_target> allemand <END>
 aller à la catégorie <START:nav_target> anglais <END>
 aller à la catégorie <START:nav_target> app info <END>
-aller à la catégorie <START:nav_target> commande vocale <END>
 aller à la catégorie <START:nav_target> avancé <END>
 aller à la catégorie <START:nav_target> calibrage <END>
 aller à la catégorie <START:nav_target> caméra <END>
+aller à la catégorie <START:nav_target> commande vocale <END>
 aller à la catégorie <START:nav_target> conduire uniquement <END>
 aller à la catégorie <START:nav_target> conduite <END>
 aller à la catégorie <START:nav_target> de base <END>
@@ -251,8 +253,8 @@ aller à la catégorie <START:nav_target> synchronisation <END>
 aller à la catégorie <START:nav_target> volume <END>
 aller à la catégorie <START:nav_target> wifi <END>
 aller à la catégorie la <START:nav_target> app info <END>
-aller à la catégorie la <START:nav_target> commande vocale <END>
 aller à la catégorie la <START:nav_target> caméra <END>
+aller à la catégorie la <START:nav_target> commande vocale <END>
 aller à la catégorie la <START:nav_target> conduite <END>
 aller à la catégorie la <START:nav_target> galerie <END>
 aller à la catégorie la <START:nav_target> inclinaison <END>
@@ -298,10 +300,10 @@ change de catégorie en <START:nav_target> ajouts <END>
 change de catégorie en <START:nav_target> allemand <END>
 change de catégorie en <START:nav_target> anglais <END>
 change de catégorie en <START:nav_target> app info <END>
-change de catégorie en <START:nav_target> commande vocale <END>
 change de catégorie en <START:nav_target> avancé <END>
 change de catégorie en <START:nav_target> calibrage <END>
 change de catégorie en <START:nav_target> caméra <END>
+change de catégorie en <START:nav_target> commande vocale <END>
 change de catégorie en <START:nav_target> conduire uniquement <END>
 change de catégorie en <START:nav_target> conduite <END>
 change de catégorie en <START:nav_target> de base <END>
@@ -343,8 +345,8 @@ change de catégorie en <START:nav_target> synchronisation <END>
 change de catégorie en <START:nav_target> volume <END>
 change de catégorie en <START:nav_target> wifi <END>
 change de catégorie en la <START:nav_target> app info <END>
-change de catégorie en la <START:nav_target> commande vocale <END>
 change de catégorie en la <START:nav_target> caméra <END>
+change de catégorie en la <START:nav_target> commande vocale <END>
 change de catégorie en la <START:nav_target> conduite <END>
 change de catégorie en la <START:nav_target> galerie <END>
 change de catégorie en la <START:nav_target> inclinaison <END>
@@ -379,11 +381,11 @@ change en <START:nav_target> ajouts téléviseur <END>
 change en <START:nav_target> alarme <END>
 change en <START:nav_target> alimentation du téléviseur <END>
 change en <START:nav_target> app info <END>
-change en <START:nav_target> commande vocale <END>
 change en <START:nav_target> avancé <END>
 change en <START:nav_target> calibrage <END>
 change en <START:nav_target> caméra <END>
 change en <START:nav_target> chauffage <END>
+change en <START:nav_target> commande vocale <END>
 change en <START:nav_target> conduire uniquement <END>
 change en <START:nav_target> conduite <END>
 change en <START:nav_target> contrôle de la musique <END>
@@ -407,6 +409,7 @@ change en <START:nav_target> inclinaison <END>
 change en <START:nav_target> intercom <END>
 change en <START:nav_target> internet <END>
 change en <START:nav_target> kinova <END>
+change en <START:nav_target> l'alarme <END>
 change en <START:nav_target> lampe de chevet <END>
 change en <START:nav_target> lampe de table <END>
 change en <START:nav_target> langue <END>
@@ -448,8 +451,8 @@ change en la <START:nav_target> ajouts télévision <END>
 change en la <START:nav_target> alarme <END>
 change en la <START:nav_target> alimentation du téléviseur <END>
 change en la <START:nav_target> app info <END>
-change en la <START:nav_target> commande vocale <END>
 change en la <START:nav_target> caméra <END>
+change en la <START:nav_target> commande vocale <END>
 change en la <START:nav_target> conduite <END>
 change en la <START:nav_target> fenêtre <END>
 change en la <START:nav_target> galerie <END>
@@ -516,10 +519,10 @@ change la catégorie en <START:nav_target> ajouts <END>
 change la catégorie en <START:nav_target> allemand <END>
 change la catégorie en <START:nav_target> anglais <END>
 change la catégorie en <START:nav_target> app info <END>
-change la catégorie en <START:nav_target> commande vocale <END>
 change la catégorie en <START:nav_target> avancé <END>
 change la catégorie en <START:nav_target> calibrage <END>
 change la catégorie en <START:nav_target> caméra <END>
+change la catégorie en <START:nav_target> commande vocale <END>
 change la catégorie en <START:nav_target> conduire uniquement <END>
 change la catégorie en <START:nav_target> conduite <END>
 change la catégorie en <START:nav_target> de base <END>
@@ -561,8 +564,8 @@ change la catégorie en <START:nav_target> synchronisation <END>
 change la catégorie en <START:nav_target> volume <END>
 change la catégorie en <START:nav_target> wifi <END>
 change la catégorie en la <START:nav_target> app info <END>
-change la catégorie en la <START:nav_target> commande vocale <END>
 change la catégorie en la <START:nav_target> caméra <END>
+change la catégorie en la <START:nav_target> commande vocale <END>
 change la catégorie en la <START:nav_target> conduite <END>
 change la catégorie en la <START:nav_target> galerie <END>
 change la catégorie en la <START:nav_target> inclinaison <END>
@@ -595,10 +598,10 @@ changer de catégorie en <START:nav_target> ajouts <END>
 changer de catégorie en <START:nav_target> allemand <END>
 changer de catégorie en <START:nav_target> anglais <END>
 changer de catégorie en <START:nav_target> app info <END>
-changer de catégorie en <START:nav_target> commande vocale <END>
 changer de catégorie en <START:nav_target> avancé <END>
 changer de catégorie en <START:nav_target> calibrage <END>
 changer de catégorie en <START:nav_target> caméra <END>
+changer de catégorie en <START:nav_target> commande vocale <END>
 changer de catégorie en <START:nav_target> conduire uniquement <END>
 changer de catégorie en <START:nav_target> conduite <END>
 changer de catégorie en <START:nav_target> de base <END>
@@ -640,8 +643,8 @@ changer de catégorie en <START:nav_target> synchronisation <END>
 changer de catégorie en <START:nav_target> volume <END>
 changer de catégorie en <START:nav_target> wifi <END>
 changer de catégorie en la <START:nav_target> app info <END>
-changer de catégorie en la <START:nav_target> commande vocale <END>
 changer de catégorie en la <START:nav_target> caméra <END>
+changer de catégorie en la <START:nav_target> commande vocale <END>
 changer de catégorie en la <START:nav_target> conduite <END>
 changer de catégorie en la <START:nav_target> galerie <END>
 changer de catégorie en la <START:nav_target> inclinaison <END>
@@ -676,11 +679,11 @@ changer en <START:nav_target> ajouts téléviseur <END>
 changer en <START:nav_target> alarme <END>
 changer en <START:nav_target> alimentation du téléviseur <END>
 changer en <START:nav_target> app info <END>
-changer en <START:nav_target> commande vocale <END>
 changer en <START:nav_target> avancé <END>
 changer en <START:nav_target> calibrage <END>
 changer en <START:nav_target> caméra <END>
 changer en <START:nav_target> chauffage <END>
+changer en <START:nav_target> commande vocale <END>
 changer en <START:nav_target> conduire uniquement <END>
 changer en <START:nav_target> conduite <END>
 changer en <START:nav_target> contrôle de la musique <END>
@@ -704,6 +707,7 @@ changer en <START:nav_target> inclinaison <END>
 changer en <START:nav_target> intercom <END>
 changer en <START:nav_target> internet <END>
 changer en <START:nav_target> kinova <END>
+changer en <START:nav_target> l'alarme <END>
 changer en <START:nav_target> lampe de chevet <END>
 changer en <START:nav_target> lampe de table <END>
 changer en <START:nav_target> langue <END>
@@ -745,8 +749,8 @@ changer en la <START:nav_target> ajouts télévision <END>
 changer en la <START:nav_target> alarme <END>
 changer en la <START:nav_target> alimentation du téléviseur <END>
 changer en la <START:nav_target> app info <END>
-changer en la <START:nav_target> commande vocale <END>
 changer en la <START:nav_target> caméra <END>
+changer en la <START:nav_target> commande vocale <END>
 changer en la <START:nav_target> conduite <END>
 changer en la <START:nav_target> fenêtre <END>
 changer en la <START:nav_target> galerie <END>
@@ -813,10 +817,10 @@ changer la catégorie en <START:nav_target> ajouts <END>
 changer la catégorie en <START:nav_target> allemand <END>
 changer la catégorie en <START:nav_target> anglais <END>
 changer la catégorie en <START:nav_target> app info <END>
-changer la catégorie en <START:nav_target> commande vocale <END>
 changer la catégorie en <START:nav_target> avancé <END>
 changer la catégorie en <START:nav_target> calibrage <END>
 changer la catégorie en <START:nav_target> caméra <END>
+changer la catégorie en <START:nav_target> commande vocale <END>
 changer la catégorie en <START:nav_target> conduire uniquement <END>
 changer la catégorie en <START:nav_target> conduite <END>
 changer la catégorie en <START:nav_target> de base <END>
@@ -858,8 +862,8 @@ changer la catégorie en <START:nav_target> synchronisation <END>
 changer la catégorie en <START:nav_target> volume <END>
 changer la catégorie en <START:nav_target> wifi <END>
 changer la catégorie en la <START:nav_target> app info <END>
-changer la catégorie en la <START:nav_target> commande vocale <END>
 changer la catégorie en la <START:nav_target> caméra <END>
+changer la catégorie en la <START:nav_target> commande vocale <END>
 changer la catégorie en la <START:nav_target> conduite <END>
 changer la catégorie en la <START:nav_target> galerie <END>
 changer la catégorie en la <START:nav_target> inclinaison <END>
@@ -894,11 +898,11 @@ choisir <START:nav_target> ajouts téléviseur <END>
 choisir <START:nav_target> alarme <END>
 choisir <START:nav_target> alimentation du téléviseur <END>
 choisir <START:nav_target> app info <END>
-choisir <START:nav_target> commande vocale <END>
 choisir <START:nav_target> avancé <END>
 choisir <START:nav_target> calibrage <END>
 choisir <START:nav_target> caméra <END>
 choisir <START:nav_target> chauffage <END>
+choisir <START:nav_target> commande vocale <END>
 choisir <START:nav_target> conduire uniquement <END>
 choisir <START:nav_target> conduite <END>
 choisir <START:nav_target> contrôle de la musique <END>
@@ -922,6 +926,7 @@ choisir <START:nav_target> inclinaison <END>
 choisir <START:nav_target> intercom <END>
 choisir <START:nav_target> internet <END>
 choisir <START:nav_target> kinova <END>
+choisir <START:nav_target> l'alarme <END>
 choisir <START:nav_target> lampe de chevet <END>
 choisir <START:nav_target> lampe de table <END>
 choisir <START:nav_target> langue <END>
@@ -964,8 +969,8 @@ choisir la <START:nav_target> ajouts télévision <END>
 choisir la <START:nav_target> alarme <END>
 choisir la <START:nav_target> alimentation du téléviseur <END>
 choisir la <START:nav_target> app info <END>
-choisir la <START:nav_target> commande vocale <END>
 choisir la <START:nav_target> caméra <END>
+choisir la <START:nav_target> commande vocale <END>
 choisir la <START:nav_target> conduite <END>
 choisir la <START:nav_target> fenêtre <END>
 choisir la <START:nav_target> galerie <END>
@@ -988,10 +993,10 @@ choisir la catégorie <START:nav_target> ajouts <END>
 choisir la catégorie <START:nav_target> allemand <END>
 choisir la catégorie <START:nav_target> anglais <END>
 choisir la catégorie <START:nav_target> app info <END>
-choisir la catégorie <START:nav_target> commande vocale <END>
 choisir la catégorie <START:nav_target> avancé <END>
 choisir la catégorie <START:nav_target> calibrage <END>
 choisir la catégorie <START:nav_target> caméra <END>
+choisir la catégorie <START:nav_target> commande vocale <END>
 choisir la catégorie <START:nav_target> conduire uniquement <END>
 choisir la catégorie <START:nav_target> conduite <END>
 choisir la catégorie <START:nav_target> de base <END>
@@ -1034,8 +1039,8 @@ choisir la catégorie <START:nav_target> synchronisation <END>
 choisir la catégorie <START:nav_target> volume <END>
 choisir la catégorie <START:nav_target> wifi <END>
 choisir la catégorie la <START:nav_target> app info <END>
-choisir la catégorie la <START:nav_target> commande vocale <END>
 choisir la catégorie la <START:nav_target> caméra <END>
+choisir la catégorie la <START:nav_target> commande vocale <END>
 choisir la catégorie la <START:nav_target> conduite <END>
 choisir la catégorie la <START:nav_target> galerie <END>
 choisir la catégorie la <START:nav_target> inclinaison <END>
@@ -1084,10 +1089,6 @@ choisir le <START:nav_target> télévision <END> volume
 choisir le <START:nav_target> ventilateur <END>
 choisir le <START:nav_target> volume <END>
 choisir le <START:nav_target> wifi <END>
-choisir le le <START:nav_target> musique <END> volume
-choisir le le <START:nav_target> télé <END> volume
-choisir le le <START:nav_target> téléviseur <END> volume
-choisir le le <START:nav_target> télévision <END> volume
 choisir le volume de la <START:nav_target> ajouts télé <END>
 choisir le volume de la <START:nav_target> ajouts télévision <END>
 choisir le volume de la <START:nav_target> housemate télé <END>
@@ -1133,11 +1134,11 @@ choisis <START:nav_target> ajouts téléviseur <END>
 choisis <START:nav_target> alarme <END>
 choisis <START:nav_target> alimentation du téléviseur <END>
 choisis <START:nav_target> app info <END>
-choisis <START:nav_target> commande vocale <END>
 choisis <START:nav_target> avancé <END>
 choisis <START:nav_target> calibrage <END>
 choisis <START:nav_target> caméra <END>
 choisis <START:nav_target> chauffage <END>
+choisis <START:nav_target> commande vocale <END>
 choisis <START:nav_target> conduire uniquement <END>
 choisis <START:nav_target> conduite <END>
 choisis <START:nav_target> contrôle de la musique <END>
@@ -1161,6 +1162,7 @@ choisis <START:nav_target> inclinaison <END>
 choisis <START:nav_target> intercom <END>
 choisis <START:nav_target> internet <END>
 choisis <START:nav_target> kinova <END>
+choisis <START:nav_target> l'alarme <END>
 choisis <START:nav_target> lampe de chevet <END>
 choisis <START:nav_target> lampe de table <END>
 choisis <START:nav_target> langue <END>
@@ -1203,8 +1205,8 @@ choisis la <START:nav_target> ajouts télévision <END>
 choisis la <START:nav_target> alarme <END>
 choisis la <START:nav_target> alimentation du téléviseur <END>
 choisis la <START:nav_target> app info <END>
-choisis la <START:nav_target> commande vocale <END>
 choisis la <START:nav_target> caméra <END>
+choisis la <START:nav_target> commande vocale <END>
 choisis la <START:nav_target> conduite <END>
 choisis la <START:nav_target> fenêtre <END>
 choisis la <START:nav_target> galerie <END>
@@ -1227,10 +1229,10 @@ choisis la catégorie <START:nav_target> ajouts <END>
 choisis la catégorie <START:nav_target> allemand <END>
 choisis la catégorie <START:nav_target> anglais <END>
 choisis la catégorie <START:nav_target> app info <END>
-choisis la catégorie <START:nav_target> commande vocale <END>
 choisis la catégorie <START:nav_target> avancé <END>
 choisis la catégorie <START:nav_target> calibrage <END>
 choisis la catégorie <START:nav_target> caméra <END>
+choisis la catégorie <START:nav_target> commande vocale <END>
 choisis la catégorie <START:nav_target> conduire uniquement <END>
 choisis la catégorie <START:nav_target> conduite <END>
 choisis la catégorie <START:nav_target> de base <END>
@@ -1273,8 +1275,8 @@ choisis la catégorie <START:nav_target> synchronisation <END>
 choisis la catégorie <START:nav_target> volume <END>
 choisis la catégorie <START:nav_target> wifi <END>
 choisis la catégorie la <START:nav_target> app info <END>
-choisis la catégorie la <START:nav_target> commande vocale <END>
 choisis la catégorie la <START:nav_target> caméra <END>
+choisis la catégorie la <START:nav_target> commande vocale <END>
 choisis la catégorie la <START:nav_target> conduite <END>
 choisis la catégorie la <START:nav_target> galerie <END>
 choisis la catégorie la <START:nav_target> inclinaison <END>
@@ -1323,10 +1325,6 @@ choisis le <START:nav_target> télévision <END> volume
 choisis le <START:nav_target> ventilateur <END>
 choisis le <START:nav_target> volume <END>
 choisis le <START:nav_target> wifi <END>
-choisis le le <START:nav_target> musique <END> volume
-choisis le le <START:nav_target> télé <END> volume
-choisis le le <START:nav_target> téléviseur <END> volume
-choisis le le <START:nav_target> télévision <END> volume
 choisis le volume de la <START:nav_target> ajouts télé <END>
 choisis le volume de la <START:nav_target> ajouts télévision <END>
 choisis le volume de la <START:nav_target> housemate télé <END>
@@ -1388,10 +1386,10 @@ emmène moi à <START:nav_target> ajouts <END>
 emmène moi à <START:nav_target> allemand <END>
 emmène moi à <START:nav_target> anglais <END>
 emmène moi à <START:nav_target> app info <END>
-emmène moi à <START:nav_target> commande vocale <END>
 emmène moi à <START:nav_target> avancé <END>
 emmène moi à <START:nav_target> calibrage <END>
 emmène moi à <START:nav_target> caméra <END>
+emmène moi à <START:nav_target> commande vocale <END>
 emmène moi à <START:nav_target> conduire uniquement <END>
 emmène moi à <START:nav_target> conduite <END>
 emmène moi à <START:nav_target> de base <END>
@@ -1433,8 +1431,8 @@ emmène moi à <START:nav_target> synchronisation <END>
 emmène moi à <START:nav_target> volume <END>
 emmène moi à <START:nav_target> wifi <END>
 emmène moi à la <START:nav_target> app info <END>
-emmène moi à la <START:nav_target> commande vocale <END>
 emmène moi à la <START:nav_target> caméra <END>
+emmène moi à la <START:nav_target> commande vocale <END>
 emmène moi à la <START:nav_target> conduite <END>
 emmène moi à la <START:nav_target> galerie <END>
 emmène moi à la <START:nav_target> inclinaison <END>
@@ -1449,10 +1447,10 @@ emmène moi à la catégorie <START:nav_target> ajouts <END>
 emmène moi à la catégorie <START:nav_target> allemand <END>
 emmène moi à la catégorie <START:nav_target> anglais <END>
 emmène moi à la catégorie <START:nav_target> app info <END>
-emmène moi à la catégorie <START:nav_target> commande vocale <END>
 emmène moi à la catégorie <START:nav_target> avancé <END>
 emmène moi à la catégorie <START:nav_target> calibrage <END>
 emmène moi à la catégorie <START:nav_target> caméra <END>
+emmène moi à la catégorie <START:nav_target> commande vocale <END>
 emmène moi à la catégorie <START:nav_target> conduire uniquement <END>
 emmène moi à la catégorie <START:nav_target> conduite <END>
 emmène moi à la catégorie <START:nav_target> de base <END>
@@ -1494,8 +1492,8 @@ emmène moi à la catégorie <START:nav_target> synchronisation <END>
 emmène moi à la catégorie <START:nav_target> volume <END>
 emmène moi à la catégorie <START:nav_target> wifi <END>
 emmène moi à la catégorie la <START:nav_target> app info <END>
-emmène moi à la catégorie la <START:nav_target> commande vocale <END>
 emmène moi à la catégorie la <START:nav_target> caméra <END>
+emmène moi à la catégorie la <START:nav_target> commande vocale <END>
 emmène moi à la catégorie la <START:nav_target> conduite <END>
 emmène moi à la catégorie la <START:nav_target> galerie <END>
 emmène moi à la catégorie la <START:nav_target> inclinaison <END>
@@ -1528,8 +1526,8 @@ la <START:nav_target> ajouts télévision <END>
 la <START:nav_target> alarme <END>
 la <START:nav_target> alimentation du téléviseur <END>
 la <START:nav_target> app info <END>
-la <START:nav_target> commande vocale <END>
 la <START:nav_target> caméra <END>
+la <START:nav_target> commande vocale <END>
 la <START:nav_target> conduite <END>
 la <START:nav_target> fenêtre <END>
 la <START:nav_target> galerie <END>
@@ -1567,10 +1565,6 @@ le <START:nav_target> télévision <END> volume
 le <START:nav_target> ventilateur <END>
 le <START:nav_target> volume <END>
 le <START:nav_target> wifi <END>
-le le <START:nav_target> musique <END> volume
-le le <START:nav_target> télé <END> volume
-le le <START:nav_target> téléviseur <END> volume
-le le <START:nav_target> télévision <END> volume
 le volume de la <START:nav_target> ajouts télé <END>
 le volume de la <START:nav_target> ajouts télévision <END>
 le volume de la <START:nav_target> housemate télé <END>
@@ -1603,11 +1597,11 @@ sélectionne <START:nav_target> ajouts téléviseur <END>
 sélectionne <START:nav_target> alarme <END>
 sélectionne <START:nav_target> alimentation du téléviseur <END>
 sélectionne <START:nav_target> app info <END>
-sélectionne <START:nav_target> commande vocale <END>
 sélectionne <START:nav_target> avancé <END>
 sélectionne <START:nav_target> calibrage <END>
 sélectionne <START:nav_target> caméra <END>
 sélectionne <START:nav_target> chauffage <END>
+sélectionne <START:nav_target> commande vocale <END>
 sélectionne <START:nav_target> conduire uniquement <END>
 sélectionne <START:nav_target> conduite <END>
 sélectionne <START:nav_target> contrôle de la musique <END>
@@ -1631,6 +1625,7 @@ sélectionne <START:nav_target> inclinaison <END>
 sélectionne <START:nav_target> intercom <END>
 sélectionne <START:nav_target> internet <END>
 sélectionne <START:nav_target> kinova <END>
+sélectionne <START:nav_target> l'alarme <END>
 sélectionne <START:nav_target> lampe de chevet <END>
 sélectionne <START:nav_target> lampe de table <END>
 sélectionne <START:nav_target> langue <END>
@@ -1673,8 +1668,8 @@ sélectionne la <START:nav_target> ajouts télévision <END>
 sélectionne la <START:nav_target> alarme <END>
 sélectionne la <START:nav_target> alimentation du téléviseur <END>
 sélectionne la <START:nav_target> app info <END>
-sélectionne la <START:nav_target> commande vocale <END>
 sélectionne la <START:nav_target> caméra <END>
+sélectionne la <START:nav_target> commande vocale <END>
 sélectionne la <START:nav_target> conduite <END>
 sélectionne la <START:nav_target> fenêtre <END>
 sélectionne la <START:nav_target> galerie <END>
@@ -1697,10 +1692,10 @@ sélectionne la catégorie <START:nav_target> ajouts <END>
 sélectionne la catégorie <START:nav_target> allemand <END>
 sélectionne la catégorie <START:nav_target> anglais <END>
 sélectionne la catégorie <START:nav_target> app info <END>
-sélectionne la catégorie <START:nav_target> commande vocale <END>
 sélectionne la catégorie <START:nav_target> avancé <END>
 sélectionne la catégorie <START:nav_target> calibrage <END>
 sélectionne la catégorie <START:nav_target> caméra <END>
+sélectionne la catégorie <START:nav_target> commande vocale <END>
 sélectionne la catégorie <START:nav_target> conduire uniquement <END>
 sélectionne la catégorie <START:nav_target> conduite <END>
 sélectionne la catégorie <START:nav_target> de base <END>
@@ -1743,8 +1738,8 @@ sélectionne la catégorie <START:nav_target> synchronisation <END>
 sélectionne la catégorie <START:nav_target> volume <END>
 sélectionne la catégorie <START:nav_target> wifi <END>
 sélectionne la catégorie la <START:nav_target> app info <END>
-sélectionne la catégorie la <START:nav_target> commande vocale <END>
 sélectionne la catégorie la <START:nav_target> caméra <END>
+sélectionne la catégorie la <START:nav_target> commande vocale <END>
 sélectionne la catégorie la <START:nav_target> conduite <END>
 sélectionne la catégorie la <START:nav_target> galerie <END>
 sélectionne la catégorie la <START:nav_target> inclinaison <END>
@@ -1793,10 +1788,6 @@ sélectionne le <START:nav_target> télévision <END> volume
 sélectionne le <START:nav_target> ventilateur <END>
 sélectionne le <START:nav_target> volume <END>
 sélectionne le <START:nav_target> wifi <END>
-sélectionne le le <START:nav_target> musique <END> volume
-sélectionne le le <START:nav_target> télé <END> volume
-sélectionne le le <START:nav_target> téléviseur <END> volume
-sélectionne le le <START:nav_target> télévision <END> volume
 sélectionne le volume de la <START:nav_target> ajouts télé <END>
 sélectionne le volume de la <START:nav_target> ajouts télévision <END>
 sélectionne le volume de la <START:nav_target> housemate télé <END>
@@ -1842,11 +1833,11 @@ sélectionner <START:nav_target> ajouts téléviseur <END>
 sélectionner <START:nav_target> alarme <END>
 sélectionner <START:nav_target> alimentation du téléviseur <END>
 sélectionner <START:nav_target> app info <END>
-sélectionner <START:nav_target> commande vocale <END>
 sélectionner <START:nav_target> avancé <END>
 sélectionner <START:nav_target> calibrage <END>
 sélectionner <START:nav_target> caméra <END>
 sélectionner <START:nav_target> chauffage <END>
+sélectionner <START:nav_target> commande vocale <END>
 sélectionner <START:nav_target> conduire uniquement <END>
 sélectionner <START:nav_target> conduite <END>
 sélectionner <START:nav_target> contrôle de la musique <END>
@@ -1870,6 +1861,7 @@ sélectionner <START:nav_target> inclinaison <END>
 sélectionner <START:nav_target> intercom <END>
 sélectionner <START:nav_target> internet <END>
 sélectionner <START:nav_target> kinova <END>
+sélectionner <START:nav_target> l'alarme <END>
 sélectionner <START:nav_target> lampe de chevet <END>
 sélectionner <START:nav_target> lampe de table <END>
 sélectionner <START:nav_target> langue <END>
@@ -1912,8 +1904,8 @@ sélectionner la <START:nav_target> ajouts télévision <END>
 sélectionner la <START:nav_target> alarme <END>
 sélectionner la <START:nav_target> alimentation du téléviseur <END>
 sélectionner la <START:nav_target> app info <END>
-sélectionner la <START:nav_target> commande vocale <END>
 sélectionner la <START:nav_target> caméra <END>
+sélectionner la <START:nav_target> commande vocale <END>
 sélectionner la <START:nav_target> conduite <END>
 sélectionner la <START:nav_target> fenêtre <END>
 sélectionner la <START:nav_target> galerie <END>
@@ -1936,10 +1928,10 @@ sélectionner la catégorie <START:nav_target> ajouts <END>
 sélectionner la catégorie <START:nav_target> allemand <END>
 sélectionner la catégorie <START:nav_target> anglais <END>
 sélectionner la catégorie <START:nav_target> app info <END>
-sélectionner la catégorie <START:nav_target> commande vocale <END>
 sélectionner la catégorie <START:nav_target> avancé <END>
 sélectionner la catégorie <START:nav_target> calibrage <END>
 sélectionner la catégorie <START:nav_target> caméra <END>
+sélectionner la catégorie <START:nav_target> commande vocale <END>
 sélectionner la catégorie <START:nav_target> conduire uniquement <END>
 sélectionner la catégorie <START:nav_target> conduite <END>
 sélectionner la catégorie <START:nav_target> de base <END>
@@ -1982,8 +1974,8 @@ sélectionner la catégorie <START:nav_target> synchronisation <END>
 sélectionner la catégorie <START:nav_target> volume <END>
 sélectionner la catégorie <START:nav_target> wifi <END>
 sélectionner la catégorie la <START:nav_target> app info <END>
-sélectionner la catégorie la <START:nav_target> commande vocale <END>
 sélectionner la catégorie la <START:nav_target> caméra <END>
+sélectionner la catégorie la <START:nav_target> commande vocale <END>
 sélectionner la catégorie la <START:nav_target> conduite <END>
 sélectionner la catégorie la <START:nav_target> galerie <END>
 sélectionner la catégorie la <START:nav_target> inclinaison <END>
@@ -2032,10 +2024,6 @@ sélectionner le <START:nav_target> télévision <END> volume
 sélectionner le <START:nav_target> ventilateur <END>
 sélectionner le <START:nav_target> volume <END>
 sélectionner le <START:nav_target> wifi <END>
-sélectionner le le <START:nav_target> musique <END> volume
-sélectionner le le <START:nav_target> télé <END> volume
-sélectionner le le <START:nav_target> téléviseur <END> volume
-sélectionner le le <START:nav_target> télévision <END> volume
 sélectionner le volume de la <START:nav_target> ajouts télé <END>
 sélectionner le volume de la <START:nav_target> ajouts télévision <END>
 sélectionner le volume de la <START:nav_target> housemate télé <END>
@@ -2114,11 +2102,11 @@ va à <START:nav_target> alimentation du téléviseur <END>
 va à <START:nav_target> allemand <END>
 va à <START:nav_target> anglais <END>
 va à <START:nav_target> app info <END>
-va à <START:nav_target> commande vocale <END>
 va à <START:nav_target> avancé <END>
 va à <START:nav_target> calibrage <END>
 va à <START:nav_target> caméra <END>
 va à <START:nav_target> chauffage <END>
+va à <START:nav_target> commande vocale <END>
 va à <START:nav_target> conduire uniquement <END>
 va à <START:nav_target> conduite <END>
 va à <START:nav_target> contrôle de la musique <END>
@@ -2143,6 +2131,7 @@ va à <START:nav_target> inclinaison <END>
 va à <START:nav_target> intercom <END>
 va à <START:nav_target> internet <END>
 va à <START:nav_target> kinova <END>
+va à <START:nav_target> l'alarme <END>
 va à <START:nav_target> lampe de chevet <END>
 va à <START:nav_target> lampe de table <END>
 va à <START:nav_target> langue <END>
@@ -2185,8 +2174,8 @@ va à la <START:nav_target> ajouts télévision <END>
 va à la <START:nav_target> alarme <END>
 va à la <START:nav_target> alimentation du téléviseur <END>
 va à la <START:nav_target> app info <END>
-va à la <START:nav_target> commande vocale <END>
 va à la <START:nav_target> caméra <END>
+va à la <START:nav_target> commande vocale <END>
 va à la <START:nav_target> conduite <END>
 va à la <START:nav_target> fenêtre <END>
 va à la <START:nav_target> galerie <END>
@@ -2209,10 +2198,10 @@ va à la catégorie <START:nav_target> ajouts <END>
 va à la catégorie <START:nav_target> allemand <END>
 va à la catégorie <START:nav_target> anglais <END>
 va à la catégorie <START:nav_target> app info <END>
-va à la catégorie <START:nav_target> commande vocale <END>
 va à la catégorie <START:nav_target> avancé <END>
 va à la catégorie <START:nav_target> calibrage <END>
 va à la catégorie <START:nav_target> caméra <END>
+va à la catégorie <START:nav_target> commande vocale <END>
 va à la catégorie <START:nav_target> conduire uniquement <END>
 va à la catégorie <START:nav_target> conduite <END>
 va à la catégorie <START:nav_target> de base <END>
@@ -2254,8 +2243,8 @@ va à la catégorie <START:nav_target> synchronisation <END>
 va à la catégorie <START:nav_target> volume <END>
 va à la catégorie <START:nav_target> wifi <END>
 va à la catégorie la <START:nav_target> app info <END>
-va à la catégorie la <START:nav_target> commande vocale <END>
 va à la catégorie la <START:nav_target> caméra <END>
+va à la catégorie la <START:nav_target> commande vocale <END>
 va à la catégorie la <START:nav_target> conduite <END>
 va à la catégorie la <START:nav_target> galerie <END>
 va à la catégorie la <START:nav_target> inclinaison <END>
@@ -2319,10 +2308,10 @@ vas à <START:nav_target> ajouts <END>
 vas à <START:nav_target> allemand <END>
 vas à <START:nav_target> anglais <END>
 vas à <START:nav_target> app info <END>
-vas à <START:nav_target> commande vocale <END>
 vas à <START:nav_target> avancé <END>
 vas à <START:nav_target> calibrage <END>
 vas à <START:nav_target> caméra <END>
+vas à <START:nav_target> commande vocale <END>
 vas à <START:nav_target> conduire uniquement <END>
 vas à <START:nav_target> conduite <END>
 vas à <START:nav_target> de base <END>
@@ -2364,8 +2353,8 @@ vas à <START:nav_target> synchronisation <END>
 vas à <START:nav_target> volume <END>
 vas à <START:nav_target> wifi <END>
 vas à la <START:nav_target> app info <END>
-vas à la <START:nav_target> commande vocale <END>
 vas à la <START:nav_target> caméra <END>
+vas à la <START:nav_target> commande vocale <END>
 vas à la <START:nav_target> conduite <END>
 vas à la <START:nav_target> galerie <END>
 vas à la <START:nav_target> inclinaison <END>
@@ -2380,10 +2369,10 @@ vas à la catégorie <START:nav_target> ajouts <END>
 vas à la catégorie <START:nav_target> allemand <END>
 vas à la catégorie <START:nav_target> anglais <END>
 vas à la catégorie <START:nav_target> app info <END>
-vas à la catégorie <START:nav_target> commande vocale <END>
 vas à la catégorie <START:nav_target> avancé <END>
 vas à la catégorie <START:nav_target> calibrage <END>
 vas à la catégorie <START:nav_target> caméra <END>
+vas à la catégorie <START:nav_target> commande vocale <END>
 vas à la catégorie <START:nav_target> conduire uniquement <END>
 vas à la catégorie <START:nav_target> conduite <END>
 vas à la catégorie <START:nav_target> de base <END>
@@ -2425,8 +2414,8 @@ vas à la catégorie <START:nav_target> synchronisation <END>
 vas à la catégorie <START:nav_target> volume <END>
 vas à la catégorie <START:nav_target> wifi <END>
 vas à la catégorie la <START:nav_target> app info <END>
-vas à la catégorie la <START:nav_target> commande vocale <END>
 vas à la catégorie la <START:nav_target> caméra <END>
+vas à la catégorie la <START:nav_target> commande vocale <END>
 vas à la catégorie la <START:nav_target> conduite <END>
 vas à la catégorie la <START:nav_target> galerie <END>
 vas à la catégorie la <START:nav_target> inclinaison <END>

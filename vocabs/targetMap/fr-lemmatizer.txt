@@ -15,8 +15,8 @@ rideaux:rideau
 actualisation:synchronisation
 l'actualisation:synchronisation
 gestes de conduite:geste de conduite
-programme:chaîne
-canal:chaîne
+programme:canal
+chaîne:canal
 télévision:téléviseur
 télé:téléviseur
 alimentation de la télévision:alimentation du téléviseur
@@ -32,3 +32,4 @@ ajouts télévision:téléviseur
 ajouts télé:téléviseur
 housemate télévision:téléviseur
 housemate télé:téléviseur
+l'alarme:alarme
