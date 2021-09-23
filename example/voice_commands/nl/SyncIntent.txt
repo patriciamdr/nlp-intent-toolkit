@@ -3,7 +3,9 @@ start app synchronisatie
 start apparaat synchronisatie
 start toestel synchronisatie
 start smartglass synchronisatie
+start smart glass synchronisatie
 start synchronisatie van de smartglass
+start synchronisatie van de smart glass
 start synchronisatie van het toestel
 start synchronisatie van het apparaat
 start synchronisatie van de app
@@ -12,15 +14,19 @@ start de app synchronisatie
 start de apparaat synchronisatie
 start de toestel synchronisatie
 start de smartglass synchronisatie
+start de smart glass synchronisatie
 start de synchronisatie van de smartglass
+start de synchronisatie van de smart glass
 start de synchronisatie van het toestel
 start de synchronisatie van het apparaat
 start de synchronisatie van de app
 synchronisatie van de smartglass
+synchronisatie van de smart glass
 synchronisatie van het toestel
 synchronisatie van het apparaat
 synchronisatie van de app
 synchronisatie van smartglass
+synchronisatie van smart glass
 synchronisatie van toestel
 synchronisatie van apparaat
 synchronisatie van app
@@ -29,64 +35,79 @@ app synchronisatie
 toestel synchronisatie
 apparaat synchronisatie
 smartglass synchronisatie
+smart glass synchronisatie
 apparaat synchroniseren
 toestel synchroniseren
 smartglass synchroniseren
+smart glass synchroniseren
 app synchroniseren
 synchroniseren
 het toestel synchroniseren
 het apparaat synchroniseren
 de smartglass synchroniseren
+de smart glass synchroniseren
 de app synchroniseren
 synchroniseren de toestel
 synchroniseren de apparaat
 synchroniseren de smartglass
+synchroniseren de smart glass
 synchroniseren de app
 synchroniseer de app
 synchroniseer de apparaat
 synchroniseer de toestel
 synchroniseer de smartglass
+synchroniseer de smart glass
 start update
 start smartglass update
+start smart glass update
 start app update
 start toestel update
 start apparaat update
 smartglass update
+smart glass update
 app update
 toestel update
 apparaat update
 start update van de smartglass
+start update van de smart glass
 start update van het toestel
 start update van het apparaat
 start update van de app
 update van de smartglass
+update van de smart glass
 update van het toestel
 update van het apparaat
 update van de app
 start de update
 start de smartglass update
+start de smart glass update
 start de app update
 start de toestel update
 start de apparaat update
 start de update van de smartglass
+start de update van de smart glass
 start de update van het toestel
 start de update van het apparaat
 start de update van de app
 update de smartglass
+update de smart glass
 update de app
 update het apparaat
 update het toestel
 update smartglass
+update smart glass
 update app
 update apparaat
 update toestel
 het toestel updaten
 het apparaat updaten
 de smartglass updaten
+de smart glass updaten
 de app updaten
 toestel updaten
 apparaat updaten
 smartglass updaten
+smart glass updaten
 app updaten
 start met updaten
 doe synchronisatie
@@ -94,34 +115,42 @@ doe app synchronisatie
 doe toestel synchronisatie
 doe apparaat synchronisatie
 doe smartglass synchronisatie
+doe smart glass synchronisatie
 doe de app synchronisatie
 doe de toestel synchronisatie
 doe de apparaat synchronisatie
 doe de smartglass synchronisatie
+doe de smart glass synchronisatie
 doe synchronisatie van de smartglass
+doe synchronisatie van de smart glass
 doe synchronisatie van het toestel
 doe synchronisatie van het apparaat
 doe synchronisatie van de app
 doe de synchronisatie
 doe de synchronisatie van de smartglass
+doe de synchronisatie van de smart glass
 doe de synchronisatie van het toestel
 doe de synchronisatie van het apparaat
 doe de synchronisatie van de app
 doe update
 doe app update
 doe smartglass update
+doe smart glass update
 doe toestel update
 doe apparaat update
 doe update van de smartglass
+doe update van de smart glass
 doe update van het toestel
 doe update van het apparaat
 doe update van de app
 doe de update
 doe de app update
 doe de smartglass update
+doe de smart glass update
 doe de toestel update
 doe de apparaat update
 doe de update van de smartglass
+doe de update van de smart glass
 doe de update van het toestel
 doe de update van het apparaat
 doe de update van de app

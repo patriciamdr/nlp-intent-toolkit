@@ -1,85 +1,1222 @@
-<eps>
-</s>
-ok
 aan
+aanzetten
 acht
 add ons
+add ons tv
 administratie
+af
+afspelen
+afzetten
+alarm
+alarm aan
+alarm aanzetten
+alarm inschakelen
+alarm uit
+alarm uitschakelen
+alarm uitzetten
 alarmlichten
+alarmlichten aan
+alarmlichten aanzetten
+alarmlichten inschakelen
+alarmlichten menu
 alarmlichten uit
+alarmlichten uitschakelen
+alarmlichten uitzetten
+alleen
 alleen rijden
 android
 app
+app info
+app synchronisatie
+app synchroniseren
+app update
+app updaten
 apparaat
+apparaat synchronisatie
+apparaat synchroniseren
+apparaat update
+apparaat updaten
 basis
+bed
+bed hoogte laten zakken
+bed hoogte meer kantelen
+bed hoogte minder hoog zetten
+bed hoogte minder kantelen
+bed hoogte omhoog
+bed hoogte omhoog brengen
+bed hoogte omhoog doen
+bed hoogte omhoog kantelen
+bed hoogte omhoog zetten
+bed hoogte omlaag
+bed hoogte omlaag brengen
+bed hoogte omlaag doen
+bed hoogte omlaag kantelen
+bed hoogte omlaag zetten
+bed hoogte opheffen
+bed hoogte optillen
+bed hoogte verhogen
+bed hoogte verminder
+bed lamp
+bed lamp aan
+bed lamp aanzetten
+bed lamp inschakelen
+bed lamp uit
+bed lamp uitschakelen
+bed lamp uitzetten
+bed laten zakken
+bed meer kantelen
+bed minder hoog zetten
+bed minder kantelen
+bed omhoog
+bed omhoog brengen
+bed omhoog doen
+bed omhoog kantelen
+bed omhoog zetten
+bed omlaag
+bed omlaag brengen
+bed omlaag doen
+bed omlaag kantelen
+bed omlaag zetten
+bed opheffen
+bed optillen
+bed verhogen
+bed verminder
 begin
+begin met het kalibreren van kantelen
+begin met het kalibreren van knikken
+bestaande
 bestaande telefoon
 besturing
+breng
+breng bed hoogte omhoog
+breng bed hoogte omlaag
+breng bed omhoog
+breng bed omlaag
+breng de bed hoogte omhoog
+breng de bed hoogte omlaag
+breng het bed omhoog
+breng het bed omlaag
+brengen
 camera
 categorie
 computer
 contacten
 de
+de alarmlichten aanzetten
+de alarmlichten uitzetten
+de app synchroniseren
+de app updaten
+de bed hoogte laten zakken
+de bed hoogte meer kantelen
+de bed hoogte minder hoog zetten
+de bed hoogte minder kantelen
+de bed hoogte omhoog brengen
+de bed hoogte omhoog doen
+de bed hoogte omhoog kantelen
+de bed hoogte omhoog zetten
+de bed hoogte omlaag brengen
+de bed hoogte omlaag doen
+de bed hoogte omlaag kantelen
+de bed hoogte omlaag zetten
+de bed hoogte opheffen
+de bed hoogte optillen
+de bed hoogte verhogen
+de bed hoogte verminderen
+de bed lamp aanzetten
+de bed lamp uitzetten
+de deur dicht
+de deur open
+de deur openen
+de deur sluiten
+de gordijnen dicht
+de gordijnen open
+de gordijnen openen
+de gordijnen sluiten
+de kamer verlichting aanzetten
+de kamer verlichting uitzetten
+de lichten aanzetten
+de lichten uitzetten
+de muziek aanzetten
+de muziek afspelen
+de muziek afzetten
+de muziek harder zetten
+de muziek omhoog zetten
+de muziek pauzeren
+de muziek spelen
+de muziek starten
+de muziek stoppen
+de muziek uitzetten
+de ramen dicht
+de ramen open
+de ramen openen
+de ramen sluiten
+de smart glass synchroniseren
+de smart glass updaten
+de taal instellen op duits
+de taal instellen op engels
+de taal instellen op frans
+de taal instellen op nederlands
+de tafellamp aanzetten
+de tafellamp uitzetten
+de tv aanzetten
+de tv harder zetten
+de tv omhoog zetten
+de tv uitzetten
+de ventilator aanzetten
+de ventilator uitzetten
+de verwarming aanzetten
+de verwarming uitzetten
+de volgende zender selecteren
+de vorige zender selecteren
+deur
+deur dicht
+deur open
+deur openen
+deur sluiten
+dicht
 doe
+doe alarm aan
+doe alarm uit
+doe alarmlichten aan
+doe alarmlichten uit
+doe app synchronisatie
+doe app update
+doe apparaat synchronisatie
+doe apparaat update
+doe bed hoogte omhoog
+doe bed hoogte omlaag
+doe bed lamp aan
+doe bed lamp uit
+doe bed omhoog
+doe bed omlaag
+doe de alarmlichten aan
+doe de alarmlichten uit
+doe de app synchronisatie
+doe de app update
+doe de apparaat synchronisatie
+doe de apparaat update
+doe de bed hoogte omhoog
+doe de bed hoogte omlaag
+doe de bed lamp aan
+doe de bed lamp uit
+doe de deur dicht
+doe de deur open
+doe de gordijnen dicht
+doe de gordijnen open
+doe de kamer verlichting aan
+doe de kamer verlichting uit
+doe de lichten aan
+doe de lichten uit
+doe de ramen dicht
+doe de ramen open
+doe de smart glass synchronisatie
+doe de smart glass update
+doe de synchronisatie
+doe de synchronisatie van de app
+doe de synchronisatie van de smart glass
+doe de synchronisatie van het apparaat
+doe de synchronisatie van het toestel
+doe de tafellamp aan
+doe de tafellamp uit
+doe de toestel synchronisatie
+doe de toestel update
+doe de tv aan
+doe de tv uit
+doe de update
+doe de update van de app
+doe de update van de smart glass
+doe de update van het apparaat
+doe de update van het toestel
+doe de ventilator aan
+doe de ventilator uit
+doe de verwarming aan
+doe de verwarming uit
+doe deur dicht
+doe deur open
+doe gordijn dicht
+doe gordijn open
+doe gordijnen dicht
+doe gordijnen open
+doe het alarm aan
+doe het alarm uit
+doe het bed omhoog
+doe het bed omlaag
+doe het gordijn dicht
+doe het gordijn open
+doe het licht aan
+doe het licht uit
+doe het raam dicht
+doe het raam open
+doe kamer verlichting aan
+doe kamer verlichting uit
+doe licht aan
+doe licht uit
+doe lichten aan
+doe lichten uit
+doe raam dicht
+doe raam open
+doe ramen dicht
+doe ramen open
+doe smart glass synchronisatie
+doe smart glass update
+doe synchronisatie
+doe synchronisatie van de app
+doe synchronisatie van de smart glass
+doe synchronisatie van het apparaat
+doe synchronisatie van het toestel
+doe tafellamp aan
+doe tafellamp uit
+doe toestel synchronisatie
+doe toestel update
+doe tv aan
+doe tv uit
+doe update
+doe update van de app
+doe update van de smart glass
+doe update van het apparaat
+doe update van het toestel
+doe ventilator aan
+doe ventilator uit
+doe verwarming aan
+doe verwarming uit
+doen
+door
 drie
 duits
+e-mail
 een
+een foto maken
+een foto nemen
 end
 engels
 foto
+foto maken
+foto nemen
 frans
 ga
+ga door naar de volgende zender
+ga door naar het volgende kanaal
+ga door naar het volgende lied
+ga door naar het volgende programma
+ga door naar volgende kanaal
+ga door naar volgende lied
+ga door naar volgende programma
+ga door naar volgende zender
+ga naar add ons
+ga naar add ons tv
+ga naar administratie
+ga naar alarm
+ga naar alarmlichten
+ga naar alarmlichten menu
+ga naar alleen rijden
+ga naar android
+ga naar app info
+ga naar basis
+ga naar bed
+ga naar bed lamp
+ga naar bestaande telefoon
+ga naar besturing
+ga naar camera
+ga naar computer
+ga naar contacten
+ga naar de categorie add ons
+ga naar de categorie add ons tv
+ga naar de categorie administratie
+ga naar de categorie alarm
+ga naar de categorie alarmlichten
+ga naar de categorie alarmlichten menu
+ga naar de categorie alleen rijden
+ga naar de categorie android
+ga naar de categorie app info
+ga naar de categorie basis
+ga naar de categorie bed
+ga naar de categorie bed lamp
+ga naar de categorie bestaande telefoon
+ga naar de categorie besturing
+ga naar de categorie camera
+ga naar de categorie computer
+ga naar de categorie contacten
+ga naar de categorie deur
+ga naar de categorie duits
+ga naar de categorie engels
+ga naar de categorie frans
+ga naar de categorie galerij
+ga naar de categorie geavanceerd
+ga naar de categorie gordijn
+ga naar de categorie gordijnen
+ga naar de categorie home
+ga naar de categorie instellingen
+ga naar de categorie intercom
+ga naar de categorie internet
+ga naar de categorie ios
+ga naar de categorie kamer verlichting
+ga naar de categorie kantelen
+ga naar de categorie knikken
+ga naar de categorie koppelen
+ga naar de categorie licht
+ga naar de categorie licht menu
+ga naar de categorie lichten
+ga naar de categorie lichten menu
+ga naar de categorie media
+ga naar de categorie modi
+ga naar de categorie monitor
+ga naar de categorie mouse een
+ga naar de categorie mouse twee
+ga naar de categorie muziek
+ga naar de categorie muziek besturing
+ga naar de categorie muziek bron
+ga naar de categorie nederlands
+ga naar de categorie nieuwe telefoon
+ga naar de categorie nood e-mail
+ga naar de categorie raam
+ga naar de categorie ramen
+ga naar de categorie rij gebaar
+ga naar de categorie rij gebaren
+ga naar de categorie rijden
+ga naar de categorie smart glass instellingen
+ga naar de categorie spraakbesturing
+ga naar de categorie support
+ga naar de categorie synchroniseren
+ga naar de categorie taal
+ga naar de categorie taal instelling
+ga naar de categorie taal instellingen
+ga naar de categorie tafellamp
+ga naar de categorie talen
+ga naar de categorie talen instelling
+ga naar de categorie talen instellingen
+ga naar de categorie tv
+ga naar de categorie tv aan uit
+ga naar de categorie tv besturing
+ga naar de categorie tv instellingen
+ga naar de categorie ventilator
+ga naar de categorie verwarming
+ga naar de categorie volume
+ga naar de categorie volume instelling
+ga naar de categorie volume instellingen
+ga naar de categorie wifi
+ga naar de categorie zitting
+ga naar de categorie zitting instelling
+ga naar de categorie zitting instellingen
+ga naar de categorie zitting positie
+ga naar de volgende zender
+ga naar de vorige zender
+ga naar deur
+ga naar duits
+ga naar engels
+ga naar frans
+ga naar galerij
+ga naar geavanceerd
+ga naar gordijn
+ga naar gordijnen
+ga naar het volgende kanaal
+ga naar het volgende lied
+ga naar het volgende programma
+ga naar het vorige kanaal
+ga naar het vorige lied
+ga naar het vorige programma
+ga naar home
+ga naar instellingen
+ga naar intercom
+ga naar internet
+ga naar ios
+ga naar kamer verlichting
+ga naar kantelen
+ga naar knikken
+ga naar koppelen
+ga naar licht
+ga naar licht menu
+ga naar lichten
+ga naar lichten menu
+ga naar media
+ga naar modi
+ga naar monitor
+ga naar mouse een
+ga naar mouse twee
+ga naar muziek
+ga naar muziek besturing
+ga naar muziek bron
+ga naar nederlands
+ga naar nieuwe telefoon
+ga naar nood e-mail
+ga naar raam
+ga naar ramen
+ga naar rij gebaar
+ga naar rij gebaren
+ga naar rijden
+ga naar smart glass instellingen
+ga naar spraakbesturing
+ga naar support
+ga naar synchroniseren
+ga naar taal
+ga naar taal instelling
+ga naar taal instellingen
+ga naar tafellamp
+ga naar talen
+ga naar talen instelling
+ga naar talen instellingen
+ga naar tv
+ga naar tv aan uit
+ga naar tv besturing
+ga naar tv instellingen
+ga naar ventilator
+ga naar verwarming
+ga naar volgende kanaal
+ga naar volgende lied
+ga naar volgende programma
+ga naar volgende zender
+ga naar volume
+ga naar volume instelling
+ga naar volume instellingen
+ga naar vorige kanaal
+ga naar vorige lied
+ga naar vorige programma
+ga naar vorige zender
+ga naar wifi
+ga naar zitting
+ga naar zitting instelling
+ga naar zitting instellingen
+ga naar zitting positie
+ga op zoek naar een internet verbinding
+ga op zoek naar wifi
+ga op zoek naar wifi verbinding
 gaan
 galerij
 geavanceerd
 gebaar
 gebaren
 gebruik
-glasses
+gebruik internet
+gebruik wifi
 glass
+glasses
+gordijn
+gordijn dicht
+gordijn open
+gordijn openen
+gordijn sluiten
+gordijnen
+gordijnen dicht
+gordijnen open
+gordijnen openen
+gordijnen sluiten
 harder
+hef
+hef bed hoogte op
+hef bed op
+hef de bed hoogte op
+hef het bed op
 het
+het alarm aanzetten
+het alarm uitzetten
+het apparaat synchroniseren
+het apparaat updaten
+het bed laten zakken
+het bed meer kantelen
+het bed minder hoog zetten
+het bed minder kantelen
+het bed omhoog brengen
+het bed omhoog doen
+het bed omhoog kantelen
+het bed omhoog zetten
+het bed omlaag brengen
+het bed omlaag doen
+het bed omlaag kantelen
+het bed omlaag zetten
+het bed opheffen
+het bed optillen
+het bed verhogen
+het bed verminderen
+het gordijn dicht
+het gordijn open
+het gordijn openen
+het gordijn sluiten
+het licht aanzetten
+het licht uitzetten
+het muziek lager zetten
+het muziek omlaag zetten
+het muziek volume harder zetten
+het muziek volume lager zetten
+het muziek volume omhoog zetten
+het muziek volume omlaag zetten
+het muziek volume zachter zetten
+het muziek zachter zetten
+het raam dicht
+het raam open
+het raam openen
+het raam sluiten
+het toestel synchroniseren
+het toestel updaten
+het tv lager zetten
+het tv omlaag zetten
+het tv volume harder zetten
+het tv volume lager zetten
+het tv volume omhoog zetten
+het tv volume omlaag zetten
+het tv volume zachter zetten
+het tv zachter zetten
+het volgende kanaal selecteren
+het volgende lied afspelen
+het volgende lied selecteren
+het volgende lied spelen
+het volgende programma selecteren
+het volume acht zetten
+het volume drie zetten
+het volume een zetten
+het volume harder zetten
+het volume lager zetten
+het volume negen zetten
+het volume nul zetten
+het volume omhoog zetten
+het volume omlaag zetten
+het volume op acht zetten
+het volume op drie zetten
+het volume op een zetten
+het volume op negen zetten
+het volume op nul zetten
+het volume op tien zetten
+het volume op twee zetten
+het volume op vier zetten
+het volume op vijf zetten
+het volume op zes zetten
+het volume op zeven zetten
+het volume tien zetten
+het volume twee zetten
+het volume van de muziek harder zetten
+het volume van de muziek lager zetten
+het volume van de muziek omhoog zetten
+het volume van de muziek omlaag zetten
+het volume van de muziek zachter zetten
+het volume van de tv harder zetten
+het volume van de tv lager zetten
+het volume van de tv omhoog zetten
+het volume van de tv omlaag zetten
+het volume van de tv zachter zetten
+het volume vier zetten
+het volume vijf zetten
+het volume zachter zetten
+het volume zes zetten
+het volume zeven zetten
+het vorige kanaal selecteren
+het vorige lied afspelen
+het vorige lied selecteren
+het vorige lied spelen
+het vorige programma selecteren
+home
+hoog
+hoogte
+in
 info
 inschakelen
 installeer
+installeer internet verbinding
+installeer wifi
+installeer wifi netwerk
 instellen
 instelling
 instellingen
+intercom
 internet
+internet verbinding instellen
 ios
 kalibreren
+kamer verlichting
+kamer verlichting aan
+kamer verlichting aanzetten
+kamer verlichting inschakelen
+kamer verlichting uit
+kamer verlichting uitschakelen
+kamer verlichting uitzetten
+kanaal
 kantel
+kantel bed hoogte meer
+kantel bed hoogte minder
+kantel bed hoogte omhoog
+kantel bed hoogte omlaag
+kantel bed meer
+kantel bed minder
+kantel bed omhoog
+kantel bed omlaag
+kantel de bed hoogte meer
+kantel de bed hoogte minder
+kantel de bed hoogte omhoog
+kantel de bed hoogte omlaag
+kantel het bed meer
+kantel het bed minder
+kantel het bed omhoog
+kantel het bed omlaag
 kantelen
+kantelen kalibreren
+keer
+keer terug naar de vorige zender
+keer terug naar het vorige kanaal
+keer terug naar het vorige lied
+keer terug naar het vorige programma
+keer terug naar vorige kanaal
+keer terug naar vorige lied
+keer terug naar vorige programma
+keer terug naar vorige zender
 knik
 knikken
+knikken kalibreren
 koppelen
+laat
+laat bed hoogte zakken
+laat bed zakken
+laat de bed hoogte zakken
+laat het bed zakken
 lager
+laten
 licht
+licht aan
+licht aanzetten
+licht inschakelen
+licht menu
 licht uit
+licht uitschakelen
+licht uitzetten
 lichten
+lichten aan
+lichten aanzetten
+lichten inschakelen
+lichten menu
+lichten uit
+lichten uitschakelen
+lichten uitzetten
+lied
 maak
 maak een foto
+maak een internet verbinding
+maak een verbinding met de wifi
+maak een verbinding met het internet
+maak een verbinding met wifi
+maak een wifi verbinding
+maak foto
+maak internet verbinding
+maak verbinding met de wifi
+maak verbinding met het internet
+maak verbinding met het wifi netwerk
+maak verbinding met wifi
+maak wifi verbinding
 mail
 maken
+me
 media
 mee
+meer
 menu
 met
-me
+minder
 modi
 monitor
+mouse
 mouse een
 mouse twee
+muziek
+muziek aanzetten
+muziek afspelen
+muziek afzetten
+muziek besturing
+muziek bron
+muziek harder
+muziek lager
+muziek omhoog
+muziek omlaag
+muziek pauzeren
+muziek spelen
+muziek starten
+muziek stoppen
+muziek uitzetten
+muziek verhogen
+muziek verlagen
+muziek verminderen
+muziek volume harder
+muziek volume lager
+muziek volume omhoog
+muziek volume omlaag
+muziek volume verhogen
+muziek volume verlagen
+muziek volume verminderen
+muziek volume zachter
+muziek zachter
 naar
+naar add ons
+naar add ons gaan
+naar add ons navigeren
+naar add ons tv
+naar add ons tv gaan
+naar add ons tv navigeren
+naar administratie
+naar administratie gaan
+naar administratie navigeren
+naar alarm
+naar alarm gaan
+naar alarm navigeren
+naar alarmlichten
+naar alarmlichten gaan
+naar alarmlichten menu
+naar alarmlichten menu gaan
+naar alarmlichten menu navigeren
+naar alarmlichten navigeren
+naar alleen rijden
+naar alleen rijden gaan
+naar alleen rijden navigeren
+naar android
+naar android gaan
+naar android navigeren
+naar app info
+naar app info gaan
+naar app info navigeren
+naar basis
+naar basis gaan
+naar basis navigeren
+naar bed
+naar bed gaan
+naar bed lamp
+naar bed lamp gaan
+naar bed lamp navigeren
+naar bed navigeren
+naar bestaande telefoon
+naar bestaande telefoon gaan
+naar bestaande telefoon navigeren
+naar besturing
+naar besturing gaan
+naar besturing navigeren
+naar camera
+naar camera gaan
+naar camera navigeren
+naar computer
+naar computer gaan
+naar computer navigeren
+naar contacten
+naar contacten gaan
+naar contacten navigeren
+naar de volgende zender
+naar de volgende zender gaan
+naar de volgende zender switchen
+naar de volgende zender veranderen
+naar de vorige zender
+naar de vorige zender gaan
+naar de vorige zender switchen
+naar de vorige zender terugkeren
+naar de vorige zender veranderen
+naar deur
+naar deur gaan
+naar deur navigeren
+naar duits
+naar duits gaan
+naar duits navigeren
+naar engels
+naar engels gaan
+naar engels navigeren
+naar frans
+naar frans gaan
+naar frans navigeren
+naar galerij
+naar galerij gaan
+naar galerij navigeren
+naar geavanceerd
+naar geavanceerd gaan
+naar geavanceerd navigeren
+naar gordijn
+naar gordijn gaan
+naar gordijn navigeren
+naar gordijnen
+naar gordijnen gaan
+naar gordijnen navigeren
+naar het volgende kanaal
+naar het volgende kanaal gaan
+naar het volgende kanaal switchen
+naar het volgende kanaal veranderen
+naar het volgende lied
+naar het volgende lied gaan
+naar het volgende lied switchen
+naar het volgende lied veranderen
+naar het volgende programma
+naar het volgende programma gaan
+naar het volgende programma switchen
+naar het volgende programma veranderen
+naar het vorige kanaal
+naar het vorige kanaal gaan
+naar het vorige kanaal switchen
+naar het vorige kanaal terugkeren
+naar het vorige kanaal veranderen
+naar het vorige lied
+naar het vorige lied gaan
+naar het vorige lied switchen
+naar het vorige lied terugkeren
+naar het vorige lied veranderen
+naar het vorige programma
+naar het vorige programma gaan
+naar het vorige programma switchen
+naar het vorige programma terugkeren
+naar het vorige programma veranderen
+naar home
+naar home gaan
+naar home navigeren
+naar instellingen
+naar instellingen gaan
+naar instellingen navigeren
+naar intercom
+naar intercom gaan
+naar intercom navigeren
+naar internet
+naar internet gaan
+naar internet navigeren
+naar ios
+naar ios gaan
+naar ios navigeren
+naar kamer verlichting
+naar kamer verlichting gaan
+naar kamer verlichting navigeren
+naar kantelen
+naar kantelen gaan
+naar kantelen navigeren
+naar knikken
+naar knikken gaan
+naar knikken navigeren
+naar koppelen
+naar koppelen gaan
+naar koppelen navigeren
+naar licht
+naar licht gaan
+naar licht menu
+naar licht menu gaan
+naar licht menu navigeren
+naar licht navigeren
+naar lichten
+naar lichten gaan
+naar lichten menu
+naar lichten menu gaan
+naar lichten menu navigeren
+naar lichten navigeren
+naar media
+naar media gaan
+naar media navigeren
+naar modi
+naar modi gaan
+naar modi navigeren
+naar monitor
+naar monitor gaan
+naar monitor navigeren
+naar mouse een
+naar mouse een gaan
+naar mouse een navigeren
+naar mouse twee
+naar mouse twee gaan
+naar mouse twee navigeren
+naar muziek
+naar muziek besturing
+naar muziek besturing gaan
+naar muziek besturing navigeren
+naar muziek bron
+naar muziek bron gaan
+naar muziek bron navigeren
+naar muziek gaan
+naar muziek navigeren
+naar nederlands
+naar nederlands gaan
+naar nederlands navigeren
+naar nieuwe telefoon
+naar nieuwe telefoon gaan
+naar nieuwe telefoon navigeren
+naar nood e-mail
+naar nood e-mail gaan
+naar nood e-mail navigeren
+naar raam
+naar raam gaan
+naar raam navigeren
+naar ramen
+naar ramen gaan
+naar ramen navigeren
+naar rij gebaar
+naar rij gebaar gaan
+naar rij gebaar navigeren
+naar rij gebaren
+naar rij gebaren gaan
+naar rij gebaren navigeren
+naar rijden
+naar rijden gaan
+naar rijden navigeren
+naar smart glass instellingen
+naar smart glass instellingen gaan
+naar smart glass instellingen navigeren
+naar spraakbesturing
+naar spraakbesturing gaan
+naar spraakbesturing navigeren
+naar support
+naar support gaan
+naar support navigeren
+naar synchroniseren navigeren
+naar taal
+naar taal gaan
+naar taal instelling
+naar taal instelling gaan
+naar taal instelling navigeren
+naar taal instellingen
+naar taal instellingen gaan
+naar taal instellingen navigeren
+naar taal navigeren
+naar tafellamp
+naar tafellamp gaan
+naar tafellamp navigeren
+naar talen
+naar talen gaan
+naar talen instelling
+naar talen instelling gaan
+naar talen instelling navigeren
+naar talen instellingen
+naar talen instellingen gaan
+naar talen instellingen navigeren
+naar talen navigeren
+naar tv
+naar tv aan uit
+naar tv aan uit gaan
+naar tv aan uit navigeren
+naar tv besturing
+naar tv besturing gaan
+naar tv besturing navigeren
+naar tv gaan
+naar tv instellingen
+naar tv instellingen gaan
+naar tv instellingen navigeren
+naar tv navigeren
+naar ventilator
+naar ventilator gaan
+naar ventilator navigeren
+naar verwarming
+naar verwarming gaan
+naar verwarming navigeren
+naar volgende kanaal
+naar volgende kanaal gaan
+naar volgende kanaal switchen
+naar volgende kanaal veranderen
+naar volgende lied
+naar volgende lied gaan
+naar volgende lied switchen
+naar volgende lied veranderen
+naar volgende programma
+naar volgende programma gaan
+naar volgende programma switchen
+naar volgende programma veranderen
+naar volgende zender
+naar volgende zender gaan
+naar volgende zender switchen
+naar volgende zender veranderen
+naar volume
+naar volume gaan
+naar volume instelling
+naar volume instelling gaan
+naar volume instelling navigeren
+naar volume instellingen
+naar volume instellingen gaan
+naar volume instellingen navigeren
+naar volume navigeren
+naar vorige kanaal
+naar vorige kanaal gaan
+naar vorige kanaal switchen
+naar vorige kanaal terugkeren
+naar vorige kanaal veranderen
+naar vorige lied
+naar vorige lied gaan
+naar vorige lied switchen
+naar vorige lied terugkeren
+naar vorige lied veranderen
+naar vorige programma
+naar vorige programma gaan
+naar vorige programma switchen
+naar vorige programma terugkeren
+naar vorige programma veranderen
+naar vorige zender
+naar vorige zender gaan
+naar vorige zender switchen
+naar vorige zender terugkeren
+naar vorige zender veranderen
+naar wifi
+naar wifi gaan
+naar wifi navigeren
+naar zitting
+naar zitting gaan
+naar zitting instelling
+naar zitting instelling gaan
+naar zitting instelling navigeren
+naar zitting instellingen
+naar zitting instellingen gaan
+naar zitting instellingen navigeren
+naar zitting navigeren
+naar zitting positie
+naar zitting positie gaan
+naar zitting positie navigeren
 navigeren
 nederlands
 neem
+neem een foto
+neem foto
+neem me mee naar add ons
+neem me mee naar add ons tv
+neem me mee naar administratie
+neem me mee naar alarm
+neem me mee naar alarmlichten
+neem me mee naar alarmlichten menu
+neem me mee naar alleen rijden
+neem me mee naar android
+neem me mee naar app info
+neem me mee naar basis
+neem me mee naar bed
+neem me mee naar bed lamp
+neem me mee naar bestaande telefoon
+neem me mee naar besturing
+neem me mee naar camera
+neem me mee naar computer
+neem me mee naar contacten
+neem me mee naar de categorie add ons
+neem me mee naar de categorie add ons tv
+neem me mee naar de categorie administratie
+neem me mee naar de categorie alarm
+neem me mee naar de categorie alarmlichten
+neem me mee naar de categorie alarmlichten menu
+neem me mee naar de categorie alleen rijden
+neem me mee naar de categorie android
+neem me mee naar de categorie app info
+neem me mee naar de categorie basis
+neem me mee naar de categorie bed
+neem me mee naar de categorie bed lamp
+neem me mee naar de categorie bestaande telefoon
+neem me mee naar de categorie besturing
+neem me mee naar de categorie camera
+neem me mee naar de categorie computer
+neem me mee naar de categorie contacten
+neem me mee naar de categorie deur
+neem me mee naar de categorie duits
+neem me mee naar de categorie engels
+neem me mee naar de categorie frans
+neem me mee naar de categorie galerij
+neem me mee naar de categorie geavanceerd
+neem me mee naar de categorie gordijn
+neem me mee naar de categorie gordijnen
+neem me mee naar de categorie home
+neem me mee naar de categorie instellingen
+neem me mee naar de categorie intercom
+neem me mee naar de categorie internet
+neem me mee naar de categorie ios
+neem me mee naar de categorie kamer verlichting
+neem me mee naar de categorie kantelen
+neem me mee naar de categorie knikken
+neem me mee naar de categorie koppelen
+neem me mee naar de categorie licht
+neem me mee naar de categorie licht menu
+neem me mee naar de categorie lichten
+neem me mee naar de categorie lichten menu
+neem me mee naar de categorie media
+neem me mee naar de categorie modi
+neem me mee naar de categorie monitor
+neem me mee naar de categorie mouse een
+neem me mee naar de categorie mouse twee
+neem me mee naar de categorie muziek
+neem me mee naar de categorie muziek besturing
+neem me mee naar de categorie muziek bron
+neem me mee naar de categorie nederlands
+neem me mee naar de categorie nieuwe telefoon
+neem me mee naar de categorie nood e-mail
+neem me mee naar de categorie raam
+neem me mee naar de categorie ramen
+neem me mee naar de categorie rij gebaar
+neem me mee naar de categorie rij gebaren
+neem me mee naar de categorie rijden
+neem me mee naar de categorie smart glass instellingen
+neem me mee naar de categorie spraakbesturing
+neem me mee naar de categorie support
+neem me mee naar de categorie taal
+neem me mee naar de categorie taal instelling
+neem me mee naar de categorie taal instellingen
+neem me mee naar de categorie tafellamp
+neem me mee naar de categorie talen
+neem me mee naar de categorie talen instelling
+neem me mee naar de categorie talen instellingen
+neem me mee naar de categorie tv
+neem me mee naar de categorie tv aan uit
+neem me mee naar de categorie tv besturing
+neem me mee naar de categorie tv instellingen
+neem me mee naar de categorie ventilator
+neem me mee naar de categorie verwarming
+neem me mee naar de categorie volume
+neem me mee naar de categorie volume instelling
+neem me mee naar de categorie volume instellingen
+neem me mee naar de categorie wifi
+neem me mee naar de categorie zitting
+neem me mee naar de categorie zitting instelling
+neem me mee naar de categorie zitting instellingen
+neem me mee naar de categorie zitting positie
+neem me mee naar deur
+neem me mee naar duits
+neem me mee naar engels
+neem me mee naar frans
+neem me mee naar galerij
+neem me mee naar geavanceerd
+neem me mee naar gordijn
+neem me mee naar gordijnen
+neem me mee naar home
+neem me mee naar instellingen
+neem me mee naar intercom
+neem me mee naar internet
+neem me mee naar ios
+neem me mee naar kamer verlichting
+neem me mee naar kantelen
+neem me mee naar knikken
+neem me mee naar koppelen
+neem me mee naar licht
+neem me mee naar licht menu
+neem me mee naar lichten
+neem me mee naar lichten menu
+neem me mee naar media
+neem me mee naar modi
+neem me mee naar monitor
+neem me mee naar mouse een
+neem me mee naar mouse twee
+neem me mee naar muziek
+neem me mee naar muziek besturing
+neem me mee naar muziek bron
+neem me mee naar nederlands
+neem me mee naar nieuwe telefoon
+neem me mee naar nood e-mail
+neem me mee naar raam
+neem me mee naar ramen
+neem me mee naar rij gebaar
+neem me mee naar rij gebaren
+neem me mee naar rijden
+neem me mee naar smart glass instellingen
+neem me mee naar spraakbesturing
+neem me mee naar support
+neem me mee naar taal
+neem me mee naar taal instelling
+neem me mee naar taal instellingen
+neem me mee naar tafellamp
+neem me mee naar talen
+neem me mee naar talen instelling
+neem me mee naar talen instellingen
+neem me mee naar tv
+neem me mee naar tv aan uit
+neem me mee naar tv besturing
+neem me mee naar tv instellingen
+neem me mee naar ventilator
+neem me mee naar verwarming
+neem me mee naar volume
+neem me mee naar volume instelling
+neem me mee naar volume instellingen
+neem me mee naar wifi
+neem me mee naar zitting
+neem me mee naar zitting instelling
+neem me mee naar zitting instellingen
+neem me mee naar zitting positie
 negen
 nemen
 netwerk
+nieuwe
 nieuwe telefoon
+nood
 nood e-mail
 nul
+ok
+ok glass
 om
 omhoog
 omlaag
@@ -87,48 +1224,1297 @@ on
 ons
 op
 open
+open add ons
+open add ons tv
+open administratie
+open alarm
+open alarmlichten
+open alarmlichten menu
+open alleen rijden
+open android
+open app info
+open basis
+open bed
+open bed lamp
+open bestaande telefoon
+open besturing
+open camera
+open computer
+open contacten
+open de categorie add ons
+open de categorie add ons tv
+open de categorie administratie
+open de categorie alarm
+open de categorie alarmlichten
+open de categorie alarmlichten menu
+open de categorie alleen rijden
+open de categorie android
+open de categorie app info
+open de categorie basis
+open de categorie bed
+open de categorie bed lamp
+open de categorie bestaande telefoon
+open de categorie besturing
+open de categorie camera
+open de categorie computer
+open de categorie contacten
+open de categorie deur
+open de categorie duits
+open de categorie engels
+open de categorie frans
+open de categorie galerij
+open de categorie geavanceerd
+open de categorie gordijnen
+open de categorie home
+open de categorie instellingen
+open de categorie intercom
+open de categorie internet
+open de categorie ios
+open de categorie kamer verlichting
+open de categorie kantelen
+open de categorie knikken
+open de categorie koppelen
+open de categorie licht
+open de categorie licht menu
+open de categorie lichten
+open de categorie lichten menu
+open de categorie media
+open de categorie modi
+open de categorie monitor
+open de categorie mouse een
+open de categorie mouse twee
+open de categorie muziek
+open de categorie muziek besturing
+open de categorie muziek bron
+open de categorie nederlands
+open de categorie nieuwe telefoon
+open de categorie nood e-mail
+open de categorie raam
+open de categorie ramen
+open de categorie rij gebaar
+open de categorie rij gebaren
+open de categorie rijden
+open de categorie smart glass instellingen
+open de categorie spraakbesturing
+open de categorie support
+open de categorie synchroniseren
+open de categorie taal
+open de categorie taal instelling
+open de categorie taal instellingen
+open de categorie tafellamp
+open de categorie talen
+open de categorie talen instelling
+open de categorie talen instellingen
+open de categorie tv
+open de categorie tv aan uit
+open de categorie tv besturing
+open de categorie tv instellingen
+open de categorie ventilator
+open de categorie verwarming
+open de categorie volume
+open de categorie volume instelling
+open de categorie volume instellingen
+open de categorie wifi
+open de categorie zitting
+open de categorie zitting instelling
+open de categorie zitting instellingen
+open de categorie zitting positie
+open de deur
+open de gordijnen
+open de ramen
+open deur
+open duits
+open engels
+open frans
+open galerij
+open geavanceerd
+open gordijn
+open gordijnen
+open het gordijn
+open het raam
+open home
+open instellingen
+open intercom
+open internet
+open ios
+open kamer verlichting
+open kantelen
+open knikken
+open koppelen
+open licht
+open licht menu
+open lichten
+open lichten menu
+open media
+open modi
+open monitor
+open mouse een
+open mouse twee
+open muziek
+open muziek besturing
+open muziek bron
+open nederlands
+open nieuwe telefoon
+open nood e-mail
+open raam
+open ramen
+open rij gebaar
+open rij gebaren
+open rijden
+open smart glass instellingen
+open spraakbesturing
+open support
+open synchroniseren
+open taal
+open taal instelling
+open taal instellingen
+open tafellamp
+open talen
+open talen instelling
+open talen instellingen
+open tv
+open tv aan uit
+open tv besturing
+open tv instellingen
+open ventilator
+open verwarming
+open volume
+open volume instelling
+open volume instellingen
+open wifi
+open zitting
+open zitting instelling
+open zitting instellingen
+open zitting positie
+openen
+opheffen
+optillen
 overschakelen
+overschakelen naar add ons
+overschakelen naar add ons tv
+overschakelen naar administratie
+overschakelen naar alarm
+overschakelen naar alarmlichten
+overschakelen naar alarmlichten menu
+overschakelen naar alleen rijden
+overschakelen naar android
+overschakelen naar app info
+overschakelen naar basis
+overschakelen naar bed
+overschakelen naar bed lamp
+overschakelen naar bestaande telefoon
+overschakelen naar besturing
+overschakelen naar camera
+overschakelen naar computer
+overschakelen naar contacten
+overschakelen naar de categorie add ons
+overschakelen naar de categorie add ons tv
+overschakelen naar de categorie administratie
+overschakelen naar de categorie alarm
+overschakelen naar de categorie alarmlichten
+overschakelen naar de categorie alarmlichten menu
+overschakelen naar de categorie alleen rijden
+overschakelen naar de categorie android
+overschakelen naar de categorie app info
+overschakelen naar de categorie basis
+overschakelen naar de categorie bed
+overschakelen naar de categorie bed lamp
+overschakelen naar de categorie bestaande telefoon
+overschakelen naar de categorie besturing
+overschakelen naar de categorie camera
+overschakelen naar de categorie computer
+overschakelen naar de categorie contacten
+overschakelen naar de categorie deur
+overschakelen naar de categorie duits
+overschakelen naar de categorie engels
+overschakelen naar de categorie frans
+overschakelen naar de categorie galerij
+overschakelen naar de categorie geavanceerd
+overschakelen naar de categorie gordijn
+overschakelen naar de categorie gordijnen
+overschakelen naar de categorie home
+overschakelen naar de categorie instellingen
+overschakelen naar de categorie intercom
+overschakelen naar de categorie internet
+overschakelen naar de categorie ios
+overschakelen naar de categorie kamer verlichting
+overschakelen naar de categorie kantelen
+overschakelen naar de categorie knikken
+overschakelen naar de categorie koppelen
+overschakelen naar de categorie licht
+overschakelen naar de categorie licht menu
+overschakelen naar de categorie lichten
+overschakelen naar de categorie lichten menu
+overschakelen naar de categorie media
+overschakelen naar de categorie modi
+overschakelen naar de categorie monitor
+overschakelen naar de categorie mouse een
+overschakelen naar de categorie mouse twee
+overschakelen naar de categorie muziek
+overschakelen naar de categorie muziek besturing
+overschakelen naar de categorie muziek bron
+overschakelen naar de categorie nederlands
+overschakelen naar de categorie nieuwe telefoon
+overschakelen naar de categorie nood e-mail
+overschakelen naar de categorie raam
+overschakelen naar de categorie ramen
+overschakelen naar de categorie rij gebaar
+overschakelen naar de categorie rij gebaren
+overschakelen naar de categorie rijden
+overschakelen naar de categorie smart glass instellingen
+overschakelen naar de categorie spraakbesturing
+overschakelen naar de categorie support
+overschakelen naar de categorie taal
+overschakelen naar de categorie taal instelling
+overschakelen naar de categorie taal instellingen
+overschakelen naar de categorie tafellamp
+overschakelen naar de categorie talen
+overschakelen naar de categorie talen instelling
+overschakelen naar de categorie talen instellingen
+overschakelen naar de categorie tv
+overschakelen naar de categorie tv aan uit
+overschakelen naar de categorie tv besturing
+overschakelen naar de categorie tv instellingen
+overschakelen naar de categorie ventilator
+overschakelen naar de categorie verwarming
+overschakelen naar de categorie volume
+overschakelen naar de categorie volume instelling
+overschakelen naar de categorie volume instellingen
+overschakelen naar de categorie wifi
+overschakelen naar de categorie zitting
+overschakelen naar de categorie zitting instelling
+overschakelen naar de categorie zitting instellingen
+overschakelen naar de categorie zitting positie
+overschakelen naar deur
+overschakelen naar duits
+overschakelen naar engels
+overschakelen naar frans
+overschakelen naar galerij
+overschakelen naar geavanceerd
+overschakelen naar gordijn
+overschakelen naar gordijnen
+overschakelen naar home
+overschakelen naar instellingen
+overschakelen naar intercom
+overschakelen naar internet
+overschakelen naar ios
+overschakelen naar kamer verlichting
+overschakelen naar kantelen
+overschakelen naar knikken
+overschakelen naar koppelen
+overschakelen naar licht
+overschakelen naar licht menu
+overschakelen naar lichten
+overschakelen naar lichten menu
+overschakelen naar media
+overschakelen naar modi
+overschakelen naar monitor
+overschakelen naar mouse een
+overschakelen naar mouse twee
+overschakelen naar muziek
+overschakelen naar muziek besturing
+overschakelen naar muziek bron
+overschakelen naar nederlands
+overschakelen naar nieuwe telefoon
+overschakelen naar nood e-mail
+overschakelen naar raam
+overschakelen naar ramen
+overschakelen naar rij gebaar
+overschakelen naar rij gebaren
+overschakelen naar rijden
+overschakelen naar smart glass instellingen
+overschakelen naar spraakbesturing
+overschakelen naar support
+overschakelen naar taal
+overschakelen naar taal instelling
+overschakelen naar taal instellingen
+overschakelen naar tafellamp
+overschakelen naar talen
+overschakelen naar talen instelling
+overschakelen naar talen instellingen
+overschakelen naar tv
+overschakelen naar tv aan uit
+overschakelen naar tv besturing
+overschakelen naar tv instellingen
+overschakelen naar ventilator
+overschakelen naar verwarming
+overschakelen naar volume
+overschakelen naar volume instelling
+overschakelen naar volume instellingen
+overschakelen naar wifi
+overschakelen naar zitting
+overschakelen naar zitting instelling
+overschakelen naar zitting instellingen
+overschakelen naar zitting positie
+pauzeren
 positie
+programma
+raam
+raam dicht
+raam open
+raam openen
+raam sluiten
+ramen
+ramen dicht
+ramen open
+ramen openen
+ramen sluiten
 rij
+rij gebaar
+rij gebaren
 rijden
 schakel
+schakel alarm in
+schakel alarm uit
+schakel alarmlichten in
+schakel alarmlichten uit
+schakel bed lamp in
+schakel bed lamp uit
+schakel de alarmlichten in
+schakel de alarmlichten uit
+schakel de bed lamp in
+schakel de bed lamp uit
+schakel de kamer verlichting in
+schakel de kamer verlichting uit
+schakel de lichten in
+schakel de lichten uit
+schakel de taal naar duits
+schakel de taal naar engels
+schakel de taal naar frans
+schakel de taal naar het duits
+schakel de taal naar het engels
+schakel de taal naar het frans
+schakel de taal naar het nederlands
+schakel de taal naar nederlands
+schakel de tafellamp in
+schakel de tafellamp uit
+schakel de tv in
+schakel de tv uit
+schakel de ventilator in
+schakel de ventilator uit
+schakel de verwarming in
+schakel de verwarming uit
+schakel het alarm in
+schakel het alarm uit
+schakel het licht in
+schakel het licht uit
+schakel kamer verlichting in
+schakel kamer verlichting uit
+schakel licht in
+schakel licht uit
+schakel lichten in
+schakel lichten uit
+schakel naar duits
+schakel naar engels
+schakel naar frans
+schakel naar het duits
+schakel naar het engels
+schakel naar het frans
+schakel naar het nederlands
+schakel naar nederlands
+schakel taal naar duits
+schakel taal naar engels
+schakel taal naar frans
+schakel taal naar het duits
+schakel taal naar het engels
+schakel taal naar het frans
+schakel taal naar het nederlands
+schakel taal naar nederlands
+schakel tafellamp in
+schakel tafellamp uit
+schakel tv in
+schakel tv uit
+schakel ventilator in
+schakel ventilator uit
+schakel verwarming in
+schakel verwarming uit
 selecteer
+selecteer add ons
+selecteer add ons tv
+selecteer administratie
+selecteer alarm
+selecteer alarmlichten
+selecteer alarmlichten menu
+selecteer alleen rijden
+selecteer android
+selecteer app info
+selecteer basis
+selecteer bed
+selecteer bed lamp
+selecteer bestaande telefoon
+selecteer besturing
+selecteer camera
+selecteer computer
+selecteer contacten
+selecteer de categorie add ons
+selecteer de categorie add ons tv
+selecteer de categorie administratie
+selecteer de categorie alarm
+selecteer de categorie alarmlichten
+selecteer de categorie alarmlichten menu
+selecteer de categorie alleen rijden
+selecteer de categorie android
+selecteer de categorie app info
+selecteer de categorie basis
+selecteer de categorie bed
+selecteer de categorie bed lamp
+selecteer de categorie bestaande telefoon
+selecteer de categorie besturing
+selecteer de categorie camera
+selecteer de categorie computer
+selecteer de categorie contacten
+selecteer de categorie deur
+selecteer de categorie galerij
+selecteer de categorie geavanceerd
+selecteer de categorie gordijn
+selecteer de categorie gordijnen
+selecteer de categorie home
+selecteer de categorie instellingen
+selecteer de categorie intercom
+selecteer de categorie internet
+selecteer de categorie ios
+selecteer de categorie kamer verlichting
+selecteer de categorie kantelen
+selecteer de categorie knikken
+selecteer de categorie koppelen
+selecteer de categorie licht
+selecteer de categorie licht menu
+selecteer de categorie lichten
+selecteer de categorie lichten menu
+selecteer de categorie media
+selecteer de categorie modi
+selecteer de categorie monitor
+selecteer de categorie mouse een
+selecteer de categorie mouse twee
+selecteer de categorie muziek
+selecteer de categorie muziek besturing
+selecteer de categorie muziek bron
+selecteer de categorie nieuwe telefoon
+selecteer de categorie nood e-mail
+selecteer de categorie raam
+selecteer de categorie ramen
+selecteer de categorie rij gebaar
+selecteer de categorie rij gebaren
+selecteer de categorie rijden
+selecteer de categorie smart glass instellingen
+selecteer de categorie spraakbesturing
+selecteer de categorie support
+selecteer de categorie synchroniseren
+selecteer de categorie taal
+selecteer de categorie taal instelling
+selecteer de categorie taal instellingen
+selecteer de categorie tafellamp
+selecteer de categorie talen
+selecteer de categorie talen instelling
+selecteer de categorie talen instellingen
+selecteer de categorie tv
+selecteer de categorie tv aan uit
+selecteer de categorie tv besturing
+selecteer de categorie tv instellingen
+selecteer de categorie ventilator
+selecteer de categorie verwarming
+selecteer de categorie volume
+selecteer de categorie volume instelling
+selecteer de categorie volume instellingen
+selecteer de categorie wifi
+selecteer de categorie zitting
+selecteer de categorie zitting instelling
+selecteer de categorie zitting instellingen
+selecteer de categorie zitting positie
+selecteer de volgende zender
+selecteer de vorige zender
+selecteer deur
+selecteer duits
+selecteer engels
+selecteer frans
+selecteer galerij
+selecteer geavanceerd
+selecteer gordijn
+selecteer gordijnen
+selecteer het volgende kanaal
+selecteer het volgende lied
+selecteer het volgende programma
+selecteer het vorige kanaal
+selecteer het vorige lied
+selecteer het vorige programma
+selecteer home
+selecteer instellingen
+selecteer intercom
+selecteer internet
+selecteer ios
+selecteer kamer verlichting
+selecteer kantelen
+selecteer knikken
+selecteer koppelen
+selecteer licht
+selecteer licht menu
+selecteer lichten
+selecteer lichten menu
+selecteer media
+selecteer modi
+selecteer monitor
+selecteer mouse een
+selecteer mouse twee
+selecteer muziek
+selecteer muziek besturing
+selecteer muziek bron
+selecteer nederlands
+selecteer nieuwe telefoon
+selecteer nood e-mail
+selecteer raam
+selecteer ramen
+selecteer rij gebaar
+selecteer rij gebaren
+selecteer rijden
+selecteer smart glass instellingen
+selecteer spraakbesturing
+selecteer support
+selecteer synchroniseren
+selecteer taal
+selecteer taal instelling
+selecteer taal instellingen
+selecteer tafellamp
+selecteer talen
+selecteer talen instelling
+selecteer talen instellingen
+selecteer tv
+selecteer tv aan uit
+selecteer tv besturing
+selecteer tv instellingen
+selecteer ventilator
+selecteer verwarming
+selecteer volgende kanaal
+selecteer volgende lied
+selecteer volgende programma
+selecteer volgende zender
+selecteer volume
+selecteer volume instelling
+selecteer volume instellingen
+selecteer vorige kanaal
+selecteer vorige lied
+selecteer vorige programma
+selecteer vorige zender
+selecteer wifi
+selecteer zitting
+selecteer zitting instelling
+selecteer zitting instellingen
+selecteer zitting positie
+selecteren
+sluit
+sluit de deur
+sluit de gordijnen
+sluit de ramen
+sluit deur
+sluit gordijn
+sluit gordijnen
+sluit het gordijn
+sluit het raam
+sluit raam
+sluit ramen
+sluiten
 smart
+smart glass
+smart glass instellingen
+smart glass synchronisatie
+smart glass synchroniseren
+smart glass update
+smart glass updaten
+speel
+speel de muziek
+speel de muziek af
+speel het volgende lied
+speel het volgende lied af
+speel het vorige lied
+speel het vorige lied af
+speel muziek
+speel muziek af
+speel volgende lied
+speel volgende lied af
+speel vorige lied
+speel vorige lied af
+spelen
+spraakbesturing
 start
+start app synchronisatie
+start app update
+start apparaat synchronisatie
+start apparaat update
+start de app synchronisatie
+start de app update
+start de apparaat synchronisatie
+start de apparaat update
+start de muziek
+start de smart glass synchronisatie
+start de smart glass update
+start de synchronisatie
+start de synchronisatie van de app
+start de synchronisatie van de smart glass
+start de synchronisatie van het apparaat
+start de synchronisatie van het toestel
+start de toestel synchronisatie
+start de toestel update
+start de update
+start de update van de app
+start de update van de smart glass
+start de update van het apparaat
+start de update van het toestel
+start kantel kalibreren
+start kantelen kalibreren
+start knik kalibreren
+start knikken kalibreren
+start met updaten
+start muziek
+start smart glass synchronisatie
+start smart glass update
+start synchronisatie
+start synchronisatie van de app
+start synchronisatie van de smart glass
+start synchronisatie van het apparaat
+start synchronisatie van het toestel
+start toestel synchronisatie
+start toestel update
+start update
+start update van de app
+start update van de smart glass
+start update van het apparaat
+start update van het toestel
+starten
 stel
+stel de taal in op het duits
+stel de taal in op het engels
+stel de taal in op het frans
+stel de taal in op het nederlands
+stel het volume acht
+stel het volume drie
+stel het volume een
+stel het volume negen
+stel het volume nul
+stel het volume op acht
+stel het volume op drie
+stel het volume op een
+stel het volume op negen
+stel het volume op nul
+stel het volume op tien
+stel het volume op twee
+stel het volume op vier
+stel het volume op vijf
+stel het volume op zes
+stel het volume op zeven
+stel het volume tien
+stel het volume twee
+stel het volume vier
+stel het volume vijf
+stel het volume zes
+stel het volume zeven
+stel volume acht
+stel volume drie
+stel volume een
+stel volume negen
+stel volume nul
+stel volume op acht
+stel volume op drie
+stel volume op een
+stel volume op negen
+stel volume op nul
+stel volume op tien
+stel volume op twee
+stel volume op vier
+stel volume op vijf
+stel volume op zes
+stel volume op zeven
+stel volume tien
+stel volume twee
+stel volume vier
+stel volume vijf
+stel volume zes
+stel volume zeven
+stop
+stop de muziek
+stop muziek
+stoppen
 support
+switch
+switch de muziek aan
+switch muziek aan
+switch naar de volgende zender
+switch naar de vorige zender
+switch naar het volgende kanaal
+switch naar het volgende lied
+switch naar het volgende programma
+switch naar het vorige kanaal
+switch naar het vorige lied
+switch naar het vorige programma
+switch naar volgende kanaal
+switch naar volgende lied
+switch naar volgende programma
+switch naar volgende zender
+switch naar vorige kanaal
+switch naar vorige lied
+switch naar vorige programma
+switch naar vorige zender
+switchen
 synchronisatie
+synchronisatie van app
+synchronisatie van apparaat
+synchronisatie van de app
+synchronisatie van de smart glass
+synchronisatie van het apparaat
+synchronisatie van het toestel
+synchronisatie van smart glass
+synchronisatie van toestel
 synchroniseren
-tv
+synchroniseren de app
+synchroniseren de apparaat
+synchroniseren de smart glass
+synchroniseren de toestel
 taal
+taal duits
+taal engels
+taal frans
+taal instellen op duits
+taal instellen op engels
+taal instellen op frans
+taal instellen op nederlands
+taal instelling
+taal instellingen
+taal naar duits
+taal naar engels
+taal naar frans
+taal naar het duits
+taal naar het engels
+taal naar het frans
+taal naar het nederlands
+taal naar nederlands
+taal nederlands
+tafellamp
+tafellamp aan
+tafellamp aanzetten
+tafellamp inschakelen
+tafellamp uit
+tafellamp uitschakelen
+tafellamp uitzetten
 talen
+talen instelling
+talen instellingen
 telefoon
+terug
+terug naar de vorige zender
+terug naar het vorige kanaal
+terug naar het vorige lied
+terug naar het vorige programma
+terug naar vorige kanaal
+terug naar vorige lied
+terug naar vorige programma
+terug naar vorige zender
+terugkeren
 tien
+til
+til bed hoogte op
+til bed op
+til de bed hoogte op
+til het bed op
 toestel
+toestel synchronisatie
+toestel synchroniseren
+toestel update
+toestel updaten
+tv
+tv aan
+tv aan uit
+tv aanzetten
+tv besturing
+tv harder
+tv inschakelen
+tv instellingen
+tv lager
+tv omhoog
+tv omlaag
+tv uit
+tv uitschakelen
+tv uitzetten
+tv verhogen
+tv verlagen
+tv verminderen
+tv volume harder
+tv volume lager
+tv volume omhoog
+tv volume omlaag
+tv volume verhogen
+tv volume verlagen
+tv volume verminderen
+tv volume zachter
+tv zachter
 twee
 uit
 uitschakelen
+uitzetten
 update
+update app
+update apparaat
+update de app
+update de smart glass
+update het apparaat
+update het toestel
+update smart glass
+update toestel
+update van de app
+update van de smart glass
+update van het apparaat
+update van het toestel
 updaten
 van
+ventilator
+ventilator aan
+ventilator aanzetten
+ventilator inschakelen
+ventilator uit
+ventilator uitschakelen
+ventilator uitzetten
 verander
+verander de taal naar duits
+verander de taal naar engels
+verander de taal naar frans
+verander de taal naar het duits
+verander de taal naar het engels
+verander de taal naar het frans
+verander de taal naar het nederlands
+verander de taal naar nederlands
+verander het volume acht
+verander het volume drie
+verander het volume een
+verander het volume negen
+verander het volume nul
+verander het volume op acht
+verander het volume op drie
+verander het volume op een
+verander het volume op negen
+verander het volume op nul
+verander het volume op tien
+verander het volume op twee
+verander het volume op vier
+verander het volume op vijf
+verander het volume op zes
+verander het volume op zeven
+verander het volume tien
+verander het volume twee
+verander het volume vier
+verander het volume vijf
+verander het volume zes
+verander het volume zeven
+verander naar add ons
+verander naar add ons tv
+verander naar administratie
+verander naar alarm
+verander naar alarmlichten
+verander naar alarmlichten menu
+verander naar alleen rijden
+verander naar android
+verander naar app info
+verander naar basis
+verander naar bed
+verander naar bed lamp
+verander naar bestaande telefoon
+verander naar besturing
+verander naar camera
+verander naar computer
+verander naar contacten
+verander naar de volgende zender
+verander naar de vorige zender
+verander naar deur
+verander naar duits
+verander naar engels
+verander naar frans
+verander naar galerij
+verander naar geavanceerd
+verander naar gordijn
+verander naar gordijnen
+verander naar het duits
+verander naar het engels
+verander naar het frans
+verander naar het nederlands
+verander naar het volgende kanaal
+verander naar het volgende lied
+verander naar het volgende programma
+verander naar het vorige kanaal
+verander naar het vorige lied
+verander naar het vorige programma
+verander naar home
+verander naar instellingen
+verander naar intercom
+verander naar internet
+verander naar ios
+verander naar kamer verlichting
+verander naar kantelen
+verander naar knikken
+verander naar koppelen
+verander naar licht
+verander naar licht menu
+verander naar lichten
+verander naar lichten menu
+verander naar media
+verander naar modi
+verander naar monitor
+verander naar mouse een
+verander naar mouse twee
+verander naar muziek
+verander naar muziek besturing
+verander naar muziek bron
+verander naar nederlands
+verander naar nieuwe telefoon
+verander naar nood e-mail
+verander naar raam
+verander naar ramen
+verander naar rij gebaar
+verander naar rij gebaren
+verander naar rijden
+verander naar smart glass instellingen
+verander naar spraakbesturing
+verander naar support
+verander naar synchroniseren
+verander naar taal
+verander naar taal instelling
+verander naar taal instellingen
+verander naar tafellamp
+verander naar talen
+verander naar talen instelling
+verander naar talen instellingen
+verander naar tv
+verander naar tv aan uit
+verander naar tv besturing
+verander naar tv instellingen
+verander naar ventilator
+verander naar verwarming
+verander naar volgende kanaal
+verander naar volgende lied
+verander naar volgende programma
+verander naar volgende zender
+verander naar volume
+verander naar volume instelling
+verander naar volume instellingen
+verander naar vorige kanaal
+verander naar vorige lied
+verander naar vorige programma
+verander naar vorige zender
+verander naar wifi
+verander naar zitting
+verander naar zitting instelling
+verander naar zitting instellingen
+verander naar zitting positie
+verander taal naar duits
+verander taal naar engels
+verander taal naar frans
+verander taal naar het duits
+verander taal naar het engels
+verander taal naar het frans
+verander taal naar het nederlands
+verander taal naar nederlands
+veranderen
 verbinding
 verbindt
+verbindt internet
+verbindt met internet
+verbindt met wifi
+verbindt met wifi netwerk
+verbindt wifi
+verbindt wifi netwerk
 verhogen
 verhoog
+verhoog bed
+verhoog bed hoogte
+verhoog de bed hoogte
+verhoog de muziek
+verhoog de tv
+verhoog het bed
+verhoog het muziek volume
+verhoog het tv volume
+verhoog het volume
+verhoog het volume van de muziek
+verhoog het volume van de tv
+verhoog muziek
+verhoog muziek volume
+verhoog tv
+verhoog tv volume
+verhoog volume
+verhoog volume van de muziek
+verhoog volume van de tv
 verlaag
+verlaag het muziek
+verlaag het muziek volume
+verlaag het tv
+verlaag het tv volume
+verlaag het volume
+verlaag het volume van de muziek
+verlaag het volume van de tv
+verlaag muziek
+verlaag muziek volume
+verlaag tv
+verlaag tv volume
+verlaag volume
+verlaag volume van de muziek
+verlaag volume van de tv
 verlagen
 verminder
+verminder bed
+verminder bed hoogte
+verminder de bed hoogte
+verminder het bed
+verminder het muziek
+verminder het muziek volume
+verminder het tv
+verminder het tv volume
+verminder het volume
+verminder het volume van de muziek
+verminder het volume van de tv
+verminder muziek
+verminder muziek volume
+verminder tv
+verminder tv volume
+verminder volume
+verminder volume van de muziek
+verminder volume van de tv
 verminderen
+verwarming
+verwarming aan
+verwarming aanzetten
+verwarming inschakelen
+verwarming uit
+verwarming uitschakelen
+verwarming uitzetten
 vier
 vijf
+volgende
+volgende kanaal
+volgende kanaal selecteren
+volgende lied
+volgende lied afspelen
+volgende lied selecteren
+volgende lied spelen
+volgende programma
+volgende programma selecteren
+volgende zender
+volgende zender selecteren
 volume
+volume acht
+volume drie
+volume een
+volume harder
+volume instelling
+volume instellingen
+volume lager
+volume negen
+volume nul
+volume omhoog
+volume omlaag
+volume op acht
+volume op drie
+volume op een
+volume op negen
+volume op nul
+volume op tien
+volume op twee
+volume op vier
+volume op vijf
+volume op zes
+volume op zeven
+volume tien
+volume twee
+volume van de muziek harder
+volume van de muziek lager
+volume van de muziek omhoog
+volume van de muziek omlaag
+volume van de muziek verhogen
+volume van de muziek verlagen
+volume van de muziek verminderen
+volume van de muziek zachter
+volume van de tv harder
+volume van de tv lager
+volume van de tv omhoog
+volume van de tv omlaag
+volume van de tv verhogen
+volume van de tv verlagen
+volume van de tv verminderen
+volume van de tv zachter
+volume verhogen
+volume verlagen
+volume verminderen
+volume vier
+volume vijf
+volume zachter
+volume zes
+volume zeven
+vorige
+vorige kanaal
+vorige kanaal selecteren
+vorige lied
+vorige lied afspelen
+vorige lied selecteren
+vorige lied spelen
+vorige programma
+vorige programma selecteren
+vorige zender
+vorige zender selecteren
 wifi
+wifi verbinding instellen
 zachter
+zakken
+zender
 zes
 zet
+zet alarm aan
+zet alarm uit
+zet alarmlichten aan
+zet alarmlichten uit
+zet bed hoogte minder hoog
+zet bed hoogte omhoog
+zet bed hoogte omlaag
+zet bed lamp aan
+zet bed lamp uit
+zet bed minder hoog
+zet bed omhoog
+zet bed omlaag
+zet de alarmlichten aan
+zet de alarmlichten uit
+zet de bed hoogte minder hoog
+zet de bed hoogte omhoog
+zet de bed hoogte omlaag
+zet de bed lamp aan
+zet de bed lamp uit
+zet de kamer verlichting aan
+zet de kamer verlichting uit
+zet de lichten aan
+zet de lichten uit
+zet de muziek aan
+zet de muziek af
+zet de muziek harder
+zet de muziek omhoog
+zet de muziek uit
+zet de taal om naar duits
+zet de taal om naar engels
+zet de taal om naar frans
+zet de taal om naar nederlands
+zet de taal op duits
+zet de taal op engels
+zet de taal op frans
+zet de taal op nederlands
+zet de tafellamp aan
+zet de tafellamp uit
+zet de tv aan
+zet de tv harder
+zet de tv omhoog
+zet de tv uit
+zet de ventilator aan
+zet de ventilator uit
+zet de verwarming aan
+zet de verwarming uit
+zet de volume acht
+zet de volume drie
+zet de volume een
+zet de volume negen
+zet de volume nul
+zet de volume op acht
+zet de volume op drie
+zet de volume op een
+zet de volume op negen
+zet de volume op nul
+zet de volume op tien
+zet de volume op twee
+zet de volume op vier
+zet de volume op vijf
+zet de volume op zes
+zet de volume op zeven
+zet de volume tien
+zet de volume twee
+zet de volume vier
+zet de volume vijf
+zet de volume zes
+zet de volume zeven
+zet het alarm aan
+zet het alarm uit
+zet het bed minder hoog
+zet het bed omhoog
+zet het bed omlaag
+zet het licht aan
+zet het licht uit
+zet het muziek lager
+zet het muziek omlaag
+zet het muziek volume harder
+zet het muziek volume lager
+zet het muziek volume omhoog
+zet het muziek volume omlaag
+zet het muziek volume zachter
+zet het muziek zachter
+zet het tv lager
+zet het tv omlaag
+zet het tv volume harder
+zet het tv volume lager
+zet het tv volume omhoog
+zet het tv volume omlaag
+zet het tv volume zachter
+zet het tv zachter
+zet het volume acht
+zet het volume drie
+zet het volume een
+zet het volume harder
+zet het volume lager
+zet het volume negen
+zet het volume nul
+zet het volume omhoog
+zet het volume omlaag
+zet het volume op acht
+zet het volume op drie
+zet het volume op een
+zet het volume op negen
+zet het volume op nul
+zet het volume op tien
+zet het volume op twee
+zet het volume op vier
+zet het volume op vijf
+zet het volume op zes
+zet het volume op zeven
+zet het volume tien
+zet het volume twee
+zet het volume van de muziek harder
+zet het volume van de muziek lager
+zet het volume van de muziek omhoog
+zet het volume van de muziek omlaag
+zet het volume van de muziek zachter
+zet het volume van de tv harder
+zet het volume van de tv lager
+zet het volume van de tv omhoog
+zet het volume van de tv omlaag
+zet het volume van de tv zachter
+zet het volume vier
+zet het volume vijf
+zet het volume zachter
+zet het volume zes
+zet het volume zeven
+zet kamer verlichting aan
+zet kamer verlichting uit
+zet licht aan
+zet licht uit
+zet lichten aan
+zet lichten uit
+zet muziek aan
+zet muziek af
+zet muziek uit
+zet tafellamp aan
+zet tafellamp uit
+zet tv aan
+zet tv uit
+zet ventilator aan
+zet ventilator uit
+zet verwarming aan
+zet verwarming uit
 zetten
 zeven
 zitting
+zitting instelling
+zitting instellingen
+zitting positie
 zoek
-spraakbesturing
+zoek een internet verbinding
+zoek een wifi netwerk
+zoek een wifi verbinding
+zoek naar internet verbinding
+zoek naar wifi netwerk
+zoek naar wifi verbinding

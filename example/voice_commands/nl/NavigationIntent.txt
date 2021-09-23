@@ -1,6 +1,9 @@
+<START:nav_target> add ons <END>
+<START:nav_target> add ons tv <END>
 <START:nav_target> add-ons <END>
 <START:nav_target> add-ons tv <END>
 <START:nav_target> admin <END>
+<START:nav_target> administratie <END>
 <START:nav_target> alarm <END>
 <START:nav_target> alarmlichten <END>
 <START:nav_target> alarmlichten <END> menu
@@ -9,6 +12,7 @@
 <START:nav_target> app info <END>
 <START:nav_target> basis <END>
 <START:nav_target> bed <END>
+<START:nav_target> bed lamp <END>
 <START:nav_target> bedlamp <END>
 <START:nav_target> bestaande telefoon <END>
 <START:nav_target> besturing <END>
@@ -34,7 +38,8 @@
 <START:nav_target> internet <END>
 <START:nav_target> ios <END>
 <START:nav_target> kalibratie <END>
-<START:nav_target> kameraverlichting <END>
+<START:nav_target> kamer verlichting <END>
+<START:nav_target> kamerverlichting <END>
 <START:nav_target> kantel <END> kalibratie
 <START:nav_target> kantelen <END>
 <START:nav_target> kantelen <END> kalibratie
@@ -48,12 +53,13 @@
 <START:nav_target> lichten <END>
 <START:nav_target> lichten <END> menu
 <START:nav_target> media <END>
-<START:nav_target> spraakbesturing <END>
 <START:nav_target> modi <END>
 <START:nav_target> monitor <END>
 <START:nav_target> mouse een <END>
 <START:nav_target> mouse twee <END>
 <START:nav_target> muziek <END>
+<START:nav_target> muziek besturing <END>
+<START:nav_target> muziek bron <END>
 <START:nav_target> muziekbesturing <END>
 <START:nav_target> muziekbron <END>
 <START:nav_target> nederlands <END>
@@ -61,10 +67,14 @@
 <START:nav_target> nood e-mail <END>
 <START:nav_target> raam <END>
 <START:nav_target> ramen <END>
+<START:nav_target> rij gebaar <END>
+<START:nav_target> rij gebaren <END>
 <START:nav_target> rijden <END>
 <START:nav_target> rijgebaar <END>
 <START:nav_target> rijgebaren <END>
 <START:nav_target> smart glass instellingen <END>
+<START:nav_target> smartglass instellingen <END>
+<START:nav_target> spraakbesturing <END>
 <START:nav_target> support <END>
 <START:nav_target> taal <END>
 <START:nav_target> taal <END> instelling
@@ -74,6 +84,7 @@
 <START:nav_target> talen <END> instelling
 <START:nav_target> talen <END> instellingen
 <START:nav_target> tv <END>
+<START:nav_target> tv aan uit <END>
 <START:nav_target> tv aan/uit <END>
 <START:nav_target> tv besturing <END>
 <START:nav_target> tv instellingen <END>
@@ -87,9 +98,12 @@
 <START:nav_target> zitting <END> instelling
 <START:nav_target> zitting <END> instellingen
 <START:nav_target> zitting <END> positie
+ga naar <START:nav_target> add ons <END>
+ga naar <START:nav_target> add ons tv <END>
 ga naar <START:nav_target> add-ons <END>
 ga naar <START:nav_target> add-ons tv <END>
 ga naar <START:nav_target> admin <END>
+ga naar <START:nav_target> administratie <END>
 ga naar <START:nav_target> alarm <END>
 ga naar <START:nav_target> alarmlichten <END>
 ga naar <START:nav_target> alarmlichten <END> menu
@@ -98,6 +112,7 @@ ga naar <START:nav_target> android <END>
 ga naar <START:nav_target> app info <END>
 ga naar <START:nav_target> basis <END>
 ga naar <START:nav_target> bed <END>
+ga naar <START:nav_target> bed lamp <END>
 ga naar <START:nav_target> bedlamp <END>
 ga naar <START:nav_target> bestaande telefoon <END>
 ga naar <START:nav_target> besturing <END>
@@ -123,7 +138,8 @@ ga naar <START:nav_target> intercom <END>
 ga naar <START:nav_target> internet <END>
 ga naar <START:nav_target> ios <END>
 ga naar <START:nav_target> kalibratie <END>
-ga naar <START:nav_target> kameraverlichting <END>
+ga naar <START:nav_target> kamer verlichting <END>
+ga naar <START:nav_target> kamerverlichting <END>
 ga naar <START:nav_target> kantel <END> kalibratie
 ga naar <START:nav_target> kantelen <END>
 ga naar <START:nav_target> kantelen <END> kalibratie
@@ -137,12 +153,13 @@ ga naar <START:nav_target> licht <END> menu
 ga naar <START:nav_target> lichten <END>
 ga naar <START:nav_target> lichten <END> menu
 ga naar <START:nav_target> media <END>
-ga naar <START:nav_target> spraakbesturing <END>
 ga naar <START:nav_target> modi <END>
 ga naar <START:nav_target> monitor <END>
 ga naar <START:nav_target> mouse een <END>
 ga naar <START:nav_target> mouse twee <END>
 ga naar <START:nav_target> muziek <END>
+ga naar <START:nav_target> muziek besturing <END>
+ga naar <START:nav_target> muziek bron <END>
 ga naar <START:nav_target> muziekbesturing <END>
 ga naar <START:nav_target> muziekbron <END>
 ga naar <START:nav_target> nederlands <END>
@@ -150,10 +167,14 @@ ga naar <START:nav_target> nieuwe telefoon <END>
 ga naar <START:nav_target> nood e-mail <END>
 ga naar <START:nav_target> raam <END>
 ga naar <START:nav_target> ramen <END>
+ga naar <START:nav_target> rij gebaar <END>
+ga naar <START:nav_target> rij gebaren <END>
 ga naar <START:nav_target> rijden <END>
 ga naar <START:nav_target> rijgebaar <END>
 ga naar <START:nav_target> rijgebaren <END>
 ga naar <START:nav_target> smart glass instellingen <END>
+ga naar <START:nav_target> smartglass instellingen <END>
+ga naar <START:nav_target> spraakbesturing <END>
 ga naar <START:nav_target> support <END>
 ga naar <START:nav_target> synchroniseren <END>
 ga naar <START:nav_target> taal <END>
@@ -164,6 +185,7 @@ ga naar <START:nav_target> talen <END>
 ga naar <START:nav_target> talen <END> instelling
 ga naar <START:nav_target> talen <END> instellingen
 ga naar <START:nav_target> tv <END>
+ga naar <START:nav_target> tv aan uit <END>
 ga naar <START:nav_target> tv aan/uit <END>
 ga naar <START:nav_target> tv besturing <END>
 ga naar <START:nav_target> tv instellingen <END>
@@ -177,9 +199,12 @@ ga naar <START:nav_target> zitting <END>
 ga naar <START:nav_target> zitting <END> instelling
 ga naar <START:nav_target> zitting <END> instellingen
 ga naar <START:nav_target> zitting <END> positie
+ga naar de categorie <START:nav_target> add ons <END>
+ga naar de categorie <START:nav_target> add ons tv <END>
 ga naar de categorie <START:nav_target> add-ons <END>
 ga naar de categorie <START:nav_target> add-ons tv <END>
 ga naar de categorie <START:nav_target> admin <END>
+ga naar de categorie <START:nav_target> administratie <END>
 ga naar de categorie <START:nav_target> alarm <END>
 ga naar de categorie <START:nav_target> alarmlichten <END>
 ga naar de categorie <START:nav_target> alarmlichten <END> menu
@@ -188,6 +213,7 @@ ga naar de categorie <START:nav_target> android <END>
 ga naar de categorie <START:nav_target> app info <END>
 ga naar de categorie <START:nav_target> basis <END>
 ga naar de categorie <START:nav_target> bed <END>
+ga naar de categorie <START:nav_target> bed lamp <END>
 ga naar de categorie <START:nav_target> bedlamp <END>
 ga naar de categorie <START:nav_target> bestaande telefoon <END>
 ga naar de categorie <START:nav_target> besturing <END>
@@ -213,7 +239,8 @@ ga naar de categorie <START:nav_target> intercom <END>
 ga naar de categorie <START:nav_target> internet <END>
 ga naar de categorie <START:nav_target> ios <END>
 ga naar de categorie <START:nav_target> kalibratie <END>
-ga naar de categorie <START:nav_target> kameraverlichting <END>
+ga naar de categorie <START:nav_target> kamer verlichting <END>
+ga naar de categorie <START:nav_target> kamerverlichting <END>
 ga naar de categorie <START:nav_target> kantel <END> kalibratie
 ga naar de categorie <START:nav_target> kantelen <END>
 ga naar de categorie <START:nav_target> kantelen <END> kalibratie
@@ -227,12 +254,13 @@ ga naar de categorie <START:nav_target> licht <END> menu
 ga naar de categorie <START:nav_target> lichten <END>
 ga naar de categorie <START:nav_target> lichten <END> menu
 ga naar de categorie <START:nav_target> media <END>
-ga naar de categorie <START:nav_target> spraakbesturing <END>
 ga naar de categorie <START:nav_target> modi <END>
 ga naar de categorie <START:nav_target> monitor <END>
 ga naar de categorie <START:nav_target> mouse een <END>
 ga naar de categorie <START:nav_target> mouse twee <END>
 ga naar de categorie <START:nav_target> muziek <END>
+ga naar de categorie <START:nav_target> muziek besturing <END>
+ga naar de categorie <START:nav_target> muziek bron <END>
 ga naar de categorie <START:nav_target> muziekbesturing <END>
 ga naar de categorie <START:nav_target> muziekbron <END>
 ga naar de categorie <START:nav_target> nederlands <END>
@@ -240,10 +268,14 @@ ga naar de categorie <START:nav_target> nieuwe telefoon <END>
 ga naar de categorie <START:nav_target> nood e-mail <END>
 ga naar de categorie <START:nav_target> raam <END>
 ga naar de categorie <START:nav_target> ramen <END>
+ga naar de categorie <START:nav_target> rij gebaar <END>
+ga naar de categorie <START:nav_target> rij gebaaren <END>
 ga naar de categorie <START:nav_target> rijden <END>
 ga naar de categorie <START:nav_target> rijgebaar <END>
 ga naar de categorie <START:nav_target> rijgebaaren <END>
 ga naar de categorie <START:nav_target> smart glass instellingen <END>
+ga naar de categorie <START:nav_target> smartglass instellingen <END>
+ga naar de categorie <START:nav_target> spraakbesturing <END>
 ga naar de categorie <START:nav_target> support <END>
 ga naar de categorie <START:nav_target> synchroniseren <END>
 ga naar de categorie <START:nav_target> taal <END>
@@ -254,6 +286,7 @@ ga naar de categorie <START:nav_target> talen <END>
 ga naar de categorie <START:nav_target> talen <END> instelling
 ga naar de categorie <START:nav_target> talen <END> instellingen
 ga naar de categorie <START:nav_target> tv <END>
+ga naar de categorie <START:nav_target> tv aan uit <END>
 ga naar de categorie <START:nav_target> tv aan/uit <END>
 ga naar de categorie <START:nav_target> tv besturing <END>
 ga naar de categorie <START:nav_target> tv instellingen <END>
@@ -267,6 +300,12 @@ ga naar de categorie <START:nav_target> zitting <END>
 ga naar de categorie <START:nav_target> zitting <END> instelling
 ga naar de categorie <START:nav_target> zitting <END> instellingen
 ga naar de categorie <START:nav_target> zitting <END> positie
+naar <START:nav_target> add ons <END>
+naar <START:nav_target> add ons <END> gaan
+naar <START:nav_target> add ons <END> navigeren
+naar <START:nav_target> add ons tv <END>
+naar <START:nav_target> add ons tv <END> gaan
+naar <START:nav_target> add ons tv <END> navigeren
 naar <START:nav_target> add-ons <END>
 naar <START:nav_target> add-ons <END> gaan
 naar <START:nav_target> add-ons <END> navigeren
@@ -276,6 +315,9 @@ naar <START:nav_target> add-ons tv <END> navigeren
 naar <START:nav_target> admin <END>
 naar <START:nav_target> admin <END> gaan
 naar <START:nav_target> admin <END> navigeren
+naar <START:nav_target> administratie <END>
+naar <START:nav_target> administratie <END> gaan
+naar <START:nav_target> administratie <END> navigeren
 naar <START:nav_target> alarm <END>
 naar <START:nav_target> alarm <END> gaan
 naar <START:nav_target> alarm <END> navigeren
@@ -300,6 +342,9 @@ naar <START:nav_target> basis <END> navigeren
 naar <START:nav_target> bed <END>
 naar <START:nav_target> bed <END> gaan
 naar <START:nav_target> bed <END> navigeren
+naar <START:nav_target> bed lamp <END>
+naar <START:nav_target> bed lamp <END> gaan
+naar <START:nav_target> bed lamp <END> navigeren
 naar <START:nav_target> bedlamp <END>
 naar <START:nav_target> bedlamp <END> gaan
 naar <START:nav_target> bedlamp <END> navigeren
@@ -337,10 +382,10 @@ naar <START:nav_target> geavanceerd <END>
 naar <START:nav_target> geavanceerd <END> gaan
 naar <START:nav_target> geavanceerd <END> navigeren
 naar <START:nav_target> gordijn <END>
-naar <START:nav_target> gordijnen <END>
 naar <START:nav_target> gordijn <END> gaan
-naar <START:nav_target> gordijnen <END> gaan
 naar <START:nav_target> gordijn <END> navigeren
+naar <START:nav_target> gordijnen <END>
+naar <START:nav_target> gordijnen <END> gaan
 naar <START:nav_target> gordijnen <END> navigeren
 naar <START:nav_target> home <END>
 naar <START:nav_target> home <END> gaan
@@ -375,9 +420,12 @@ naar <START:nav_target> ios <END> navigeren
 naar <START:nav_target> kalibratie <END>
 naar <START:nav_target> kalibratie <END> gaan
 naar <START:nav_target> kalibratie <END> navigeren
-naar <START:nav_target> kameraverlichting <END>
-naar <START:nav_target> kameraverlichting <END> gaan
-naar <START:nav_target> kameraverlichting <END> navigeren
+naar <START:nav_target> kamer verlichting <END>
+naar <START:nav_target> kamer verlichting <END> gaan
+naar <START:nav_target> kamer verlichting <END> navigeren
+naar <START:nav_target> kamerverlichting <END>
+naar <START:nav_target> kamerverlichting <END> gaan
+naar <START:nav_target> kamerverlichting <END> navigeren
 naar <START:nav_target> kantel <END> kalibratie
 naar <START:nav_target> kantel <END> kalibratie gaan
 naar <START:nav_target> kantel <END> kalibratie navigeren
@@ -415,11 +463,8 @@ naar <START:nav_target> lichten <END> menu gaan
 naar <START:nav_target> lichten <END> menu navigeren
 naar <START:nav_target> lichten <END> navigeren
 naar <START:nav_target> media <END>
-naar <START:nav_target> spraakbesturing <END>
 naar <START:nav_target> media <END> gaan
-naar <START:nav_target> spraakbesturing <END> gaan
 naar <START:nav_target> media <END> navigeren
-naar <START:nav_target> spraakbesturing <END> navigeren
 naar <START:nav_target> modi <END>
 naar <START:nav_target> modi <END> gaan
 naar <START:nav_target> modi <END> navigeren
@@ -435,6 +480,12 @@ naar <START:nav_target> mouse twee <END> navigeren
 naar <START:nav_target> muziek <END>
 naar <START:nav_target> muziek <END> gaan
 naar <START:nav_target> muziek <END> navigeren
+naar <START:nav_target> muziek besturing <END>
+naar <START:nav_target> muziek besturing <END> gaan
+naar <START:nav_target> muziek besturing <END> navigeren
+naar <START:nav_target> muziek bron <END>
+naar <START:nav_target> muziek bron <END> gaan
+naar <START:nav_target> muziek bron <END> navigeren
 naar <START:nav_target> muziekbesturing <END>
 naar <START:nav_target> muziekbesturing <END> gaan
 naar <START:nav_target> muziekbesturing <END> navigeren
@@ -451,11 +502,17 @@ naar <START:nav_target> nood e-mail <END>
 naar <START:nav_target> nood e-mail <END> gaan
 naar <START:nav_target> nood e-mail <END> navigeren
 naar <START:nav_target> raam <END>
-naar <START:nav_target> ramen <END>
 naar <START:nav_target> raam <END> gaan
-naar <START:nav_target> ramen <END> gaan
 naar <START:nav_target> raam <END> navigeren
+naar <START:nav_target> ramen <END>
+naar <START:nav_target> ramen <END> gaan
 naar <START:nav_target> ramen <END> navigeren
+naar <START:nav_target> rij gebaar <END>
+naar <START:nav_target> rij gebaar <END> gaan
+naar <START:nav_target> rij gebaar <END> navigeren
+naar <START:nav_target> rij gebaren <END>
+naar <START:nav_target> rij gebaren <END> gaan
+naar <START:nav_target> rij gebaren <END> navigeren
 naar <START:nav_target> rijden <END>
 naar <START:nav_target> rijden <END> gaan
 naar <START:nav_target> rijden <END> navigeren
@@ -468,6 +525,12 @@ naar <START:nav_target> rijgebaren <END> navigeren
 naar <START:nav_target> smart glass instellingen <END>
 naar <START:nav_target> smart glass instellingen <END> gaan
 naar <START:nav_target> smart glass instellingen <END> navigeren
+naar <START:nav_target> smartglass instellingen <END>
+naar <START:nav_target> smartglass instellingen <END> gaan
+naar <START:nav_target> smartglass instellingen <END> navigeren
+naar <START:nav_target> spraakbesturing <END>
+naar <START:nav_target> spraakbesturing <END> gaan
+naar <START:nav_target> spraakbesturing <END> navigeren
 naar <START:nav_target> support <END>
 naar <START:nav_target> support <END> gaan
 naar <START:nav_target> support <END> navigeren
@@ -496,6 +559,9 @@ naar <START:nav_target> talen <END> navigeren
 naar <START:nav_target> tv <END>
 naar <START:nav_target> tv <END> gaan
 naar <START:nav_target> tv <END> navigeren
+naar <START:nav_target> tv aan uit <END>
+naar <START:nav_target> tv aan uit <END> gaan
+naar <START:nav_target> tv aan uit <END> navigeren
 naar <START:nav_target> tv aan/uit <END>
 naar <START:nav_target> tv aan/uit <END> gaan
 naar <START:nav_target> tv aan/uit <END> navigeren
@@ -535,9 +601,12 @@ naar <START:nav_target> zitting <END> navigeren
 naar <START:nav_target> zitting <END> positie
 naar <START:nav_target> zitting <END> positie gaan
 naar <START:nav_target> zitting <END> positie navigeren
+navigeer naar <START:nav_target> add ons <END>
+navigeer naar <START:nav_target> add ons tv <END>
 navigeer naar <START:nav_target> add-ons <END>
 navigeer naar <START:nav_target> add-ons tv <END>
 navigeer naar <START:nav_target> admin <END>
+navigeer naar <START:nav_target> administratie <END>
 navigeer naar <START:nav_target> alarm <END>
 navigeer naar <START:nav_target> alarmlichten <END>
 navigeer naar <START:nav_target> alarmlichten <END> menu
@@ -546,6 +615,7 @@ navigeer naar <START:nav_target> android <END>
 navigeer naar <START:nav_target> app info <END>
 navigeer naar <START:nav_target> basis <END>
 navigeer naar <START:nav_target> bed <END>
+navigeer naar <START:nav_target> bed lamp <END>
 navigeer naar <START:nav_target> bedlamp <END>
 navigeer naar <START:nav_target> bestaande telefoon <END>
 navigeer naar <START:nav_target> besturing <END>
@@ -571,7 +641,8 @@ navigeer naar <START:nav_target> intercom <END>
 navigeer naar <START:nav_target> internet <END>
 navigeer naar <START:nav_target> ios <END>
 navigeer naar <START:nav_target> kalibratie <END>
-navigeer naar <START:nav_target> kameraverlichting <END>
+navigeer naar <START:nav_target> kamer verlichting <END>
+navigeer naar <START:nav_target> kamerverlichting <END>
 navigeer naar <START:nav_target> kantel <END> kalibratie
 navigeer naar <START:nav_target> kantelen <END>
 navigeer naar <START:nav_target> kantelen <END> kalibratie
@@ -585,12 +656,13 @@ navigeer naar <START:nav_target> licht <END> menu
 navigeer naar <START:nav_target> lichten <END>
 navigeer naar <START:nav_target> lichten <END> menu
 navigeer naar <START:nav_target> media <END>
-navigeer naar <START:nav_target> spraakbesturing <END>
 navigeer naar <START:nav_target> modi <END>
 navigeer naar <START:nav_target> monitor <END>
 navigeer naar <START:nav_target> mouse een <END>
 navigeer naar <START:nav_target> mouse twee <END>
 navigeer naar <START:nav_target> muziek <END>
+navigeer naar <START:nav_target> muziek besturing <END>
+navigeer naar <START:nav_target> muziek bron <END>
 navigeer naar <START:nav_target> muziekbesturing <END>
 navigeer naar <START:nav_target> muziekbron <END>
 navigeer naar <START:nav_target> nederlands <END>
@@ -598,10 +670,14 @@ navigeer naar <START:nav_target> nieuwe telefoon <END>
 navigeer naar <START:nav_target> nood e-mail <END>
 navigeer naar <START:nav_target> raam <END>
 navigeer naar <START:nav_target> ramen <END>
+navigeer naar <START:nav_target> rij gebaar <END>
+navigeer naar <START:nav_target> rij gebaren <END>
 navigeer naar <START:nav_target> rijden <END>
 navigeer naar <START:nav_target> rijgebaar <END>
 navigeer naar <START:nav_target> rijgebaren <END>
 navigeer naar <START:nav_target> smart glass instellingen <END>
+navigeer naar <START:nav_target> smartglass instellingen <END>
+navigeer naar <START:nav_target> spraakbesturing <END>
 navigeer naar <START:nav_target> support <END>
 navigeer naar <START:nav_target> synchroniseren <END>
 navigeer naar <START:nav_target> taal <END>
@@ -612,6 +688,7 @@ navigeer naar <START:nav_target> talen <END>
 navigeer naar <START:nav_target> talen <END> instelling
 navigeer naar <START:nav_target> talen <END> instellingen
 navigeer naar <START:nav_target> tv <END>
+navigeer naar <START:nav_target> tv aan uit <END>
 navigeer naar <START:nav_target> tv aan/uit <END>
 navigeer naar <START:nav_target> tv besturing <END>
 navigeer naar <START:nav_target> tv instellingen <END>
@@ -625,9 +702,12 @@ navigeer naar <START:nav_target> zitting <END>
 navigeer naar <START:nav_target> zitting <END> instelling
 navigeer naar <START:nav_target> zitting <END> instellingen
 navigeer naar <START:nav_target> zitting <END> positie
+navigeer naar de categorie <START:nav_target> add ons <END>
+navigeer naar de categorie <START:nav_target> add ons tv <END>
 navigeer naar de categorie <START:nav_target> add-ons <END>
 navigeer naar de categorie <START:nav_target> add-ons tv <END>
 navigeer naar de categorie <START:nav_target> admin <END>
+navigeer naar de categorie <START:nav_target> administratie <END>
 navigeer naar de categorie <START:nav_target> alarm <END>
 navigeer naar de categorie <START:nav_target> alarmlichten <END>
 navigeer naar de categorie <START:nav_target> alarmlichten <END> menu
@@ -636,6 +716,7 @@ navigeer naar de categorie <START:nav_target> android <END>
 navigeer naar de categorie <START:nav_target> app info <END>
 navigeer naar de categorie <START:nav_target> basis <END>
 navigeer naar de categorie <START:nav_target> bed <END>
+navigeer naar de categorie <START:nav_target> bed lamp <END>
 navigeer naar de categorie <START:nav_target> bedlamp <END>
 navigeer naar de categorie <START:nav_target> bestaande telefoon <END>
 navigeer naar de categorie <START:nav_target> besturing <END>
@@ -661,7 +742,8 @@ navigeer naar de categorie <START:nav_target> intercom <END>
 navigeer naar de categorie <START:nav_target> internet <END>
 navigeer naar de categorie <START:nav_target> ios <END>
 navigeer naar de categorie <START:nav_target> kalibratie <END>
-navigeer naar de categorie <START:nav_target> kameraverlichting <END>
+navigeer naar de categorie <START:nav_target> kamer verlichting <END>
+navigeer naar de categorie <START:nav_target> kamerverlichting <END>
 navigeer naar de categorie <START:nav_target> kantel <END> kalibratie
 navigeer naar de categorie <START:nav_target> kantelen <END>
 navigeer naar de categorie <START:nav_target> kantelen <END> kalibratie
@@ -675,12 +757,13 @@ navigeer naar de categorie <START:nav_target> licht <END> menu
 navigeer naar de categorie <START:nav_target> lichten <END>
 navigeer naar de categorie <START:nav_target> lichten <END> menu
 navigeer naar de categorie <START:nav_target> media <END>
-navigeer naar de categorie <START:nav_target> spraakbesturing <END>
 navigeer naar de categorie <START:nav_target> modi <END>
 navigeer naar de categorie <START:nav_target> monitor <END>
 navigeer naar de categorie <START:nav_target> mouse een <END>
 navigeer naar de categorie <START:nav_target> mouse twee <END>
 navigeer naar de categorie <START:nav_target> muziek <END>
+navigeer naar de categorie <START:nav_target> muziek besturing <END>
+navigeer naar de categorie <START:nav_target> muziek bron <END>
 navigeer naar de categorie <START:nav_target> muziekbesturing <END>
 navigeer naar de categorie <START:nav_target> muziekbron <END>
 navigeer naar de categorie <START:nav_target> nederlands <END>
@@ -688,10 +771,14 @@ navigeer naar de categorie <START:nav_target> nieuwe telefoon <END>
 navigeer naar de categorie <START:nav_target> nood e-mail <END>
 navigeer naar de categorie <START:nav_target> raam <END>
 navigeer naar de categorie <START:nav_target> ramen <END>
+navigeer naar de categorie <START:nav_target> rij gebaar <END>
+navigeer naar de categorie <START:nav_target> rij gebaren <END>
 navigeer naar de categorie <START:nav_target> rijden <END>
 navigeer naar de categorie <START:nav_target> rijgebaar <END>
 navigeer naar de categorie <START:nav_target> rijgebaren <END>
 navigeer naar de categorie <START:nav_target> smart glass instellingen <END>
+navigeer naar de categorie <START:nav_target> smartglass instellingen <END>
+navigeer naar de categorie <START:nav_target> spraakbesturing <END>
 navigeer naar de categorie <START:nav_target> support <END>
 navigeer naar de categorie <START:nav_target> synchroniseren <END>
 navigeer naar de categorie <START:nav_target> taal <END>
@@ -702,6 +789,7 @@ navigeer naar de categorie <START:nav_target> talen <END>
 navigeer naar de categorie <START:nav_target> talen <END> instelling
 navigeer naar de categorie <START:nav_target> talen <END> instellingen
 navigeer naar de categorie <START:nav_target> tv <END>
+navigeer naar de categorie <START:nav_target> tv aan uit <END>
 navigeer naar de categorie <START:nav_target> tv aan/uit <END>
 navigeer naar de categorie <START:nav_target> tv besturing <END>
 navigeer naar de categorie <START:nav_target> tv instellingen <END>
@@ -715,9 +803,12 @@ navigeer naar de categorie <START:nav_target> zitting <END>
 navigeer naar de categorie <START:nav_target> zitting <END> instelling
 navigeer naar de categorie <START:nav_target> zitting <END> instellingen
 navigeer naar de categorie <START:nav_target> zitting <END> positie
+neem me mee naar <START:nav_target> add ons <END>
+neem me mee naar <START:nav_target> add ons tv <END>
 neem me mee naar <START:nav_target> add-ons <END>
 neem me mee naar <START:nav_target> add-ons tv <END>
 neem me mee naar <START:nav_target> admin <END>
+neem me mee naar <START:nav_target> administratie <END>
 neem me mee naar <START:nav_target> alarm <END>
 neem me mee naar <START:nav_target> alarmlichten <END>
 neem me mee naar <START:nav_target> alarmlichten <END> menu
@@ -726,6 +817,7 @@ neem me mee naar <START:nav_target> android <END>
 neem me mee naar <START:nav_target> app info <END>
 neem me mee naar <START:nav_target> basis <END>
 neem me mee naar <START:nav_target> bed <END>
+neem me mee naar <START:nav_target> bed lamp <END>
 neem me mee naar <START:nav_target> bedlamp <END>
 neem me mee naar <START:nav_target> bestaande telefoon <END>
 neem me mee naar <START:nav_target> besturing <END>
@@ -751,7 +843,8 @@ neem me mee naar <START:nav_target> intercom <END>
 neem me mee naar <START:nav_target> internet <END>
 neem me mee naar <START:nav_target> ios <END>
 neem me mee naar <START:nav_target> kalibratie <END>
-neem me mee naar <START:nav_target> kameraverlichting <END>
+neem me mee naar <START:nav_target> kamer verlichting <END>
+neem me mee naar <START:nav_target> kamerverlichting <END>
 neem me mee naar <START:nav_target> kantel <END> kalibratie
 neem me mee naar <START:nav_target> kantelen <END>
 neem me mee naar <START:nav_target> kantelen <END> kalibratie
@@ -765,12 +858,13 @@ neem me mee naar <START:nav_target> licht <END> menu
 neem me mee naar <START:nav_target> lichten <END>
 neem me mee naar <START:nav_target> lichten <END> menu
 neem me mee naar <START:nav_target> media <END>
-neem me mee naar <START:nav_target> spraakbesturing <END>
 neem me mee naar <START:nav_target> modi <END>
 neem me mee naar <START:nav_target> monitor <END>
 neem me mee naar <START:nav_target> mouse een <END>
 neem me mee naar <START:nav_target> mouse twee <END>
 neem me mee naar <START:nav_target> muziek <END>
+neem me mee naar <START:nav_target> muziek besturing <END>
+neem me mee naar <START:nav_target> muziek bron <END>
 neem me mee naar <START:nav_target> muziekbesturing <END>
 neem me mee naar <START:nav_target> muziekbron <END>
 neem me mee naar <START:nav_target> nederlands <END>
@@ -778,10 +872,14 @@ neem me mee naar <START:nav_target> nieuwe telefoon <END>
 neem me mee naar <START:nav_target> nood e-mail <END>
 neem me mee naar <START:nav_target> raam <END>
 neem me mee naar <START:nav_target> ramen <END>
+neem me mee naar <START:nav_target> rij gebaar <END>
+neem me mee naar <START:nav_target> rij gebaren <END>
 neem me mee naar <START:nav_target> rijden <END>
 neem me mee naar <START:nav_target> rijgebaar <END>
 neem me mee naar <START:nav_target> rijgebaren <END>
 neem me mee naar <START:nav_target> smart glass instellingen <END>
+neem me mee naar <START:nav_target> smartglass instellingen <END>
+neem me mee naar <START:nav_target> spraakbesturing <END>
 neem me mee naar <START:nav_target> support <END>
 neem me mee naar <START:nav_target> taal <END>
 neem me mee naar <START:nav_target> taal <END> instelling
@@ -791,6 +889,7 @@ neem me mee naar <START:nav_target> talen <END>
 neem me mee naar <START:nav_target> talen <END> instelling
 neem me mee naar <START:nav_target> talen <END> instellingen
 neem me mee naar <START:nav_target> tv <END>
+neem me mee naar <START:nav_target> tv aan uit <END>
 neem me mee naar <START:nav_target> tv aan/uit <END>
 neem me mee naar <START:nav_target> tv besturing <END>
 neem me mee naar <START:nav_target> tv instellingen <END>
@@ -804,9 +903,12 @@ neem me mee naar <START:nav_target> zitting <END>
 neem me mee naar <START:nav_target> zitting <END> instelling
 neem me mee naar <START:nav_target> zitting <END> instellingen
 neem me mee naar <START:nav_target> zitting <END> positie
+neem me mee naar de categorie <START:nav_target> add ons <END>
+neem me mee naar de categorie <START:nav_target> add ons tv <END>
 neem me mee naar de categorie <START:nav_target> add-ons <END>
 neem me mee naar de categorie <START:nav_target> add-ons tv <END>
 neem me mee naar de categorie <START:nav_target> admin <END>
+neem me mee naar de categorie <START:nav_target> administratie <END>
 neem me mee naar de categorie <START:nav_target> alarm <END>
 neem me mee naar de categorie <START:nav_target> alarmlichten <END>
 neem me mee naar de categorie <START:nav_target> alarmlichten <END> menu
@@ -815,6 +917,7 @@ neem me mee naar de categorie <START:nav_target> android <END>
 neem me mee naar de categorie <START:nav_target> app info <END>
 neem me mee naar de categorie <START:nav_target> basis <END>
 neem me mee naar de categorie <START:nav_target> bed <END>
+neem me mee naar de categorie <START:nav_target> bed lamp <END>
 neem me mee naar de categorie <START:nav_target> bedlamp <END>
 neem me mee naar de categorie <START:nav_target> bestaande telefoon <END>
 neem me mee naar de categorie <START:nav_target> besturing <END>
@@ -840,7 +943,8 @@ neem me mee naar de categorie <START:nav_target> intercom <END>
 neem me mee naar de categorie <START:nav_target> internet <END>
 neem me mee naar de categorie <START:nav_target> ios <END>
 neem me mee naar de categorie <START:nav_target> kalibratie <END>
-neem me mee naar de categorie <START:nav_target> kameraverlichting <END>
+neem me mee naar de categorie <START:nav_target> kamer verlichting <END>
+neem me mee naar de categorie <START:nav_target> kamerverlichting <END>
 neem me mee naar de categorie <START:nav_target> kantel <END> kalibratie
 neem me mee naar de categorie <START:nav_target> kantelen <END>
 neem me mee naar de categorie <START:nav_target> kantelen <END> kalibratie
@@ -854,12 +958,13 @@ neem me mee naar de categorie <START:nav_target> licht <END> menu
 neem me mee naar de categorie <START:nav_target> lichten <END>
 neem me mee naar de categorie <START:nav_target> lichten <END> menu
 neem me mee naar de categorie <START:nav_target> media <END>
-neem me mee naar de categorie <START:nav_target> spraakbesturing <END>
 neem me mee naar de categorie <START:nav_target> modi <END>
 neem me mee naar de categorie <START:nav_target> monitor <END>
 neem me mee naar de categorie <START:nav_target> mouse een <END>
 neem me mee naar de categorie <START:nav_target> mouse twee <END>
 neem me mee naar de categorie <START:nav_target> muziek <END>
+neem me mee naar de categorie <START:nav_target> muziek besturing <END>
+neem me mee naar de categorie <START:nav_target> muziek bron <END>
 neem me mee naar de categorie <START:nav_target> muziekbesturing <END>
 neem me mee naar de categorie <START:nav_target> muziekbron <END>
 neem me mee naar de categorie <START:nav_target> nederlands <END>
@@ -867,10 +972,14 @@ neem me mee naar de categorie <START:nav_target> nieuwe telefoon <END>
 neem me mee naar de categorie <START:nav_target> nood e-mail <END>
 neem me mee naar de categorie <START:nav_target> raam <END>
 neem me mee naar de categorie <START:nav_target> ramen <END>
+neem me mee naar de categorie <START:nav_target> rij gebaar <END>
+neem me mee naar de categorie <START:nav_target> rij gebaren <END>
 neem me mee naar de categorie <START:nav_target> rijden <END>
 neem me mee naar de categorie <START:nav_target> rijgebaar <END>
 neem me mee naar de categorie <START:nav_target> rijgebaren <END>
 neem me mee naar de categorie <START:nav_target> smart glass instellingen <END>
+neem me mee naar de categorie <START:nav_target> smartglass instellingen <END>
+neem me mee naar de categorie <START:nav_target> spraakbesturing <END>
 neem me mee naar de categorie <START:nav_target> support <END>
 neem me mee naar de categorie <START:nav_target> taal <END>
 neem me mee naar de categorie <START:nav_target> taal <END> instelling
@@ -880,6 +989,7 @@ neem me mee naar de categorie <START:nav_target> talen <END>
 neem me mee naar de categorie <START:nav_target> talen <END> instelling
 neem me mee naar de categorie <START:nav_target> talen <END> instellingen
 neem me mee naar de categorie <START:nav_target> tv <END>
+neem me mee naar de categorie <START:nav_target> tv aan uit <END>
 neem me mee naar de categorie <START:nav_target> tv aan/uit <END>
 neem me mee naar de categorie <START:nav_target> tv besturing <END>
 neem me mee naar de categorie <START:nav_target> tv instellingen <END>
@@ -893,9 +1003,12 @@ neem me mee naar de categorie <START:nav_target> zitting <END>
 neem me mee naar de categorie <START:nav_target> zitting <END> instelling
 neem me mee naar de categorie <START:nav_target> zitting <END> instellingen
 neem me mee naar de categorie <START:nav_target> zitting <END> positie
+overschakelen naar <START:nav_target> add ons <END>
+overschakelen naar <START:nav_target> add ons tv <END>
 overschakelen naar <START:nav_target> add-ons <END>
 overschakelen naar <START:nav_target> add-ons tv <END>
 overschakelen naar <START:nav_target> admin <END>
+overschakelen naar <START:nav_target> administratie <END>
 overschakelen naar <START:nav_target> alarm <END>
 overschakelen naar <START:nav_target> alarmlichten <END>
 overschakelen naar <START:nav_target> alarmlichten <END> menu
@@ -904,6 +1017,7 @@ overschakelen naar <START:nav_target> android <END>
 overschakelen naar <START:nav_target> app info <END>
 overschakelen naar <START:nav_target> basis <END>
 overschakelen naar <START:nav_target> bed <END>
+overschakelen naar <START:nav_target> bed lamp <END>
 overschakelen naar <START:nav_target> bedlamp <END>
 overschakelen naar <START:nav_target> bestaande telefoon <END>
 overschakelen naar <START:nav_target> besturing <END>
@@ -929,7 +1043,8 @@ overschakelen naar <START:nav_target> intercom <END>
 overschakelen naar <START:nav_target> internet <END>
 overschakelen naar <START:nav_target> ios <END>
 overschakelen naar <START:nav_target> kalibratie <END>
-overschakelen naar <START:nav_target> kameraverlichting <END>
+overschakelen naar <START:nav_target> kamer verlichting <END>
+overschakelen naar <START:nav_target> kamerverlichting <END>
 overschakelen naar <START:nav_target> kantel <END> kalibratie
 overschakelen naar <START:nav_target> kantelen <END>
 overschakelen naar <START:nav_target> kantelen <END> kalibratie
@@ -943,12 +1058,13 @@ overschakelen naar <START:nav_target> licht <END> menu
 overschakelen naar <START:nav_target> lichten <END>
 overschakelen naar <START:nav_target> lichten <END> menu
 overschakelen naar <START:nav_target> media <END>
-overschakelen naar <START:nav_target> spraakbesturing <END>
 overschakelen naar <START:nav_target> modi <END>
 overschakelen naar <START:nav_target> monitor <END>
 overschakelen naar <START:nav_target> mouse een <END>
 overschakelen naar <START:nav_target> mouse twee <END>
 overschakelen naar <START:nav_target> muziek <END>
+overschakelen naar <START:nav_target> muziek besturing <END>
+overschakelen naar <START:nav_target> muziek bron <END>
 overschakelen naar <START:nav_target> muziekbesturing <END>
 overschakelen naar <START:nav_target> muziekbron <END>
 overschakelen naar <START:nav_target> nederlands <END>
@@ -956,10 +1072,14 @@ overschakelen naar <START:nav_target> nieuwe telefoon <END>
 overschakelen naar <START:nav_target> nood e-mail <END>
 overschakelen naar <START:nav_target> raam <END>
 overschakelen naar <START:nav_target> ramen <END>
+overschakelen naar <START:nav_target> rij gebaar <END>
+overschakelen naar <START:nav_target> rij gebaren <END>
 overschakelen naar <START:nav_target> rijden <END>
 overschakelen naar <START:nav_target> rijgebaar <END>
 overschakelen naar <START:nav_target> rijgebaren <END>
 overschakelen naar <START:nav_target> smart glass instellingen <END>
+overschakelen naar <START:nav_target> smartglass instellingen <END>
+overschakelen naar <START:nav_target> spraakbesturing <END>
 overschakelen naar <START:nav_target> support <END>
 overschakelen naar <START:nav_target> taal <END>
 overschakelen naar <START:nav_target> taal <END> instelling
@@ -969,6 +1089,7 @@ overschakelen naar <START:nav_target> talen <END>
 overschakelen naar <START:nav_target> talen <END> instelling
 overschakelen naar <START:nav_target> talen <END> instellingen
 overschakelen naar <START:nav_target> tv <END>
+overschakelen naar <START:nav_target> tv aan uit <END>
 overschakelen naar <START:nav_target> tv aan/uit <END>
 overschakelen naar <START:nav_target> tv besturing <END>
 overschakelen naar <START:nav_target> tv instellingen <END>
@@ -982,9 +1103,12 @@ overschakelen naar <START:nav_target> zitting <END>
 overschakelen naar <START:nav_target> zitting <END> instelling
 overschakelen naar <START:nav_target> zitting <END> instellingen
 overschakelen naar <START:nav_target> zitting <END> positie
+overschakelen naar de categorie <START:nav_target> add ons <END>
+overschakelen naar de categorie <START:nav_target> add ons tv <END>
 overschakelen naar de categorie <START:nav_target> add-ons <END>
 overschakelen naar de categorie <START:nav_target> add-ons tv <END>
 overschakelen naar de categorie <START:nav_target> admin <END>
+overschakelen naar de categorie <START:nav_target> administratie <END>
 overschakelen naar de categorie <START:nav_target> alarm <END>
 overschakelen naar de categorie <START:nav_target> alarmlichten <END>
 overschakelen naar de categorie <START:nav_target> alarmlichten <END> menu
@@ -993,6 +1117,7 @@ overschakelen naar de categorie <START:nav_target> android <END>
 overschakelen naar de categorie <START:nav_target> app info <END>
 overschakelen naar de categorie <START:nav_target> basis <END>
 overschakelen naar de categorie <START:nav_target> bed <END>
+overschakelen naar de categorie <START:nav_target> bed lamp <END>
 overschakelen naar de categorie <START:nav_target> bedlamp <END>
 overschakelen naar de categorie <START:nav_target> bestaande telefoon <END>
 overschakelen naar de categorie <START:nav_target> besturing <END>
@@ -1018,7 +1143,8 @@ overschakelen naar de categorie <START:nav_target> intercom <END>
 overschakelen naar de categorie <START:nav_target> internet <END>
 overschakelen naar de categorie <START:nav_target> ios <END>
 overschakelen naar de categorie <START:nav_target> kalibratie <END>
-overschakelen naar de categorie <START:nav_target> kameraverlichting <END>
+overschakelen naar de categorie <START:nav_target> kamer verlichting <END>
+overschakelen naar de categorie <START:nav_target> kamerverlichting <END>
 overschakelen naar de categorie <START:nav_target> kantel <END> kalibratie
 overschakelen naar de categorie <START:nav_target> kantelen <END>
 overschakelen naar de categorie <START:nav_target> kantelen <END> kalibratie
@@ -1032,12 +1158,13 @@ overschakelen naar de categorie <START:nav_target> licht <END> menu
 overschakelen naar de categorie <START:nav_target> lichten <END>
 overschakelen naar de categorie <START:nav_target> lichten <END> menu
 overschakelen naar de categorie <START:nav_target> media <END>
-overschakelen naar de categorie <START:nav_target> spraakbesturing <END>
 overschakelen naar de categorie <START:nav_target> modi <END>
 overschakelen naar de categorie <START:nav_target> monitor <END>
 overschakelen naar de categorie <START:nav_target> mouse een <END>
 overschakelen naar de categorie <START:nav_target> mouse twee <END>
 overschakelen naar de categorie <START:nav_target> muziek <END>
+overschakelen naar de categorie <START:nav_target> muziek besturing <END>
+overschakelen naar de categorie <START:nav_target> muziek bron <END>
 overschakelen naar de categorie <START:nav_target> muziekbesturing <END>
 overschakelen naar de categorie <START:nav_target> muziekbron <END>
 overschakelen naar de categorie <START:nav_target> nederlands <END>
@@ -1045,10 +1172,14 @@ overschakelen naar de categorie <START:nav_target> nieuwe telefoon <END>
 overschakelen naar de categorie <START:nav_target> nood e-mail <END>
 overschakelen naar de categorie <START:nav_target> raam <END>
 overschakelen naar de categorie <START:nav_target> ramen <END>
+overschakelen naar de categorie <START:nav_target> rij gebaar <END>
+overschakelen naar de categorie <START:nav_target> rij gebaren <END>
 overschakelen naar de categorie <START:nav_target> rijden <END>
 overschakelen naar de categorie <START:nav_target> rijgebaar <END>
 overschakelen naar de categorie <START:nav_target> rijgebaren <END>
 overschakelen naar de categorie <START:nav_target> smart glass instellingen <END>
+overschakelen naar de categorie <START:nav_target> smartglass instellingen <END>
+overschakelen naar de categorie <START:nav_target> spraakbesturing <END>
 overschakelen naar de categorie <START:nav_target> support <END>
 overschakelen naar de categorie <START:nav_target> taal <END>
 overschakelen naar de categorie <START:nav_target> taal <END> instelling
@@ -1058,6 +1189,7 @@ overschakelen naar de categorie <START:nav_target> talen <END>
 overschakelen naar de categorie <START:nav_target> talen <END> instelling
 overschakelen naar de categorie <START:nav_target> talen <END> instellingen
 overschakelen naar de categorie <START:nav_target> tv <END>
+overschakelen naar de categorie <START:nav_target> tv aan uit <END>
 overschakelen naar de categorie <START:nav_target> tv aan/uit <END>
 overschakelen naar de categorie <START:nav_target> tv besturing <END>
 overschakelen naar de categorie <START:nav_target> tv instellingen <END>
@@ -1071,9 +1203,12 @@ overschakelen naar de categorie <START:nav_target> zitting <END>
 overschakelen naar de categorie <START:nav_target> zitting <END> instelling
 overschakelen naar de categorie <START:nav_target> zitting <END> instellingen
 overschakelen naar de categorie <START:nav_target> zitting <END> positie
+selecteer <START:nav_target> add ons <END>
+selecteer <START:nav_target> add ons tv <END>
 selecteer <START:nav_target> add-ons <END>
 selecteer <START:nav_target> add-ons tv <END>
 selecteer <START:nav_target> admin <END>
+selecteer <START:nav_target> administratie <END>
 selecteer <START:nav_target> alarm <END>
 selecteer <START:nav_target> alarmlichten <END>
 selecteer <START:nav_target> alarmlichten <END> menu
@@ -1082,6 +1217,7 @@ selecteer <START:nav_target> android <END>
 selecteer <START:nav_target> app info <END>
 selecteer <START:nav_target> basis <END>
 selecteer <START:nav_target> bed <END>
+selecteer <START:nav_target> bed lamp <END>
 selecteer <START:nav_target> bedlamp <END>
 selecteer <START:nav_target> bestaande telefoon <END>
 selecteer <START:nav_target> besturing <END>
@@ -1104,7 +1240,8 @@ selecteer <START:nav_target> intercom <END>
 selecteer <START:nav_target> internet <END>
 selecteer <START:nav_target> ios <END>
 selecteer <START:nav_target> kalibratie <END>
-selecteer <START:nav_target> kameraverlichting <END>
+selecteer <START:nav_target> kamer verlichting <END>
+selecteer <START:nav_target> kamerverlichting <END>
 selecteer <START:nav_target> kantel <END> kalibratie
 selecteer <START:nav_target> kantelen <END>
 selecteer <START:nav_target> kantelen <END> kalibratie
@@ -1118,22 +1255,27 @@ selecteer <START:nav_target> licht <END> menu
 selecteer <START:nav_target> lichten <END>
 selecteer <START:nav_target> lichten <END> menu
 selecteer <START:nav_target> media <END>
-selecteer <START:nav_target> spraakbesturing <END>
 selecteer <START:nav_target> modi <END>
 selecteer <START:nav_target> monitor <END>
 selecteer <START:nav_target> mouse een <END>
 selecteer <START:nav_target> mouse twee <END>
 selecteer <START:nav_target> muziek <END>
+selecteer <START:nav_target> muziek besturing <END>
+selecteer <START:nav_target> muziek bron <END>
 selecteer <START:nav_target> muziekbesturing <END>
 selecteer <START:nav_target> muziekbron <END>
 selecteer <START:nav_target> nieuwe telefoon <END>
 selecteer <START:nav_target> nood e-mail <END>
 selecteer <START:nav_target> raam <END>
 selecteer <START:nav_target> ramen <END>
+selecteer <START:nav_target> rij gebaar <END>
+selecteer <START:nav_target> rij gebaren <END>
 selecteer <START:nav_target> rijden <END>
 selecteer <START:nav_target> rijgebaar <END>
 selecteer <START:nav_target> rijgebaren <END>
 selecteer <START:nav_target> smart glass instellingen <END>
+selecteer <START:nav_target> smartglass instellingen <END>
+selecteer <START:nav_target> spraakbesturing <END>
 selecteer <START:nav_target> support <END>
 selecteer <START:nav_target> synchroniseren <END>
 selecteer <START:nav_target> taal <END>
@@ -1144,6 +1286,7 @@ selecteer <START:nav_target> talen <END>
 selecteer <START:nav_target> talen <END> instelling
 selecteer <START:nav_target> talen <END> instellingen
 selecteer <START:nav_target> tv <END>
+selecteer <START:nav_target> tv aan uit <END>
 selecteer <START:nav_target> tv aan/uit <END>
 selecteer <START:nav_target> tv besturing <END>
 selecteer <START:nav_target> tv instellingen <END>
@@ -1157,9 +1300,12 @@ selecteer <START:nav_target> zitting <END>
 selecteer <START:nav_target> zitting <END> instelling
 selecteer <START:nav_target> zitting <END> instellingen
 selecteer <START:nav_target> zitting <END> positie
+selecteer de categorie <START:nav_target> add ons <END>
+selecteer de categorie <START:nav_target> add ons tv <END>
 selecteer de categorie <START:nav_target> add-ons <END>
 selecteer de categorie <START:nav_target> add-ons tv <END>
 selecteer de categorie <START:nav_target> admin <END>
+selecteer de categorie <START:nav_target> administratie <END>
 selecteer de categorie <START:nav_target> alarm <END>
 selecteer de categorie <START:nav_target> alarmlichten <END>
 selecteer de categorie <START:nav_target> alarmlichten <END> menu
@@ -1168,6 +1314,7 @@ selecteer de categorie <START:nav_target> android <END>
 selecteer de categorie <START:nav_target> app info <END>
 selecteer de categorie <START:nav_target> basis <END>
 selecteer de categorie <START:nav_target> bed <END>
+selecteer de categorie <START:nav_target> bed lamp <END>
 selecteer de categorie <START:nav_target> bedlamp <END>
 selecteer de categorie <START:nav_target> bestaande telefoon <END>
 selecteer de categorie <START:nav_target> besturing <END>
@@ -1190,7 +1337,8 @@ selecteer de categorie <START:nav_target> intercom <END>
 selecteer de categorie <START:nav_target> internet <END>
 selecteer de categorie <START:nav_target> ios <END>
 selecteer de categorie <START:nav_target> kalibratie <END>
-selecteer de categorie <START:nav_target> kameraverlichting <END>
+selecteer de categorie <START:nav_target> kamer verlichting <END>
+selecteer de categorie <START:nav_target> kamerverlichting <END>
 selecteer de categorie <START:nav_target> kantel <END> kalibratie
 selecteer de categorie <START:nav_target> kantelen <END>
 selecteer de categorie <START:nav_target> kantelen <END> kalibratie
@@ -1204,22 +1352,27 @@ selecteer de categorie <START:nav_target> licht <END> menu
 selecteer de categorie <START:nav_target> lichten <END>
 selecteer de categorie <START:nav_target> lichten <END> menu
 selecteer de categorie <START:nav_target> media <END>
-selecteer de categorie <START:nav_target> spraakbesturing <END>
 selecteer de categorie <START:nav_target> modi <END>
 selecteer de categorie <START:nav_target> monitor <END>
 selecteer de categorie <START:nav_target> mouse een <END>
 selecteer de categorie <START:nav_target> mouse twee <END>
 selecteer de categorie <START:nav_target> muziek <END>
+selecteer de categorie <START:nav_target> muziek besturing <END>
+selecteer de categorie <START:nav_target> muziek bron <END>
 selecteer de categorie <START:nav_target> muziekbesturing <END>
 selecteer de categorie <START:nav_target> muziekbron <END>
 selecteer de categorie <START:nav_target> nieuwe telefoon <END>
 selecteer de categorie <START:nav_target> nood e-mail <END>
 selecteer de categorie <START:nav_target> raam <END>
 selecteer de categorie <START:nav_target> ramen <END>
+selecteer de categorie <START:nav_target> rij gebaar <END>
+selecteer de categorie <START:nav_target> rij gebaren <END>
 selecteer de categorie <START:nav_target> rijden <END>
 selecteer de categorie <START:nav_target> rijgebaar <END>
 selecteer de categorie <START:nav_target> rijgebaren <END>
 selecteer de categorie <START:nav_target> smart glass instellingen <END>
+selecteer de categorie <START:nav_target> smartglass instellingen <END>
+selecteer de categorie <START:nav_target> spraakbesturing <END>
 selecteer de categorie <START:nav_target> support <END>
 selecteer de categorie <START:nav_target> synchroniseren <END>
 selecteer de categorie <START:nav_target> taal <END>
@@ -1230,6 +1383,7 @@ selecteer de categorie <START:nav_target> talen <END>
 selecteer de categorie <START:nav_target> talen <END> instelling
 selecteer de categorie <START:nav_target> talen <END> instellingen
 selecteer de categorie <START:nav_target> tv <END>
+selecteer de categorie <START:nav_target> tv aan uit <END>
 selecteer de categorie <START:nav_target> tv aan/uit <END>
 selecteer de categorie <START:nav_target> tv besturing <END>
 selecteer de categorie <START:nav_target> tv instellingen <END>
@@ -1243,9 +1397,12 @@ selecteer de categorie <START:nav_target> zitting <END>
 selecteer de categorie <START:nav_target> zitting <END> instelling
 selecteer de categorie <START:nav_target> zitting <END> instellingen
 selecteer de categorie <START:nav_target> zitting <END> positie
+verander naar <START:nav_target> add ons <END>
+verander naar <START:nav_target> add ons tv <END>
 verander naar <START:nav_target> add-ons <END>
 verander naar <START:nav_target> add-ons tv <END>
 verander naar <START:nav_target> admin <END>
+verander naar <START:nav_target> administratie <END>
 verander naar <START:nav_target> alarm <END>
 verander naar <START:nav_target> alarmlichten <END>
 verander naar <START:nav_target> alarmlichten <END> menu
@@ -1254,6 +1411,7 @@ verander naar <START:nav_target> android <END>
 verander naar <START:nav_target> app info <END>
 verander naar <START:nav_target> basis <END>
 verander naar <START:nav_target> bed <END>
+verander naar <START:nav_target> bed lamp <END>
 verander naar <START:nav_target> bedlamp <END>
 verander naar <START:nav_target> bestaande telefoon <END>
 verander naar <START:nav_target> besturing <END>
@@ -1276,7 +1434,8 @@ verander naar <START:nav_target> intercom <END>
 verander naar <START:nav_target> internet <END>
 verander naar <START:nav_target> ios <END>
 verander naar <START:nav_target> kalibratie <END>
-verander naar <START:nav_target> kameraverlichting <END>
+verander naar <START:nav_target> kamer verlichting <END>
+verander naar <START:nav_target> kamerverlichting <END>
 verander naar <START:nav_target> kantel <END> kalibratie
 verander naar <START:nav_target> kantelen <END>
 verander naar <START:nav_target> kantelen <END> kalibratie
@@ -1290,22 +1449,27 @@ verander naar <START:nav_target> licht <END> menu
 verander naar <START:nav_target> lichten <END>
 verander naar <START:nav_target> lichten <END> menu
 verander naar <START:nav_target> media <END>
-verander naar <START:nav_target> spraakbesturing <END>
 verander naar <START:nav_target> modi <END>
 verander naar <START:nav_target> monitor <END>
 verander naar <START:nav_target> mouse een <END>
 verander naar <START:nav_target> mouse twee <END>
 verander naar <START:nav_target> muziek <END>
+verander naar <START:nav_target> muziek besturing <END>
+verander naar <START:nav_target> muziek bron <END>
 verander naar <START:nav_target> muziekbesturing <END>
 verander naar <START:nav_target> muziekbron <END>
 verander naar <START:nav_target> nieuwe telefoon <END>
 verander naar <START:nav_target> nood e-mail <END>
 verander naar <START:nav_target> raam <END>
 verander naar <START:nav_target> ramen <END>
+verander naar <START:nav_target> rij gebaar <END>
+verander naar <START:nav_target> rij gebaren <END>
 verander naar <START:nav_target> rijden <END>
 verander naar <START:nav_target> rijgebaar <END>
 verander naar <START:nav_target> rijgebaren <END>
 verander naar <START:nav_target> smart glass instellingen <END>
+verander naar <START:nav_target> smartglass instellingen <END>
+verander naar <START:nav_target> spraakbesturing <END>
 verander naar <START:nav_target> support <END>
 verander naar <START:nav_target> synchroniseren <END>
 verander naar <START:nav_target> taal <END>
@@ -1316,6 +1480,7 @@ verander naar <START:nav_target> talen <END>
 verander naar <START:nav_target> talen <END> instelling
 verander naar <START:nav_target> talen <END> instellingen
 verander naar <START:nav_target> tv <END>
+verander naar <START:nav_target> tv aan uit <END>
 verander naar <START:nav_target> tv aan/uit <END>
 verander naar <START:nav_target> tv besturing <END>
 verander naar <START:nav_target> tv instellingen <END>

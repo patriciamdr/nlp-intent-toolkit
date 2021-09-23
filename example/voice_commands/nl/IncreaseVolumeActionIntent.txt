@@ -34,30 +34,57 @@ het volume van de <START:volume_target> muziek <END> omhoog zetten
 verhoog volume van de <START:volume_target> muziek <END>
 verhoog het volume van de <START:volume_target> muziek <END>
 volume van de <START:volume_target> muziek <END> verhogen
-<START:volume_target> TV <END> omhoog
-<START:volume_target> TV <END> harder
-zet de <START:volume_target> TV <END> harder
-zet de <START:volume_target> TV <END> omhoog
-de <START:volume_target> TV <END> harder zetten
-de <START:volume_target> TV <END> omhoog zetten
-verhoog <START:volume_target> TV <END>
-verhoog de <START:volume_target> TV <END>
-<START:volume_target> TV <END> verhogen
-<START:volume_target> TV <END> volume omhoog
-<START:volume_target> TV <END> volume harder
-zet het <START:volume_target> TV <END> volume harder
-zet het <START:volume_target> TV <END> volume omhoog
-het <START:volume_target> TV <END> volume harder zetten
-het <START:volume_target> TV <END> volume omhoog zetten
-verhoog <START:volume_target> TV <END> volume
-verhoog het <START:volume_target> TV <END> volume
-<START:volume_target> TV <END> volume verhogen
-volume van de <START:volume_target> TV <END> omhoog
-volume van de <START:volume_target> TV <END> harder
-zet het volume van de <START:volume_target> TV <END> harder
-zet het volume van de <START:volume_target> TV <END> omhoog
-het volume van de <START:volume_target> TV <END> harder zetten
-het volume van de <START:volume_target> TV <END> omhoog zetten
-verhoog volume van de <START:volume_target> TV <END>
-verhoog het volume van de <START:volume_target> TV <END>
-volume van de <START:volume_target> TV <END> verhogen
+<START:volume_target> tv <END> omhoog
+housemate <START:volume_target> tv <END> omhoog
+<START:volume_target> tv <END> harder
+housemate <START:volume_target> tv <END> harder
+zet de <START:volume_target> tv <END> harder
+zet de housemate <START:volume_target> tv <END> harder
+zet de <START:volume_target> tv <END> omhoog
+zet de housemate <START:volume_target> tv <END> omhoog
+de <START:volume_target> tv <END> harder zetten
+de housemate <START:volume_target> tv <END> harder zetten
+de <START:volume_target> tv <END> omhoog zetten
+de housemate <START:volume_target> tv <END> omhoog zetten
+verhoog <START:volume_target> tv <END>
+verhoog housemate <START:volume_target> tv <END>
+verhoog de <START:volume_target> tv <END>
+verhoog de housemate <START:volume_target> tv <END>
+<START:volume_target> tv <END> verhogen
+housemate <START:volume_target> tv <END> verhogen
+<START:volume_target> tv <END> volume omhoog
+housemate <START:volume_target> tv <END> volume omhoog
+<START:volume_target> tv <END> volume harder
+housemate <START:volume_target> tv <END> volume harder
+zet het <START:volume_target> tv <END> volume harder
+zet het housemate <START:volume_target> tv <END> volume harder
+zet het <START:volume_target> tv <END> volume omhoog
+zet het housemate <START:volume_target> tv <END> volume omhoog
+het <START:volume_target> tv <END> volume harder zetten
+het housemate <START:volume_target> tv <END> volume harder zetten
+het <START:volume_target> tv <END> volume omhoog zetten
+het housemate <START:volume_target> tv <END> volume omhoog zetten
+verhoog <START:volume_target> tv <END> volume
+verhoog housemate <START:volume_target> tv <END> volume
+verhoog het <START:volume_target> tv <END> volume
+verhoog het housemate <START:volume_target> tv <END> volume
+<START:volume_target> tv <END> volume verhogen
+housemate <START:volume_target> tv <END> volume verhogen
+volume van de <START:volume_target> tv <END> omhoog
+volume van de housemate <START:volume_target> tv <END> omhoog
+volume van de <START:volume_target> tv <END> harder
+volume van de housemate <START:volume_target> tv <END> harder
+zet het volume van de <START:volume_target> tv <END> harder
+zet het volume van de housemate <START:volume_target> tv <END> harder
+zet het volume van de <START:volume_target> tv <END> omhoog
+zet het volume van de housemate <START:volume_target> tv <END> omhoog
+het volume van de <START:volume_target> tv <END> harder zetten
+het volume van de housemate <START:volume_target> tv <END> harder zetten
+het volume van de <START:volume_target> tv <END> omhoog zetten
+het volume van de housemate <START:volume_target> tv <END> omhoog zetten
+verhoog volume van de <START:volume_target> tv <END>
+verhoog volume van de housemate <START:volume_target> tv <END>
+verhoog het volume van de <START:volume_target> tv <END>
+verhoog het volume van de housemate <START:volume_target> tv <END>
+volume van de <START:volume_target> tv <END> verhogen
+volume van de housemate <START:volume_target> tv <END> verhogen

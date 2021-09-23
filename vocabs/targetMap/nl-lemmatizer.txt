@@ -8,10 +8,18 @@ update:synchroniseren
 updaten:synchroniseren
 administratie:admin
 glasses:glass
-smartglasses:smartglass
-gebaren:gebaar
-rijgebaren:rijgebaar
+smart glass:smartglass
+smart glass instellingen:smartglass instellingen
+rij gebaren:rijgebaar
+rijgebaar:rijgebaar
 ramen:raam
 gordijnen:gordijn
 programma:zender
 kanaal:zender
+bed lamp:bedlamp
+kamer verlichting:kamerverlichting
+muziek besturing:muziekbesturing
+muziek bron:muziekbron
+tv aan uit:tv aan/uit
+add ons:add-ons
+add ons:add-ons tv

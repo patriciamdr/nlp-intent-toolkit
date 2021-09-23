@@ -58,48 +58,93 @@ volume van de <START:volume_target> muziek <END> verminderen
 het volume van de <START:volume_target> muziek <END> zachter zetten
 het volume van de <START:volume_target> muziek <END> lager zetten
 het volume van de <START:volume_target> muziek <END> omlaag zetten
-<START:volume_target> TV <END> omlaag
-<START:volume_target> TV <END> zachter
-<START:volume_target> TV <END> lager
-verlaag <START:volume_target> TV <END>
-verminder <START:volume_target> TV <END>
-verlaag het <START:volume_target> TV <END>
-verminder het <START:volume_target> TV <END>
-zet het <START:volume_target> TV <END> zachter
-zet het <START:volume_target> TV <END> lager
-zet het <START:volume_target> TV <END> omlaag
-<START:volume_target> TV <END> verlagen
-<START:volume_target> TV <END> verminderen
-het <START:volume_target> TV <END> zachter zetten
-het <START:volume_target> TV <END> lager zetten
-het <START:volume_target> TV <END> omlaag zetten
-<START:volume_target> TV <END> volume omlaag
-<START:volume_target> TV <END> volume zachter
-<START:volume_target> TV <END> volume lager
-verlaag <START:volume_target> TV <END> volume
-verminder <START:volume_target> TV <END> volume
-verlaag het <START:volume_target> TV <END> volume
-verminder het <START:volume_target> TV <END> volume
-zet het <START:volume_target> TV <END> volume zachter
-zet het <START:volume_target> TV <END> volume lager
-zet het <START:volume_target> TV <END> volume omlaag
-<START:volume_target> TV <END> volume verlagen
-<START:volume_target> TV <END> volume verminderen
-het <START:volume_target> TV <END> volume zachter zetten
-het <START:volume_target> TV <END> volume lager zetten
-het <START:volume_target> TV <END> volume omlaag zetten
-volume van de <START:volume_target> TV <END> omlaag
-volume van de <START:volume_target> TV <END> zachter
-volume van de <START:volume_target> TV <END> lager
-verlaag volume van de <START:volume_target> TV <END>
-verminder volume van de <START:volume_target> TV <END>
-verlaag het volume van de <START:volume_target> TV <END>
-verminder het volume van de <START:volume_target> TV <END>
-zet het volume van de <START:volume_target> TV <END> zachter
-zet het volume van de <START:volume_target> TV <END> lager
-zet het volume van de <START:volume_target> TV <END> omlaag
-volume van de <START:volume_target> TV <END> verlagen
-volume van de <START:volume_target> TV <END> verminderen
-het volume van de <START:volume_target> TV <END> zachter zetten
-het volume van de <START:volume_target> TV <END> lager zetten
-het volume van de <START:volume_target> TV <END> omlaag zetten
+<START:volume_target> tv <END> omlaag
+housemate <START:volume_target> tv <END> omlaag
+<START:volume_target> tv <END> zachter
+housemate <START:volume_target> tv <END> zachter
+<START:volume_target> tv <END> lager
+housemate <START:volume_target> tv <END> lager
+verlaag <START:volume_target> tv <END>
+verlaag housemate <START:volume_target> tv <END>
+verminder <START:volume_target> tv <END>
+verminder housemate <START:volume_target> tv <END>
+verlaag het <START:volume_target> tv <END>
+verlaag het housemate <START:volume_target> tv <END>
+verminder het <START:volume_target> tv <END>
+verminder het housemate <START:volume_target> tv <END>
+zet het <START:volume_target> tv <END> zachter
+zet het housemate <START:volume_target> tv <END> zachter
+zet het <START:volume_target> tv <END> lager
+zet het housemate <START:volume_target> tv <END> lager
+zet het <START:volume_target> tv <END> omlaag
+zet het housemate <START:volume_target> tv <END> omlaag
+<START:volume_target> tv <END> verlagen
+housemate <START:volume_target> tv <END> verlagen
+<START:volume_target> tv <END> verminderen
+housemate <START:volume_target> tv <END> verminderen
+het <START:volume_target> tv <END> zachter zetten
+het housemate <START:volume_target> tv <END> zachter zetten
+het <START:volume_target> tv <END> lager zetten
+het housemate <START:volume_target> tv <END> lager zetten
+het <START:volume_target> tv <END> omlaag zetten
+het housemate <START:volume_target> tv <END> omlaag zetten
+<START:volume_target> tv <END> volume omlaag
+housemate <START:volume_target> tv <END> volume omlaag
+<START:volume_target> tv <END> volume zachter
+housemate <START:volume_target> tv <END> volume zachter
+<START:volume_target> tv <END> volume lager
+housemate <START:volume_target> tv <END> volume lager
+verlaag <START:volume_target> tv <END> volume
+verlaag housemate <START:volume_target> tv <END> volume
+verminder <START:volume_target> tv <END> volume
+verminder housemate <START:volume_target> tv <END> volume
+verlaag het <START:volume_target> tv <END> volume
+verlaag het housemate <START:volume_target> tv <END> volume
+verminder het <START:volume_target> tv <END> volume
+verminder het housemate <START:volume_target> tv <END> volume
+zet het <START:volume_target> tv <END> volume zachter
+zet het housemate <START:volume_target> tv <END> volume zachter
+zet het <START:volume_target> tv <END> volume lager
+zet het housemate <START:volume_target> tv <END> volume lager
+zet het <START:volume_target> tv <END> volume omlaag
+zet het housemate <START:volume_target> tv <END> volume omlaag
+<START:volume_target> tv <END> volume verlagen
+housemate <START:volume_target> tv <END> volume verlagen
+<START:volume_target> tv <END> volume verminderen
+housemate <START:volume_target> tv <END> volume verminderen
+het <START:volume_target> tv <END> volume zachter zetten
+het housemate <START:volume_target> tv <END> volume zachter zetten
+het <START:volume_target> tv <END> volume lager zetten
+het housemate <START:volume_target> tv <END> volume lager zetten
+het <START:volume_target> tv <END> volume omlaag zetten
+het housemate <START:volume_target> tv <END> volume omlaag zetten
+volume van de <START:volume_target> tv <END> omlaag
+volume van de housemate <START:volume_target> tv <END> omlaag
+volume van de <START:volume_target> tv <END> zachter
+volume van de housemate <START:volume_target> tv <END> zachter
+volume van de <START:volume_target> tv <END> lager
+volume van de housemate <START:volume_target> tv <END> lager
+verlaag volume van de <START:volume_target> tv <END>
+verlaag volume van de housemate <START:volume_target> tv <END>
+verminder volume van de <START:volume_target> tv <END>
+verminder volume van de housemate <START:volume_target> tv <END>
+verlaag het volume van de <START:volume_target> tv <END>
+verlaag het volume van de housemate <START:volume_target> tv <END>
+verminder het volume van de <START:volume_target> tv <END>
+verminder het volume van de housemate <START:volume_target> tv <END>
+zet het volume van de <START:volume_target> tv <END> zachter
+zet het volume van de housemate <START:volume_target> tv <END> zachter
+zet het volume van de <START:volume_target> tv <END> lager
+zet het volume van de housemate <START:volume_target> tv <END> lager
+zet het volume van de <START:volume_target> tv <END> omlaag
+zet het volume van de housemate <START:volume_target> tv <END> omlaag
+volume van de <START:volume_target> tv <END> verlagen
+volume van de housemate <START:volume_target> tv <END> verlagen
+volume van de <START:volume_target> tv <END> verminderen
+volume van de housemate <START:volume_target> tv <END> verminderen
+het volume van de <START:volume_target> tv <END> zachter zetten
+het volume van de housemate <START:volume_target> tv <END> zachter zetten
+het volume van de <START:volume_target> tv <END> lager zetten
+het volume van de housemate <START:volume_target> tv <END> lager zetten
+het volume van de <START:volume_target> tv <END> omlaag zetten
+het volume van de housemate <START:volume_target> tv <END> omlaag zetten
