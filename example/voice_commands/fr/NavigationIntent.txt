@@ -33,8 +33,11 @@
 <START:nav_target> housemate <END>
 <START:nav_target> housemate app <END>
 <START:nav_target> housemate télé <END>
+<START:nav_target> housemate télé <END> volume
 <START:nav_target> housemate téléviseur <END>
+<START:nav_target> housemate téléviseur <END> volume
 <START:nav_target> housemate télévision <END>
+<START:nav_target> housemate télévision <END> volume
 <START:nav_target> inclinaison <END>
 <START:nav_target> intercom <END>
 <START:nav_target> internet <END>
@@ -83,6 +86,10 @@ aller au <START:nav_target> contrôle de la musique <END>
 aller au <START:nav_target> contrôle du téléviseur <END>
 aller au <START:nav_target> email d'urgence <END>
 aller au <START:nav_target> geste de conduite <END>
+aller au <START:nav_target> housemate télé <END> volume
+aller au <START:nav_target> housemate téléviseur <END>
+aller au <START:nav_target> housemate téléviseur <END> volume
+aller au <START:nav_target> housemate télévision <END> volume
 aller au <START:nav_target> lit <END>
 aller au <START:nav_target> musique <END> volume
 aller au <START:nav_target> nouveau smartphone <END>
@@ -137,7 +144,11 @@ aller à <START:nav_target> home <END>
 aller à <START:nav_target> housemate <END>
 aller à <START:nav_target> housemate app <END>
 aller à <START:nav_target> housemate télé <END>
+aller à <START:nav_target> housemate télé <END> volume
 aller à <START:nav_target> housemate téléviseur <END>
+aller à <START:nav_target> housemate téléviseur <END> volume
+aller à <START:nav_target> housemate télévision <END>
+aller à <START:nav_target> housemate télévision <END> volume
 aller à <START:nav_target> inclinaison <END>
 aller à <START:nav_target> intercom <END>
 aller à <START:nav_target> internet <END>
@@ -404,7 +415,11 @@ change en <START:nav_target> home <END>
 change en <START:nav_target> housemate <END>
 change en <START:nav_target> housemate app <END>
 change en <START:nav_target> housemate télé <END>
+change en <START:nav_target> housemate télé <END> volume
 change en <START:nav_target> housemate téléviseur <END>
+change en <START:nav_target> housemate téléviseur <END> volume
+change en <START:nav_target> housemate télévision <END>
+change en <START:nav_target> housemate télévision <END> volume
 change en <START:nav_target> inclinaison <END>
 change en <START:nav_target> intercom <END>
 change en <START:nav_target> internet <END>
@@ -476,6 +491,10 @@ change en le <START:nav_target> contrôle de la musique <END>
 change en le <START:nav_target> contrôle du téléviseur <END>
 change en le <START:nav_target> email d'urgence <END>
 change en le <START:nav_target> geste de conduite <END>
+change en le <START:nav_target> housemate télé <END> volume
+change en le <START:nav_target> housemate téléviseur <END>
+change en le <START:nav_target> housemate téléviseur <END> volume
+change en le <START:nav_target> housemate télévision <END> volume
 change en le <START:nav_target> lit <END>
 change en le <START:nav_target> musique <END> volume
 change en le <START:nav_target> nouveau smartphone <END>
@@ -702,7 +721,11 @@ changer en <START:nav_target> home <END>
 changer en <START:nav_target> housemate <END>
 changer en <START:nav_target> housemate app <END>
 changer en <START:nav_target> housemate télé <END>
+changer en <START:nav_target> housemate télé <END> volume
 changer en <START:nav_target> housemate téléviseur <END>
+changer en <START:nav_target> housemate téléviseur <END> volume
+changer en <START:nav_target> housemate télévision <END>
+changer en <START:nav_target> housemate télévision <END> volume
 changer en <START:nav_target> inclinaison <END>
 changer en <START:nav_target> intercom <END>
 changer en <START:nav_target> internet <END>
@@ -774,6 +797,10 @@ changer en le <START:nav_target> contrôle de la musique <END>
 changer en le <START:nav_target> contrôle du téléviseur <END>
 changer en le <START:nav_target> email d'urgence <END>
 changer en le <START:nav_target> geste de conduite <END>
+changer en le <START:nav_target> housemate télé <END> volume
+changer en le <START:nav_target> housemate téléviseur <END>
+changer en le <START:nav_target> housemate téléviseur <END> volume
+changer en le <START:nav_target> housemate télévision <END> volume
 changer en le <START:nav_target> lit <END>
 changer en le <START:nav_target> musique <END> volume
 changer en le <START:nav_target> nouveau smartphone <END>
@@ -921,7 +948,11 @@ choisir <START:nav_target> home <END>
 choisir <START:nav_target> housemate <END>
 choisir <START:nav_target> housemate app <END>
 choisir <START:nav_target> housemate télé <END>
+choisir <START:nav_target> housemate télé <END> volume
 choisir <START:nav_target> housemate téléviseur <END>
+choisir <START:nav_target> housemate téléviseur <END> volume
+choisir <START:nav_target> housemate télévision <END>
+choisir <START:nav_target> housemate télévision <END> volume
 choisir <START:nav_target> inclinaison <END>
 choisir <START:nav_target> intercom <END>
 choisir <START:nav_target> internet <END>
@@ -1075,6 +1106,10 @@ choisir le <START:nav_target> contrôle de la musique <END>
 choisir le <START:nav_target> contrôle du téléviseur <END>
 choisir le <START:nav_target> email d'urgence <END>
 choisir le <START:nav_target> geste de conduite <END>
+choisir le <START:nav_target> housemate télé <END> volume
+choisir le <START:nav_target> housemate téléviseur <END>
+choisir le <START:nav_target> housemate téléviseur <END> volume
+choisir le <START:nav_target> housemate télévision <END> volume
 choisir le <START:nav_target> lit <END>
 choisir le <START:nav_target> musique <END> volume
 choisir le <START:nav_target> nouveau smartphone <END>
@@ -1157,7 +1192,11 @@ choisis <START:nav_target> home <END>
 choisis <START:nav_target> housemate <END>
 choisis <START:nav_target> housemate app <END>
 choisis <START:nav_target> housemate télé <END>
+choisis <START:nav_target> housemate télé <END> volume
 choisis <START:nav_target> housemate téléviseur <END>
+choisis <START:nav_target> housemate téléviseur <END> volume
+choisis <START:nav_target> housemate télévision <END>
+choisis <START:nav_target> housemate télévision <END> volume
 choisis <START:nav_target> inclinaison <END>
 choisis <START:nav_target> intercom <END>
 choisis <START:nav_target> internet <END>
@@ -1311,6 +1350,10 @@ choisis le <START:nav_target> contrôle de la musique <END>
 choisis le <START:nav_target> contrôle du téléviseur <END>
 choisis le <START:nav_target> email d'urgence <END>
 choisis le <START:nav_target> geste de conduite <END>
+choisis le <START:nav_target> housemate télé <END> volume
+choisis le <START:nav_target> housemate téléviseur <END>
+choisis le <START:nav_target> housemate téléviseur <END> volume
+choisis le <START:nav_target> housemate télévision <END> volume
 choisis le <START:nav_target> lit <END>
 choisis le <START:nav_target> musique <END> volume
 choisis le <START:nav_target> nouveau smartphone <END>
@@ -1551,6 +1594,10 @@ le <START:nav_target> contrôle de la musique <END>
 le <START:nav_target> contrôle du téléviseur <END>
 le <START:nav_target> email d'urgence <END>
 le <START:nav_target> geste de conduite <END>
+le <START:nav_target> housemate télé <END> volume
+le <START:nav_target> housemate téléviseur <END>
+le <START:nav_target> housemate téléviseur <END> volume
+le <START:nav_target> housemate télévision <END> volume
 le <START:nav_target> lit <END>
 le <START:nav_target> musique <END> volume
 le <START:nav_target> nouveau smartphone <END>
@@ -1620,7 +1667,11 @@ sélectionne <START:nav_target> home <END>
 sélectionne <START:nav_target> housemate <END>
 sélectionne <START:nav_target> housemate app <END>
 sélectionne <START:nav_target> housemate télé <END>
+sélectionne <START:nav_target> housemate télé <END> volume
 sélectionne <START:nav_target> housemate téléviseur <END>
+sélectionne <START:nav_target> housemate téléviseur <END> volume
+sélectionne <START:nav_target> housemate télévision <END>
+sélectionne <START:nav_target> housemate télévision <END> volume
 sélectionne <START:nav_target> inclinaison <END>
 sélectionne <START:nav_target> intercom <END>
 sélectionne <START:nav_target> internet <END>
@@ -1774,6 +1825,10 @@ sélectionne le <START:nav_target> contrôle de la musique <END>
 sélectionne le <START:nav_target> contrôle du téléviseur <END>
 sélectionne le <START:nav_target> email d'urgence <END>
 sélectionne le <START:nav_target> geste de conduite <END>
+sélectionne le <START:nav_target> housemate télé <END> volume
+sélectionne le <START:nav_target> housemate téléviseur <END>
+sélectionne le <START:nav_target> housemate téléviseur <END> volume
+sélectionne le <START:nav_target> housemate télévision <END> volume
 sélectionne le <START:nav_target> lit <END>
 sélectionne le <START:nav_target> musique <END> volume
 sélectionne le <START:nav_target> nouveau smartphone <END>
@@ -1856,7 +1911,11 @@ sélectionner <START:nav_target> home <END>
 sélectionner <START:nav_target> housemate <END>
 sélectionner <START:nav_target> housemate app <END>
 sélectionner <START:nav_target> housemate télé <END>
+sélectionner <START:nav_target> housemate télé <END> volume
 sélectionner <START:nav_target> housemate téléviseur <END>
+sélectionner <START:nav_target> housemate téléviseur <END> volume
+sélectionner <START:nav_target> housemate télévision <END>
+sélectionner <START:nav_target> housemate télévision <END> volume
 sélectionner <START:nav_target> inclinaison <END>
 sélectionner <START:nav_target> intercom <END>
 sélectionner <START:nav_target> internet <END>
@@ -2010,6 +2069,10 @@ sélectionner le <START:nav_target> contrôle de la musique <END>
 sélectionner le <START:nav_target> contrôle du téléviseur <END>
 sélectionner le <START:nav_target> email d'urgence <END>
 sélectionner le <START:nav_target> geste de conduite <END>
+sélectionner le <START:nav_target> housemate télé <END> volume
+sélectionner le <START:nav_target> housemate téléviseur <END>
+sélectionner le <START:nav_target> housemate téléviseur <END> volume
+sélectionner le <START:nav_target> housemate télévision <END> volume
 sélectionner le <START:nav_target> lit <END>
 sélectionner le <START:nav_target> musique <END> volume
 sélectionner le <START:nav_target> nouveau smartphone <END>
@@ -2068,6 +2131,10 @@ va au <START:nav_target> contrôle de la musique <END>
 va au <START:nav_target> contrôle du téléviseur <END>
 va au <START:nav_target> email d'urgence <END>
 va au <START:nav_target> geste de conduite <END>
+va au <START:nav_target> housemate télé <END> volume
+va au <START:nav_target> housemate téléviseur <END>
+va au <START:nav_target> housemate téléviseur <END> volume
+va au <START:nav_target> housemate télévision <END> volume
 va au <START:nav_target> lit <END>
 va au <START:nav_target> musique <END> volume
 va au <START:nav_target> nouveau smartphone <END>
@@ -2126,7 +2193,11 @@ va à <START:nav_target> home <END>
 va à <START:nav_target> housemate <END>
 va à <START:nav_target> housemate app <END>
 va à <START:nav_target> housemate télé <END>
+va à <START:nav_target> housemate télé <END> volume
 va à <START:nav_target> housemate téléviseur <END>
+va à <START:nav_target> housemate téléviseur <END> volume
+va à <START:nav_target> housemate télévision <END>
+va à <START:nav_target> housemate télévision <END> volume
 va à <START:nav_target> inclinaison <END>
 va à <START:nav_target> intercom <END>
 va à <START:nav_target> internet <END>

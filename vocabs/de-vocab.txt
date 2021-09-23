@@ -13,7 +13,6 @@ abspielen
 abzuspielen
 add-ons
 add-ons tv
-add-ons öffnen
 add-ons tv öffnen
 add-ons öffnen
 admin
@@ -214,11 +213,6 @@ bitte englisch
 bitte erhöhe die fernseher lautstärke
 bitte erhöhe die housemate tv lautstärke
 bitte erhöhe die lautstärke
-bitte erhöhe die lautstärke
-bitte erhöhe die lautstärke der musik
-bitte erhöhe die lautstärke des fernsehers
-bitte erhöhe die lautstärke des fernsehers
-bitte erhöhe die lautstärke
 bitte erhöhe die lautstärke der musik
 bitte erhöhe die lautstärke des fernsehers
 bitte erhöhe die lautstärke des tv
@@ -226,11 +220,6 @@ bitte erhöhe die musik lautstärke
 bitte erhöhe die tv lautstärke
 bitte erhöhe fernseher lautstärke
 bitte erhöhe housemate tv lautstärke
-bitte erhöhe lautstärke
-bitte erhöhe lautstärke
-bitte erhöhe lautstärke der musik
-bitte erhöhe lautstärke des fernsehers
-bitte erhöhe lautstärke des fernsehers
 bitte erhöhe lautstärke
 bitte erhöhe lautstärke der musik
 bitte erhöhe lautstärke des fernsehers
@@ -499,15 +488,9 @@ bitte niederländisch
 bitte reduziere die fernseher lautstärke
 bitte reduziere die housemate tv lautstärke
 bitte reduziere die lautstärke
-bitte reduziere die lautstärke
 bitte reduziere die lautstärke der musik
-bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des housemate tv
-bitte reduziere die lautstärke des tv
-bitte reduziere die lautstärke
-bitte reduziere die lautstärke der musik
-bitte reduziere die lautstärke des fernsehers
 bitte reduziere die lautstärke des tv
 bitte reduziere die musik lautstärke
 bitte reduziere die tv lautstärke
@@ -987,15 +970,9 @@ bitte tv lautstärke weniger
 bitte verringere die fernseher lautstärke
 bitte verringere die housemate tv lautstärke
 bitte verringere die lautstärke
-bitte verringere die lautstärke
 bitte verringere die lautstärke der musik
-bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des housemate tv
-bitte verringere die lautstärke des tv
-bitte verringere die lautstärke
-bitte verringere die lautstärke der musik
-bitte verringere die lautstärke des fernsehers
 bitte verringere die lautstärke des tv
 bitte verringere die musik lautstärke
 bitte verringere die tv lautstärke
@@ -1517,6 +1494,7 @@ bring mich zu der kategorie musikkontrolle
 bring mich zu der kategorie musikquelle
 bring mich zu der kategorie raumlicht
 bring mich zu der kategorie raumlichter
+bring mich zu der kategorie sprachsteuerung
 bring mich zu der kategorie tischlampe
 bring mich zu der kategorie tv
 bring mich zu der kategorie tv einstellung
@@ -1524,7 +1502,6 @@ bring mich zu der kategorie tv einstellungen
 bring mich zu der kategorie tv power
 bring mich zu der kategorie tv steuerung
 bring mich zu der kategorie tür
-bring mich zu der kategorie sprachsteuerung
 bring mich zu der kategorie ventilator
 bring mich zu der kategorie vorhang
 bring mich zu der kategorie vorhänge
@@ -1588,6 +1565,7 @@ bring mich zu sitz
 bring mich zu sitz position
 bring mich zu sprache
 bring mich zu sprachen
+bring mich zu sprachsteuerung
 bring mich zu support
 bring mich zu sync
 bring mich zu synchronisation
@@ -1600,7 +1578,6 @@ bring mich zu tv einstellungen
 bring mich zu tv power
 bring mich zu tv steuerung
 bring mich zu tür
-bring mich zu sprachsteuerung
 bring mich zu ventilator
 bring mich zu vorhandenes handy
 bring mich zu vorhang
@@ -1677,12 +1654,12 @@ bring mich zur kategorie wlan
 bring mich zur musik
 bring mich zur musikkontrolle
 bring mich zur musikquelle
+bring mich zur sprachsteuerung
 bring mich zur tischlampe
 bring mich zur tv einstellung
 bring mich zur tv power
 bring mich zur tv steuerung
 bring mich zur tür
-bring mich zur sprachsteuerung
 com
 computer
 computer öffnen
@@ -1837,6 +1814,8 @@ die kategorie raumlicht
 die kategorie raumlicht öffnen
 die kategorie raumlichter
 die kategorie raumlichter öffnen
+die kategorie sprachsteuerung
+die kategorie sprachsteuerung öffnen
 die kategorie tischlampe
 die kategorie tischlampe öffnen
 die kategorie tv
@@ -1848,9 +1827,7 @@ die kategorie tv steuerung
 die kategorie tv steuerung öffnen
 die kategorie tv öffnen
 die kategorie tür
-die kategorie sprachsteuerung
 die kategorie tür öffnen
-die kategorie sprachsteuerung öffnen
 die kategorie ventilator
 die kategorie ventilator öffnen
 die kategorie vorhang
@@ -1890,6 +1867,13 @@ die raumlichter
 die sitz position
 die sprache
 die sprachen
+die sprachsteuerung
+die sprachsteuerung auf
+die sprachsteuerung aufmachen
+die sprachsteuerung schließen
+die sprachsteuerung zu
+die sprachsteuerung zumachen
+die sprachsteuerung öffnen
 die steigung des betts erhöhen
 die steigung des betts reduzieren
 die steigung des betts senken
@@ -1900,19 +1884,12 @@ die tv einstellungen
 die tv power
 die tv steuerung
 die tür
-die sprachsteuerung
 die tür auf
-die sprachsteuerung auf
 die tür aufmachen
-die sprachsteuerung aufmachen
 die tür schließen
-die sprachsteuerung schließen
 die tür zu
-die sprachsteuerung zu
 die tür zumachen
-die sprachsteuerung zumachen
 die tür öffnen
-die sprachsteuerung öffnen
 die vorhänge
 die vorhänge auf
 die vorhänge aufmachen
@@ -2092,17 +2069,11 @@ erhöhe bett winkel
 erhöhe bitte die fernseher lautstärke
 erhöhe bitte die housemate tv lautstärke
 erhöhe bitte die lautstärke
-erhöhe bitte die lautstärke
-erhöhe bitte die lautstärke der musik
-erhöhe bitte die lautstärke des fernsehers
-erhöhe bitte die lautstärke des fernsehers
-erhöhe bitte die lautstärke
 erhöhe bitte die lautstärke der musik
 erhöhe bitte die lautstärke des fernsehers
 erhöhe bitte die lautstärke des tv
 erhöhe bitte die musik lautstärke
 erhöhe bitte die tv lautstärke
-erhöhe bitte lautstärke
 erhöhe bitte lautstärke
 erhöhe den bett neigungswinkel
 erhöhe den bett winkel
@@ -2117,23 +2088,12 @@ erhöhe die housemate tv lautstärke
 erhöhe die housemate tv lautstärke bitte
 erhöhe die höhe des betts
 erhöhe die lautstärke
-erhöhe die lautstärke
 erhöhe die lautstärke bitte
 erhöhe die lautstärke der musik
-erhöhe die lautstärke der musik
 erhöhe die lautstärke der musik bitte
-erhöhe die lautstärke des fernsehers
 erhöhe die lautstärke des fernsehers
 erhöhe die lautstärke des fernsehers bitte
 erhöhe die lautstärke des housemate tv
-erhöhe die lautstärke des tv
-erhöhe die höhe des betts
-erhöhe die lautstärke
-erhöhe die lautstärke bitte
-erhöhe die lautstärke der musik
-erhöhe die lautstärke der musik bitte
-erhöhe die lautstärke des fernsehers
-erhöhe die lautstärke des fernsehers bitte
 erhöhe die lautstärke des tv
 erhöhe die lautstärke des tv bitte
 erhöhe die musik lautstärke
@@ -2147,22 +2107,12 @@ erhöhe fernseher lautstärke bitte
 erhöhe housemate tv lautstärke
 erhöhe housemate tv lautstärke bitte
 erhöhe lautstärke
-erhöhe lautstärke
 erhöhe lautstärke bitte
 erhöhe lautstärke der musik
-erhöhe lautstärke der musik
 erhöhe lautstärke der musik bitte
-erhöhe lautstärke des fernsehers
 erhöhe lautstärke des fernsehers
 erhöhe lautstärke des fernsehers bitte
 erhöhe lautstärke des housemate tv
-erhöhe lautstärke des tv
-erhöhe lautstärke
-erhöhe lautstärke bitte
-erhöhe lautstärke der musik
-erhöhe lautstärke der musik bitte
-erhöhe lautstärke des fernsehers
-erhöhe lautstärke des fernsehers bitte
 erhöhe lautstärke des tv
 erhöhe lautstärke des tv bitte
 erhöhe musik lautstärke
@@ -2359,6 +2309,7 @@ gehe auf musikkontrolle
 gehe auf musikquelle
 gehe auf raumlicht
 gehe auf raumlichter
+gehe auf sprachsteuerung
 gehe auf tischlampe
 gehe auf tv
 gehe auf tv einstellung
@@ -2366,7 +2317,6 @@ gehe auf tv einstellungen
 gehe auf tv power
 gehe auf tv steuerung
 gehe auf tür
-gehe auf sprachsteuerung
 gehe auf ventilator
 gehe auf vorhang
 gehe auf vorhänge
@@ -2413,6 +2363,7 @@ gehe zu der kategorie musikkontrolle
 gehe zu der kategorie musikquelle
 gehe zu der kategorie raumlicht
 gehe zu der kategorie raumlichter
+gehe zu der kategorie sprachsteuerung
 gehe zu der kategorie tischlampe
 gehe zu der kategorie tv
 gehe zu der kategorie tv einstellung
@@ -2420,7 +2371,6 @@ gehe zu der kategorie tv einstellungen
 gehe zu der kategorie tv power
 gehe zu der kategorie tv steuerung
 gehe zu der kategorie tür
-gehe zu der kategorie sprachsteuerung
 gehe zu der kategorie ventilator
 gehe zu der kategorie vorhang
 gehe zu der kategorie vorhänge
@@ -2530,6 +2480,7 @@ gehe zu sitz
 gehe zu sitz position
 gehe zu sprache
 gehe zu sprachen
+gehe zu sprachsteuerung
 gehe zu support
 gehe zu sync
 gehe zu synchronisation
@@ -2542,7 +2493,6 @@ gehe zu tv einstellungen
 gehe zu tv power
 gehe zu tv steuerung
 gehe zu tür
-gehe zu sprachsteuerung
 gehe zu ventilator
 gehe zu vorhandenes handy
 gehe zu vorhang
@@ -2578,12 +2528,12 @@ gehe zur kategorie
 gehe zur musik
 gehe zur musikkontrolle
 gehe zur musikquelle
+gehe zur sprachsteuerung
 gehe zur tischlampe
 gehe zur tv einstellung
 gehe zur tv power
 gehe zur tv steuerung
 gehe zur tür
-gehe zur sprachsteuerung
 gehe zurück zum vorherigen kanal
 gehe zurück zum vorherigen lied
 gehe zurück zum vorherigen programm
@@ -2629,7 +2579,21 @@ home
 house
 housemate
 housemate app
+housemate fernseher an
+housemate fernseher anmachen
+housemate fernseher anschalten
+housemate fernseher aus
+housemate fernseher ausmachen
+housemate fernseher ausschalten
+housemate fernseher einschalten
 housemate tv
+housemate tv an
+housemate tv anmachen
+housemate tv anschalten
+housemate tv aus
+housemate tv ausmachen
+housemate tv ausschalten
+housemate tv einschalten
 housemate tv lautstärke aufdrehen
 housemate tv lautstärke aufdrehen bitte
 housemate tv lautstärke erhöhen
@@ -2685,8 +2649,8 @@ kamera
 kamera öffnen
 kanal
 kategorie
-kategorie add-ons öffnen
 kategorie add-ons tv öffnen
+kategorie add-ons öffnen
 kategorie admin öffnen
 kategorie administration öffnen
 kategorie alarm öffnen
@@ -2736,6 +2700,7 @@ kategorie raumlichter öffnen
 kategorie sitz öffnen
 kategorie sprache öffnen
 kategorie sprachen öffnen
+kategorie sprachsteuerung öffnen
 kategorie support öffnen
 kategorie sync öffnen
 kategorie synchronisation öffnen
@@ -2747,7 +2712,6 @@ kategorie tv power öffnen
 kategorie tv steuerung öffnen
 kategorie tv öffnen
 kategorie tür öffnen
-kategorie sprachsteuerung öffnen
 kategorie ventilator öffnen
 kategorie vorhandenes handy öffnen
 kategorie vorhang öffnen
@@ -2796,6 +2760,7 @@ komme zurück auf musikkontrolle
 komme zurück auf musikquelle
 komme zurück auf raumlicht
 komme zurück auf raumlichter
+komme zurück auf sprachsteuerung
 komme zurück auf tischlampe
 komme zurück auf tv
 komme zurück auf tv einstellung
@@ -2803,7 +2768,6 @@ komme zurück auf tv einstellungen
 komme zurück auf tv power
 komme zurück auf tv steuerung
 komme zurück auf tür
-komme zurück auf sprachsteuerung
 komme zurück auf ventilator
 komme zurück auf vorhang
 komme zurück auf vorhänge
@@ -3155,8 +3119,11 @@ mach den alarm aus
 mach den fernseher an
 mach den fernseher aus
 mach den fernseher leiser
+mach den housemate fernseher an
+mach den housemate fernseher aus
+mach den housemate tv an
+mach den housemate tv aus
 mach den housemate tv leiser
-mach den fernseher leiser
 mach den tv an
 mach den tv aus
 mach den tv leiser
@@ -3176,8 +3143,6 @@ mach die housemate tv lautstärke leiser
 mach die lautstärke der musik leiser
 mach die lautstärke des fernsehers leiser
 mach die lautstärke des housemate tv leiser
-mach die lautstärke der musik leiser
-mach die lautstärke des fernsehers leiser
 mach die lautstärke des tv leiser
 mach die lautstärke leiser
 mach die musik an
@@ -3186,13 +3151,13 @@ mach die musik lautstärke leiser
 mach die musik leiser
 mach die raumlichter an
 mach die raumlichter aus
+mach die sprachsteuerung auf
+mach die sprachsteuerung zu
 mach die tischlampe an
 mach die tischlampe aus
 mach die tv lautstärke leiser
 mach die tür auf
-mach die sprachsteuerung auf
 mach die tür zu
-mach die sprachsteuerung zu
 mach die vorhänge auf
 mach die vorhänge zu
 mach die warnblinker an
@@ -3204,6 +3169,10 @@ mach fernseher an
 mach fernseher aus
 mach heizung an
 mach heizung aus
+mach housemate fernseher an
+mach housemate fernseher aus
+mach housemate tv an
+mach housemate tv aus
 mach licht an
 mach licht aus
 mach lichter an
@@ -3214,14 +3183,14 @@ mach raumlicht an
 mach raumlicht aus
 mach raumlichter an
 mach raumlichter aus
+mach sprachsteuerung auf
+mach sprachsteuerung zu
 mach tischlampe an
 mach tischlampe aus
 mach tv an
 mach tv aus
 mach tür auf
-mach sprachsteuerung auf
 mach tür zu
-mach sprachsteuerung zu
 mach ventilator an
 mach ventilator aus
 mach vorhang auf
@@ -3404,6 +3373,7 @@ navigiere zu der kategorie musikkontrolle
 navigiere zu der kategorie musikquelle
 navigiere zu der kategorie raumlicht
 navigiere zu der kategorie raumlichter
+navigiere zu der kategorie sprachsteuerung
 navigiere zu der kategorie tischlampe
 navigiere zu der kategorie tv
 navigiere zu der kategorie tv einstellung
@@ -3411,7 +3381,6 @@ navigiere zu der kategorie tv einstellungen
 navigiere zu der kategorie tv power
 navigiere zu der kategorie tv steuerung
 navigiere zu der kategorie tür
-navigiere zu der kategorie sprachsteuerung
 navigiere zu der kategorie ventilator
 navigiere zu der kategorie vorhang
 navigiere zu der kategorie vorhänge
@@ -3526,6 +3495,7 @@ navigiere zu sitz
 navigiere zu sitz position
 navigiere zu sprache
 navigiere zu sprachen
+navigiere zu sprachsteuerung
 navigiere zu support
 navigiere zu sync
 navigiere zu synchronisation
@@ -3538,7 +3508,6 @@ navigiere zu tv einstellungen
 navigiere zu tv power
 navigiere zu tv steuerung
 navigiere zu tür
-navigiere zu sprachsteuerung
 navigiere zu ventilator
 navigiere zu vorhandenes handy
 navigiere zu vorhang
@@ -3561,12 +3530,12 @@ navigiere zur kategorie
 navigiere zur musik
 navigiere zur musikkontrolle
 navigiere zur musikquelle
+navigiere zur sprachsteuerung
 navigiere zur tischlampe
 navigiere zur tv einstellung
 navigiere zur tv power
 navigiere zur tv steuerung
 navigiere zur tür
-navigiere zur sprachsteuerung
 neig
 neig kalibrierung
 neigen
@@ -3662,15 +3631,9 @@ reduziere bett winkel
 reduziere bitte die fernseher lautstärke
 reduziere bitte die housemate tv lautstärke
 reduziere bitte die lautstärke
-reduziere bitte die lautstärke
 reduziere bitte die lautstärke der musik
-reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des housemate tv
-reduziere bitte die lautstärke des tv
-reduziere bitte die lautstärke
-reduziere bitte die lautstärke der musik
-reduziere bitte die lautstärke des fernsehers
 reduziere bitte die lautstärke des tv
 reduziere bitte die musik lautstärke
 reduziere bitte die tv lautstärke
@@ -3687,24 +3650,13 @@ reduziere die housemate tv lautstärke
 reduziere die housemate tv lautstärke bitte
 reduziere die höhe des betts
 reduziere die lautstärke
-reduziere die lautstärke
 reduziere die lautstärke bitte
 reduziere die lautstärke der musik
-reduziere die lautstärke der musik
 reduziere die lautstärke der musik bitte
-reduziere die lautstärke des fernsehers
 reduziere die lautstärke des fernsehers
 reduziere die lautstärke des fernsehers bitte
 reduziere die lautstärke des housemate tv
 reduziere die lautstärke des housemate tv bitte
-reduziere die lautstärke des tv
-reduziere die höhe des betts
-reduziere die lautstärke
-reduziere die lautstärke bitte
-reduziere die lautstärke der musik
-reduziere die lautstärke der musik bitte
-reduziere die lautstärke des fernsehers
-reduziere die lautstärke des fernsehers bitte
 reduziere die lautstärke des tv
 reduziere die lautstärke des tv bitte
 reduziere die musik lautstärke
@@ -3752,6 +3704,12 @@ schalte den alarm ein
 schalte den fernseher an
 schalte den fernseher aus
 schalte den fernseher ein
+schalte den housemate fernseher an
+schalte den housemate fernseher aus
+schalte den housemate fernseher ein
+schalte den housemate tv an
+schalte den housemate tv aus
+schalte den housemate tv ein
 schalte den tv an
 schalte den tv aus
 schalte den tv ein
@@ -3781,6 +3739,12 @@ schalte fernseher ein
 schalte heizung an
 schalte heizung aus
 schalte heizung ein
+schalte housemate fernseher an
+schalte housemate fernseher aus
+schalte housemate fernseher ein
+schalte housemate tv an
+schalte housemate tv aus
+schalte housemate tv ein
 schalte licht an
 schalte licht aus
 schalte licht ein
@@ -3827,24 +3791,24 @@ schließ
 schließ das fenster
 schließ den vorhang
 schließ die fenster
-schließ die tür
 schließ die sprachsteuerung
+schließ die tür
 schließ die vorhänge
 schließ fenster
-schließ tür
 schließ sprachsteuerung
+schließ tür
 schließ vorhang
 schließ vorhänge
 schließe
 schließe das fenster
 schließe den vorhang
 schließe die fenster
-schließe die tür
 schließe die sprachsteuerung
+schließe die tür
 schließe die vorhänge
 schließe fenster
-schließe tür
 schließe sprachsteuerung
+schließe tür
 schließe vorhang
 schließe vorhänge
 schließen
@@ -4763,6 +4727,13 @@ sprache
 sprache öffnen
 sprachen
 sprachen öffnen
+sprachsteuerung
+sprachsteuerung auf
+sprachsteuerung aufmachen
+sprachsteuerung schließen
+sprachsteuerung zu
+sprachsteuerung zumachen
+sprachsteuerung öffnen
 start
 start der kalibrierung von neigen
 start der kalibrierung von nicken
@@ -4876,7 +4847,6 @@ synchronisierung des geräts
 synchronisierung gerät
 synchronisierung starten
 synchronisierung öffnen
-tisch
 tischlampe
 tischlampe an
 tischlampe anmachen
@@ -5015,19 +4985,12 @@ tv steuerung
 tv steuerung öffnen
 tv öffnen
 tür
-sprachsteuerung
 tür auf
-sprachsteuerung auf
 tür aufmachen
-sprachsteuerung aufmachen
 tür schließen
-sprachsteuerung schließen
 tür zu
-sprachsteuerung zu
 tür zumachen
-sprachsteuerung zumachen
 tür öffnen
-sprachsteuerung öffnen
 unten
 ventilator
 ventilator an
@@ -5072,15 +5035,9 @@ verringere bett winkel
 verringere bitte die fernseher lautstärke
 verringere bitte die housemate tv lautstärke
 verringere bitte die lautstärke
-verringere bitte die lautstärke
 verringere bitte die lautstärke der musik
-verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des housemate tv
-verringere bitte die lautstärke des tv
-verringere bitte die lautstärke
-verringere bitte die lautstärke der musik
-verringere bitte die lautstärke des fernsehers
 verringere bitte die lautstärke des tv
 verringere bitte die musik lautstärke
 verringere bitte die tv lautstärke
@@ -5097,24 +5054,13 @@ verringere die housemate tv lautstärke
 verringere die housemate tv lautstärke bitte
 verringere die höhe des betts
 verringere die lautstärke
-verringere die lautstärke
 verringere die lautstärke bitte
 verringere die lautstärke der musik
-verringere die lautstärke der musik
 verringere die lautstärke der musik bitte
-verringere die lautstärke des fernsehers
 verringere die lautstärke des fernsehers
 verringere die lautstärke des fernsehers bitte
 verringere die lautstärke des housemate tv
 verringere die lautstärke des housemate tv bitte
-verringere die lautstärke des tv
-verringere die höhe des betts
-verringere die lautstärke
-verringere die lautstärke bitte
-verringere die lautstärke der musik
-verringere die lautstärke der musik bitte
-verringere die lautstärke des fernsehers
-verringere die lautstärke des fernsehers bitte
 verringere die lautstärke des tv
 verringere die lautstärke des tv bitte
 verringere die musik lautstärke
@@ -5202,6 +5148,7 @@ wechsel zu der kategorie musikkontrolle
 wechsel zu der kategorie musikquelle
 wechsel zu der kategorie raumlicht
 wechsel zu der kategorie raumlichter
+wechsel zu der kategorie sprachsteuerung
 wechsel zu der kategorie tischlampe
 wechsel zu der kategorie tv
 wechsel zu der kategorie tv einstellung
@@ -5209,7 +5156,6 @@ wechsel zu der kategorie tv einstellungen
 wechsel zu der kategorie tv power
 wechsel zu der kategorie tv steuerung
 wechsel zu der kategorie tür
-wechsel zu der kategorie sprachsteuerung
 wechsel zu der kategorie ventilator
 wechsel zu der kategorie vorhang
 wechsel zu der kategorie vorhänge
@@ -5273,6 +5219,7 @@ wechsel zu raumlichter
 wechsel zu sitz
 wechsel zu sprache
 wechsel zu sprachen
+wechsel zu sprachsteuerung
 wechsel zu support
 wechsel zu sync
 wechsel zu synchronisation
@@ -5285,7 +5232,6 @@ wechsel zu tv einstellungen
 wechsel zu tv power
 wechsel zu tv steuerung
 wechsel zu tür
-wechsel zu sprachsteuerung
 wechsel zu ventilator
 wechsel zu vorhandenes handy
 wechsel zu vorhang
@@ -5376,12 +5322,12 @@ wechsel zur musik
 wechsel zur musikkontrolle
 wechsel zur musikquelle
 wechsel zur sprache
+wechsel zur sprachsteuerung
 wechsel zur tischlampe
 wechsel zur tv einstellung
 wechsel zur tv power
 wechsel zur tv steuerung
 wechsel zur tür
-wechsel zur sprachsteuerung
 wechseln
 weiter
 weiter mit nächstem kanal
@@ -5519,6 +5465,7 @@ wähle die kategorie raumlichter
 wähle die kategorie sitz
 wähle die kategorie sprache
 wähle die kategorie sprachen
+wähle die kategorie sprachsteuerung
 wähle die kategorie support
 wähle die kategorie sync
 wähle die kategorie synchronisation
@@ -5530,7 +5477,6 @@ wähle die kategorie tv einstellungen
 wähle die kategorie tv power
 wähle die kategorie tv steuerung
 wähle die kategorie tür
-wähle die kategorie sprachsteuerung
 wähle die kategorie ventilator
 wähle die kategorie vorhandenes handy
 wähle die kategorie vorhang
@@ -5556,12 +5502,12 @@ wähle die sprache holländisch
 wähle die sprache holländisch aus
 wähle die sprache niederländisch
 wähle die sprache niederländisch aus
+wähle die sprachsteuerung
 wähle die tischlampe
 wähle die tv einstellungen
 wähle die tv power
 wähle die tv steuerung
 wähle die tür
-wähle die sprachsteuerung
 wähle die vorhänge
 wähle die warnblinker
 wähle einstellung
@@ -5691,6 +5637,7 @@ wähle raumlichter
 wähle sitz
 wähle sprache
 wähle sprachen
+wähle sprachsteuerung
 wähle support
 wähle sync
 wähle synchronisation
@@ -5702,7 +5649,6 @@ wähle tv einstellungen
 wähle tv power
 wähle tv steuerung
 wähle tür
-wähle sprachsteuerung
 wähle ventilator
 wähle vorhandenes handy
 wähle vorhang
@@ -5782,13 +5728,13 @@ zeige die kategorie musikkontrolle
 zeige die kategorie musikquelle
 zeige die kategorie raumlicht
 zeige die kategorie raumlichter
+zeige die kategorie sprachsteuerung
 zeige die kategorie tischlampe
 zeige die kategorie tv
 zeige die kategorie tv einstellungen
 zeige die kategorie tv power
 zeige die kategorie tv steuerung
 zeige die kategorie tür
-zeige die kategorie sprachsteuerung
 zeige die kategorie ventilator
 zeige die kategorie vorhang
 zeige die kategorie vorhänge
@@ -5805,6 +5751,7 @@ zeige die nicken kalibrierung
 zeige die raumlichter
 zeige die sprache
 zeige die sprachen
+zeige die sprachsteuerung
 zeige die synchronisation
 zeige die synchronisierung
 zeige die tischlampe
@@ -5812,7 +5759,6 @@ zeige die tv einstellungen
 zeige die tv power
 zeige die tv steuerung
 zeige die tür
-zeige die sprachsteuerung
 zeige die vorhänge
 zeige die warnblinker
 zeige einstellung
@@ -5924,6 +5870,7 @@ zeige raumlichter
 zeige sitz
 zeige sprache
 zeige sprachen
+zeige sprachsteuerung
 zeige support
 zeige sync
 zeige synchronisation
@@ -5935,7 +5882,6 @@ zeige tv einstellungen
 zeige tv power
 zeige tv steuerung
 zeige tür
-zeige sprachsteuerung
 zeige ventilator
 zeige vorhandenes handy
 zeige vorhang
@@ -5947,10 +5893,9 @@ zeige warnblinker
 zeige wlan
 zu
 zu add-ons
+zu add-ons bitte
 zu add-ons tv
-zu add-ons bitte
 zu add-ons tv bitte
-zu add-ons bitte
 zu admin
 zu admin bitte
 zu administration
@@ -5999,6 +5944,7 @@ zu der kategorie musikkontrolle
 zu der kategorie musikquelle
 zu der kategorie raumlicht
 zu der kategorie raumlichter
+zu der kategorie sprachsteuerung
 zu der kategorie tischlampe
 zu der kategorie tv
 zu der kategorie tv einstellung
@@ -6006,7 +5952,6 @@ zu der kategorie tv einstellungen
 zu der kategorie tv power
 zu der kategorie tv steuerung
 zu der kategorie tür
-zu der kategorie sprachsteuerung
 zu der kategorie ventilator
 zu der kategorie vorhang
 zu der kategorie vorhänge
@@ -6096,6 +6041,7 @@ zu sprache
 zu sprache bitte
 zu sprachen
 zu sprachen bitte
+zu sprachsteuerung
 zu support
 zu support bitte
 zu tischlampe
@@ -6106,7 +6052,6 @@ zu tv einstellungen
 zu tv power
 zu tv steuerung
 zu tür
-zu sprachsteuerung
 zu ventilator
 zu vorhandenes handy
 zu vorhandenes handy bitte
@@ -6198,12 +6143,12 @@ zur nicken kalibrierung
 zur notfall-email
 zur sitz position
 zur sprache
+zur sprachsteuerung
 zur tischlampe
 zur tv einstellung
 zur tv power
 zur tv steuerung
 zur tür
-zur sprachsteuerung
 zurück
 zurück zum vorherigen kanal
 zurück zum vorherigen lied
@@ -7117,13 +7062,13 @@ zurück zum vorherigen song
 öffne die kategorie musikquelle
 öffne die kategorie raumlicht
 öffne die kategorie raumlichter
+öffne die kategorie sprachsteuerung
 öffne die kategorie tischlampe
 öffne die kategorie tv
 öffne die kategorie tv einstellungen
 öffne die kategorie tv power
 öffne die kategorie tv steuerung
 öffne die kategorie tür
-öffne die kategorie sprachsteuerung
 öffne die kategorie ventilator
 öffne die kategorie vorhang
 öffne die kategorie vorhänge
@@ -7131,12 +7076,12 @@ zurück zum vorherigen song
 öffne die musikkontrolle
 öffne die musikquelle
 öffne die raumlichter
+öffne die sprachsteuerung
 öffne die tischlampe
 öffne die tv einstellungen
 öffne die tv power
 öffne die tv steuerung
 öffne die tür
-öffne die sprachsteuerung
 öffne die vorhänge
 öffne einstellung
 öffne einstellungen
@@ -7202,6 +7147,7 @@ zurück zum vorherigen song
 öffne kategorie raumlichter
 öffne kategorie sprache
 öffne kategorie sprachen
+öffne kategorie sprachsteuerung
 öffne kategorie support
 öffne kategorie sync
 öffne kategorie synchronisation
@@ -7213,7 +7159,6 @@ zurück zum vorherigen song
 öffne kategorie tv power
 öffne kategorie tv steuerung
 öffne kategorie tür
-öffne kategorie sprachsteuerung
 öffne kategorie ventilator
 öffne kategorie vorhandenes handy
 öffne kategorie vorhang
@@ -7251,6 +7196,7 @@ zurück zum vorherigen song
 öffne sitz position
 öffne sprache
 öffne sprachen
+öffne sprachsteuerung
 öffne support
 öffne sync
 öffne synchronisation
@@ -7262,7 +7208,6 @@ zurück zum vorherigen song
 öffne tv power
 öffne tv steuerung
 öffne tür
-öffne sprachsteuerung
 öffne ventilator
 öffne vorhandenes handy
 öffne vorhang

@@ -22,7 +22,7 @@ la <START:smarthome_target> fenêtre <END> fermée
 les <START:smarthome_target> fenêtres <END> fermées
 le <START:smarthome_target> rideau <END> fermé
 les <START:smarthome_target> rideaux <END> fermés
-la <START:smarthome_target> porte fermée
+la <START:smarthome_target> porte <END> fermée
 <START:smarthome_target> fenêtre <END> fermée
 <START:smarthome_target> fenêtres <END> fermées
 <START:smarthome_target> rideau <END> fermé

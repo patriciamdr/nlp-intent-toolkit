@@ -22,6 +22,12 @@ nick:nicken
 neig:neigen
 fernseher:tv
 fernsehers:tv
+housemate fernseher:housemate tv
+housemate fernsehers:housemate tv
+add-ons fernseher:add-ons tv
+add-ons fernsehers:add-ons tv
+add-on fernseher:add-ons tv
+add-on fernsehers:add-ons tv
 neue:neues
 vorhandene:vorhandenes
 bild:foto

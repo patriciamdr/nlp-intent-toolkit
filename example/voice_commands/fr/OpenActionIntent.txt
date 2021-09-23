@@ -22,9 +22,9 @@ la <START:smarthome_target> fenêtre <END> ouverte
 les <START:smarthome_target> fenêtres <END> ouvertes
 le <START:smarthome_target> rideau <END> ouvert
 les <START:smarthome_target> rideaux <END> ouverts
-la <START:smarthome_target> porte ouverte
+la <START:smarthome_target> porte <END> ouverte
 <START:smarthome_target> fenêtre <END> ouverte
 <START:smarthome_target> fenêtres <END> ouvertes
 <START:smarthome_target> rideau <END> ouvert
 <START:smarthome_target> rideaux <END> ouverts
-<START:smarthome_target> porte ouverte
+<START:smarthome_target> porte <END> ouverte

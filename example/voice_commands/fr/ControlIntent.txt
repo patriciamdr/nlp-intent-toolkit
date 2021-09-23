@@ -105,32 +105,62 @@ allumer <START:control_target> lampe de table <END>
 <START:control_target> lampe de table <END> allumée
 <START:control_target> lampe de table <END> éteinte
 allume la <START:control_target> télé <END>
+allume la housemate <START:control_target> télé <END>
 allume <START:control_target> télé <END>
+allume housemate <START:control_target> télé <END>
 allumer la <START:control_target> télé <END>
+allumer la housemate <START:control_target> télé <END>
 allumer <START:control_target> télé <END>
+allumer housemate <START:control_target> télé <END>
 éteins la <START:control_target> télé <END>
+éteins la housemate <START:control_target> télé <END>
 éteins <START:control_target> télé <END>
+éteins housemate <START:control_target> télé <END>
 éteindre la <START:control_target> télé <END>
+éteindre la housemate <START:control_target> télé <END>
 éteindre <START:control_target> télé <END>
+éteindre housemate <START:control_target> télé <END>
 <START:control_target> télé <END> allumée
+housemate <START:control_target> télé <END> allumée
 <START:control_target> télé <END> éteinte
+housemate <START:control_target> télé <END> éteinte
 allume la <START:control_target> télévision <END>
+allume la housemate <START:control_target> télévision <END>
 allume <START:control_target> télévision <END>
+allume housemate <START:control_target> télévision <END>
 allumer la <START:control_target> télévision <END>
+allumer la housemate <START:control_target> télévision <END>
 allumer <START:control_target> télévision <END>
+allumer housemate <START:control_target> télévision <END>
 éteins la <START:control_target> télévision <END>
+éteins la housemate <START:control_target> télévision <END>
 éteins <START:control_target> télévision <END>
+éteins housemate <START:control_target> télévision <END>
 éteindre la <START:control_target> télévision <END>
+éteindre la housemate <START:control_target> télévision <END>
 éteindre <START:control_target> télévision <END>
+éteindre housemate <START:control_target> télévision <END>
 <START:control_target> télévision <END> allumée
+housemate <START:control_target> télévision <END> allumée
 <START:control_target> télévision <END> éteinte
+housemate <START:control_target> télévision <END> éteinte
 allume le <START:control_target> téléviseur <END>
+allume le housemate <START:control_target> téléviseur <END>
 allume <START:control_target> téléviseur <END>
+allume housemate <START:control_target> téléviseur <END>
 allumer le <START:control_target> téléviseur <END>
+allumer le housemate <START:control_target> téléviseur <END>
 allumer <START:control_target> téléviseur <END>
+allumer housemate <START:control_target> téléviseur <END>
 éteins le <START:control_target> téléviseur <END>
+éteins le housemate <START:control_target> téléviseur <END>
 éteins <START:control_target> téléviseur <END>
+éteins housemate <START:control_target> téléviseur <END>
 éteindre le <START:control_target> téléviseur <END>
+éteindre le housemate <START:control_target> téléviseur <END>
 éteindre <START:control_target> téléviseur <END>
+éteindre housemate <START:control_target> téléviseur <END>
 <START:control_target> téléviseur <END> allumé
+housemate <START:control_target> téléviseur <END> allumé
 <START:control_target> téléviseur <END> éteint
+housemate <START:control_target> téléviseur <END> éteint

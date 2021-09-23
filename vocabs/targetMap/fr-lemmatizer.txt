@@ -28,8 +28,8 @@ réglages du télé:réglages du téléviseur
 contrôle de la télévision:contrôle du téléviseur
 contrôle de la télé:contrôle du téléviseur
 contrôle du télé:contrôle du téléviseur
-ajouts télévision:téléviseur
-ajouts télé:téléviseur
-housemate télévision:téléviseur
-housemate télé:téléviseur
+ajouts télévision:ajouts téléviseur
+ajouts télé:ajouts téléviseur
+housemate télévision:housemate téléviseur
+housemate télé:housemate téléviseur
 l'alarme:alarme

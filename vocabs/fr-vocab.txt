@@ -38,6 +38,10 @@ aller au contrôle de la musique
 aller au contrôle du téléviseur
 aller au email d'urgence
 aller au geste de conduite
+aller au housemate télé volume
+aller au housemate téléviseur
+aller au housemate téléviseur volume
+aller au housemate télévision volume
 aller au lit
 aller au musique volume
 aller au nouveau smartphone
@@ -93,7 +97,16 @@ aller à geste de conduite
 aller à gestes de conduite
 aller à hocher
 aller à home
+aller à housemate
+aller à housemate app
+aller à housemate télé
+aller à housemate télé volume
+aller à housemate téléviseur
+aller à housemate téléviseur volume
+aller à housemate télévision
+aller à housemate télévision volume
 aller à inclinaison
+aller à intercom
 aller à internet
 aller à kinova
 aller à l'alarme
@@ -125,7 +138,10 @@ aller à la catégorie geste de conduite
 aller à la catégorie gestes de conduite
 aller à la catégorie hocher
 aller à la catégorie home
+aller à la catégorie housemate
+aller à la catégorie housemate app
 aller à la catégorie inclinaison
+aller à la catégorie intercom
 aller à la catégorie internet
 aller à la catégorie kinova
 aller à la catégorie la app info
@@ -186,6 +202,8 @@ aller à la commande vocale
 aller à la conduite
 aller à la fenêtre
 aller à la galerie
+aller à la housemate télé
+aller à la housemate télévision
 aller à la inclinaison
 aller à la lampe de chevet
 aller à la lampe de table
@@ -194,15 +212,15 @@ aller à la lumière
 aller à la lumière de la pièce
 aller à la musique
 aller à la porte
-aller à la prochain canal
-aller à la prochain programme
-aller à la prochaine chanson
-aller à la prochaine chaîne
+aller à la canal prochain
+aller à la programme prochain
+aller à la chanson prochaine
+aller à la chaîne prochaine
 aller à la programme suivant
-aller à la précédent canal
-aller à la précédent programme
-aller à la précédente chanson
-aller à la précédente chaîne
+aller à la canal précédent
+aller à la programme précédent
+aller à la chanson précédente
+aller à la chaîne précédente
 aller à la source de musique
 aller à la synchronisation
 aller à la télé
@@ -225,15 +243,15 @@ aller à médias
 aller à nouveau smartphone
 aller à néerlandais
 aller à porte
-aller à prochain canal
-aller à prochain programme
-aller à prochaine chanson
-aller à prochaine chaîne
+aller à canal prochain
+aller à programme prochain
+aller à chanson prochaine
+aller à chaîne prochaine
 aller à programme suivant
-aller à précédent canal
-aller à précédent programme
-aller à précédente chanson
-aller à précédente chaîne
+aller à canal précédent
+aller à programme précédent
+aller à chanson précédente
+aller à chaîne précédente
 aller à rideau
 aller à rideaux
 aller à réglages
@@ -253,11 +271,15 @@ aller à télévision volume
 aller à volume
 aller à volume de la ajouts télé
 aller à volume de la ajouts télévision
+aller à volume de la housemate télé
+aller à volume de la housemate télévision
 aller à volume de la musique
 aller à volume de la télé
 aller à volume de la télévision
 aller à volume du ajouts télé
 aller à volume du ajouts téléviseur
+aller à volume du housemate télé
+aller à volume du housemate téléviseur
 aller à volume du télé
 aller à volume du téléviseur
 aller à wifi
@@ -339,15 +361,26 @@ arrêter la musique
 arrêter musique
 au
 augmente
+augmente housemate télé volume
+augmente housemate téléviseur volume
+augmente housemate télévision volume
 augmente l'angle du lit
 augmente l'inclinaison du lit
 augmente la hauteur du lit
 augmente la pente du lit
+augmente le housemate télé volume
+augmente le housemate téléviseur volume
+augmente le housemate télévision volume
 augmente le musique volume
 augmente le télé volume
 augmente le téléviseur volume
 augmente le télévision volume
 augmente le volume
+augmente le volume de housemate télé
+augmente le volume de housemate téléviseur
+augmente le volume de housemate télévision
+augmente le volume de la housemate télé
+augmente le volume de la housemate télévision
 augmente le volume de la musique
 augmente le volume de la télé
 augmente le volume de la télévision
@@ -355,11 +388,20 @@ augmente le volume de musique
 augmente le volume de télé
 augmente le volume de téléviseur
 augmente le volume de télévision
+augmente le volume du housemate télé
+augmente le volume du housemate téléviseur
 augmente le volume du télé
 augmente le volume du téléviseur
+augmente le volume housemate télé
+augmente le volume housemate téléviseur
+augmente le volume housemate télévision
+augmente le volume la housemate télé
+augmente le volume la housemate télévision
 augmente le volume la musique
 augmente le volume la télé
 augmente le volume la télévision
+augmente le volume le housemate télé
+augmente le volume le housemate téléviseur
 augmente le volume le télé
 augmente le volume le téléviseur
 augmente le volume musical
@@ -373,6 +415,11 @@ augmente télé volume
 augmente téléviseur volume
 augmente télévision volume
 augmente volume
+augmente volume de housemate télé
+augmente volume de housemate téléviseur
+augmente volume de housemate télévision
+augmente volume de la housemate télé
+augmente volume de la housemate télévision
 augmente volume de la musique
 augmente volume de la télé
 augmente volume de la télévision
@@ -380,11 +427,20 @@ augmente volume de musique
 augmente volume de télé
 augmente volume de téléviseur
 augmente volume de télévision
+augmente volume du housemate télé
+augmente volume du housemate téléviseur
 augmente volume du télé
 augmente volume du téléviseur
+augmente volume housemate télé
+augmente volume housemate téléviseur
+augmente volume housemate télévision
+augmente volume la housemate télé
+augmente volume la housemate télévision
 augmente volume la musique
 augmente volume la télé
 augmente volume la télévision
+augmente volume le housemate télé
+augmente volume le housemate téléviseur
 augmente volume le télé
 augmente volume le téléviseur
 augmente volume musical
@@ -394,15 +450,26 @@ augmente volume télé
 augmente volume téléviseur
 augmente volume télévision
 augmenter
+augmenter housemate télé volume
+augmenter housemate téléviseur volume
+augmenter housemate télévision volume
 augmenter l'angle du lit
 augmenter l'inclinaison du lit
 augmenter la hauteur du lit
 augmenter la pente du lit
+augmenter le housemate télé volume
+augmenter le housemate téléviseur volume
+augmenter le housemate télévision volume
 augmenter le musique volume
 augmenter le télé volume
 augmenter le téléviseur volume
 augmenter le télévision volume
 augmenter le volume
+augmenter le volume de housemate télé
+augmenter le volume de housemate téléviseur
+augmenter le volume de housemate télévision
+augmenter le volume de la housemate télé
+augmenter le volume de la housemate télévision
 augmenter le volume de la musique
 augmenter le volume de la télé
 augmenter le volume de la télévision
@@ -410,11 +477,20 @@ augmenter le volume de musique
 augmenter le volume de télé
 augmenter le volume de téléviseur
 augmenter le volume de télévision
+augmenter le volume du housemate télé
+augmenter le volume du housemate téléviseur
 augmenter le volume du télé
 augmenter le volume du téléviseur
+augmenter le volume housemate télé
+augmenter le volume housemate téléviseur
+augmenter le volume housemate télévision
+augmenter le volume la housemate télé
+augmenter le volume la housemate télévision
 augmenter le volume la musique
 augmenter le volume la télé
 augmenter le volume la télévision
+augmenter le volume le housemate télé
+augmenter le volume le housemate téléviseur
 augmenter le volume le télé
 augmenter le volume le téléviseur
 augmenter le volume musical
@@ -428,6 +504,11 @@ augmenter télé volume
 augmenter téléviseur volume
 augmenter télévision volume
 augmenter volume
+augmenter volume de housemate télé
+augmenter volume de housemate téléviseur
+augmenter volume de housemate télévision
+augmenter volume de la housemate télé
+augmenter volume de la housemate télévision
 augmenter volume de la musique
 augmenter volume de la télé
 augmenter volume de la télévision
@@ -435,11 +516,20 @@ augmenter volume de musique
 augmenter volume de télé
 augmenter volume de téléviseur
 augmenter volume de télévision
+augmenter volume du housemate télé
+augmenter volume du housemate téléviseur
 augmenter volume du télé
 augmenter volume du téléviseur
+augmenter volume housemate télé
+augmenter volume housemate téléviseur
+augmenter volume housemate télévision
+augmenter volume la housemate télé
+augmenter volume la housemate télévision
 augmenter volume la musique
 augmenter volume la télé
 augmenter volume la télévision
+augmenter volume le housemate télé
+augmenter volume le housemate téléviseur
 augmenter volume le télé
 augmenter volume le téléviseur
 augmenter volume musical
@@ -451,16 +541,27 @@ augmenter volume télévision
 aux
 avancé
 baisse
+baisse housemate télé volume
+baisse housemate téléviseur volume
+baisse housemate télévision volume
 baisse l'angle du lit
 baisse l'inclinaison du lit
 baisse la hauteur du lit
 baisse la pente du lit
+baisse le housemate télé volume
+baisse le housemate téléviseur volume
+baisse le housemate télévision volume
 baisse le lit
 baisse le musique volume
 baisse le télé volume
 baisse le téléviseur volume
 baisse le télévision volume
 baisse le volume
+baisse le volume de housemate télé
+baisse le volume de housemate téléviseur
+baisse le volume de housemate télévision
+baisse le volume de la housemate télé
+baisse le volume de la housemate télévision
 baisse le volume de la musique
 baisse le volume de la télé
 baisse le volume de la télévision
@@ -468,11 +569,20 @@ baisse le volume de musique
 baisse le volume de télé
 baisse le volume de téléviseur
 baisse le volume de télévision
+baisse le volume du housemate télé
+baisse le volume du housemate téléviseur
 baisse le volume du télé
 baisse le volume du téléviseur
+baisse le volume housemate télé
+baisse le volume housemate téléviseur
+baisse le volume housemate télévision
+baisse le volume la housemate télé
+baisse le volume la housemate télévision
 baisse le volume la musique
 baisse le volume la télé
 baisse le volume la télévision
+baisse le volume le housemate télé
+baisse le volume le housemate téléviseur
 baisse le volume le télé
 baisse le volume le téléviseur
 baisse le volume musical
@@ -487,6 +597,11 @@ baisse télé volume
 baisse téléviseur volume
 baisse télévision volume
 baisse volume
+baisse volume de housemate télé
+baisse volume de housemate téléviseur
+baisse volume de housemate télévision
+baisse volume de la housemate télé
+baisse volume de la housemate télévision
 baisse volume de la musique
 baisse volume de la télé
 baisse volume de la télévision
@@ -494,11 +609,20 @@ baisse volume de musique
 baisse volume de télé
 baisse volume de téléviseur
 baisse volume de télévision
+baisse volume du housemate télé
+baisse volume du housemate téléviseur
 baisse volume du télé
 baisse volume du téléviseur
+baisse volume housemate télé
+baisse volume housemate téléviseur
+baisse volume housemate télévision
+baisse volume la housemate télé
+baisse volume la housemate télévision
 baisse volume la musique
 baisse volume la télé
 baisse volume la télévision
+baisse volume le housemate télé
+baisse volume le housemate téléviseur
 baisse volume le télé
 baisse volume le téléviseur
 baisse volume musical
@@ -508,16 +632,27 @@ baisse volume télé
 baisse volume téléviseur
 baisse volume télévision
 baisser
+baisser housemate télé volume
+baisser housemate téléviseur volume
+baisser housemate télévision volume
 baisser l'angle du lit
 baisser l'inclinaison du lit
 baisser la hauteur du lit
 baisser la pente du lit
+baisser le housemate télé volume
+baisser le housemate téléviseur volume
+baisser le housemate télévision volume
 baisser le lit
 baisser le musique volume
 baisser le télé volume
 baisser le téléviseur volume
 baisser le télévision volume
 baisser le volume
+baisser le volume de housemate télé
+baisser le volume de housemate téléviseur
+baisser le volume de housemate télévision
+baisser le volume de la housemate télé
+baisser le volume de la housemate télévision
 baisser le volume de la musique
 baisser le volume de la télé
 baisser le volume de la télévision
@@ -525,11 +660,20 @@ baisser le volume de musique
 baisser le volume de télé
 baisser le volume de téléviseur
 baisser le volume de télévision
+baisser le volume du housemate télé
+baisser le volume du housemate téléviseur
 baisser le volume du télé
 baisser le volume du téléviseur
+baisser le volume housemate télé
+baisser le volume housemate téléviseur
+baisser le volume housemate télévision
+baisser le volume la housemate télé
+baisser le volume la housemate télévision
 baisser le volume la musique
 baisser le volume la télé
 baisser le volume la télévision
+baisser le volume le housemate télé
+baisser le volume le housemate téléviseur
 baisser le volume le télé
 baisser le volume le téléviseur
 baisser le volume musical
@@ -544,6 +688,11 @@ baisser télé volume
 baisser téléviseur volume
 baisser télévision volume
 baisser volume
+baisser volume de housemate télé
+baisser volume de housemate téléviseur
+baisser volume de housemate télévision
+baisser volume de la housemate télé
+baisser volume de la housemate télévision
 baisser volume de la musique
 baisser volume de la télé
 baisser volume de la télévision
@@ -551,11 +700,20 @@ baisser volume de musique
 baisser volume de télé
 baisser volume de téléviseur
 baisser volume de télévision
+baisser volume du housemate télé
+baisser volume du housemate téléviseur
 baisser volume du télé
 baisser volume du téléviseur
+baisser volume housemate télé
+baisser volume housemate téléviseur
+baisser volume housemate télévision
+baisser volume la housemate télé
+baisser volume la housemate télévision
 baisser volume la musique
 baisser volume la télé
 baisser volume la télévision
+baisser volume le housemate télé
+baisser volume le housemate téléviseur
 baisser volume le télé
 baisser volume le téléviseur
 baisser volume musical
@@ -606,7 +764,10 @@ change de catégorie en geste de conduite
 change de catégorie en gestes de conduite
 change de catégorie en hocher
 change de catégorie en home
+change de catégorie en housemate
+change de catégorie en housemate app
 change de catégorie en inclinaison
+change de catégorie en intercom
 change de catégorie en internet
 change de catégorie en kinova
 change de catégorie en la app info
@@ -691,7 +852,16 @@ change en geste de conduite
 change en gestes de conduite
 change en hocher
 change en home
+change en housemate
+change en housemate app
+change en housemate télé
+change en housemate télé volume
+change en housemate téléviseur
+change en housemate téléviseur volume
+change en housemate télévision
+change en housemate télévision volume
 change en inclinaison
+change en intercom
 change en internet
 change en kinova
 change en l'alarme
@@ -705,6 +875,8 @@ change en la commande vocale
 change en la conduite
 change en la fenêtre
 change en la galerie
+change en la housemate télé
+change en la housemate télévision
 change en la inclinaison
 change en la lampe de chevet
 change en la lampe de table
@@ -726,6 +898,10 @@ change en le contrôle de la musique
 change en le contrôle du téléviseur
 change en le email d'urgence
 change en le geste de conduite
+change en le housemate télé volume
+change en le housemate téléviseur
+change en le housemate téléviseur volume
+change en le housemate télévision volume
 change en le lit
 change en le musique volume
 change en le nouveau smartphone
@@ -786,11 +962,15 @@ change en ventilateur
 change en volume
 change en volume de la ajouts télé
 change en volume de la ajouts télévision
+change en volume de la housemate télé
+change en volume de la housemate télévision
 change en volume de la musique
 change en volume de la télé
 change en volume de la télévision
 change en volume du ajouts télé
 change en volume du ajouts téléviseur
+change en volume du housemate télé
+change en volume du housemate téléviseur
 change en volume du télé
 change en volume du téléviseur
 change en wifi
@@ -815,7 +995,10 @@ change la catégorie en geste de conduite
 change la catégorie en gestes de conduite
 change la catégorie en hocher
 change la catégorie en home
+change la catégorie en housemate
+change la catégorie en housemate app
 change la catégorie en inclinaison
+change la catégorie en intercom
 change la catégorie en internet
 change la catégorie en kinova
 change la catégorie en la app info
@@ -889,6 +1072,7 @@ change le volume 6
 change le volume 7
 change le volume 8
 change le volume 9
+change le volume à
 change le volume à 0
 change le volume à 1
 change le volume à 10
@@ -911,6 +1095,7 @@ change volume 6
 change volume 7
 change volume 8
 change volume 9
+change volume à
 change volume à 0
 change volume à 1
 change volume à 10
@@ -928,24 +1113,24 @@ change à chaîne suivante
 change à la canal suivant
 change à la chanson suivante
 change à la chaîne suivante
-change à la prochain canal
-change à la prochain programme
-change à la prochaine chanson
-change à la prochaine chaîne
+change à la canal prochain
+change à la programme prochain
+change à la chanson prochaine
+change à la chaîne prochaine
 change à la programme suivant
-change à la précédent canal
-change à la précédent programme
-change à la précédente chanson
-change à la précédente chaîne
-change à prochain canal
-change à prochain programme
-change à prochaine chanson
-change à prochaine chaîne
+change à la canal précédent
+change à la programme précédent
+change à la chanson précédente
+change à la chaîne précédente
+change à canal prochain
+change à programme prochain
+change à chanson prochaine
+change à chaîne prochaine
 change à programme suivant
-change à précédent canal
-change à précédent programme
-change à précédente chanson
-change à précédente chaîne
+change à canal précédent
+change à programme précédent
+change à chanson précédente
+change à chaîne précédente
 changer
 changer de catégorie en admin
 changer de catégorie en ajouts
@@ -968,7 +1153,10 @@ changer de catégorie en geste de conduite
 changer de catégorie en gestes de conduite
 changer de catégorie en hocher
 changer de catégorie en home
+changer de catégorie en housemate
+changer de catégorie en housemate app
 changer de catégorie en inclinaison
+changer de catégorie en intercom
 changer de catégorie en internet
 changer de catégorie en kinova
 changer de catégorie en la app info
@@ -1053,7 +1241,16 @@ changer en geste de conduite
 changer en gestes de conduite
 changer en hocher
 changer en home
+changer en housemate
+changer en housemate app
+changer en housemate télé
+changer en housemate télé volume
+changer en housemate téléviseur
+changer en housemate téléviseur volume
+changer en housemate télévision
+changer en housemate télévision volume
 changer en inclinaison
+changer en intercom
 changer en internet
 changer en kinova
 changer en l'alarme
@@ -1067,6 +1264,8 @@ changer en la commande vocale
 changer en la conduite
 changer en la fenêtre
 changer en la galerie
+changer en la housemate télé
+changer en la housemate télévision
 changer en la inclinaison
 changer en la lampe de chevet
 changer en la lampe de table
@@ -1088,6 +1287,10 @@ changer en le contrôle de la musique
 changer en le contrôle du téléviseur
 changer en le email d'urgence
 changer en le geste de conduite
+changer en le housemate télé volume
+changer en le housemate téléviseur
+changer en le housemate téléviseur volume
+changer en le housemate télévision volume
 changer en le lit
 changer en le musique volume
 changer en le nouveau smartphone
@@ -1148,11 +1351,15 @@ changer en ventilateur
 changer en volume
 changer en volume de la ajouts télé
 changer en volume de la ajouts télévision
+changer en volume de la housemate télé
+changer en volume de la housemate télévision
 changer en volume de la musique
 changer en volume de la télé
 changer en volume de la télévision
 changer en volume du ajouts télé
 changer en volume du ajouts téléviseur
+changer en volume du housemate télé
+changer en volume du housemate téléviseur
 changer en volume du télé
 changer en volume du téléviseur
 changer en wifi
@@ -1177,7 +1384,10 @@ changer la catégorie en geste de conduite
 changer la catégorie en gestes de conduite
 changer la catégorie en hocher
 changer la catégorie en home
+changer la catégorie en housemate
+changer la catégorie en housemate app
 changer la catégorie en inclinaison
+changer la catégorie en intercom
 changer la catégorie en internet
 changer la catégorie en kinova
 changer la catégorie en la app info
@@ -1251,6 +1461,7 @@ changer le volume 6
 changer le volume 7
 changer le volume 8
 changer le volume 9
+changer le volume à
 changer le volume à 0
 changer le volume à 1
 changer le volume à 10
@@ -1273,6 +1484,7 @@ changer volume 6
 changer volume 7
 changer volume 8
 changer volume 9
+changer volume à
 changer volume à 0
 changer volume à 1
 changer volume à 10
@@ -1290,24 +1502,24 @@ changer à chaîne suivante
 changer à la canal suivant
 changer à la chanson suivante
 changer à la chaîne suivante
-changer à la prochain canal
-changer à la prochain programme
-changer à la prochaine chanson
-changer à la prochaine chaîne
+changer à la canal prochain
+changer à la programme prochain
+changer à la chanson prochaine
+changer à la chaîne prochaine
 changer à la programme suivant
-changer à la précédent canal
-changer à la précédent programme
-changer à la précédente chanson
-changer à la précédente chaîne
-changer à prochain canal
-changer à prochain programme
-changer à prochaine chanson
-changer à prochaine chaîne
+changer à la canal précédent
+changer à la programme précédent
+changer à la chanson précédente
+changer à la chaîne précédente
+changer à canal prochain
+changer à programme prochain
+changer à chanson prochaine
+changer à chaîne prochaine
 changer à programme suivant
-changer à précédent canal
-changer à précédent programme
-changer à précédente chanson
-changer à précédente chaîne
+changer à canal précédent
+changer à programme précédent
+changer à chanson précédente
+changer à chaîne précédente
 chanson
 chanson suivante
 chauffage
@@ -1363,7 +1575,16 @@ choisir geste de conduite
 choisir gestes de conduite
 choisir hocher
 choisir home
+choisir housemate
+choisir housemate app
+choisir housemate télé
+choisir housemate télé volume
+choisir housemate téléviseur
+choisir housemate téléviseur volume
+choisir housemate télévision
+choisir housemate télévision volume
 choisir inclinaison
+choisir intercom
 choisir internet
 choisir kinova
 choisir l'alarme
@@ -1395,7 +1616,10 @@ choisir la catégorie geste de conduite
 choisir la catégorie gestes de conduite
 choisir la catégorie hocher
 choisir la catégorie home
+choisir la catégorie housemate
+choisir la catégorie housemate app
 choisir la catégorie inclinaison
+choisir la catégorie intercom
 choisir la catégorie internet
 choisir la catégorie kinova
 choisir la catégorie la app info
@@ -1458,6 +1682,8 @@ choisir la commande vocale
 choisir la conduite
 choisir la fenêtre
 choisir la galerie
+choisir la housemate télé
+choisir la housemate télévision
 choisir la inclinaison
 choisir la lampe de chevet
 choisir la lampe de table
@@ -1470,15 +1696,15 @@ choisir la lumière
 choisir la lumière de la pièce
 choisir la musique
 choisir la porte
-choisir la prochain canal
-choisir la prochain programme
-choisir la prochaine chanson
-choisir la prochaine chaîne
+choisir la canal prochain
+choisir la programme prochain
+choisir la chanson prochaine
+choisir la chaîne prochaine
 choisir la programme suivant
-choisir la précédent canal
-choisir la précédent programme
-choisir la précédente chanson
-choisir la précédente chaîne
+choisir la canal précédent
+choisir la programme précédent
+choisir la chanson précédente
+choisir la chaîne précédente
 choisir la source de musique
 choisir la synchronisation
 choisir la télé
@@ -1496,6 +1722,10 @@ choisir le contrôle de la musique
 choisir le contrôle du téléviseur
 choisir le email d'urgence
 choisir le geste de conduite
+choisir le housemate télé volume
+choisir le housemate téléviseur
+choisir le housemate téléviseur volume
+choisir le housemate télévision volume
 choisir le le musique volume
 choisir le le télé volume
 choisir le le téléviseur volume
@@ -1515,11 +1745,15 @@ choisir le ventilateur
 choisir le volume
 choisir le volume de la ajouts télé
 choisir le volume de la ajouts télévision
+choisir le volume de la housemate télé
+choisir le volume de la housemate télévision
 choisir le volume de la musique
 choisir le volume de la télé
 choisir le volume de la télévision
 choisir le volume du ajouts télé
 choisir le volume du ajouts téléviseur
+choisir le volume du housemate télé
+choisir le volume du housemate téléviseur
 choisir le volume du télé
 choisir le volume du téléviseur
 choisir le wifi
@@ -1550,15 +1784,15 @@ choisir médias
 choisir nouveau smartphone
 choisir néerlandais
 choisir porte
-choisir prochain canal
-choisir prochain programme
-choisir prochaine chanson
-choisir prochaine chaîne
+choisir canal prochain
+choisir programme prochain
+choisir chanson prochaine
+choisir chaîne prochaine
 choisir programme suivant
-choisir précédent canal
-choisir précédent programme
-choisir précédente chanson
-choisir précédente chaîne
+choisir canal précédent
+choisir programme précédent
+choisir chanson précédente
+choisir chaîne précédente
 choisir rideau
 choisir rideaux
 choisir réglages
@@ -1580,11 +1814,15 @@ choisir ventilateur
 choisir volume
 choisir volume de la ajouts télé
 choisir volume de la ajouts télévision
+choisir volume de la housemate télé
+choisir volume de la housemate télévision
 choisir volume de la musique
 choisir volume de la télé
 choisir volume de la télévision
 choisir volume du ajouts télé
 choisir volume du ajouts téléviseur
+choisir volume du housemate télé
+choisir volume du housemate téléviseur
 choisir volume du télé
 choisir volume du téléviseur
 choisir wifi
@@ -1622,7 +1860,16 @@ choisis geste de conduite
 choisis gestes de conduite
 choisis hocher
 choisis home
+choisis housemate
+choisis housemate app
+choisis housemate télé
+choisis housemate télé volume
+choisis housemate téléviseur
+choisis housemate téléviseur volume
+choisis housemate télévision
+choisis housemate télévision volume
 choisis inclinaison
+choisis intercom
 choisis internet
 choisis kinova
 choisis l'alarme
@@ -1654,7 +1901,10 @@ choisis la catégorie geste de conduite
 choisis la catégorie gestes de conduite
 choisis la catégorie hocher
 choisis la catégorie home
+choisis la catégorie housemate
+choisis la catégorie housemate app
 choisis la catégorie inclinaison
+choisis la catégorie intercom
 choisis la catégorie internet
 choisis la catégorie kinova
 choisis la catégorie la app info
@@ -1717,6 +1967,8 @@ choisis la commande vocale
 choisis la conduite
 choisis la fenêtre
 choisis la galerie
+choisis la housemate télé
+choisis la housemate télévision
 choisis la inclinaison
 choisis la lampe de chevet
 choisis la lampe de table
@@ -1729,15 +1981,15 @@ choisis la lumière
 choisis la lumière de la pièce
 choisis la musique
 choisis la porte
-choisis la prochain canal
-choisis la prochain programme
-choisis la prochaine chanson
-choisis la prochaine chaîne
+choisis la canal prochain
+choisis la programme prochain
+choisis la chanson prochaine
+choisis la chaîne prochaine
 choisis la programme suivant
-choisis la précédent canal
-choisis la précédent programme
-choisis la précédente chanson
-choisis la précédente chaîne
+choisis la canal précédent
+choisis la programme précédent
+choisis la chanson précédente
+choisis la chaîne précédente
 choisis la source de musique
 choisis la synchronisation
 choisis la télé
@@ -1755,6 +2007,10 @@ choisis le contrôle de la musique
 choisis le contrôle du téléviseur
 choisis le email d'urgence
 choisis le geste de conduite
+choisis le housemate télé volume
+choisis le housemate téléviseur
+choisis le housemate téléviseur volume
+choisis le housemate télévision volume
 choisis le le musique volume
 choisis le le télé volume
 choisis le le téléviseur volume
@@ -1774,11 +2030,15 @@ choisis le ventilateur
 choisis le volume
 choisis le volume de la ajouts télé
 choisis le volume de la ajouts télévision
+choisis le volume de la housemate télé
+choisis le volume de la housemate télévision
 choisis le volume de la musique
 choisis le volume de la télé
 choisis le volume de la télévision
 choisis le volume du ajouts télé
 choisis le volume du ajouts téléviseur
+choisis le volume du housemate télé
+choisis le volume du housemate téléviseur
 choisis le volume du télé
 choisis le volume du téléviseur
 choisis le wifi
@@ -1809,15 +2069,15 @@ choisis médias
 choisis nouveau smartphone
 choisis néerlandais
 choisis porte
-choisis prochain canal
-choisis prochain programme
-choisis prochaine chanson
-choisis prochaine chaîne
+choisis canal prochain
+choisis programme prochain
+choisis chanson prochaine
+choisis chaîne prochaine
 choisis programme suivant
-choisis précédent canal
-choisis précédent programme
-choisis précédente chanson
-choisis précédente chaîne
+choisis canal précédent
+choisis programme précédent
+choisis chanson précédente
+choisis chaîne précédente
 choisis rideau
 choisis rideaux
 choisis réglages
@@ -1839,11 +2099,15 @@ choisis ventilateur
 choisis volume
 choisis volume de la ajouts télé
 choisis volume de la ajouts télévision
+choisis volume de la housemate télé
+choisis volume de la housemate télévision
 choisis volume de la musique
 choisis volume de la télé
 choisis volume de la télévision
 choisis volume du ajouts télé
 choisis volume du ajouts téléviseur
+choisis volume du housemate télé
+choisis volume du housemate téléviseur
 choisis volume du télé
 choisis volume du téléviseur
 choisis wifi
@@ -1958,15 +2222,26 @@ de base
 de détresse
 des
 diminue
+diminue housemate télé volume
+diminue housemate téléviseur volume
+diminue housemate télévision volume
 diminue l'angle du lit
 diminue l'inclinaison du lit
 diminue la hauteur du lit
 diminue la pente du lit
+diminue le housemate télé volume
+diminue le housemate téléviseur volume
+diminue le housemate télévision volume
 diminue le musique volume
 diminue le télé volume
 diminue le téléviseur volume
 diminue le télévision volume
 diminue le volume
+diminue le volume de housemate télé
+diminue le volume de housemate téléviseur
+diminue le volume de housemate télévision
+diminue le volume de la housemate télé
+diminue le volume de la housemate télévision
 diminue le volume de la musique
 diminue le volume de la télé
 diminue le volume de la télévision
@@ -1974,11 +2249,20 @@ diminue le volume de musique
 diminue le volume de télé
 diminue le volume de téléviseur
 diminue le volume de télévision
+diminue le volume du housemate télé
+diminue le volume du housemate téléviseur
 diminue le volume du télé
 diminue le volume du téléviseur
+diminue le volume housemate télé
+diminue le volume housemate téléviseur
+diminue le volume housemate télévision
+diminue le volume la housemate télé
+diminue le volume la housemate télévision
 diminue le volume la musique
 diminue le volume la télé
 diminue le volume la télévision
+diminue le volume le housemate télé
+diminue le volume le housemate téléviseur
 diminue le volume le télé
 diminue le volume le téléviseur
 diminue le volume musical
@@ -1992,6 +2276,11 @@ diminue télé volume
 diminue téléviseur volume
 diminue télévision volume
 diminue volume
+diminue volume de housemate télé
+diminue volume de housemate téléviseur
+diminue volume de housemate télévision
+diminue volume de la housemate télé
+diminue volume de la housemate télévision
 diminue volume de la musique
 diminue volume de la télé
 diminue volume de la télévision
@@ -1999,11 +2288,20 @@ diminue volume de musique
 diminue volume de télé
 diminue volume de téléviseur
 diminue volume de télévision
+diminue volume du housemate télé
+diminue volume du housemate téléviseur
 diminue volume du télé
 diminue volume du téléviseur
+diminue volume housemate télé
+diminue volume housemate téléviseur
+diminue volume housemate télévision
+diminue volume la housemate télé
+diminue volume la housemate télévision
 diminue volume la musique
 diminue volume la télé
 diminue volume la télévision
+diminue volume le housemate télé
+diminue volume le housemate téléviseur
 diminue volume le télé
 diminue volume le téléviseur
 diminue volume musical
@@ -2013,15 +2311,26 @@ diminue volume télé
 diminue volume téléviseur
 diminue volume télévision
 diminuer
+diminuer housemate télé volume
+diminuer housemate téléviseur volume
+diminuer housemate télévision volume
 diminuer l'angle du lit
 diminuer l'inclinaison du lit
 diminuer la hauteur du lit
 diminuer la pente du lit
+diminuer le housemate télé volume
+diminuer le housemate téléviseur volume
+diminuer le housemate télévision volume
 diminuer le musique volume
 diminuer le télé volume
 diminuer le téléviseur volume
 diminuer le télévision volume
 diminuer le volume
+diminuer le volume de housemate télé
+diminuer le volume de housemate téléviseur
+diminuer le volume de housemate télévision
+diminuer le volume de la housemate télé
+diminuer le volume de la housemate télévision
 diminuer le volume de la musique
 diminuer le volume de la télé
 diminuer le volume de la télévision
@@ -2029,11 +2338,20 @@ diminuer le volume de musique
 diminuer le volume de télé
 diminuer le volume de téléviseur
 diminuer le volume de télévision
+diminuer le volume du housemate télé
+diminuer le volume du housemate téléviseur
 diminuer le volume du télé
 diminuer le volume du téléviseur
+diminuer le volume housemate télé
+diminuer le volume housemate téléviseur
+diminuer le volume housemate télévision
+diminuer le volume la housemate télé
+diminuer le volume la housemate télévision
 diminuer le volume la musique
 diminuer le volume la télé
 diminuer le volume la télévision
+diminuer le volume le housemate télé
+diminuer le volume le housemate téléviseur
 diminuer le volume le télé
 diminuer le volume le téléviseur
 diminuer le volume musical
@@ -2047,6 +2365,11 @@ diminuer télé volume
 diminuer téléviseur volume
 diminuer télévision volume
 diminuer volume
+diminuer volume de housemate télé
+diminuer volume de housemate téléviseur
+diminuer volume de housemate télévision
+diminuer volume de la housemate télé
+diminuer volume de la housemate télévision
 diminuer volume de la musique
 diminuer volume de la télé
 diminuer volume de la télévision
@@ -2054,11 +2377,20 @@ diminuer volume de musique
 diminuer volume de télé
 diminuer volume de téléviseur
 diminuer volume de télévision
+diminuer volume du housemate télé
+diminuer volume du housemate téléviseur
 diminuer volume du télé
 diminuer volume du téléviseur
+diminuer volume housemate télé
+diminuer volume housemate téléviseur
+diminuer volume housemate télévision
+diminuer volume la housemate télé
+diminuer volume la housemate télévision
 diminuer volume la musique
 diminuer volume la télé
 diminuer volume la télévision
+diminuer volume le housemate télé
+diminuer volume le housemate téléviseur
 diminuer volume le télé
 diminuer volume le téléviseur
 diminuer volume musical
@@ -2177,7 +2509,10 @@ emmène moi à geste de conduite
 emmène moi à gestes de conduite
 emmène moi à hocher
 emmène moi à home
+emmène moi à housemate
+emmène moi à housemate app
 emmène moi à inclinaison
+emmène moi à intercom
 emmène moi à internet
 emmène moi à kinova
 emmène moi à la app info
@@ -2203,7 +2538,10 @@ emmène moi à la catégorie geste de conduite
 emmène moi à la catégorie gestes de conduite
 emmène moi à la catégorie hocher
 emmène moi à la catégorie home
+emmène moi à la catégorie housemate
+emmène moi à la catégorie housemate app
 emmène moi à la catégorie inclinaison
+emmène moi à la catégorie intercom
 emmène moi à la catégorie internet
 emmène moi à la catégorie kinova
 emmène moi à la catégorie la app info
@@ -2294,12 +2632,23 @@ en
 end
 existant
 faible
+faible le volume
+faible le volume de la housemate télé
+faible le volume de la housemate télévision
 faible le volume de la musique
 faible le volume de la télé
 faible le volume de la télévision
+faible le volume du housemate télé
+faible le volume du housemate téléviseur
 faible le volume du télé
 faible le volume du téléviseur
+faible le volume s'il vous plaît
 faible volume
+faible volume de housemate télé
+faible volume de housemate téléviseur
+faible volume de housemate télévision
+faible volume de la housemate télé
+faible volume de la housemate télévision
 faible volume de la musique
 faible volume de la télé
 faible volume de la télévision
@@ -2307,11 +2656,20 @@ faible volume de musique
 faible volume de télé
 faible volume de téléviseur
 faible volume de télévision
+faible volume du housemate télé
+faible volume du housemate téléviseur
 faible volume du télé
 faible volume du téléviseur
+faible volume housemate télé
+faible volume housemate téléviseur
+faible volume housemate télévision
+faible volume la housemate télé
+faible volume la housemate télévision
 faible volume la musique
 faible volume la télé
 faible volume la télévision
+faible volume le housemate télé
+faible volume le housemate téléviseur
 faible volume le télé
 faible volume le téléviseur
 faible volume musical
@@ -2321,15 +2679,43 @@ faible volume télé
 faible volume téléviseur
 faible volume télévision
 faire
+faire baisser le volume
+faire baisser le volume s'il vous plaît
+faire baisser volume
+faire baisser volume s'il vous plaît
 faire image
 faire le lit plus haut
+faire le volume fort
+faire le volume fort s'il vous plaît
+faire le volume plus faible
+faire le volume plus faible s'il vous plaît
+faire le volume plus fort
+faire le volume plus fort s'il vous plaît
+faire le volume plus silencieux
+faire le volume plus silencieux s'il vous plaît
+faire le volume plus élevé
+faire le volume plus élevé s'il vous plaît
 faire lit plus haut
 faire photo
 faire une image
 faire une photo
 fais
+fais baisser le volume
+fais baisser le volume s'il vous plaît
+fais baisser volume
+fais baisser volume s'il vous plaît
 fais image
 fais le lit plus haut
+fais le volume fort
+fais le volume fort s'il vous plaît
+fais le volume plus faible
+fais le volume plus faible s'il vous plaît
+fais le volume plus fort
+fais le volume plus fort s'il vous plaît
+fais le volume plus silencieux
+fais le volume plus silencieux s'il vous plaît
+fais le volume plus élevé
+fais le volume plus élevé s'il vous plaît
 fais lit plus haut
 fais photo
 fais une image
@@ -2372,12 +2758,23 @@ feux de détresse
 feux de détresse allumés
 feux de détresse éteints
 fort
+fort le volume
+fort le volume de la housemate télé
+fort le volume de la housemate télévision
 fort le volume de la musique
 fort le volume de la télé
 fort le volume de la télévision
+fort le volume du housemate télé
+fort le volume du housemate téléviseur
 fort le volume du télé
 fort le volume du téléviseur
+fort le volume s'il vous plaît
 fort volume
+fort volume de housemate télé
+fort volume de housemate téléviseur
+fort volume de housemate télévision
+fort volume de la housemate télé
+fort volume de la housemate télévision
 fort volume de la musique
 fort volume de la télé
 fort volume de la télévision
@@ -2385,11 +2782,20 @@ fort volume de musique
 fort volume de télé
 fort volume de téléviseur
 fort volume de télévision
+fort volume du housemate télé
+fort volume du housemate téléviseur
 fort volume du télé
 fort volume du téléviseur
+fort volume housemate télé
+fort volume housemate téléviseur
+fort volume housemate télévision
+fort volume la housemate télé
+fort volume la housemate télévision
 fort volume la musique
 fort volume la télé
 fort volume la télévision
+fort volume le housemate télé
+fort volume le housemate téléviseur
 fort volume le télé
 fort volume le téléviseur
 fort volume musical
@@ -2407,6 +2813,14 @@ haut
 hauteur
 hocher
 home
+housemate
+housemate app
+housemate télé
+housemate télé volume
+housemate téléviseur
+housemate téléviseur volume
+housemate télévision
+housemate télévision volume
 iarm
 image
 image s'il vous plaît
@@ -2421,6 +2835,7 @@ incliner le lit vers le haut
 incliner lit vers le bas
 incliner lit vers le haut
 info
+intercom
 internet
 joue
 joue canal suivant
@@ -2430,25 +2845,25 @@ joue la canal suivant
 joue la chanson suivante
 joue la chaîne suivante
 joue la musique
-joue la prochain canal
-joue la prochain programme
-joue la prochaine chanson
-joue la prochaine chaîne
+joue la canal prochain
+joue la programme prochain
+joue la chanson prochaine
+joue la chaîne prochaine
 joue la programme suivant
-joue la précédent canal
-joue la précédent programme
-joue la précédente chanson
-joue la précédente chaîne
+joue la canal précédent
+joue la programme précédent
+joue la chanson précédente
+joue la chaîne précédente
 joue musique
-joue prochain canal
-joue prochain programme
-joue prochaine chanson
-joue prochaine chaîne
+joue canal prochain
+joue programme prochain
+joue chanson prochaine
+joue chaîne prochaine
 joue programme suivant
-joue précédent canal
-joue précédent programme
-joue précédente chanson
-joue précédente chaîne
+joue canal précédent
+joue programme précédent
+joue chanson précédente
+joue chaîne précédente
 jouer
 jouer canal suivant
 jouer chanson suivante
@@ -2457,25 +2872,25 @@ jouer la canal suivant
 jouer la chanson suivante
 jouer la chaîne suivante
 jouer la musique
-jouer la prochain canal
-jouer la prochain programme
-jouer la prochaine chanson
-jouer la prochaine chaîne
+jouer la canal prochain
+jouer la programme prochain
+jouer la chanson prochaine
+jouer la chaîne prochaine
 jouer la programme suivant
-jouer la précédent canal
-jouer la précédent programme
-jouer la précédente chanson
-jouer la précédente chaîne
+jouer la canal précédent
+jouer la programme précédent
+jouer la chanson précédente
+jouer la chaîne précédente
 jouer musique
-jouer prochain canal
-jouer prochain programme
-jouer prochaine chanson
-jouer prochaine chaîne
+jouer canal prochain
+jouer programme prochain
+jouer chanson prochaine
+jouer chaîne prochaine
 jouer programme suivant
-jouer précédent canal
-jouer précédent programme
-jouer précédente chanson
-jouer précédente chaîne
+jouer canal précédent
+jouer programme précédent
+jouer chanson précédente
+jouer chaîne précédente
 jour
 kinova
 l'actualisation
@@ -2506,6 +2921,8 @@ la fenêtre
 la fenêtre fermée
 la fenêtre ouverte
 la galerie
+la housemate télé
+la housemate télévision
 la inclinaison
 la lampe de chevet
 la lampe de table
@@ -2516,15 +2933,15 @@ la musique
 la porte
 la porte fermée
 la porte ouverte
-la prochain canal
-la prochain programme
-la prochaine chanson
-la prochaine chaîne
+la canal prochain
+la programme prochain
+la chanson prochaine
+la chaîne prochaine
 la programme suivant
-la précédent canal
-la précédent programme
-la précédente chanson
-la précédente chaîne
+la canal précédent
+la programme précédent
+la chanson précédente
+la chaîne précédente
 la source de musique
 la synchronisation
 la télé
@@ -2543,6 +2960,10 @@ le contrôle de la musique
 le contrôle du téléviseur
 le email d'urgence
 le geste de conduite
+le housemate télé volume
+le housemate téléviseur
+le housemate téléviseur volume
+le housemate télévision volume
 le le musique volume
 le le télé volume
 le le téléviseur volume
@@ -2564,6 +2985,20 @@ le ventilateur
 le volume
 le volume de la ajouts télé
 le volume de la ajouts télévision
+le volume de la housemate télé
+le volume de la housemate télé plus faible
+le volume de la housemate télé plus fort
+le volume de la housemate télé plus silencieux
+le volume de la housemate télé plus élevé
+le volume de la housemate télé silencieux
+le volume de la housemate télé élevé
+le volume de la housemate télévision
+le volume de la housemate télévision plus faible
+le volume de la housemate télévision plus fort
+le volume de la housemate télévision plus silencieux
+le volume de la housemate télévision plus élevé
+le volume de la housemate télévision silencieux
+le volume de la housemate télévision élevé
 le volume de la musique
 le volume de la musique plus faible
 le volume de la musique plus fort
@@ -2587,6 +3022,20 @@ le volume de la télévision silencieux
 le volume de la télévision élevé
 le volume du ajouts télé
 le volume du ajouts téléviseur
+le volume du housemate télé
+le volume du housemate télé plus faible
+le volume du housemate télé plus fort
+le volume du housemate télé plus silencieux
+le volume du housemate télé plus élevé
+le volume du housemate télé silencieux
+le volume du housemate télé élevé
+le volume du housemate téléviseur
+le volume du housemate téléviseur plus faible
+le volume du housemate téléviseur plus fort
+le volume du housemate téléviseur plus silencieux
+le volume du housemate téléviseur plus élevé
+le volume du housemate téléviseur silencieux
+le volume du housemate téléviseur élevé
 le volume du télé
 le volume du télé plus faible
 le volume du télé plus fort
@@ -2601,6 +3050,21 @@ le volume du téléviseur plus silencieux
 le volume du téléviseur plus élevé
 le volume du téléviseur silencieux
 le volume du téléviseur élevé
+le volume fort
+le volume fort s'il vous plaît
+le volume plus faible
+le volume plus faible s'il vous plaît
+le volume plus fort
+le volume plus fort s'il vous plaît
+le volume plus silencieux
+le volume plus silencieux s'il vous plaît
+le volume plus élevé
+le volume plus élevé s'il vous plaît
+le volume silencieux
+le volume silencieux s'il vous plaît
+le volume à
+le volume élevé
+le volume élevé s'il vous plaît
 le wifi
 les
 les ajouts
@@ -2645,6 +3109,7 @@ mets le volume 6
 mets le volume 7
 mets le volume 8
 mets le volume 9
+mets le volume à
 mets le volume à 0
 mets le volume à 1
 mets le volume à 10
@@ -2667,6 +3132,7 @@ mets volume 6
 mets volume 7
 mets volume 8
 mets volume 9
+mets volume à
 mets volume à 0
 mets volume à 1
 mets volume à 10
@@ -2713,6 +3179,7 @@ modifie le volume 6
 modifie le volume 7
 modifie le volume 8
 modifie le volume 9
+modifie le volume à
 modifie le volume à 0
 modifie le volume à 1
 modifie le volume à 10
@@ -2735,6 +3202,7 @@ modifie volume 6
 modifie volume 7
 modifie volume 8
 modifie volume 9
+modifie volume à
 modifie volume à 0
 modifie volume à 1
 modifie volume à 10
@@ -2762,15 +3230,26 @@ modifier langue en néerlandais
 moi
 monitor
 monte
+monte housemate télé volume
+monte housemate téléviseur volume
+monte housemate télévision volume
 monte l'angle du lit
 monte l'inclinaison du lit
 monte la hauteur du lit
 monte la pente du lit
+monte le housemate télé volume
+monte le housemate téléviseur volume
+monte le housemate télévision volume
 monte le musique volume
 monte le télé volume
 monte le téléviseur volume
 monte le télévision volume
 monte le volume
+monte le volume de housemate télé
+monte le volume de housemate téléviseur
+monte le volume de housemate télévision
+monte le volume de la housemate télé
+monte le volume de la housemate télévision
 monte le volume de la musique
 monte le volume de la télé
 monte le volume de la télévision
@@ -2778,11 +3257,20 @@ monte le volume de musique
 monte le volume de télé
 monte le volume de téléviseur
 monte le volume de télévision
+monte le volume du housemate télé
+monte le volume du housemate téléviseur
 monte le volume du télé
 monte le volume du téléviseur
+monte le volume housemate télé
+monte le volume housemate téléviseur
+monte le volume housemate télévision
+monte le volume la housemate télé
+monte le volume la housemate télévision
 monte le volume la musique
 monte le volume la télé
 monte le volume la télévision
+monte le volume le housemate télé
+monte le volume le housemate téléviseur
 monte le volume le télé
 monte le volume le téléviseur
 monte le volume musical
@@ -2796,6 +3284,11 @@ monte télé volume
 monte téléviseur volume
 monte télévision volume
 monte volume
+monte volume de housemate télé
+monte volume de housemate téléviseur
+monte volume de housemate télévision
+monte volume de la housemate télé
+monte volume de la housemate télévision
 monte volume de la musique
 monte volume de la télé
 monte volume de la télévision
@@ -2803,11 +3296,20 @@ monte volume de musique
 monte volume de télé
 monte volume de téléviseur
 monte volume de télévision
+monte volume du housemate télé
+monte volume du housemate téléviseur
 monte volume du télé
 monte volume du téléviseur
+monte volume housemate télé
+monte volume housemate téléviseur
+monte volume housemate télévision
+monte volume la housemate télé
+monte volume la housemate télévision
 monte volume la musique
 monte volume la télé
 monte volume la télévision
+monte volume le housemate télé
+monte volume le housemate téléviseur
 monte volume le télé
 monte volume le téléviseur
 monte volume musical
@@ -2817,15 +3319,26 @@ monte volume télé
 monte volume téléviseur
 monte volume télévision
 monter
+monter housemate télé volume
+monter housemate téléviseur volume
+monter housemate télévision volume
 monter l'angle du lit
 monter l'inclinaison du lit
 monter la hauteur du lit
 monter la pente du lit
+monter le housemate télé volume
+monter le housemate téléviseur volume
+monter le housemate télévision volume
 monter le musique volume
 monter le télé volume
 monter le téléviseur volume
 monter le télévision volume
 monter le volume
+monter le volume de housemate télé
+monter le volume de housemate téléviseur
+monter le volume de housemate télévision
+monter le volume de la housemate télé
+monter le volume de la housemate télévision
 monter le volume de la musique
 monter le volume de la télé
 monter le volume de la télévision
@@ -2833,11 +3346,20 @@ monter le volume de musique
 monter le volume de télé
 monter le volume de téléviseur
 monter le volume de télévision
+monter le volume du housemate télé
+monter le volume du housemate téléviseur
 monter le volume du télé
 monter le volume du téléviseur
+monter le volume housemate télé
+monter le volume housemate téléviseur
+monter le volume housemate télévision
+monter le volume la housemate télé
+monter le volume la housemate télévision
 monter le volume la musique
 monter le volume la télé
 monter le volume la télévision
+monter le volume le housemate télé
+monter le volume le housemate téléviseur
 monter le volume le télé
 monter le volume le téléviseur
 monter le volume musical
@@ -2851,6 +3373,11 @@ monter télé volume
 monter téléviseur volume
 monter télévision volume
 monter volume
+monter volume de housemate télé
+monter volume de housemate téléviseur
+monter volume de housemate télévision
+monter volume de la housemate télé
+monter volume de la housemate télévision
 monter volume de la musique
 monter volume de la télé
 monter volume de la télévision
@@ -2858,11 +3385,20 @@ monter volume de musique
 monter volume de télé
 monter volume de téléviseur
 monter volume de télévision
+monter volume du housemate télé
+monter volume du housemate téléviseur
 monter volume du télé
 monter volume du téléviseur
+monter volume housemate télé
+monter volume housemate téléviseur
+monter volume housemate télévision
+monter volume la housemate télé
+monter volume la housemate télévision
 monter volume la musique
 monter volume la télé
 monter volume la télévision
+monter volume le housemate télé
+monter volume le housemate téléviseur
 monter volume le télé
 monter volume le téléviseur
 monter volume musical
@@ -2902,6 +3438,12 @@ ouvre app info
 ouvre avancé
 ouvre calibrage
 ouvre caméra
+ouvre catégorie housemate télé
+ouvre catégorie housemate télé volume
+ouvre catégorie housemate téléviseur
+ouvre catégorie housemate téléviseur volume
+ouvre catégorie housemate télévision
+ouvre catégorie housemate télévision volume
 ouvre catégorie musique
 ouvre catégorie musique volume
 ouvre catégorie tv
@@ -2911,9 +3453,13 @@ ouvre catégorie téléviseur
 ouvre catégorie téléviseur volume
 ouvre catégorie télévision
 ouvre catégorie télévision volume
+ouvre catégorie volume de la housemate télé
+ouvre catégorie volume de la housemate télévision
 ouvre catégorie volume de la musique
 ouvre catégorie volume de la télé
 ouvre catégorie volume de la télévision
+ouvre catégorie volume du housemate télé
+ouvre catégorie volume du housemate téléviseur
 ouvre catégorie volume du télé
 ouvre catégorie volume du téléviseur
 ouvre chauffage
@@ -2934,7 +3480,16 @@ ouvre geste de conduite
 ouvre gestes de conduite
 ouvre hocher
 ouvre home
+ouvre housemate
+ouvre housemate app
+ouvre housemate télé
+ouvre housemate télé volume
+ouvre housemate téléviseur
+ouvre housemate téléviseur volume
+ouvre housemate télévision
+ouvre housemate télévision volume
 ouvre inclinaison
+ouvre intercom
 ouvre internet
 ouvre kinova
 ouvre l'alarme
@@ -2975,7 +3530,16 @@ ouvre la catégorie geste de conduite
 ouvre la catégorie gestes de conduite
 ouvre la catégorie hocher
 ouvre la catégorie home
+ouvre la catégorie housemate
+ouvre la catégorie housemate app
+ouvre la catégorie housemate télé
+ouvre la catégorie housemate télé volume
+ouvre la catégorie housemate téléviseur
+ouvre la catégorie housemate téléviseur volume
+ouvre la catégorie housemate télévision
+ouvre la catégorie housemate télévision volume
 ouvre la catégorie inclinaison
+ouvre la catégorie intercom
 ouvre la catégorie internet
 ouvre la catégorie kinova
 ouvre la catégorie l'alarme
@@ -2988,6 +3552,8 @@ ouvre la catégorie la caméra
 ouvre la catégorie la commande vocale
 ouvre la catégorie la conduite
 ouvre la catégorie la galerie
+ouvre la catégorie la housemate télé
+ouvre la catégorie la housemate télévision
 ouvre la catégorie la inclinaison
 ouvre la catégorie la lampe de chevet
 ouvre la catégorie la lampe de table
@@ -3006,6 +3572,7 @@ ouvre la catégorie le contrôle de la musique
 ouvre la catégorie le contrôle du téléviseur
 ouvre la catégorie le email d'urgence
 ouvre la catégorie le geste de conduite
+ouvre la catégorie le housemate téléviseur
 ouvre la catégorie le nouveau smartphone
 ouvre la catégorie le siège
 ouvre la catégorie le soutien
@@ -3056,9 +3623,13 @@ ouvre la catégorie télévision
 ouvre la catégorie télévision volume
 ouvre la catégorie ventilateur
 ouvre la catégorie volume
+ouvre la catégorie volume de la housemate télé
+ouvre la catégorie volume de la housemate télévision
 ouvre la catégorie volume de la musique
 ouvre la catégorie volume de la télé
 ouvre la catégorie volume de la télévision
+ouvre la catégorie volume du housemate télé
+ouvre la catégorie volume du housemate téléviseur
 ouvre la catégorie volume du télé
 ouvre la catégorie volume du téléviseur
 ouvre la catégorie wifi
@@ -3066,6 +3637,8 @@ ouvre la commande vocale
 ouvre la conduite
 ouvre la fenêtre
 ouvre la galerie
+ouvre la housemate télé
+ouvre la housemate télévision
 ouvre la inclinaison
 ouvre la lampe de chevet
 ouvre la lampe de table
@@ -3088,6 +3661,10 @@ ouvre le contrôle de la musique
 ouvre le contrôle du téléviseur
 ouvre le email d'urgence
 ouvre le geste de conduite
+ouvre le housemate télé volume
+ouvre le housemate téléviseur
+ouvre le housemate téléviseur volume
+ouvre le housemate télévision volume
 ouvre le lit
 ouvre le musique volume
 ouvre le nouveau smartphone
@@ -3101,9 +3678,13 @@ ouvre le téléviseur volume
 ouvre le télévision volume
 ouvre le ventilateur
 ouvre le volume
+ouvre le volume de la housemate télé
+ouvre le volume de la housemate télévision
 ouvre le volume de la musique
 ouvre le volume de la télé
 ouvre le volume de la télévision
+ouvre le volume du housemate télé
+ouvre le volume du housemate téléviseur
 ouvre le volume du télé
 ouvre le volume du téléviseur
 ouvre le wifi
@@ -3152,9 +3733,13 @@ ouvre télévision
 ouvre télévision volume
 ouvre ventilateur
 ouvre volume
+ouvre volume de la housemate télé
+ouvre volume de la housemate télévision
 ouvre volume de la musique
 ouvre volume de la télé
 ouvre volume de la télévision
+ouvre volume du housemate télé
+ouvre volume du housemate téléviseur
 ouvre volume du télé
 ouvre volume du téléviseur
 ouvre wifi
@@ -3172,6 +3757,12 @@ ouvrir app info
 ouvrir avancé
 ouvrir calibrage
 ouvrir caméra
+ouvrir catégorie housemate télé
+ouvrir catégorie housemate télé volume
+ouvrir catégorie housemate téléviseur
+ouvrir catégorie housemate téléviseur volume
+ouvrir catégorie housemate télévision
+ouvrir catégorie housemate télévision volume
 ouvrir catégorie musique
 ouvrir catégorie musique volume
 ouvrir catégorie tv
@@ -3181,9 +3772,13 @@ ouvrir catégorie téléviseur
 ouvrir catégorie téléviseur volume
 ouvrir catégorie télévision
 ouvrir catégorie télévision volume
+ouvrir catégorie volume de la housemate télé
+ouvrir catégorie volume de la housemate télévision
 ouvrir catégorie volume de la musique
 ouvrir catégorie volume de la télé
 ouvrir catégorie volume de la télévision
+ouvrir catégorie volume du housemate télé
+ouvrir catégorie volume du housemate téléviseur
 ouvrir catégorie volume du télé
 ouvrir catégorie volume du téléviseur
 ouvrir chauffage
@@ -3204,7 +3799,16 @@ ouvrir geste de conduite
 ouvrir gestes de conduite
 ouvrir hocher
 ouvrir home
+ouvrir housemate
+ouvrir housemate app
+ouvrir housemate télé
+ouvrir housemate télé volume
+ouvrir housemate téléviseur
+ouvrir housemate téléviseur volume
+ouvrir housemate télévision
+ouvrir housemate télévision volume
 ouvrir inclinaison
+ouvrir intercom
 ouvrir internet
 ouvrir kinova
 ouvrir l'alarme
@@ -3245,7 +3849,16 @@ ouvrir la catégorie geste de conduite
 ouvrir la catégorie gestes de conduite
 ouvrir la catégorie hocher
 ouvrir la catégorie home
+ouvrir la catégorie housemate
+ouvrir la catégorie housemate app
+ouvrir la catégorie housemate télé
+ouvrir la catégorie housemate télé volume
+ouvrir la catégorie housemate téléviseur
+ouvrir la catégorie housemate téléviseur volume
+ouvrir la catégorie housemate télévision
+ouvrir la catégorie housemate télévision volume
 ouvrir la catégorie inclinaison
+ouvrir la catégorie intercom
 ouvrir la catégorie internet
 ouvrir la catégorie kinova
 ouvrir la catégorie l'alarme
@@ -3258,6 +3871,8 @@ ouvrir la catégorie la caméra
 ouvrir la catégorie la commande vocale
 ouvrir la catégorie la conduite
 ouvrir la catégorie la galerie
+ouvrir la catégorie la housemate télé
+ouvrir la catégorie la housemate télévision
 ouvrir la catégorie la inclinaison
 ouvrir la catégorie la lampe de chevet
 ouvrir la catégorie la lampe de table
@@ -3276,6 +3891,7 @@ ouvrir la catégorie le contrôle de la musique
 ouvrir la catégorie le contrôle du téléviseur
 ouvrir la catégorie le email d'urgence
 ouvrir la catégorie le geste de conduite
+ouvrir la catégorie le housemate téléviseur
 ouvrir la catégorie le nouveau smartphone
 ouvrir la catégorie le siège
 ouvrir la catégorie le soutien
@@ -3326,9 +3942,13 @@ ouvrir la catégorie télévision
 ouvrir la catégorie télévision volume
 ouvrir la catégorie ventilateur
 ouvrir la catégorie volume
+ouvrir la catégorie volume de la housemate télé
+ouvrir la catégorie volume de la housemate télévision
 ouvrir la catégorie volume de la musique
 ouvrir la catégorie volume de la télé
 ouvrir la catégorie volume de la télévision
+ouvrir la catégorie volume du housemate télé
+ouvrir la catégorie volume du housemate téléviseur
 ouvrir la catégorie volume du télé
 ouvrir la catégorie volume du téléviseur
 ouvrir la catégorie wifi
@@ -3336,6 +3956,8 @@ ouvrir la commande vocale
 ouvrir la conduite
 ouvrir la fenêtre
 ouvrir la galerie
+ouvrir la housemate télé
+ouvrir la housemate télévision
 ouvrir la inclinaison
 ouvrir la lampe de chevet
 ouvrir la lampe de table
@@ -3358,6 +3980,10 @@ ouvrir le contrôle de la musique
 ouvrir le contrôle du téléviseur
 ouvrir le email d'urgence
 ouvrir le geste de conduite
+ouvrir le housemate télé volume
+ouvrir le housemate téléviseur
+ouvrir le housemate téléviseur volume
+ouvrir le housemate télévision volume
 ouvrir le lit
 ouvrir le musique volume
 ouvrir le nouveau smartphone
@@ -3371,9 +3997,13 @@ ouvrir le téléviseur volume
 ouvrir le télévision volume
 ouvrir le ventilateur
 ouvrir le volume
+ouvrir le volume de la housemate télé
+ouvrir le volume de la housemate télévision
 ouvrir le volume de la musique
 ouvrir le volume de la télé
 ouvrir le volume de la télévision
+ouvrir le volume du housemate télé
+ouvrir le volume du housemate téléviseur
 ouvrir le volume du télé
 ouvrir le volume du téléviseur
 ouvrir le wifi
@@ -3422,9 +4052,13 @@ ouvrir télévision
 ouvrir télévision volume
 ouvrir ventilateur
 ouvrir volume
+ouvrir volume de la housemate télé
+ouvrir volume de la housemate télévision
 ouvrir volume de la musique
 ouvrir volume de la télé
 ouvrir volume de la télévision
+ouvrir volume du housemate télé
+ouvrir volume du housemate téléviseur
 ouvrir volume du télé
 ouvrir volume du téléviseur
 ouvrir wifi
@@ -3435,24 +4069,24 @@ passe à chaîne suivante
 passe à la canal suivant
 passe à la chanson suivante
 passe à la chaîne suivante
-passe à la prochain canal
-passe à la prochain programme
-passe à la prochaine chanson
-passe à la prochaine chaîne
+passe à la canal prochain
+passe à la programme prochain
+passe à la chanson prochaine
+passe à la chaîne prochaine
 passe à la programme suivant
-passe à la précédent canal
-passe à la précédent programme
-passe à la précédente chanson
-passe à la précédente chaîne
-passe à prochain canal
-passe à prochain programme
-passe à prochaine chanson
-passe à prochaine chaîne
+passe à la canal précédent
+passe à la programme précédent
+passe à la chanson précédente
+passe à la chaîne précédente
+passe à canal prochain
+passe à programme prochain
+passe à chanson prochaine
+passe à chaîne prochaine
 passe à programme suivant
-passe à précédent canal
-passe à précédent programme
-passe à précédente chanson
-passe à précédente chaîne
+passe à canal précédent
+passe à programme précédent
+passe à chanson précédente
+passe à chaîne précédente
 passer
 passer à canal suivant
 passer à chanson suivante
@@ -3460,24 +4094,24 @@ passer à chaîne suivante
 passer à la canal suivant
 passer à la chanson suivante
 passer à la chaîne suivante
-passer à la prochain canal
-passer à la prochain programme
-passer à la prochaine chanson
-passer à la prochaine chaîne
+passer à la canal prochain
+passer à la programme prochain
+passer à la chanson prochaine
+passer à la chaîne prochaine
 passer à la programme suivant
-passer à la précédent canal
-passer à la précédent programme
-passer à la précédente chanson
-passer à la précédente chaîne
-passer à prochain canal
-passer à prochain programme
-passer à prochaine chanson
-passer à prochaine chaîne
+passer à la canal précédent
+passer à la programme précédent
+passer à la chanson précédente
+passer à la chaîne précédente
+passer à canal prochain
+passer à programme prochain
+passer à chanson prochaine
+passer à chaîne prochaine
 passer à programme suivant
-passer à précédent canal
-passer à précédent programme
-passer à précédente chanson
-passer à précédente chaîne
+passer à canal précédent
+passer à programme précédent
+passer à chanson précédente
+passer à chaîne précédente
 pause
 pause la musique
 pause musique
@@ -3505,19 +4139,19 @@ prends photo
 prends une image
 prends une photo
 prochain
-prochain canal
-prochain programme
+canal prochain
+programme prochain
 prochaine
-prochaine chanson
-prochaine chaîne
+chanson prochaine
+chaîne prochaine
 programme
 programme suivant
 précédent
-précédent canal
-précédent programme
+canal précédent
+programme précédent
 précédente
-précédente chanson
-précédente chaîne
+chanson précédente
+chaîne précédente
 rabats
 rabats le lit
 rabats lit
@@ -3589,32 +4223,32 @@ replier
 replier le lit
 replier lit
 retour
-retour à la précédent canal
-retour à la précédent programme
-retour à la précédente chanson
-retour à la précédente chaîne
-retour à précédent canal
-retour à précédent programme
-retour à précédente chanson
-retour à précédente chaîne
+retour à la canal précédent
+retour à la programme précédent
+retour à la chanson précédente
+retour à la chaîne précédente
+retour à canal précédent
+retour à programme précédent
+retour à chanson précédente
+retour à chaîne précédente
 retourne
-retourne à la précédent canal
-retourne à la précédent programme
-retourne à la précédente chanson
-retourne à la précédente chaîne
-retourne à précédent canal
-retourne à précédent programme
-retourne à précédente chanson
-retourne à précédente chaîne
+retourne à la canal précédent
+retourne à la programme précédent
+retourne à la chanson précédente
+retourne à la chaîne précédente
+retourne à canal précédent
+retourne à programme précédent
+retourne à chanson précédente
+retourne à chaîne précédente
 retourner
-retourner à la précédent canal
-retourner à la précédent programme
-retourner à la précédente chanson
-retourner à la précédente chaîne
-retourner à précédent canal
-retourner à précédent programme
-retourner à précédente chanson
-retourner à précédente chaîne
+retourner à la canal précédent
+retourner à la programme précédent
+retourner à la chanson précédente
+retourner à la chaîne précédente
+retourner à canal précédent
+retourner à programme précédent
+retourner à chanson précédente
+retourner à chaîne précédente
 rideau
 rideau fermé
 rideau ouvert
@@ -3628,15 +4262,26 @@ romps
 romps la musique
 romps musique
 réduire
+réduire housemate télé volume
+réduire housemate téléviseur volume
+réduire housemate télévision volume
 réduire l'angle du lit
 réduire l'inclinaison du lit
 réduire la hauteur du lit
 réduire la pente du lit
+réduire le housemate télé volume
+réduire le housemate téléviseur volume
+réduire le housemate télévision volume
 réduire le musique volume
 réduire le télé volume
 réduire le téléviseur volume
 réduire le télévision volume
 réduire le volume
+réduire le volume de housemate télé
+réduire le volume de housemate téléviseur
+réduire le volume de housemate télévision
+réduire le volume de la housemate télé
+réduire le volume de la housemate télévision
 réduire le volume de la musique
 réduire le volume de la télé
 réduire le volume de la télévision
@@ -3644,11 +4289,20 @@ réduire le volume de musique
 réduire le volume de télé
 réduire le volume de téléviseur
 réduire le volume de télévision
+réduire le volume du housemate télé
+réduire le volume du housemate téléviseur
 réduire le volume du télé
 réduire le volume du téléviseur
+réduire le volume housemate télé
+réduire le volume housemate téléviseur
+réduire le volume housemate télévision
+réduire le volume la housemate télé
+réduire le volume la housemate télévision
 réduire le volume la musique
 réduire le volume la télé
 réduire le volume la télévision
+réduire le volume le housemate télé
+réduire le volume le housemate téléviseur
 réduire le volume le télé
 réduire le volume le téléviseur
 réduire le volume musical
@@ -3662,6 +4316,11 @@ réduire télé volume
 réduire téléviseur volume
 réduire télévision volume
 réduire volume
+réduire volume de housemate télé
+réduire volume de housemate téléviseur
+réduire volume de housemate télévision
+réduire volume de la housemate télé
+réduire volume de la housemate télévision
 réduire volume de la musique
 réduire volume de la télé
 réduire volume de la télévision
@@ -3669,11 +4328,20 @@ réduire volume de musique
 réduire volume de télé
 réduire volume de téléviseur
 réduire volume de télévision
+réduire volume du housemate télé
+réduire volume du housemate téléviseur
 réduire volume du télé
 réduire volume du téléviseur
+réduire volume housemate télé
+réduire volume housemate téléviseur
+réduire volume housemate télévision
+réduire volume la housemate télé
+réduire volume la housemate télévision
 réduire volume la musique
 réduire volume la télé
 réduire volume la télévision
+réduire volume le housemate télé
+réduire volume le housemate téléviseur
 réduire volume le télé
 réduire volume le téléviseur
 réduire volume musical
@@ -3683,15 +4351,26 @@ réduire volume télé
 réduire volume téléviseur
 réduire volume télévision
 réduis
+réduis housemate télé volume
+réduis housemate téléviseur volume
+réduis housemate télévision volume
 réduis l'angle du lit
 réduis l'inclinaison du lit
 réduis la hauteur du lit
 réduis la pente du lit
+réduis le housemate télé volume
+réduis le housemate téléviseur volume
+réduis le housemate télévision volume
 réduis le musique volume
 réduis le télé volume
 réduis le téléviseur volume
 réduis le télévision volume
 réduis le volume
+réduis le volume de housemate télé
+réduis le volume de housemate téléviseur
+réduis le volume de housemate télévision
+réduis le volume de la housemate télé
+réduis le volume de la housemate télévision
 réduis le volume de la musique
 réduis le volume de la télé
 réduis le volume de la télévision
@@ -3699,11 +4378,20 @@ réduis le volume de musique
 réduis le volume de télé
 réduis le volume de téléviseur
 réduis le volume de télévision
+réduis le volume du housemate télé
+réduis le volume du housemate téléviseur
 réduis le volume du télé
 réduis le volume du téléviseur
+réduis le volume housemate télé
+réduis le volume housemate téléviseur
+réduis le volume housemate télévision
+réduis le volume la housemate télé
+réduis le volume la housemate télévision
 réduis le volume la musique
 réduis le volume la télé
 réduis le volume la télévision
+réduis le volume le housemate télé
+réduis le volume le housemate téléviseur
 réduis le volume le télé
 réduis le volume le téléviseur
 réduis le volume musical
@@ -3717,6 +4405,11 @@ réduis télé volume
 réduis téléviseur volume
 réduis télévision volume
 réduis volume
+réduis volume de housemate télé
+réduis volume de housemate téléviseur
+réduis volume de housemate télévision
+réduis volume de la housemate télé
+réduis volume de la housemate télévision
 réduis volume de la musique
 réduis volume de la télé
 réduis volume de la télévision
@@ -3724,11 +4417,20 @@ réduis volume de musique
 réduis volume de télé
 réduis volume de téléviseur
 réduis volume de télévision
+réduis volume du housemate télé
+réduis volume du housemate téléviseur
 réduis volume du télé
 réduis volume du téléviseur
+réduis volume housemate télé
+réduis volume housemate téléviseur
+réduis volume housemate télévision
+réduis volume la housemate télé
+réduis volume la housemate télévision
 réduis volume la musique
 réduis volume la télé
 réduis volume la télévision
+réduis volume le housemate télé
+réduis volume le housemate téléviseur
 réduis volume le télé
 réduis volume le téléviseur
 réduis volume musical
@@ -3740,6 +4442,10 @@ réduis volume télévision
 réglages
 réglages de verre
 réglages du téléviseur
+régle le volume à
+régle volume à
+régler le volume à
+régler volume à
 réseau
 s'il
 s'il vous plaît augmente le volume
@@ -3754,8 +4460,31 @@ s'il vous plaît diminue le volume
 s'il vous plaît diminue volume
 s'il vous plaît diminuer le volume
 s'il vous plaît diminuer volume
+s'il vous plaît faible le volume
 s'il vous plaît faible volume
+s'il vous plaît faire baisser le volume
+s'il vous plaît faire baisser volume
+s'il vous plaît faire le volume fort
+s'il vous plaît faire le volume plus faible
+s'il vous plaît faire le volume plus fort
+s'il vous plaît faire le volume plus silencieux
+s'il vous plaît faire le volume plus élevé
+s'il vous plaît fais baisser le volume
+s'il vous plaît fais baisser volume
+s'il vous plaît fais le volume fort
+s'il vous plaît fais le volume plus faible
+s'il vous plaît fais le volume plus fort
+s'il vous plaît fais le volume plus silencieux
+s'il vous plaît fais le volume plus élevé
+s'il vous plaît fort le volume
 s'il vous plaît fort volume
+s'il vous plaît le volume fort
+s'il vous plaît le volume plus faible
+s'il vous plaît le volume plus fort
+s'il vous plaît le volume plus silencieux
+s'il vous plaît le volume plus élevé
+s'il vous plaît le volume silencieux
+s'il vous plaît le volume élevé
 s'il vous plaît monte le volume
 s'il vous plaît monte volume
 s'il vous plaît monter le volume
@@ -3830,7 +4559,16 @@ sélectionne geste de conduite
 sélectionne gestes de conduite
 sélectionne hocher
 sélectionne home
+sélectionne housemate
+sélectionne housemate app
+sélectionne housemate télé
+sélectionne housemate télé volume
+sélectionne housemate téléviseur
+sélectionne housemate téléviseur volume
+sélectionne housemate télévision
+sélectionne housemate télévision volume
 sélectionne inclinaison
+sélectionne intercom
 sélectionne internet
 sélectionne kinova
 sélectionne l'alarme
@@ -3862,7 +4600,10 @@ sélectionne la catégorie geste de conduite
 sélectionne la catégorie gestes de conduite
 sélectionne la catégorie hocher
 sélectionne la catégorie home
+sélectionne la catégorie housemate
+sélectionne la catégorie housemate app
 sélectionne la catégorie inclinaison
+sélectionne la catégorie intercom
 sélectionne la catégorie internet
 sélectionne la catégorie kinova
 sélectionne la catégorie la app info
@@ -3925,6 +4666,8 @@ sélectionne la commande vocale
 sélectionne la conduite
 sélectionne la fenêtre
 sélectionne la galerie
+sélectionne la housemate télé
+sélectionne la housemate télévision
 sélectionne la inclinaison
 sélectionne la lampe de chevet
 sélectionne la lampe de table
@@ -3937,15 +4680,15 @@ sélectionne la lumière
 sélectionne la lumière de la pièce
 sélectionne la musique
 sélectionne la porte
-sélectionne la prochain canal
-sélectionne la prochain programme
-sélectionne la prochaine chanson
-sélectionne la prochaine chaîne
+sélectionne la canal prochain
+sélectionne la programme prochain
+sélectionne la chanson prochaine
+sélectionne la chaîne prochaine
 sélectionne la programme suivant
-sélectionne la précédent canal
-sélectionne la précédent programme
-sélectionne la précédente chanson
-sélectionne la précédente chaîne
+sélectionne la canal précédent
+sélectionne la programme précédent
+sélectionne la chanson précédente
+sélectionne la chaîne précédente
 sélectionne la source de musique
 sélectionne la synchronisation
 sélectionne la télé
@@ -3963,6 +4706,10 @@ sélectionne le contrôle de la musique
 sélectionne le contrôle du téléviseur
 sélectionne le email d'urgence
 sélectionne le geste de conduite
+sélectionne le housemate télé volume
+sélectionne le housemate téléviseur
+sélectionne le housemate téléviseur volume
+sélectionne le housemate télévision volume
 sélectionne le le musique volume
 sélectionne le le télé volume
 sélectionne le le téléviseur volume
@@ -3982,11 +4729,15 @@ sélectionne le ventilateur
 sélectionne le volume
 sélectionne le volume de la ajouts télé
 sélectionne le volume de la ajouts télévision
+sélectionne le volume de la housemate télé
+sélectionne le volume de la housemate télévision
 sélectionne le volume de la musique
 sélectionne le volume de la télé
 sélectionne le volume de la télévision
 sélectionne le volume du ajouts télé
 sélectionne le volume du ajouts téléviseur
+sélectionne le volume du housemate télé
+sélectionne le volume du housemate téléviseur
 sélectionne le volume du télé
 sélectionne le volume du téléviseur
 sélectionne le wifi
@@ -4017,15 +4768,15 @@ sélectionne médias
 sélectionne nouveau smartphone
 sélectionne néerlandais
 sélectionne porte
-sélectionne prochain canal
-sélectionne prochain programme
-sélectionne prochaine chanson
-sélectionne prochaine chaîne
+sélectionne canal prochain
+sélectionne programme prochain
+sélectionne chanson prochaine
+sélectionne chaîne prochaine
 sélectionne programme suivant
-sélectionne précédent canal
-sélectionne précédent programme
-sélectionne précédente chanson
-sélectionne précédente chaîne
+sélectionne canal précédent
+sélectionne programme précédent
+sélectionne chanson précédente
+sélectionne chaîne précédente
 sélectionne rideau
 sélectionne rideaux
 sélectionne réglages
@@ -4047,11 +4798,15 @@ sélectionne ventilateur
 sélectionne volume
 sélectionne volume de la ajouts télé
 sélectionne volume de la ajouts télévision
+sélectionne volume de la housemate télé
+sélectionne volume de la housemate télévision
 sélectionne volume de la musique
 sélectionne volume de la télé
 sélectionne volume de la télévision
 sélectionne volume du ajouts télé
 sélectionne volume du ajouts téléviseur
+sélectionne volume du housemate télé
+sélectionne volume du housemate téléviseur
 sélectionne volume du télé
 sélectionne volume du téléviseur
 sélectionne wifi
@@ -4089,7 +4844,16 @@ sélectionner geste de conduite
 sélectionner gestes de conduite
 sélectionner hocher
 sélectionner home
+sélectionner housemate
+sélectionner housemate app
+sélectionner housemate télé
+sélectionner housemate télé volume
+sélectionner housemate téléviseur
+sélectionner housemate téléviseur volume
+sélectionner housemate télévision
+sélectionner housemate télévision volume
 sélectionner inclinaison
+sélectionner intercom
 sélectionner internet
 sélectionner kinova
 sélectionner l'alarme
@@ -4121,7 +4885,10 @@ sélectionner la catégorie geste de conduite
 sélectionner la catégorie gestes de conduite
 sélectionner la catégorie hocher
 sélectionner la catégorie home
+sélectionner la catégorie housemate
+sélectionner la catégorie housemate app
 sélectionner la catégorie inclinaison
+sélectionner la catégorie intercom
 sélectionner la catégorie internet
 sélectionner la catégorie kinova
 sélectionner la catégorie la app info
@@ -4184,6 +4951,8 @@ sélectionner la commande vocale
 sélectionner la conduite
 sélectionner la fenêtre
 sélectionner la galerie
+sélectionner la housemate télé
+sélectionner la housemate télévision
 sélectionner la inclinaison
 sélectionner la lampe de chevet
 sélectionner la lampe de table
@@ -4196,15 +4965,15 @@ sélectionner la lumière
 sélectionner la lumière de la pièce
 sélectionner la musique
 sélectionner la porte
-sélectionner la prochain canal
-sélectionner la prochain programme
-sélectionner la prochaine chanson
-sélectionner la prochaine chaîne
+sélectionner la canal prochain
+sélectionner la programme prochain
+sélectionner la chanson prochaine
+sélectionner la chaîne prochaine
 sélectionner la programme suivant
-sélectionner la précédent canal
-sélectionner la précédent programme
-sélectionner la précédente chanson
-sélectionner la précédente chaîne
+sélectionner la canal précédent
+sélectionner la programme précédent
+sélectionner la chanson précédente
+sélectionner la chaîne précédente
 sélectionner la source de musique
 sélectionner la synchronisation
 sélectionner la télé
@@ -4222,6 +4991,10 @@ sélectionner le contrôle de la musique
 sélectionner le contrôle du téléviseur
 sélectionner le email d'urgence
 sélectionner le geste de conduite
+sélectionner le housemate télé volume
+sélectionner le housemate téléviseur
+sélectionner le housemate téléviseur volume
+sélectionner le housemate télévision volume
 sélectionner le le musique volume
 sélectionner le le télé volume
 sélectionner le le téléviseur volume
@@ -4241,11 +5014,15 @@ sélectionner le ventilateur
 sélectionner le volume
 sélectionner le volume de la ajouts télé
 sélectionner le volume de la ajouts télévision
+sélectionner le volume de la housemate télé
+sélectionner le volume de la housemate télévision
 sélectionner le volume de la musique
 sélectionner le volume de la télé
 sélectionner le volume de la télévision
 sélectionner le volume du ajouts télé
 sélectionner le volume du ajouts téléviseur
+sélectionner le volume du housemate télé
+sélectionner le volume du housemate téléviseur
 sélectionner le volume du télé
 sélectionner le volume du téléviseur
 sélectionner le wifi
@@ -4276,15 +5053,15 @@ sélectionner médias
 sélectionner nouveau smartphone
 sélectionner néerlandais
 sélectionner porte
-sélectionner prochain canal
-sélectionner prochain programme
-sélectionner prochaine chanson
-sélectionner prochaine chaîne
+sélectionner canal prochain
+sélectionner programme prochain
+sélectionner chanson prochaine
+sélectionner chaîne prochaine
 sélectionner programme suivant
-sélectionner précédent canal
-sélectionner précédent programme
-sélectionner précédente chanson
-sélectionner précédente chaîne
+sélectionner canal précédent
+sélectionner programme précédent
+sélectionner chanson précédente
+sélectionner chaîne précédente
 sélectionner rideau
 sélectionner rideaux
 sélectionner réglages
@@ -4306,11 +5083,15 @@ sélectionner ventilateur
 sélectionner volume
 sélectionner volume de la ajouts télé
 sélectionner volume de la ajouts télévision
+sélectionner volume de la housemate télé
+sélectionner volume de la housemate télévision
 sélectionner volume de la musique
 sélectionner volume de la télé
 sélectionner volume de la télévision
 sélectionner volume du ajouts télé
 sélectionner volume du ajouts téléviseur
+sélectionner volume du housemate télé
+sélectionner volume du housemate téléviseur
 sélectionner volume du télé
 sélectionner volume du téléviseur
 sélectionner wifi
@@ -4344,6 +5125,10 @@ va au contrôle du téléviseur
 va au email d'urgence
 va au geste de conduite
 va au gestes de conduite
+va au housemate télé volume
+va au housemate téléviseur
+va au housemate téléviseur volume
+va au housemate télévision volume
 va au lit
 va au musique volume
 va au nouveau smartphone
@@ -4402,7 +5187,16 @@ va à geste de conduite
 va à gestes de conduite
 va à hocher
 va à home
+va à housemate
+va à housemate app
+va à housemate télé
+va à housemate télé volume
+va à housemate téléviseur
+va à housemate téléviseur volume
+va à housemate télévision
+va à housemate télévision volume
 va à inclinaison
+va à intercom
 va à internet
 va à kinova
 va à l'alarme
@@ -4434,7 +5228,10 @@ va à la catégorie geste de conduite
 va à la catégorie gestes de conduite
 va à la catégorie hocher
 va à la catégorie home
+va à la catégorie housemate
+va à la catégorie housemate app
 va à la catégorie inclinaison
+va à la catégorie intercom
 va à la catégorie internet
 va à la catégorie kinova
 va à la catégorie la app info
@@ -4495,6 +5292,8 @@ va à la commande vocale
 va à la conduite
 va à la fenêtre
 va à la galerie
+va à la housemate télé
+va à la housemate télévision
 va à la inclinaison
 va à la lampe de chevet
 va à la lampe de table
@@ -4503,15 +5302,15 @@ va à la lumière
 va à la lumière de la pièce
 va à la musique
 va à la porte
-va à la prochain canal
-va à la prochain programme
-va à la prochaine chanson
-va à la prochaine chaîne
+va à la canal prochain
+va à la programme prochain
+va à la chanson prochaine
+va à la chaîne prochaine
 va à la programme suivant
-va à la précédent canal
-va à la précédent programme
-va à la précédente chanson
-va à la précédente chaîne
+va à la canal précédent
+va à la programme précédent
+va à la chanson précédente
+va à la chaîne précédente
 va à la source de musique
 va à la synchronisation
 va à la télé
@@ -4534,15 +5333,15 @@ va à médias
 va à nouveau smartphone
 va à néerlandais
 va à porte
-va à prochain canal
-va à prochain programme
-va à prochaine chanson
-va à prochaine chaîne
+va à canal prochain
+va à programme prochain
+va à chanson prochaine
+va à chaîne prochaine
 va à programme suivant
-va à précédent canal
-va à précédent programme
-va à précédente chanson
-va à précédente chaîne
+va à canal précédent
+va à programme précédent
+va à chanson précédente
+va à chaîne précédente
 va à rideau
 va à rideaux
 va à réglages
@@ -4563,11 +5362,15 @@ va à ventilateur
 va à volume
 va à volume de la ajouts télé
 va à volume de la ajouts télévision
+va à volume de la housemate télé
+va à volume de la housemate télévision
 va à volume de la musique
 va à volume de la télé
 va à volume de la télévision
 va à volume du ajouts télé
 va à volume du ajouts téléviseur
+va à volume du housemate télé
+va à volume du housemate téléviseur
 va à volume du télé
 va à volume du téléviseur
 va à wifi
@@ -4612,7 +5415,10 @@ vas à geste de conduite
 vas à gestes de conduite
 vas à hocher
 vas à home
+vas à housemate
+vas à housemate app
 vas à inclinaison
+vas à intercom
 vas à internet
 vas à kinova
 vas à la app info
@@ -4638,7 +5444,10 @@ vas à la catégorie geste de conduite
 vas à la catégorie gestes de conduite
 vas à la catégorie hocher
 vas à la catégorie home
+vas à la catégorie housemate
+vas à la catégorie housemate app
 vas à la catégorie inclinaison
+vas à la catégorie intercom
 vas à la catégorie internet
 vas à la catégorie kinova
 vas à la catégorie la app info
@@ -4752,8 +5561,40 @@ veuillez prends photo
 veuillez prends une image
 veuillez prends une photo
 volume
+volume de housemate télé plus faible
+volume de housemate télé plus fort
+volume de housemate télé plus silencieux
+volume de housemate télé plus élevé
+volume de housemate télé silencieux
+volume de housemate télé élevé
+volume de housemate téléviseur plus faible
+volume de housemate téléviseur plus fort
+volume de housemate téléviseur plus silencieux
+volume de housemate téléviseur plus élevé
+volume de housemate téléviseur silencieux
+volume de housemate téléviseur élevé
+volume de housemate télévision plus faible
+volume de housemate télévision plus fort
+volume de housemate télévision plus silencieux
+volume de housemate télévision plus élevé
+volume de housemate télévision silencieux
+volume de housemate télévision élevé
 volume de la ajouts télé
 volume de la ajouts télévision
+volume de la housemate télé
+volume de la housemate télé plus faible
+volume de la housemate télé plus fort
+volume de la housemate télé plus silencieux
+volume de la housemate télé plus élevé
+volume de la housemate télé silencieux
+volume de la housemate télé élevé
+volume de la housemate télévision
+volume de la housemate télévision plus faible
+volume de la housemate télévision plus fort
+volume de la housemate télévision plus silencieux
+volume de la housemate télévision plus élevé
+volume de la housemate télévision silencieux
+volume de la housemate télévision élevé
 volume de la musique
 volume de la musique plus faible
 volume de la musique plus fort
@@ -4801,6 +5642,20 @@ volume de télévision silencieux
 volume de télévision élevé
 volume du ajouts télé
 volume du ajouts téléviseur
+volume du housemate télé
+volume du housemate télé plus faible
+volume du housemate télé plus fort
+volume du housemate télé plus silencieux
+volume du housemate télé plus élevé
+volume du housemate télé silencieux
+volume du housemate télé élevé
+volume du housemate téléviseur
+volume du housemate téléviseur plus faible
+volume du housemate téléviseur plus fort
+volume du housemate téléviseur plus silencieux
+volume du housemate téléviseur plus élevé
+volume du housemate téléviseur silencieux
+volume du housemate téléviseur élevé
 volume du télé
 volume du télé plus faible
 volume du télé plus fort
@@ -4817,6 +5672,36 @@ volume du téléviseur silencieux
 volume du téléviseur élevé
 volume fort
 volume fort s'il vous plaît
+volume housemate télé plus faible
+volume housemate télé plus fort
+volume housemate télé plus silencieux
+volume housemate télé plus élevé
+volume housemate télé silencieux
+volume housemate télé élevé
+volume housemate téléviseur plus faible
+volume housemate téléviseur plus fort
+volume housemate téléviseur plus silencieux
+volume housemate téléviseur plus élevé
+volume housemate téléviseur silencieux
+volume housemate téléviseur élevé
+volume housemate télévision plus faible
+volume housemate télévision plus fort
+volume housemate télévision plus silencieux
+volume housemate télévision plus élevé
+volume housemate télévision silencieux
+volume housemate télévision élevé
+volume la housemate télé plus faible
+volume la housemate télé plus fort
+volume la housemate télé plus silencieux
+volume la housemate télé plus élevé
+volume la housemate télé silencieux
+volume la housemate télé élevé
+volume la housemate télévision plus faible
+volume la housemate télévision plus fort
+volume la housemate télévision plus silencieux
+volume la housemate télévision plus élevé
+volume la housemate télévision silencieux
+volume la housemate télévision élevé
 volume la musique plus faible
 volume la musique plus fort
 volume la musique plus silencieux
@@ -4835,6 +5720,18 @@ volume la télévision plus silencieux
 volume la télévision plus élevé
 volume la télévision silencieux
 volume la télévision élevé
+volume le housemate télé plus faible
+volume le housemate télé plus fort
+volume le housemate télé plus silencieux
+volume le housemate télé plus élevé
+volume le housemate télé silencieux
+volume le housemate télé élevé
+volume le housemate téléviseur plus faible
+volume le housemate téléviseur plus fort
+volume le housemate téléviseur plus silencieux
+volume le housemate téléviseur plus élevé
+volume le housemate téléviseur silencieux
+volume le housemate téléviseur élevé
 volume le télé plus faible
 volume le télé plus fort
 volume le télé plus silencieux
@@ -4887,6 +5784,7 @@ volume télévision plus silencieux
 volume télévision plus élevé
 volume télévision silencieux
 volume télévision élevé
+volume à
 volume élevé
 volume élevé s'il vous plaît
 vous
@@ -4898,24 +5796,24 @@ wifi
 à la canal suivant
 à la chanson suivante
 à la chaîne suivante
-à la prochain canal
-à la prochain programme
-à la prochaine chanson
-à la prochaine chaîne
+à la canal prochain
+à la programme prochain
+à la chanson prochaine
+à la chaîne prochaine
 à la programme suivant
-à la précédent canal
-à la précédent programme
-à la précédente chanson
-à la précédente chaîne
-à prochain canal
-à prochain programme
-à prochaine chanson
-à prochaine chaîne
+à la canal précédent
+à la programme précédent
+à la chanson précédente
+à la chaîne précédente
+à canal prochain
+à programme prochain
+à chanson prochaine
+à chaîne prochaine
 à programme suivant
-à précédent canal
-à précédent programme
-à précédente chanson
-à précédente chaîne
+à canal précédent
+à programme précédent
+à chanson précédente
+à chaîne précédente
 élevé
 établir
 établir la connexion internet
