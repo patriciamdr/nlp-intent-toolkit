@@ -1,3 +1,6 @@
+<START:nav_target> télé <END>
+la <START:nav_target> télé <END>
+le <START:nav_target> télé <END>
 <START:nav_target> admin <END>
 <START:nav_target> ajouts <END>
 <START:nav_target> ajouts télé <END>
