@@ -250,6 +250,10 @@ zet de <START:control_target> tv <END> aan
 zet de housemate <START:control_target> tv <END> aan
 zet de <START:control_target> tv <END> uit
 zet de housemate <START:control_target> tv <END> uit
+zet het <START:control_target> tv <END> aan
+zet het housemate <START:control_target> tv <END> aan
+zet het <START:control_target> tv <END> uit
+zet het housemate <START:control_target> tv <END> uit
 zet de <START:control_target> ventilator <END> aan
 zet de <START:control_target> ventilator <END> uit
 zet de <START:control_target> verwarming <END> aan
