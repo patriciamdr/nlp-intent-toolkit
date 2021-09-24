@@ -88,3 +88,16 @@ verhoog het volume van de <START:volume_target> tv <END>
 verhoog het volume van de housemate <START:volume_target> tv <END>
 volume van de <START:volume_target> tv <END> verhogen
 volume van de housemate <START:volume_target> tv <END> verhogen
+stel het <START:volume_target> volume <END>
+stel <START:volume_target> volume <END>
+zet het <START:volume_target> volume <END>
+zet de <START:volume_target> volume <END>
+het <START:volume_target> volume <END> zetten
+verander het <START:volume_target> volume <END>
+stel het <START:volume_target> volume <END> op
+stel <START:volume_target> volume <END> op
+zet het <START:volume_target> volume <END> op
+zet de <START:volume_target> volume <END> op
+het <START:volume_target> volume <END> op zetten
+verander het <START:volume_target> volume <END> op
+<START:volume_target> volume <END> op

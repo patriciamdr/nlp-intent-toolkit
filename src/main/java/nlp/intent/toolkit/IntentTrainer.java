@@ -200,7 +200,9 @@ public class IntentTrainer {
                         double maxProb = Arrays.stream(probs).boxed().max(Double::compareTo).get();
                         int maxIndex = Arrays.asList(Arrays.stream(probs).boxed().toArray(Double[]::new)).indexOf(maxProb);
                         System.out.print(spans[maxIndex].getType() + ": '" + names[maxIndex] + "' ");
-                    }
+										} else {
+											System.out.print("No target");
+										}
 										// for (int i = 0; i <= spans.length - 1; i++) {
                     //     System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
 										// }
